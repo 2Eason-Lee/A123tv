@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "A123TV_CF",
+      "name": "A123TV(云端秒播版)",
+      "type": 3,
+      "api": "csp_XYQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/25b0ef43ab3ec034474bf9b21df41e89b5327a7f/index.js"
+    }
+  ]
+}
