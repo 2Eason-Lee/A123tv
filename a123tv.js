@@ -1,5 +1,5 @@
 /**
- * A123TV 专版 Bundle 兼容脚本
+ * A123TV 完整独立版猫源爬虫脚本
  */
 var host = 'https://a123tv.com';
 var headers = {
@@ -24,13 +24,14 @@ async function init(cfg) {
 
 // 2. 首页分类
 async function home(filter) {
-    var classes = [
-        {"type_id": "10", "type_name": "电影"},
-        {"type_id": "11", "type_name": "连续剧"},
-        {"type_id": "12", "type_name": "综艺"},
-        {"type_id": "13", "type_name": "动漫"}
-    ];
-    return { class: classes };
+    return {
+        class: [
+            {"type_id": "10", "type_name": "电影"},
+            {"type_id": "11", "type_name": "连续剧"},
+            {"type_id": "12", "type_name": "综艺"},
+            {"type_id": "13", "type_name": "动漫"}
+        ]
+    };
 }
 
 // 3. 首页推荐
@@ -38,7 +39,7 @@ async function homeVod() {
     return { list: [] };
 }
 
-// 4. 分类列表页抓取
+// 4. 分类列表页（分页抓取）
 async function category(tid, pg, filter, extend) {
     var page = parseInt(pg) || 1;
     var targetUrl = page === 1 ? (host + '/t/' + tid + '.html') : (host + '/t/' + tid + '/p' + page + '.html');
@@ -78,7 +79,7 @@ async function category(tid, pg, filter, extend) {
     };
 }
 
-// 5. 详情页（解析 m3u8 直链线路）
+// 5. 影片详情与选集（解析 98 条 m3u8 直链线路）
 async function detail(id) {
     var detailUrl = host + '/v/' + id + '.html';
     var html = await request(detailUrl);
@@ -98,6 +99,7 @@ async function detail(id) {
     var play_from = [];
     var play_url = [];
 
+    // 正则提取 var pp 中的线路与直链
     var ppMatch = html.match(/var pp\s*=\s*(\{[\s\S]*?\});<\/script>/);
     if (ppMatch && ppMatch[1]) {
         try {
@@ -174,7 +176,7 @@ async function search(wd, quick) {
     return { list: list };
 }
 
-// 爬虫对象
+// 核心导出声明：全面覆盖播放器所有可能的获取方式
 var spider = {
     init: init,
     home: home,
@@ -189,18 +191,19 @@ function start() {
     return spider;
 }
 
-// 多层出口绑定，确保捕获 bundle.start()
 if (typeof exports === 'object') {
     exports.start = start;
     exports.default = spider;
 }
 if (typeof module === 'object' && module.exports) {
+    module.exports = spider;
     module.exports.start = start;
-    module.exports.default = spider;
 }
 if (typeof window !== 'undefined') {
     window.start = start;
+    window.spider = spider;
 }
 if (typeof globalThis !== 'undefined') {
     globalThis.start = start;
+    globalThis.spider = spider;
 }
