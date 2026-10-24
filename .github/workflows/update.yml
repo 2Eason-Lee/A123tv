@@ -1,23 +1,9 @@
-name: Update VOD Data
-on:
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with: { python-version: '3.10' }
-      - run: pip install requests
+- run: pip install requests
       - run: python crawler.py
-      - run: python crawler_ncat.py
+      - run: python crawler_boju.py  # 运行播剧网爬虫
       - run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add vod.json ncat.json
-          git commit -m "Auto update A123 and Ncat Data" || exit 0
+          git add vod.json boju.json  # 提交生成的数据
+          git commit -m "Auto update A123 and Boju Data" || exit 0
           git push
