@@ -10,8 +10,8 @@
       "filterable": 0
     },
     {
-      "key": "boju",
-      "name": "流霞 ☁️ 播剧极速",
+      "key": "boju_proxy",
+      "name": "流霞 ☁️ 播剧代理",
       "type": 1,
       "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=boju",
       "searchable": 1,
