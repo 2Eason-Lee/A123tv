@@ -1,5 +1,5 @@
 /**
- * A123TV 纯净全局沙箱适配脚本
+ * A123TV 专版 Bundle 兼容脚本
  */
 var host = 'https://a123tv.com';
 var headers = {
@@ -132,7 +132,7 @@ async function detail(id) {
     };
 }
 
-// 6. 播放解析
+// 6. 播放直链输出
 async function play(flag, id, flags) {
     return {
         parse: 0,
@@ -174,8 +174,8 @@ async function search(wd, quick) {
     return { list: list };
 }
 
-// 核心入口：挂载到全局作用域
-var spiderObject = {
+// 爬虫对象
+var spider = {
     init: init,
     home: home,
     homeVod: homeVod,
@@ -186,15 +186,21 @@ var spiderObject = {
 };
 
 function start() {
-    return spiderObject;
+    return spider;
 }
 
-if (typeof globalThis !== 'undefined') {
-    globalThis.start = start;
+// 多层出口绑定，确保捕获 bundle.start()
+if (typeof exports === 'object') {
+    exports.start = start;
+    exports.default = spider;
+}
+if (typeof module === 'object' && module.exports) {
+    module.exports.start = start;
+    module.exports.default = spider;
 }
 if (typeof window !== 'undefined') {
     window.start = start;
 }
-if (typeof global !== 'undefined') {
-    global.start = start;
+if (typeof globalThis !== 'undefined') {
+    globalThis.start = start;
 }
