@@ -8,7 +8,8 @@ HOST = 'https://www.aikanbot.vip'
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-    'Referer': HOST,
+    'Referer': HOST + '/',
+    'Accept': 'application/json, text/plain, */*',
     'Accept-Language': 'zh-CN,zh;q=0.9'
 }
 
@@ -24,25 +25,24 @@ category_paths = [
     "/hot/index-tv-最新.html"
 ]
 
-found_videos = {} # key: vid, value: title
+found_videos = {}
 
-# 自动遍历各个分类页面（顺便支持简单的多页抓取）
+# 自动遍历各个分类页面（抓前2页）
 for path in category_paths:
-    for page in range(1, 3): # 每个分类抓前2页
+    for page in range(1, 3):
         url = f"{HOST}{path}" if page == 1 else f"{HOST}{path.replace('.html', f'-p-{page}.html')}"
         try:
-            res = requests.get(url, headers=HEADERS, timeout=6)
+            res = requests.get(url, headers=HEADERS, timeout=8)
             if res.status_code == 200:
-                # 从 HTML 中正则提取出类似于 <a class="item" href="/play/398682">...<p>流浪地球</p>
-                # 匹配格式：href="/play/(\d+)" ... <p>([^<]+)</p>
+                # 提取有效视频 ID 与名称
                 matches = re.findall(r'href="/play/(\d+)"[^>]*>.*?<p>([^<]+)</p>', res.text, re.DOTALL)
                 for vid_str, vname in matches:
                     vid = int(vid_str)
                     clean_name = vname.strip()
                     if vid not in found_videos:
                         found_videos[vid] = clean_name
-            time.sleep(0.2)
-        except Exception as e:
+            time.sleep(0.1)
+        except Exception:
             continue
 
 print(f"✨ 页面解析完成，共发现有效视频 ID: {len(found_videos)} 个")
@@ -55,51 +55,61 @@ def fetch_multiline(vid, vname):
     global global_id
     api_url = f"{HOST}/getResN?videoid={vid}&mtype=1"
     try:
-        api_res = requests.get(api_url, headers=HEADERS, timeout=4)
+        api_res = requests.get(api_url, headers=HEADERS, timeout=6)
         if api_res.status_code == 200:
             j_data = api_res.json()
-            if j_data.get("state") == 1:
-                lines = j_data.get("data", {}).get("list", [])
-                play_urls = []
-                for line in lines:
-                    res_data_str = line.get("resData", "[]")
-                    try:
-                        sub_lines = json.loads(res_data_str)
-                        for sub in sub_lines:
-                            url = sub.get("url", "")
-                            if url:
-                                play_urls.append(url)
-                    except:
-                        continue
-                
-                if play_urls:
-                    final_play_url = "$$$".join(play_urls)
-                    with lock:
-                        vod_list.append({
-                            "vod_id": global_id,
-                            "vod_name": vname,
-                            "type_id": 1,
-                            "type_name": "电影",
-                            "vod_pic": "", 
-                            "vod_remarks": f"共{len(play_urls)}条多路高清",
-                            "vod_play_from": "AIKAN多线",
-                            "vod_play_url": final_play_url
-                        })
-                        global_id += 1
+            # 兼容多种返回状态码
+            lines = []
+            if isinstance(j_data, dict):
+                if j_data.get("state") == 1 or "data" in j_data:
+                    lines = j_data.get("data", {}).get("list", [])
+            
+            play_urls = []
+            for line in lines:
+                res_data_str = line.get("resData", "[]")
+                try:
+                    sub_lines = json.loads(res_data_str)
+                    for sub in sub_lines:
+                        url = sub.get("url", "")
+                        if url:
+                            play_urls.append(url)
+                except:
+                    continue
+            
+            # 如果没从标准结构里拿到，尝试直接在文本里抓取 m3u8 链接作为兜底
+            if not play_urls and ".m3u8" in api_res.text:
+                found_m3u8 = re.findall(r'https?://[^\s<>"]+?\.m3u8', api_res.text)
+                play_urls = list(set(found_m3u8))
+
+            if play_urls:
+                final_play_url = "$$$".join(play_urls)
+                with lock:
+                    vod_list.append({
+                        "vod_id": global_id,
+                        "vod_name": vname,
+                        "type_id": 1,
+                        "type_name": "电影",
+                        "vod_pic": "", 
+                        "vod_remarks": f"共{len(play_urls)}条多路高清",
+                        "vod_play_from": "AIKAN多线",
+                        "vod_play_url": final_play_url
+                    })
+                    global_id += 1
     except Exception:
         pass
 
-# 2. 使用多线程并发去请求每个视频的多线聚合接口
+# 2. 多线程并发请求多线接口
 start_time = time.time()
 items = list(found_videos.items())
 
-with ThreadPoolExecutor(max_workers=15) as executor:
+# 为了防止瞬间并发过大触发限制，分批次或使用适度线程池
+with ThreadPoolExecutor(max_workers=10) as executor:
     for vid, vname in items:
         executor.submit(fetch_multiline, vid, vname)
 
 print(f"⚡ 多线数据聚合完毕，耗时: {time.time() - start_time:.2f} 秒，成功收编大片: {len(vod_list)} 部")
 
-# 兜底保证
+# 终极兜底保证
 if len(vod_list) == 0:
     vod_list.append({
         "vod_id": global_id,
