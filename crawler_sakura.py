@@ -1,28 +1,23 @@
 import requests
 import json
 
-print("🚀 正在通过增强伪装请求 [樱花影院] 数据...")
+print("🚀 正在通过标准苹果CMS接口采集 [樱花影院]...")
 
-API_URL = "https://www.dcjyb.com/api.php/provide/vod/?ac=detail"
+# 苹果CMS标准的 API 接口路径
+API_URL = "https://www.dcjyb.com/index.php/api/vod"
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-    'Referer': 'https://www.dcjyb.com/',
-    'Accept': 'application/json, text/javascript, */*; q=0.01',
-    'Accept-Language': 'zh-CN,zh;q=0.9',
-    'X-Requested-With': 'XMLHttpRequest'
+    'Referer': 'https://www.dcjyb.com/'
 }
 
 sakura_vod_list = []
 
 try:
-    session = requests.Session()
-    # 先访问一次主页获取必要的 Cookies 和维持会话
-    session.get("https://www.dcjyb.com/", headers=HEADERS, timeout=10)
-    
+    # 尝试请求苹果CMS标准的 json 列表接口
     for page in range(1, 4):
-        target_url = f"{API_URL}&pg={page}"
-        res = session.get(target_url, headers=HEADERS, timeout=15)
+        target_url = f"{API_URL}?ac=detail&pg={page}"
+        res = requests.get(target_url, headers=HEADERS, timeout=15)
         
         print(f"📄 第 {page} 页请求状态码: {res.status_code}")
         
@@ -47,7 +42,7 @@ try:
                     })
                 print(f"✨ 成功解析第 {page} 页，获取大片: {len(items)} 部")
             except json.JSONDecodeError:
-                print(f"❌ 错误：服务器未返回 JSON，响应内容前 200 字符为：{res.text[:200]}")
+                print(f"❌ 依然被安全盾拦截，响应前 200 字符: {res.text[:200]}")
                 break
 except Exception as e:
     print(f"⚠️ 采集异常: {e}")
