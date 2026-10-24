@@ -23,7 +23,7 @@ global_id = 10001  # 使用标准唯一数字自增 ID，避免数据库缓存�
 
 for c in classes:
     tid = c["type_id"]
-    for page in range(1, 3):
+    for page in range(1, 11):
         url = f"{HOST}/t/{tid}.html" if page == 1 else f"{HOST}/t/{tid}/p{page}.html"
         try:
             r = requests.get(url, headers=HEADERS, timeout=10)
