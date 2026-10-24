@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "a123",
-      "name": "流霞 ☁️ A123TV",
+      "name": "流霞 ☁️ 影视",
       "type": 1,
       "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=a123",
       "searchable": 1,
@@ -10,10 +10,10 @@
       "filterable": 0
     },
     {
-      "key": "sakura",
-      "name": "流霞 🌸 樱花影院",
+      "key": "dy555",
+      "name": "流霞 🎬 555电影",
       "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=sakura",
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=555",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
