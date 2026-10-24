@@ -7,15 +7,16 @@ from concurrent.futures import ThreadPoolExecutor
 HOST = 'https://www.aikanbot.vip'
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36',
     'Referer': HOST + '/',
-    'Accept': 'application/json, text/plain, */*',
-    'Accept-Language': 'zh-CN,zh;q=0.9'
+    'Accept': '*/*',
+    'Accept-Language': 'zh-CN,zh;q=0.9',
+    'X-Requested-With': 'XMLHttpRequest'
 }
 
-print("🚀 开始云端全自动抓取 [AIKAN] 片库与多线数据...")
+print("🚀 启动 [AIKAN] 完整破译版云端采集...")
 
-# 1. 定义需要自动遍历的分类与热门页面路由
+# 1. 自动遍历分类页面抓取真实视频 ID
 category_paths = [
     "/hot/index-movie-热门.html",
     "/hot/index-movie-最新.html",
@@ -27,14 +28,13 @@ category_paths = [
 
 found_videos = {}
 
-# 自动遍历各个分类页面（抓前2页）
 for path in category_paths:
     for page in range(1, 3):
         url = f"{HOST}{path}" if page == 1 else f"{HOST}{path.replace('.html', f'-p-{page}.html')}"
         try:
             res = requests.get(url, headers=HEADERS, timeout=8)
             if res.status_code == 200:
-                # 提取有效视频 ID 与名称
+                # 匹配 /play/数字 格式的真实 ID
                 matches = re.findall(r'href="/play/(\d+)"[^>]*>.*?<p>([^<]+)</p>', res.text, re.DOTALL)
                 for vid_str, vname in matches:
                     vid = int(vid_str)
@@ -45,7 +45,7 @@ for path in category_paths:
         except Exception:
             continue
 
-print(f"✨ 页面解析完成，共发现有效视频 ID: {len(found_videos)} 个")
+print(f"✨ 页面解析完成，共捕获有效视频 ID: {len(found_videos)} 个")
 
 vod_list = []
 global_id = 40001
@@ -53,14 +53,20 @@ lock = __import__('threading').Lock()
 
 def fetch_multiline(vid, vname):
     global global_id
-    api_url = f"{HOST}/getResN?videoid={vid}&mtype=1"
+    # 使用正确的 /api/getResN 接口路径
+    api_url = f"{HOST}/api/getResN?videoId={vid}&mtype=1"
+    
+    # 针对每个视频动态更新 Referer
+    specific_headers = HEADERS.copy()
+    specific_headers['Referer'] = f"{HOST}/play/{vid}"
+    
     try:
-        api_res = requests.get(api_url, headers=HEADERS, timeout=6)
+        api_res = requests.get(api_url, headers=specific_headers, timeout=6)
         if api_res.status_code == 200:
             j_data = api_res.json()
-            # 兼容多种返回状态码
             lines = []
             if isinstance(j_data, dict):
+                # 兼容不同的返回字段
                 if j_data.get("state") == 1 or "data" in j_data:
                     lines = j_data.get("data", {}).get("list", [])
             
@@ -76,7 +82,7 @@ def fetch_multiline(vid, vname):
                 except:
                     continue
             
-            # 如果没从标准结构里拿到，尝试直接在文本里抓取 m3u8 链接作为兜底
+            # 如果没拿到，文本正则兜底
             if not play_urls and ".m3u8" in api_res.text:
                 found_m3u8 = re.findall(r'https?://[^\s<>"]+?\.m3u8', api_res.text)
                 play_urls = list(set(found_m3u8))
@@ -98,11 +104,10 @@ def fetch_multiline(vid, vname):
     except Exception:
         pass
 
-# 2. 多线程并发请求多线接口
+# 2. 多线程并发请求
 start_time = time.time()
 items = list(found_videos.items())
 
-# 为了防止瞬间并发过大触发限制，分批次或使用适度线程池
 with ThreadPoolExecutor(max_workers=10) as executor:
     for vid, vname in items:
         executor.submit(fetch_multiline, vid, vname)
@@ -132,4 +137,4 @@ result = {
 with open("aikan.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
-print(f"\n🎉 aikan.json 已在云端全自动生成成功！")
+print(f"\n🎉 aikan.json 已在云端成功生成！")
