@@ -1,5 +1,5 @@
 /**
- * A123TV 播放器本地服务专用适配脚本
+ * A123TV 纯净 ES6 模块源脚本
  */
 var host = 'https://a123tv.com';
 var headers = {
@@ -174,8 +174,21 @@ async function search(wd, quick) {
     return { list: list };
 }
 
-// 适配对象
-var spider = {
+// 关键入口：导出 start 方法
+export function start() {
+    return {
+        init: init,
+        home: home,
+        homeVod: homeVod,
+        category: category,
+        detail: detail,
+        play: play,
+        search: search
+    };
+}
+
+export default {
+    start: start,
     init: init,
     home: home,
     homeVod: homeVod,
@@ -184,15 +197,3 @@ var spider = {
     play: play,
     search: search
 };
-
-// 自动响应端口与启动事件
-if (typeof __listen === 'function') {
-    __listen(spider);
-} else if (typeof $service !== 'undefined' && typeof $service.listen === 'function') {
-    $service.listen(spider);
-}
-
-// 兼容全局挂载与模块导出
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = spider;
-}
