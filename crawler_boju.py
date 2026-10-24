@@ -1,33 +1,47 @@
 import requests
 import json
 import sys
+import time
 
 HOST = 'https://www.boju.cc'
-# 苹果CMS自带的默认隐藏 API 接口
 API_URL = f'{HOST}/api.php/provide/vod/'
 
+# 增加浏览器伪装，防止被服务器秒踢
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'application/json, text/javascript, */*; q=0.01'
+}
+
 vod_list = []
-global_id = 30001  # 使用3开头，避免与A123(1开头)冲突
+global_id = 30001
 
 print("🚀 开始通过 API 极速抓取 [播剧网] 数据...")
 
 try:
-    # 直接拉取最新更新的前 10 页数据（约 200 部影片）
     for page in range(1, 11):
-        # ?ac=detail 参数会直接返回包含影片详情和 m3u8 直链的纯 JSON 数据
-        res = requests.get(f"{API_URL}?ac=detail&pg={page}", timeout=10).json()
+        url = f"{API_URL}?ac=detail&pg={page}"
+        # 加入 headers 伪装
+        res = requests.get(url, headers=HEADERS, timeout=15)
         
-        if "list" in res:
-            for item in res["list"]:
+        if res.status_code != 200:
+            print(f"❌ 第 {page} 页请求失败，状态码: {res.status_code}")
+            continue
+            
+        try:
+            data = res.json()
+        except json.decoder.JSONDecodeError:
+            print(f"❌ 返回的不是 JSON，已被防火墙拦截！")
+            print(f"拦截页面内容前100字符: {res.text[:100]}")
+            break # 已经被拦截，跳出循环
+
+        if "list" in data:
+            for item in data["list"]:
                 play_url = item.get("vod_play_url", "")
-                
-                # 如果有多个线路（以$$$分隔），我们只取第一个最快的线路
                 if "$$$" in play_url:
                     play_url = play_url.split("$$$")[0]
-                    
                 if not play_url:
                     continue
-
+                
                 vod_list.append({
                     "vod_id": global_id,
                     "vod_name": item.get("vod_name", ""),
@@ -40,8 +54,10 @@ try:
                 })
                 global_id += 1
         print(f"✅ 成功获取第 {page} 页")
+        time.sleep(1)  # 稍微停顿，避免请求过猛被封 IP
+
 except Exception as e:
-    print(f"❌ 抓取失败，网站可能修改了 API: {e}")
+    print(f"❌ 运行报错: {e}")
 
 if len(vod_list) == 0:
     print("\n🚨 抓取失败！未拿到任何数据，放弃覆盖。")
