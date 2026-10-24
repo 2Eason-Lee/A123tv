@@ -2,9 +2,18 @@
   "sites": [
     {
       "key": "a123",
-      "name": "流霞 ☁️ 影视",
+      "name": "流霞 ☁️ A123TV",
       "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/",
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=a123",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "multi",
+      "name": "流霞 ☁️ AIKAN",
+      "type": 1,
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=multi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
