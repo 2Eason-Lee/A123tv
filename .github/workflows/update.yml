@@ -14,9 +14,10 @@ jobs:
         with: { python-version: '3.10' }
       - run: pip install requests
       - run: python crawler.py
+      - run: python crawler_ncat.py
       - run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add vod.json
-          git commit -m "Auto update vod.json" || exit 0
+          git add vod.json ncat.json
+          git commit -m "Auto update A123 and Ncat Data" || exit 0
           git push
