@@ -26,13 +26,13 @@
   "list": [
     {
       "vod_id": 40001,
-      "vod_name": "肖申克的救赎 (多线聚合)",
+      "vod_name": "肖申克的救赎 (调试兜底)",
       "type_id": 1,
       "type_name": "电影",
       "vod_pic": "",
-      "vod_remarks": "31条线路随意切换",
+      "vod_remarks": "多线聚合测试",
       "vod_play_from": "AIKAN多线",
-      "vod_play_url": "正片$https://play.xluuss.com/play/1aM87gGe/index.m3u8$$$国语版$https://play.xluuss.com/play/BeXomzmd/index.m3u8"
+      "vod_play_url": "正片$https://play.xluuss.com/play/1aM87gGe/index.m3u8"
     }
   ]
 }
