@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "a123_cloud",
-      "name": "流霞 ☁️ 影视 (云端极速)",
+      "name": "流霞 ☁️ A123TV (自研核心)",
       "type": 1,
       "api": "https://a123tv-api.eason-lee89750.workers.dev/",
       "searchable": 1,
@@ -10,34 +10,13 @@
       "filterable": 0
     },
     {
-      "key": "555_local",
-      "name": "流霞 🎬 555电影 (本地解析)",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "key": "community_top_1",
+      "name": "流霞 🌟 极速蓝光线 (社区精选)",
+      "type": 1,
+      "api": "https://raw.githubusercontent.com/FongMi/CatVod/main/json/box.json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/555.js"
-    },
-    {
-      "key": "sakura_local",
-      "name": "流霞 🌸 樱花影院 (本地解析)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/sakura.js"
-    },
-    {
-      "key": "aikan_local",
-      "name": "流霞 🍿 AIKAN影院 (本地解析)",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/aikan.js"
+      "filterable": 1
     }
   ]
 }
