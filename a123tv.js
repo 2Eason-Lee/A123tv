@@ -1,5 +1,5 @@
 /**
- * A123TV 猫源脚本 (CommonJS 规范版)
+ * A123TV 播放器本地服务专用适配脚本
  */
 var host = 'https://a123tv.com';
 var headers = {
@@ -9,15 +9,18 @@ var headers = {
 
 async function request(reqUrl) {
     try {
-        var res = await $fetch.get(reqUrl, { headers: headers });
-        return res.data;
-    } catch (e) {
-        return '';
-    }
+        if (typeof $fetch !== 'undefined' && $fetch.get) {
+            var res = await $fetch.get(reqUrl, { headers: headers });
+            return res.data || '';
+        }
+    } catch (e) {}
+    return '';
 }
 
 // 1. 初始化
-async function init(cfg) {}
+async function init(cfg) {
+    return {};
+}
 
 // 2. 首页分类
 async function home(filter) {
@@ -129,7 +132,7 @@ async function detail(id) {
     };
 }
 
-// 6. 播放直链输出
+// 6. 播放解析
 async function play(flag, id, flags) {
     return {
         parse: 0,
@@ -171,22 +174,8 @@ async function search(wd, quick) {
     return { list: list };
 }
 
-// 满足服务器启动校验的入口函数
-function start() {
-    return {
-        init: init,
-        home: home,
-        homeVod: homeVod,
-        category: category,
-        detail: detail,
-        play: play,
-        search: search
-    };
-}
-
-// 采用 CommonJS 导出规范
-module.exports = {
-    start: start,
+// 适配对象
+var spider = {
     init: init,
     home: home,
     homeVod: homeVod,
@@ -195,3 +184,15 @@ module.exports = {
     play: play,
     search: search
 };
+
+// 自动响应端口与启动事件
+if (typeof __listen === 'function') {
+    __listen(spider);
+} else if (typeof $service !== 'undefined' && typeof $service.listen === 'function') {
+    $service.listen(spider);
+}
+
+// 兼容全局挂载与模块导出
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = spider;
+}
