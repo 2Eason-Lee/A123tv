@@ -1,12 +1,10 @@
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/fantaiying/f/jar/custom_spider.jar",
   "sites": [
     {
       "key": "a123tv",
       "name": "A123TV 影视",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/a123tv_drpy.js",
+      "type": 4,
+      "api": "https://fastly.jsdelivr.net/gh/2Eason-Lee/A123tv@main/a123tv.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
