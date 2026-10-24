@@ -1,14 +1,21 @@
 {
+  "spider": "",
   "sites": [
     {
-      "key": "A123TV_CF",
-      "name": "A123TV(云端秒播版)",
+      "key": "a123tv",
+      "name": "A123TV 影视",
       "type": 3,
-      "api": "csp_XYQ",
+      "api": "https://cdn.jsdelivr.net/gh/2Eason-Lee/A123tv@main/a123tv.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/2Eason-Lee/A123tv@main/index.js"
+      "filterable": 0
+    }
+  ],
+  "parses": [
+    {
+      "name": "聚合解析",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
     }
   ]
 }
