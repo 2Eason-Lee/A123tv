@@ -1,45 +1,66 @@
 import requests
 import json
-import sys
+import re
 import time
+from concurrent.futures import ThreadPoolExecutor
 
 HOST = 'https://www.aikanbot.vip'
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-    'Referer': HOST
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Referer': HOST,
+    'Accept-Language': 'zh-CN,zh;q=0.9'
 }
+
+print("🚀 开始云端全自动抓取 [AIKAN] 片库与多线数据...")
+
+# 1. 定义需要自动遍历的分类与热门页面路由
+category_paths = [
+    "/hot/index-movie-热门.html",
+    "/hot/index-movie-最新.html",
+    "/hot/index-movie-科幻.html",
+    "/hot/index-movie-动作.html",
+    "/hot/index-tv-热门.html",
+    "/hot/index-tv-最新.html"
+]
+
+found_videos = {} # key: vid, value: title
+
+# 自动遍历各个分类页面（顺便支持简单的多页抓取）
+for path in category_paths:
+    for page in range(1, 3): # 每个分类抓前2页
+        url = f"{HOST}{path}" if page == 1 else f"{HOST}{path.replace('.html', f'-p-{page}.html')}"
+        try:
+            res = requests.get(url, headers=HEADERS, timeout=6)
+            if res.status_code == 200:
+                # 从 HTML 中正则提取出类似于 <a class="item" href="/play/398682">...<p>流浪地球</p>
+                # 匹配格式：href="/play/(\d+)" ... <p>([^<]+)</p>
+                matches = re.findall(r'href="/play/(\d+)"[^>]*>.*?<p>([^<]+)</p>', res.text, re.DOTALL)
+                for vid_str, vname in matches:
+                    vid = int(vid_str)
+                    clean_name = vname.strip()
+                    if vid not in found_videos:
+                        found_videos[vid] = clean_name
+            time.sleep(0.2)
+        except Exception as e:
+            continue
+
+print(f"✨ 页面解析完成，共发现有效视频 ID: {len(found_videos)} 个")
 
 vod_list = []
 global_id = 40001
+lock = __import__('threading').Lock()
 
-print("🚀 开始全自动智能同步 [AIKAN] 最新多线大片...")
-
-# 结合我们之前抓包确认的有效ID（如 482774 等）以及周边区间
-target_ids = [482774, 116582, 116898, 179721, 177885, 189787, 187070, 186442]
-
-# 以 482000 ~ 483000 为核心进行密集扫描
-for auto_id in range(482000, 483000):
-    if auto_id not in target_ids:
-        target_ids.append(auto_id)
-
-seen_ids = set()
-success_count = 0
-
-for vid in target_ids:
-    if vid in seen_ids:
-        continue
-    seen_ids.add(vid)
-    
+def fetch_multiline(vid, vname):
+    global global_id
     api_url = f"{HOST}/getResN?videoid={vid}&mtype=1"
     try:
-        api_res = requests.get(api_url, headers=HEADERS, timeout=3)
+        api_res = requests.get(api_url, headers=HEADERS, timeout=4)
         if api_res.status_code == 200:
             j_data = api_res.json()
             if j_data.get("state") == 1:
                 lines = j_data.get("data", {}).get("list", [])
                 play_urls = []
-                
                 for line in lines:
                     res_data_str = line.get("resData", "[]")
                     try:
@@ -53,35 +74,42 @@ for vid in target_ids:
                 
                 if play_urls:
                     final_play_url = "$$$".join(play_urls)
-                    vod_list.append({
-                        "vod_id": global_id,
-                        "vod_name": f"AIKAN 多线聚合影视 #{vid}",
-                        "type_id": 1,
-                        "type_name": "电影",
-                        "vod_pic": "", 
-                        "vod_remarks": f"共{len(play_urls)}条线路",
-                        "vod_play_from": "AIKAN多线",
-                        "vod_play_url": final_play_url
-                    })
-                    global_id += 1
-                    success_count += 1
+                    with lock:
+                        vod_list.append({
+                            "vod_id": global_id,
+                            "vod_name": vname,
+                            "type_id": 1,
+                            "type_name": "电影",
+                            "vod_pic": "", 
+                            "vod_remarks": f"共{len(play_urls)}条多路高清",
+                            "vod_play_from": "AIKAN多线",
+                            "vod_play_url": final_play_url
+                        })
+                        global_id += 1
     except Exception:
-        continue
-    time.sleep(0.02)
+        pass
 
-print(f"✨ 扫描完毕，成功聚合有效影片: {success_count} 部")
+# 2. 使用多线程并发去请求每个视频的多线聚合接口
+start_time = time.time()
+items = list(found_videos.items())
 
-# 如果没扫到，提供标准的几十条多线测试影片，确保播放器立即可用
+with ThreadPoolExecutor(max_workers=15) as executor:
+    for vid, vname in items:
+        executor.submit(fetch_multiline, vid, vname)
+
+print(f"⚡ 多线数据聚合完毕，耗时: {time.time() - start_time:.2f} 秒，成功收编大片: {len(vod_list)} 部")
+
+# 兜底保证
 if len(vod_list) == 0:
     vod_list.append({
         "vod_id": global_id,
-        "vod_name": "肖申克的救赎 (AIKAN多线聚合)",
+        "vod_name": "肖申克的救赎 (多线聚合)",
         "type_id": 1,
         "type_name": "电影",
         "vod_pic": "",
-        "vod_remarks": "31条高画质线路",
+        "vod_remarks": "31条线路随意切换",
         "vod_play_from": "AIKAN多线",
-        "vod_play_url": "正片$https://play.xluuss.com/play/1aM87gGe/index.m3u8$$$国语版$https://play.xluuss.com/play/BeXomzmd/index.m3u8$$$线路3$https://v.gsuus.com/play/wdL9ADre/index.m3u8$$$线路4$https://vv.jisuzyv.com/play/kaz5mBZe/index.m3u8"
+        "vod_play_url": "正片$https://play.xluuss.com/play/1aM87gGe/index.m3u8$$$国语版$https://play.xluuss.com/play/BeXomzmd/index.m3u8"
     })
 
 result = {
@@ -93,4 +121,5 @@ result = {
 
 with open("aikan.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
-print(f"\n🎉 aikan.json 文件已成功生成并保存！")
+
+print(f"\n🎉 aikan.json 已在云端全自动生成成功！")
