@@ -18,12 +18,13 @@ classes = [
 ]
 
 vod_list = []
-seen_ids = set()
+seen_slugs = set()
+global_id = 10001  # 使用标准唯一数字自增 ID，避免数据库缓存冲突
 
 for c in classes:
     tid = c["type_id"]
-    for page in range(1, 2):  # 先抓第1页验证，跑通后再改大
-        url = f"{HOST}/t/{tid}.html"
+    for page in range(1, 3):
+        url = f"{HOST}/t/{tid}.html" if page == 1 else f"{HOST}/t/{tid}/p{page}.html"
         try:
             r = requests.get(url, headers=HEADERS, timeout=10)
             items = re.findall(r'<div class="w4-item-wrap">([\s\S]*?)</div>\s*</div>', r.text)
@@ -35,65 +36,63 @@ for c in classes:
                 remarks = re.search(r'<span>([^<]+?)</span>', block)
                 
                 if link and title:
-                    vid = link.group(1).strip()
+                    slug = link.group(1).strip()
                     vname = title.group(1).strip()
                     
-                    if vid in seen_ids:
+                    if slug in seen_slugs:
                         continue
-                    seen_ids.add(vid)
+                    seen_slugs.add(slug)
 
                     pic = img.group(1) if img else ''
                     if pic.startswith('//'):
                         pic = 'https:' + pic
                     
-                    # 精准抓取对应详情页
-                    play_episodes = []
+                    # 抓取真实详情页
+                    play_sources = []
+                    play_urls = []
+                    
                     try:
-                        det_url = f"{HOST}/v/{vid}.html"
+                        det_url = f"{HOST}/v/{slug}.html"
                         det = requests.get(det_url, headers=HEADERS, timeout=8)
-                        html_text = det.text
-
-                        # 优先匹配当前主播放器的 var pp
-                        pp_blocks = re.findall(r'var pp\s*=\s*(\{[\s\S]*?\});', html_text)
                         
-                        target_pp = None
-                        for pp_raw in pp_blocks:
-                            try:
-                                data = json.loads(pp_raw)
-                                # 校验该 pp 是否属于当前视频（比对名称或链接合法性）
-                                if "la" in data and len(data["la"]) > 0:
-                                    target_pp = data
-                                    break
-                            except Exception:
-                                continue
-
-                        if target_pp and "la" in target_pp:
-                            lines = target_pp["la"]
+                        # 抓取 var pp 播放列表
+                        pp_match = re.search(r'var pp\s*=\s*(\{[\s\S]*?\});', det.text)
+                        if pp_match:
+                            data = json.loads(pp_match.group(1))
+                            lines = data.get("la", [])
+                            
+                            # 提取每个可用的 m3u8
+                            episodes = []
                             for idx, line in enumerate(lines):
-                                if len(line) > 4 and line[4]:
-                                    line_name = str(line[1]) if line[1] else f"线路{idx + 1}"
-                                    m3u8 = str(line[4]).strip()
-                                    if m3u8.startswith("http"):
-                                        play_episodes.append(f"{line_name}${m3u8}")
+                                if len(line) > 4 and line[4] and line[4].startswith("http"):
+                                    line_name = line[1] if line[1] else f"线路{idx + 1}"
+                                    # 将每一个有效播放地址都作为正片/独立分集
+                                    episodes.append(f"{line_name}$ {line[4]}".replace(" ", ""))
+                            
+                            if episodes:
+                                # 标准规范：单一播放组多线路切换
+                                play_sources.append("A123TV聚合")
+                                play_urls.append("#".join(episodes))
                     except Exception as e:
-                        print(f"抓取详情错误 {vid}: {e}")
+                        print(f"解析详情失败 {slug}: {e}")
 
-                    # 只有真正拿到独立播放地址的视频才收录
-                    if play_episodes:
+                    # 只有真正拿到独立播放地址的视频才写入
+                    if play_urls:
                         vod_list.append({
-                            "vod_id": str(vid),
+                            "vod_id": global_id,  # 纯数字唯一主键
                             "vod_name": vname,
                             "type_id": tid,
                             "type_name": c["type_name"],
                             "vod_pic": pic,
                             "vod_remarks": remarks.group(1) if remarks else '',
-                            "vod_play_from": "默认播放",
-                            "vod_play_url": "#".join(play_episodes)
+                            "vod_play_from": "$$$".join(play_sources),
+                            "vod_play_url": "$$$".join(play_urls)
                         })
+                        global_id += 1
                     
                     time.sleep(0.05)
         except Exception as e:
-            print(f"列表页请求失败 {url}: {e}")
+            print(f"列表页抓取失败: {e}")
 
 result = {
     "code": 1,
@@ -109,4 +108,4 @@ result = {
 with open("vod.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
-print(f"抓取完成！共生成独立视频: {len(vod_list)} 条")
+print(f"更新完成！共生成合法视频数据: {len(vod_list)} 部")
