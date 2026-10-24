@@ -1,210 +1,191 @@
-/**
- * A123TV 完整独立版猫源爬虫脚本
- */
-var rule = {
-    title: 'A123TV',
-    host: 'https://a123tv.com',
-    homeUrl: '/',
-    url: '/t/fyclass/pfypage.html',
-    detailUrl: '/v/fyid.html',
-    searchUrl: '/s/**.html',
-    headers: {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Referer': 'https://a123tv.com/'
-    }
+import cheerio from 'assets://js/lib/cheerio.min.js';
+
+let host = 'https://a123tv.com';
+let headers = {
+    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1',
+    'Referer': 'https://a123tv.com/'
 };
 
-// 1. 初始化方法
-function init(ext) {}
+async function request(reqUrl) {
+    let res = await $fetch.get(reqUrl, { headers: headers });
+    return res.data;
+}
 
-// 2. 首页数据与分类定义
-function home(filter) {
-    var classes = [
+// 1. 初始化
+async function init(cfg) {}
+
+// 2. 首页分类
+async function home(filter) {
+    let classes = [
         {"type_id": "10", "type_name": "电影"},
         {"type_id": "11", "type_name": "连续剧"},
         {"type_id": "12", "type_name": "综艺"},
         {"type_id": "13", "type_name": "动漫"}
     ];
-    return JSON.stringify({
-        "class": classes
-    });
+    return { class: classes };
 }
 
-// 3. 首页推荐列表
-function homeVod() {
-    return JSON.stringify({
-        "list": []
-    });
+// 3. 首页推荐
+async function homeVod() {
+    return { list: [] };
 }
 
-// 4. 分类列表页（分页抓取）
-function category(tid, pg, filter, extend) {
-    var page = parseInt(pg) || 1;
-    var targetUrl = '';
+// 4. 分类列表页抓取
+async function category(tid, pg, filter, extend) {
+    let page = parseInt(pg) || 1;
+    let targetUrl = page === 1 ? `${host}/t/${tid}.html` : `${host}/t/${tid}/p${page}.html`;
+    let html = await request(targetUrl);
     
-    if (page === 1) {
-        targetUrl = rule.host + '/t/' + tid + '.html';
-    } else {
-        targetUrl = rule.host + '/t/' + tid + '/p' + page + '.html';
-    }
-
-    var html = request(targetUrl, { headers: rule.headers });
-    var list = [];
-
-    // 正则拆分每一个影片卡片 (.w4-item-wrap)
-    var itemRegex = /<div class="w4-item-wrap">([\s\S]*?)<\/div>\s*<\/div>/g;
-    var match;
+    let list = [];
+    let itemRegex = /<div class="w4-item-wrap">([\s\S]*?)<\/div>\s*<\/div>/g;
+    let match;
 
     while ((match = itemRegex.exec(html)) !== null) {
-        var block = match[1];
-        
-        // 提取影片 ID / 链接
-        var linkMatch = block.match(/href="\/v\/([^"]+?)\.html"/);
-        // 提取图片链接
-        var imgMatch = block.match(/data-src="([^"]+?)"/);
-        // 提取影片标题
-        var titleMatch = block.match(/title="([^"]+?)"/);
-        // 提取集数或线路备注
-        var remarksMatch = block.match(/<span>([^<]+?线路)<\/span>/);
+        let block = match[1];
+        let linkMatch = block.match(/href="\/v\/([^"]+?)\.html"/);
+        let imgMatch = block.match(/data-src="([^"]+?)"/);
+        let titleMatch = block.match(/title="([^"]+?)"/);
+        let remarksMatch = block.match(/<span>([^<]+?线路)<\/span>/);
 
         if (linkMatch && titleMatch) {
-            var vod_id = linkMatch[1];
-            var vod_name = titleMatch[1];
-            var vod_pic = imgMatch ? imgMatch[1] : '';
-            if (vod_pic.indexOf('//') === 0) {
+            let vod_pic = imgMatch ? imgMatch[1] : '';
+            if (vod_pic.startsWith('//')) {
                 vod_pic = 'https:' + vod_pic;
             }
-            var vod_remarks = remarksMatch ? remarksMatch[1] : '';
-
             list.push({
-                "vod_id": vod_id,
-                "vod_name": vod_name,
-                "vod_pic": vod_pic,
-                "vod_remarks": vod_remarks
+                vod_id: linkMatch[1],
+                vod_name: titleMatch[1],
+                vod_pic: vod_pic,
+                vod_remarks: remarksMatch ? remarksMatch[1] : ''
             });
         }
     }
 
-    return JSON.stringify({
-        "page": page,
-        "pagecount": 99,
-        "limit": 36,
-        "total": 999,
-        "list": list
-    });
+    return {
+        page: page,
+        pagecount: 99,
+        limit: 36,
+        total: 999,
+        list: list
+    };
 }
 
-// 5. 影片详情与选集（解析所有的 m3u8 直链线路）
-function detail(id) {
-    var detailUrl = rule.host + '/v/' + id + '.html';
-    var html = request(detailUrl, { headers: rule.headers });
+// 5. 详情页（解析 98 条 m3u8 线路）
+async function detail(id) {
+    let detailUrl = `${host}/v/${id}.html`;
+    let html = await request(detailUrl);
 
-    // 提取标题
-    var titleMatch = html.match(/<li class="on"><h1>([^<]+?)<\/h1><\/li>/);
-    var vod_name = titleMatch ? titleMatch[1] : id;
+    let titleMatch = html.match(/<li class="on"><h1>([^<]+?)<\/h1><\/li>/);
+    let vod_name = titleMatch ? titleMatch[1] : id;
 
-    // 提取海报封面
-    var posterMatch = html.match(/data-poster="([^"]+?)"/);
-    var vod_pic = posterMatch ? posterMatch[1] : '';
-    if (vod_pic.indexOf('//') === 0) {
+    let posterMatch = html.match(/data-poster="([^"]+?)"/);
+    let vod_pic = posterMatch ? posterMatch[1] : '';
+    if (vod_pic.startsWith('//')) {
         vod_pic = 'https:' + vod_pic;
     }
 
-    // 提取描述
-    var descMatch = html.match(/<meta name="description" content="([^"]+?)">/);
-    var vod_content = descMatch ? descMatch[1] : '';
+    let descMatch = html.match(/<meta name="description" content="([^"]+?)">/);
+    let vod_content = descMatch ? descMatch[1] : '';
 
-    var play_from = [];
-    var play_url = [];
+    let play_from = [];
+    let play_url = [];
 
-    // 提取网页底部的 var pp 数据
-    var ppMatch = html.match(/var pp\s*=\s*(\{[\s\S]*?\});<\/script>/);
-
+    // 正则提取 var pp 中的线路与直链
+    let ppMatch = html.match(/var pp\s*=\s*(\{[\s\S]*?\});<\/script>/);
     if (ppMatch && ppMatch[1]) {
         try {
-            var ppData = JSON.parse(ppMatch[1]);
-            var lines = ppData.la; // 获取线路数组
+            let ppData = JSON.parse(ppMatch[1]);
+            let lines = ppData.la;
 
             if (lines && lines.length > 0) {
-                play_from.push("A123TV聚合源");
-                var episodes = [];
-
-                for (var i = 0; i < lines.length; i++) {
-                    var item = lines[i];
-                    var lineName = item[1] || ("线路" + (i + 1));
-                    var m3u8Url = item[4]; // 真实播放直链
-
+                play_from.push("A123TV聚合");
+                let episodes = [];
+                for (let i = 0; i < lines.length; i++) {
+                    let item = lines[i];
+                    let lineName = item[1] || `线路${i + 1}`;
+                    let m3u8Url = item[4];
                     if (m3u8Url) {
-                        episodes.push(lineName + '$' + m3u8Url);
+                        episodes.push(`${lineName}$${m3u8Url}`);
                     }
                 }
-
                 play_url.push(episodes.join('#'));
             }
-        } catch (e) {
-            // 解析失败时降级
-        }
+        } catch (e) {}
     }
 
-    var vod = {
-        "vod_id": id,
-        "vod_name": vod_name,
-        "vod_pic": vod_pic,
-        "vod_content": vod_content,
-        "vod_play_from": play_from.join('$$$'),
-        "vod_play_url": play_url.join('$$$')
+    return {
+        list: [{
+            vod_id: id,
+            vod_name: vod_name,
+            vod_pic: vod_pic,
+            vod_content: vod_content,
+            vod_play_from: play_from.join('$$$'),
+            vod_play_url: play_url.join('$$$')
+        }]
     };
-
-    return JSON.stringify({
-        "list": [vod]
-    });
 }
 
-// 6. 播放直链输出解析（直链无需额外嗅探，直接交由播放器渲染）
-function play(flag, id, flags) {
-    return JSON.stringify({
-        "parse": 0,
-        "url": id,
-        "header": rule.headers
-    });
+// 6. 播放直链输出
+async function play(flag, id, flags) {
+    return {
+        parse: 0,
+        url: id,
+        header: headers
+    };
 }
 
 // 7. 搜索功能
-function search(wd, quick) {
-    var searchUrl = rule.host + '/s/' + encodeURIComponent(wd) + '.html';
-    var html = request(searchUrl, { headers: rule.headers });
-    var list = [];
+async function search(wd, quick) {
+    let searchUrl = `${host}/s/${encodeURIComponent(wd)}.html`;
+    let html = await request(searchUrl);
+    let list = [];
 
-    var itemRegex = /<div class="w4-item-wrap">([\s\S]*?)<\/div>\s*<\/div>/g;
-    var match;
+    let itemRegex = /<div class="w4-item-wrap">([\s\S]*?)<\/div>\s*<\/div>/g;
+    let match;
 
     while ((match = itemRegex.exec(html)) !== null) {
-        var block = match[1];
-
-        var linkMatch = block.match(/href="\/v\/([^"]+?)\.html"/);
-        var imgMatch = block.match(/data-src="([^"]+?)"/);
-        var titleMatch = block.match(/title="([^"]+?)"/);
-        var remarksMatch = block.match(/<span>([^<]+?线路)<\/span>/);
+        let block = match[1];
+        let linkMatch = block.match(/href="\/v\/([^"]+?)\.html"/);
+        let imgMatch = block.match(/data-src="([^"]+?)"/);
+        let titleMatch = block.match(/title="([^"]+?)"/);
+        let remarksMatch = block.match(/<span>([^<]+?线路)<\/span>/);
 
         if (linkMatch && titleMatch) {
-            var vod_id = linkMatch[1];
-            var vod_name = titleMatch[1];
-            var vod_pic = imgMatch ? imgMatch[1] : '';
-            if (vod_pic.indexOf('//') === 0) {
+            let vod_pic = imgMatch ? imgMatch[1] : '';
+            if (vod_pic.startsWith('//')) {
                 vod_pic = 'https:' + vod_pic;
             }
-            var vod_remarks = remarksMatch ? remarksMatch[1] : '';
-
             list.push({
-                "vod_id": vod_id,
-                "vod_name": vod_name,
-                "vod_pic": vod_pic,
-                "vod_remarks": vod_remarks
+                vod_id: linkMatch[1],
+                vod_name: titleMatch[1],
+                vod_pic: vod_pic,
+                vod_remarks: remarksMatch ? remarksMatch[1] : ''
             });
         }
     }
 
-    return JSON.stringify({
-        "list": list
-    });
+    return { list: list };
 }
+
+// 核心修正：导出 start() 函数，满足播放器环境校验
+export function start() {
+    return {
+        init: init,
+        home: home,
+        homeVod: homeVod,
+        category: category,
+        detail: detail,
+        play: play,
+        search: search
+    };
+}
+
+export default {
+    init: init,
+    home: home,
+    homeVod: homeVod,
+    category: category,
+    detail: detail,
+    play: play,
+    search: search
+};
