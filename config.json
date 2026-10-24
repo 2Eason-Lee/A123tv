@@ -1,5 +1,4 @@
 {
-  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "sites": [
     {
       "key": "a123_cloud",
@@ -12,9 +11,9 @@
     },
     {
       "key": "555_local",
-      "name": "流霞 🎬 555电影 (本地解码)",
+      "name": "流霞 🎬 555电影 (本地JS)",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/555.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -22,9 +21,9 @@
     },
     {
       "key": "sakura_local",
-      "name": "流霞 🌸 樱花影院 (本地解码)",
+      "name": "流霞 🌸 樱花影院 (本地JS)",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/sakura.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -32,9 +31,9 @@
     },
     {
       "key": "aikan_local",
-      "name": "流霞 🍿 AIKAN影院 (本地解码)",
+      "name": "流霞 🍿 AIKAN影院 (本地JS)",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/aikan.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
