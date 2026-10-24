@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/FongMi/CatVodSpider@main/jar/custom_spider.jar",
+  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "sites": [
     {
       "key": "a123_cloud",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/2Eason-Lee/A123tv@main/555.js"
+      "ext": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/555.js"
     },
     {
       "key": "sakura_local",
@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/2Eason-Lee/A123tv@main/sakura.js"
+      "ext": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/sakura.js"
     },
     {
       "key": "aikan_local",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/2Eason-Lee/A123tv@main/aikan.js"
+      "ext": "https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/aikan.js"
     }
   ]
 }
