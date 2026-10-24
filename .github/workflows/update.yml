@@ -23,19 +23,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # 运行原有的 A123TV 脚本
+      # 运行 A123TV 采集脚本
       - name: Run python crawler.py
         run: python crawler.py
 
-      # 运行新增的樱花影院脚本
-      - name: Run python crawler_sakura.py
-        run: python crawler_sakura.py
+      # 运行 555电影 采集脚本
+      - name: Run python crawler_555.py
+        run: python crawler_555.py
 
-      # 统一提交两个生成的 JSON 文件
+      # 统一提交两个 JSON 文件
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add vod.json sakura.json
-          git commit -m "Auto update vod.json and sakura.json data" || exit 0
+          git add vod.json dy555.json
+          git commit -m "Auto update vod.json and dy555.json data" || exit 0
           git push
