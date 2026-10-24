@@ -1,21 +1,15 @@
 {
-  "spider": "https://fastly.jsdelivr.net/gh/fantaiying/f/jar/custom_spider.jar;md5;bb5507b55f05b871cffc935ee59e2101",
+  "spider": "https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/custom_spider.jar",
   "sites": [
     {
       "key": "a123tv",
       "name": "A123TV 影视",
       "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/2Eason-Lee/A123tv@main/a123tv.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/2Eason-Lee/A123tv/main/a123tv_drpy.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    }
-  ],
-  "parses": [
-    {
-      "name": "聚合解析",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
     }
   ]
 }
