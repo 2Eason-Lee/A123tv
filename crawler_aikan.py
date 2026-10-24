@@ -16,7 +16,6 @@ HEADERS = {
 
 print("🚀 启动 [AIKAN] 深度调试与透传采集...")
 
-# 1. 缩小测试范围，先拿几个已知分类跑通排查
 category_paths = [
     "/hot/index-movie-科幻.html"
 ]
@@ -29,10 +28,9 @@ for path in category_paths:
         res = requests.get(url, headers=HEADERS, timeout=8)
         print(f"📄 分页请求状态码: {res.status_code}, 目标: {url}")
         if res.status_code == 200:
-            # 优化正则：打印出前几个匹配结果用于校验
             matches = re.findall(r'href="/play/(\d+)"[^>]*>.*?<p>([^<]+)</p>', res.text, re.DOTALL)
             print(f"🔍 正则成功匹配到原始条目数: {len(matches)}")
-            for vid_str, vname in matches[:5]: # 打印前5个看看抓得对不对
+            for vid_str, vname in matches[:5]:
                 print(f"   -> 捕获ID: {vid_str}, 片名: {vname.strip()}")
             
             for vid_str, vname in matches:
@@ -57,22 +55,22 @@ def fetch_multiline(vid, vname):
     
     try:
         api_res = requests.get(api_url, headers=specific_headers, timeout=6)
-        # 【关键调试】打印前两个视频的真实响应情况，看看服务器到底回了啥
-        if vid == list(found_videos.keys())[0] or vid == list(found_videos.keys())[1]:
+        
+        # 打印前两个视频的真实响应情况（已加上引号修复）
+        first_two_keys = list(found_videos.keys())[:2]
+        if vid in first_two_keys:
             print(f"\n--- 调试视频 ID: {vid} ({vname}) ---")
             print(f"HTTP 状态码: {api_res.status_code}")
             print(f"响应头 Content-Type: {api_res.headers.get('Content-Type')}")
             print(f"响应正文前 300 字符: {api_res.text[:300]}")
-            print(-----------------------------------------)
+            print("-" * 40)
 
         if api_res.status_code == 200:
             try:
                 j_data = api_res.json()
             except json.JSONDecodeError:
-                # 如果返回的不是 JSON（比如被拦截成了 HTML 错误页）
                 return
 
-            # 根据你分析的第 2 点：兼容 data 是数组或字典的各种奇葩结构
             lines = []
             data_field = j_data.get("data")
             if isinstance(data_field, list):
@@ -83,7 +81,6 @@ def fetch_multiline(vid, vname):
             play_urls = []
             for line in lines:
                 res_data_str = line.get("resData", "[]")
-                # 如果 resData 已经是列表而不是字符串，直接兼容处理
                 if isinstance(res_data_str, list):
                     sub_lines = res_data_str
                 else:
@@ -97,11 +94,9 @@ def fetch_multiline(vid, vname):
                         url = sub.get("url", "")
                         name = sub.get("name", "正片")
                         if url:
-                            # 按照标准的 MacCMS 格式规范拼接：线路名$播放地址
                             play_urls.append(f"{name}${url}")
 
             if play_urls:
-                # 按照你分析的第 4 点：同一来源的多集或多线路用 # 分隔，不同来源用 $$$
                 final_play_url = "#".join(play_urls)
                 with lock:
                     vod_list.append({
@@ -116,12 +111,10 @@ def fetch_multiline(vid, vname):
                     })
                     global_id += 1
     except Exception as e:
-        # 取消静默，打印出具体异常
         print(f"⚠️ 请求接口异常 [ID: {vid}]: {e}")
 
-# 2. 限制并发数并执行
 start_time = time.time()
-items = list(found_videos.items())[:10] # 先拿前 10 个跑一次测试，便于在日志里看清调试输出！
+items = list(found_videos.items())[:10]
 
 with ThreadPoolExecutor(max_workers=3) as executor:
     for vid, vname in items:
@@ -129,7 +122,6 @@ with ThreadPoolExecutor(max_workers=3) as executor:
 
 print(f"\n⚡ 调试聚合完毕，耗时: {time.time() - start_time:.2f} 秒，成功收编大片: {len(vod_list)} 部")
 
-# 兜底保证
 if len(vod_list) == 0:
     vod_list.append({
         "vod_id": global_id,
