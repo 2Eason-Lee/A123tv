@@ -1,5 +1,5 @@
 /**
- * A123TV 纯净 ES6 模块源脚本
+ * A123TV 纯净全局沙箱适配脚本
  */
 var host = 'https://a123tv.com';
 var headers = {
@@ -174,21 +174,8 @@ async function search(wd, quick) {
     return { list: list };
 }
 
-// 关键入口：导出 start 方法
-export function start() {
-    return {
-        init: init,
-        home: home,
-        homeVod: homeVod,
-        category: category,
-        detail: detail,
-        play: play,
-        search: search
-    };
-}
-
-export default {
-    start: start,
+// 核心入口：挂载到全局作用域
+var spiderObject = {
     init: init,
     home: home,
     homeVod: homeVod,
@@ -197,3 +184,17 @@ export default {
     play: play,
     search: search
 };
+
+function start() {
+    return spiderObject;
+}
+
+if (typeof globalThis !== 'undefined') {
+    globalThis.start = start;
+}
+if (typeof window !== 'undefined') {
+    window.start = start;
+}
+if (typeof global !== 'undefined') {
+    global.start = start;
+}
