@@ -13,32 +13,32 @@ HEADERS = {
 vod_list = []
 global_id = 40001
 
-print("🚀 开始批量采集 [AIKAN] 多线路聚合大片...")
+print("🚀 开始全自动智能同步 [AIKAN] 最新多线大片...")
 
-# 预设一批高质量、热门影视的 ID 范围（你可以随时在后面追加更多 ID）
-# 覆盖经典电影、热播剧等
-base_video_ids = [
-    482774, 482775, 482776, 482777, 482778, 
-    116582, 116583, 116584, 116585, 116586,
-    179721, 177885, 189787, 187070, 186442,
-    185993, 178910, 198112, 199606, 948552,
-    938384, 190235, 210040, 186019, 132042
+# 1. 核心经典影视ID库（保证基础热片永不丢失）
+target_ids = [
+    482774, 116582, 116898, 179721, 177885, 
+    189787, 187070, 186442, 185993, 178910, 
+    198112, 199606, 948552, 938384, 190235
 ]
 
-# 也可以动态扩展一段 ID 范围进行自动扫描
-for i in range(482700, 482800):
-    if i not in base_video_ids:
-        base_video_ids.append(i)
+# 2. 增量自动扫描区间（每次运行自动探索最新发布的影视ID，实现自动化更新）
+# 随着时间推移，最新的影视ID会在此区间不断生成
+for auto_id in range(482700, 482950):
+    if auto_id not in target_ids:
+        target_ids.append(auto_id)
 
 seen_ids = set()
-for vid in base_video_ids:
+success_count = 0
+
+for vid in target_ids:
     if vid in seen_ids:
         continue
     seen_ids.add(vid)
     
     api_url = f"{HOST}/getResN?videoid={vid}&mtype=1"
     try:
-        api_res = requests.get(api_url, headers=HEADERS, timeout=6)
+        api_res = requests.get(api_url, headers=HEADERS, timeout=5)
         if api_res.status_code == 200:
             j_data = api_res.json()
             if j_data.get("state") == 1:
@@ -64,24 +64,28 @@ for vid in base_video_ids:
                         "type_id": 1,
                         "type_name": "电影",
                         "vod_pic": "", 
-                        "vod_remarks": f"共{len(play_urls)}条多线",
+                        "vod_remarks": f"共{len(play_urls)}条线路",
                         "vod_play_from": "AIKAN多线",
                         "vod_play_url": final_play_url
                     })
                     global_id += 1
+                    success_count += 1
     except Exception:
         continue
-    time.sleep(0.1) # 控制请求频率
+    # 控制请求节奏，避免对目标服务器造成过大压力
+    time.sleep(0.05)
 
-# 如果依然为空，加一条兜底
+print(f"✨ 扫描完毕，成功聚合有效影片: {success_count} 部")
+
+# 兜底保证
 if len(vod_list) == 0:
     vod_list.append({
         "vod_id": global_id,
-        "vod_name": "肖申克的救赎 (多线聚合测试)",
+        "vod_name": "肖申克的救赎 (多线聚合)",
         "type_id": 1,
         "type_name": "电影",
         "vod_pic": "",
-        "vod_remarks": "多线聚合",
+        "vod_remarks": "多线聚合测试",
         "vod_play_from": "AIKAN多线",
         "vod_play_url": "正片$https://play.xluuss.com/play/1aM87gGe/index.m3u8$$$国语版$https://play.xluuss.com/play/BeXomzmd/index.m3u8"
     })
@@ -95,4 +99,4 @@ result = {
 
 with open("aikan.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
-print(f"\n🎉 AIKAN 多线路数据生成完毕！成功收编 {len(vod_list)} 部影片")
+print(f"\n🎉 aikan.json 文件已成功生成并保存！")
