@@ -8,15 +8,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "aikan",
-      "name": "流霞 ☁️ AIKAN",
-      "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=aikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     }
   ]
 }
