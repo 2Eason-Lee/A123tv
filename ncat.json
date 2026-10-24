@@ -1,0 +1,27 @@
+{
+  "code": 1,
+  "msg": "成功",
+  "page": 1,
+  "pagecount": 1,
+  "limit": 0,
+  "total": 0,
+  "class": [
+    {
+      "type_id": 1,
+      "type_name": "电影"
+    },
+    {
+      "type_id": 2,
+      "type_name": "连续剧"
+    },
+    {
+      "type_id": 3,
+      "type_name": "动漫"
+    },
+    {
+      "type_id": 4,
+      "type_name": "综艺纪录"
+    }
+  ],
+  "list": []
+}
