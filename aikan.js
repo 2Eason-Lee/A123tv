@@ -1,11 +1,15 @@
 var rule = {
     title: 'AIKAN影院',
-    host: 'https://aikan.example.com', 
-    url: '/index.php/vod/show/id/fyclass/page/fypage.html',
-    searchUrl: '/index.php/vod/search/page/fypage/wd/**.html',
+    host: 'https://www.aikanbot.vip', 
+    url: '/vodshow/fyclass--------fypage---.html',
+    searchUrl: '/vodsearch/**----------fypage---.html',
     searchable: 2,
     quickSearch: 0,
-    class_parse: '.nav-menu li;a&&Text;a&&href;.*/(.*?).html',
+    headers: {
+        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1'
+    },
+    class_name: '电影&连续剧&综艺&动漫',
+    class_url: '1&2&3&4',
     play_parse: true,
     lazy: '',
     limit: 6,
