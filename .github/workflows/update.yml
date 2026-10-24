@@ -1,23 +1,35 @@
 name: Update VOD Data
+
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
-permissions:
-  contents: write
+    - cron: '0 */6 * * *' # 每6小时自动运行一次
+  workflow_dispatch: # 支持手动点击触发
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with: { python-version: '3.10' }
-      - run: pip install requests
-      - run: python crawler.py
-      - run: python crawler_aikan.py
-      - run: |
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run python crawler.py
+        run: python crawler.py
+
+      - name: Commit and push changes
+        run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add vod.json aikan.json
-          git commit -m "Auto update A123 and AIKAN Data" || exit 0
+          git add a123.json
+          git commit -m "Auto update A123TV Data" || exit 0
           git push
