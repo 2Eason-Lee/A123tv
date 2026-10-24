@@ -1,12 +1,10 @@
 {
-  "spider": "https://fastly.jsdelivr.net/gh/FongMi/CatVodSpider@main/jar/custom_spider.jar",
   "sites": [
     {
       "key": "a123tv",
       "name": "A123TV 影视",
-      "type": 3,
-      "api": "https://fastly.jsdelivr.net/gh/hjdhnx/dr_py@main/libs/drpy2.min.js",
-      "ext": "https://fastly.jsdelivr.net/gh/2Eason-Lee/A123tv@main/a123tv_drpy.js?v=999",
+      "type": 1,
+      "api": "https://a123tv-api.eason-lee89750.workers.dev",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
