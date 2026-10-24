@@ -1,0 +1,30 @@
+{
+  "code": 1,
+  "msg": "成功",
+  "page": 1,
+  "pagecount": 1,
+  "limit": 1,
+  "total": 1,
+  "class": [
+    {
+      "type_id": 1,
+      "type_name": "电影"
+    },
+    {
+      "type_id": 2,
+      "type_name": "连续剧"
+    }
+  ],
+  "list": [
+    {
+      "vod_id": 900000,
+      "vod_name": "兰香如故 (555测试源)",
+      "type_id": 1,
+      "type_name": "连续剧",
+      "vod_pic": "",
+      "vod_remarks": "超清线路3",
+      "vod_play_from": "超清线路3$$$极速蓝光-R",
+      "vod_play_url": "第01集$https://hn.bfvvs.com/play/bYEMEX0b/index.m3u8#第02集$https://hn.bfvvs.com/play/e5yWy0xe/index.m3u8$$$第01集$https://hn.bfvvs.com/play/bYEMEX0b/index.m3u8"
+    }
+  ]
+}
