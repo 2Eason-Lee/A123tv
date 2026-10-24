@@ -2,18 +2,9 @@
   "sites": [
     {
       "key": "a123",
-      "name": "流霞 ☁️ 影视",
+      "name": "流霞 ☁️ A123影视",
       "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=a123",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "dy555",
-      "name": "流霞 🎬 555电影",
-      "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=555",
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
