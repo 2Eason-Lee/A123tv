@@ -8,24 +8,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "ffzy_api",
-      "name": "流霞 ⚡️ 非凡资源 (已解锁翻页)",
-      "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=ffzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "lzi_api",
-      "name": "流霞 🚀 量子资源 (已解锁翻页)",
-      "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/?source=lzi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
   ]
 }
