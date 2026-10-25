@@ -7,13 +7,13 @@
       "api": "https://a123tv-api.eason-lee89750.workers.dev/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "ffzy_api",
-      "name": "流霞 ⚡️ 非凡资源 (热门推荐)",
+      "name": "流霞 ⚡️ 非凡资源 (高清大厂)",
       "type": 1,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -22,7 +22,16 @@
       "key": "suoni_api",
       "name": "流霞 🎬 索尼资源 (极速更新)",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lzi_api",
+      "name": "流霞 🚀 量子资源 (老牌秒播)",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
