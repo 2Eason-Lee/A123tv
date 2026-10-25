@@ -11,18 +11,9 @@
     },
     {
       "key": "ffzy_api",
-      "name": "流霞 ⚡️ 非凡资源 (高清大厂)",
+      "name": "流霞 ⚡️ 非凡资源 (热门推荐)",
       "type": 1,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "yhzy_api",
-      "name": "流霞 🌸 樱花资源 (稳定秒播)",
-      "type": 1,
-      "api": "https://api.yhdbt.com/api.php/provide/vod/",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -31,7 +22,7 @@
       "key": "suoni_api",
       "name": "流霞 🎬 索尼资源 (极速更新)",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
