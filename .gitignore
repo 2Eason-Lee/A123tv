@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.bak
+.DS_Store
+其他python资源/
+直接导入版本/
