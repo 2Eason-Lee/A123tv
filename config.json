@@ -1,10 +1,28 @@
 {
   "sites": [
     {
-      "key": "a123_native",
-      "name": "流霞 ☁️ A123TV (自研核心)",
+      "key": "a123_all",
+      "name": "流霞 ☁️ 全部（合并）",
       "type": 1,
       "api": "https://a123tv-api.eason-lee89750.workers.dev/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "a123_core",
+      "name": "🎬 A123TV 核心",
+      "type": 1,
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/a123tv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "a123_jsard",
+      "name": "🆕 FreeOK / 新视觉",
+      "type": 1,
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/jsard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
