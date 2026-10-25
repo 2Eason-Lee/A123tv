@@ -6,17 +6,15 @@
       "type": 1,
       "api": "https://a123tv-api.eason-lee89750.workers.dev/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "quickSearch": 1
     },
     {
       "key": "nnyy_cloud",
       "name": "流霞 ☁️ 努努云端专线",
       "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/",
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/nnyy",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
     }
   ]
 }
