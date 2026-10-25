@@ -14,6 +14,7 @@
 
 import os
 import sys
+import copy
 import json
 import argparse
 
@@ -170,6 +171,7 @@ def run(args):
         all_items.extend(items)
 
     kept, dropped = clean_and_filter(all_items)
+    snapshot = copy.deepcopy(kept)          # 留一份给 --split 用（merge 会改原对象）
     merged = merge_items(kept)
     payload = build_payload(merged)
 
@@ -193,6 +195,19 @@ def run(args):
     with open(OUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
     print(f'已写入 {OUT_FILE}（{os.path.getsize(OUT_FILE) // 1024} KB）')
+
+    # 按源拆成独立文件：手机里就能把每个源当成一个站点单独选
+    if args.split:
+        for src in sources:
+            subset = [x for x in snapshot if x.get('vod_source') == src.key]
+            if not subset:
+                continue
+            sub_payload = build_payload(merge_items(copy.deepcopy(subset)))
+            fn = f'vod-{src.key}.json'
+            with open(fn, 'w', encoding='utf-8') as f:
+                json.dump(sub_payload, f, ensure_ascii=False, indent=2)
+            print(f'已写入 {fn}（{len(sub_payload["list"])} 条）')
+
     return 0
 
 
@@ -202,6 +217,8 @@ def main():
     p.add_argument('--pages', type=int, default=2, help='每个分类抓几页（默认 2）')
     p.add_argument('--limit', type=int, default=60, help='最多解析多少条详情（默认 60）')
     p.add_argument('--dry-run', action='store_true', help='只打印不写文件')
+    p.add_argument('--split', action='store_true',
+                   help='额外按源输出 vod-<源名>.json，手机里可分站点选择')
     p.add_argument('--probe', help='探测某个源的列表/详情是否可解析')
     args = p.parse_args()
 
