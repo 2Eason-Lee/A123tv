@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-      "key": "a123_cloud",
+      "key": "a123_native",
       "name": "流霞 ☁️ A123TV (自研核心)",
       "type": 1,
       "api": "https://a123tv-api.eason-lee89750.workers.dev/",
@@ -10,10 +10,28 @@
       "filterable": 0
     },
     {
-      "key": "nnyy_cloud",
-      "name": "流霞 ☁️ 努努云端专线",
+      "key": "ffzy_api",
+      "name": "流霞 ⚡️ 非凡资源 (高清大厂)",
       "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/nnyy",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yhzy_api",
+      "name": "流霞 🌸 樱花资源 (稳定秒播)",
+      "type": 1,
+      "api": "https://api.yhdbt.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoni_api",
+      "name": "流霞 🎬 索尼资源 (极速更新)",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
