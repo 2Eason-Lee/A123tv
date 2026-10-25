@@ -86,7 +86,7 @@ class HtmlGenericSource:
         return html
 
     # ---------------- 主流程 ----------------
-    def crawl(self, pages=2, max_details=60):
+    def crawl(self, pages=2, max_details=60, skip=None):
         items = []
         seq = 0
         detail_count = 0
@@ -110,6 +110,8 @@ class HtmlGenericSource:
                 for r in rows:
                     if max_details and detail_count >= max_details:
                         return items
+                    if skip and skip(r['name'], r['remarks']):
+                        continue
                     detail_count += 1
 
                     detail = self._fetch_detail(r['id'])

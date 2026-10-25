@@ -52,7 +52,7 @@ class MacCMSSource:
         return out
 
     # ---------- 主流程 ----------
-    def crawl(self, pages=2, page_size_hint=20):
+    def crawl(self, pages=2, page_size_hint=20, skip=None):
         items = []
         seq = 0
         for c in self.classes:
@@ -77,6 +77,8 @@ class MacCMSSource:
 
                 for r in rows:
                     vid = str(r.get('vod_id'))
+                    if skip and skip(r.get('vod_name', ''), r.get('vod_remarks', '')):
+                        continue
                     play_from, play_url = id_map.get(vid, ('', ''))
                     if not play_url:
                         continue

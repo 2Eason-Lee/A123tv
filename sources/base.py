@@ -267,7 +267,7 @@ class Source:
         """返回 [(线路名, [集字符串, ...]), ...]"""
         raise NotImplementedError(f'{self.key}: 还没实现播放地址解析')
 
-    def crawl(self, pages=1, max_details=20):
+    def crawl(self, pages=1, max_details=20, skip=None):
         items, seq = [], 0
         base = getattr(self, 'id_base', 0) or self.offset
 
@@ -287,6 +287,9 @@ class Source:
                 for r in rows:
                     if max_details and done >= max_details:
                         break
+                    # 已抓过且备注没变 → 跳过详情请求
+                    if skip and skip(r.get('vod_name', ''), r.get('vod_remarks', '')):
+                        continue
                     done += 1
                     try:
                         groups = self.play(r) or []

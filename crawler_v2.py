@@ -120,6 +120,45 @@ def clean_and_filter(items):
     return kept, dropped
 
 
+def load_cache(path=OUT_FILE):
+    """
+    读上一次的 vod.json 当缓存。
+
+    返回 {归一化片名: 条目}，用来判断「这部片上次已经抓过、且备注没变」。
+    """
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding='utf-8') as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f'读取缓存失败，按全量抓取: {e}')
+        return {}
+
+    cache = {}
+    for it in data.get('list', []):
+        if not it.get('vod_play_url'):
+            continue
+        it.setdefault('vod_source', 'a123tv')   # 旧数据没这个字段，默认算 a123tv
+        cache[norm_name(it.get('vod_name'))] = it
+    return cache
+
+
+def make_skip(cache):
+    """
+    返回一个 skip(name, remarks) 判断函数。
+
+    规则：片名在缓存里、并且备注完全一样 → 跳过（不用请求详情页）。
+         备注变了（比如「更新第02集」→「更新第05集」）→ 重抓，否则新剧集永远补不上。
+    """
+    def skip(name, remarks):
+        old = cache.get(norm_name(name))
+        if not old:
+            return False
+        return (old.get('vod_remarks') or '') == (remarks or '')
+    return skip
+
+
 def build_payload(items):
     """生成最终 JSON。vod_id 重新连续编号，避免跨源撞号。"""
     out = []
@@ -160,10 +199,15 @@ def run(args):
         return 1
 
     all_items = []
+    cache = {} if args.fresh else load_cache()
+    skip = make_skip(cache) if cache else None
+    if cache:
+        print(f'缓存里有 {len(cache)} 条，本次只抓新增/有更新的片子（--fresh 可强制全量）')
+
     for src in sources:
         print(f'== 抓取 {src.key} ({src.name}) ==')
         try:
-            items = src.crawl(pages=args.pages, max_details=args.limit)
+            items = src.crawl(pages=args.pages, max_details=args.limit, skip=skip)
         except Exception as e:
             print(f'  [{src.key}] 整体失败，跳过: {e}')
             continue
@@ -171,6 +215,14 @@ def run(args):
         all_items.extend(items)
 
     kept, dropped = clean_and_filter(all_items)
+
+    # 把这次没重抓的旧数据接回来，否则它们会从 vod.json 里消失
+    fresh_keys = {norm_name(it.get('vod_name')) for it in kept}
+    restored = [v for k, v in cache.items() if k not in fresh_keys]
+    if restored:
+        print(f'复用缓存 {len(restored)} 条（本次未重新抓取）')
+    kept = kept + restored
+
     snapshot = copy.deepcopy(kept)          # 留一份给 --split 用（merge 会改原对象）
     merged = merge_items(kept)
     payload = build_payload(merged)
@@ -217,6 +269,8 @@ def main():
     p.add_argument('--pages', type=int, default=2, help='每个分类抓几页（默认 2）')
     p.add_argument('--limit', type=int, default=60, help='最多解析多少条详情（默认 60）')
     p.add_argument('--dry-run', action='store_true', help='只打印不写文件')
+    p.add_argument('--fresh', action='store_true',
+                   help='忽略缓存，全量重抓（默认只抓新增/有更新的）')
     p.add_argument('--split', action='store_true',
                    help='额外按源输出 vod-<源名>.json，手机里可分站点选择')
     p.add_argument('--probe', help='探测某个源的列表/详情是否可解析')

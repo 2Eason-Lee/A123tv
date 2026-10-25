@@ -141,7 +141,7 @@ class JsardSource:
         return clean_episodes(eps)
 
     # ---------------- 主流程 ----------------
-    def crawl(self, pages=1, max_details=20):
+    def crawl(self, pages=1, max_details=20, skip=None):
         items = []
         seq = 0
 
@@ -166,9 +166,13 @@ class JsardSource:
                     if max_details and done_cls >= max_details:
                         print(f'  [{self.key}] {c["type_name"]} 达到 {max_details} 条，换下一分类')
                         break
-                    done_cls += 1
 
                     name = r.get('vod_name', '')
+                    # 已抓过且备注没变 → 跳过详情页和播放页，省掉最贵的请求
+                    if skip and skip(name, r.get('vod_remarks', '')):
+                        continue
+                    done_cls += 1
+
                     detail_link = r.get('detail_link', '')
                     if not detail_link:
                         print(f'  [{self.key}] 没有 detail_link，跳过: {name}')
