@@ -2,19 +2,29 @@ name: Update VOD Data
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # 每6小时自动运行一次
-  workflow_dispatch: # 支持手动点击触发
+    - cron: '0 */6 * * *'   # 每 6 小时跑一次
+  workflow_dispatch:         # 支持手动点击触发
+
+# 允许 Action 把 vod.json 推回仓库（不加这行，新仓库默认可能没有写权限）
+permissions:
+  contents: write
+
+# 同一时间只跑一个，避免两个任务同时改 vod.json
+concurrency:
+  group: update-vod
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -23,13 +33,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run python crawler.py
-        run: python crawler.py
+      # 每个分类抓 5 页、最多 45 条详情，大约产出 700 条
+      # 想少抓点就改小：--pages 3 --limit 20（约 160 条，8~15 分钟）
+      - name: Run crawler_v2.py
+        run: python crawler_v2.py --pages 5 --limit 45
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add vod.json
-          git commit -m "Auto update A123TV Data" || exit 0
+          if git diff --cached --quiet; then
+            echo "数据没变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "Auto update VOD data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
           git push
