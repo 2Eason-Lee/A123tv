@@ -28,19 +28,28 @@
       "filterable": 1
     },
     {
-      "key": "a123_tzqjdy",
-      "name": "🍿 飘零影院",
+      "key": "a123_fdzys",
+      "name": "🍚 饭搭子影视",
       "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/tzqjdy",
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/fdzys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "a123_fdzys",
-      "name": "🍚 饭搭子影视",
+      "key": "a123_ncat21",
+      "name": "🐱 网飞猫",
       "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/fdzys",
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/ncat21",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "a123_kvm",
+      "name": "📺 4K影视",
+      "type": 1,
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/kvm",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
