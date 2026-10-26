@@ -18,7 +18,7 @@ import copy
 import json
 import argparse
 
-from sources import enabled_sources, find
+from sources import SOURCES, enabled_sources, find
 from sources.base import norm_name, is_blocked, SENSITIVE_WORDS
 
 # 统一分类：不管源站用 1~4 还是 10~13，最后都归到这套
@@ -58,10 +58,21 @@ def split_groups(item):
     return [(f, u) for f, u in zip(froms, urls) if f and u]
 
 
+def _ep_url_set(eps):
+    """把 '第01集$http://...#第02集$http://...' 变成 URL 集合，用来判断新旧剧集覆盖关系。"""
+    return {p.split('$', 1)[1] for p in eps.split('#') if '$' in p}
+
+
 def merge_items(items):
     """
     跨源合并同一部片：按 (归一化片名, 分类) 归并，线路叠加。
     这样同一部剧在 jsard 和别的源都有时，播放器里会出现多条线路可选。
+
+    同名线路去重按「剧集 URL 集合」判断：
+      - 集合完全相同      → 重复线路，丢掉
+      - 旧集合是新集合子集 → 旧数据（集数少），丢掉
+      - 新集合是旧集合子集 → 新数据不完整，保留旧的完整线路
+      - 其它              → 不同来源/不同 CDN，保留成两条线路
     """
     merged = {}
     order = []
@@ -85,18 +96,34 @@ def merge_items(items):
     out = []
     for key in order:
         it = merged[key]
-        seen_names, seen_pairs = set(), set()
+        seen_names = set()
         groups = []
         for name, eps in it.pop('_groups'):
+            new_urls = _ep_url_set(eps)
+            if not new_urls:
+                continue
+
+            keep, drop_idx = True, None
+            for idx, (_, old_eps) in enumerate(groups):
+                old_urls = _ep_url_set(old_eps)
+                if new_urls == old_urls or new_urls < old_urls:
+                    keep = False
+                    break
+                if old_urls < new_urls:
+                    drop_idx = idx
+                    break
+            if not keep:
+                continue
+            if drop_idx is not None:
+                dropped_name, _ = groups.pop(drop_idx)
+                seen_names.discard(dropped_name)
+
             # 同名线路加序号，避免播放器里两条一样的名字
             base, n = name, 1
             while name in seen_names:
                 n += 1
                 name = f'{base}({n})'
-            if eps in seen_pairs:
-                continue
             seen_names.add(name)
-            seen_pairs.add(eps)
             groups.append((name, eps))
         if not groups:
             continue
@@ -144,16 +171,47 @@ def load_cache(path=OUT_FILE):
     return cache
 
 
-def make_skip(cache):
+def load_split_cache(key):
+    """
+    读 vod-<key>.json（每个源自己的缓存）。
+
+    分源缓存比 vod.json 更准：合并后的 vod.json 里，一条数据可能带着多个源的线路，
+    只按 vod_source 分不清哪些线路属于哪个源。分源文件是干净的。
+    """
+    path = f'vod-{key}.json'
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding='utf-8') as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f'读取分源缓存失败 {path}: {e}')
+        return {}
+
+    cache = {}
+    for it in data.get('list', []):
+        if not it.get('vod_play_url'):
+            continue
+        it.setdefault('vod_source', key)
+        cache[norm_name(it.get('vod_name'))] = it
+    return cache
+
+
+def make_skip(cache, source_key=None):
     """
     返回一个 skip(name, remarks) 判断函数。
 
     规则：片名在缓存里、并且备注完全一样 → 跳过（不用请求详情页）。
          备注变了（比如「更新第02集」→「更新第05集」）→ 重抓，否则新剧集永远补不上。
+
+    source_key：只和「同一个源」的旧数据比较。否则新加的源会因为别的源已经
+    有同名同备注的片子而被误跳过，永远进不了自己的分源文件。
     """
     def skip(name, remarks):
         old = cache.get(norm_name(name))
         if not old:
+            return False
+        if source_key and (old.get('vod_source') or 'a123tv') != source_key:
             return False
         return (old.get('vod_remarks') or '') == (remarks or '')
     return skip
@@ -198,33 +256,61 @@ def run(args):
         print('没有启用的源，检查 sources/__init__.py')
         return 1
 
-    all_items = []
     cache = {} if args.fresh else load_cache()
-    skip = make_skip(cache) if cache else None
     if cache:
-        print(f'缓存里有 {len(cache)} 条，本次只抓新增/有更新的片子（--fresh 可强制全量）')
+        print(f'聚合缓存 vod.json 里有 {len(cache)} 条')
 
+    # 每个源单独一份缓存：优先读 vod-<源>.json，没有再退回从 vod.json 按 vod_source 过滤。
+    # 这样「同名剧在多个源都有」时，不会因为合并后的 vod_source 指向别的源而丢掉本源的线路。
+    prev_by_source = {}
+    for s in SOURCES:
+        prev_by_source[s.key] = {} if args.fresh else load_split_cache(s.key)
+    for s in SOURCES:
+        if not prev_by_source[s.key]:
+            prev_by_source[s.key] = {
+                k: v for k, v in cache.items()
+                if (v.get('vod_source') or 'a123tv') == s.key
+            }
+
+    fresh_by_source = {}
     for src in sources:
         print(f'== 抓取 {src.key} ({src.name}) ==')
+        skip = make_skip(prev_by_source.get(src.key) or {}, src.key)
         try:
             items = src.crawl(pages=args.pages, max_details=args.limit, skip=skip)
         except Exception as e:
             print(f'  [{src.key}] 整体失败，跳过: {e}')
-            continue
+            items = []
         print(f'  [{src.key}] 拿到 {len(items)} 条')
-        all_items.extend(items)
+        fresh_by_source[src.key] = items
 
+    # 每个源 = 本次抓到的 + 分源缓存里没重抓的。分源文件始终是「本源的完整数据」。
+    source_items = {}
+    for s in SOURCES:
+        fresh = fresh_by_source.get(s.key, [])
+        prev = list(prev_by_source.get(s.key, {}).values())
+        fresh_keys = {norm_name(it.get('vod_name')) for it in fresh}
+        stale = [v for v in prev if norm_name(v.get('vod_name')) not in fresh_keys]
+        items = fresh + stale
+        if items:
+            source_items[s.key] = items
+
+    # 老数据里 vod_source 不是已知源的（或分源文件里漏掉的），兜底带回聚合文件，避免升级时丢片
+    covered = {
+        (key, norm_name(it.get('vod_name')))
+        for key, items in source_items.items()
+        for it in items
+    }
+    legacy = [
+        v for v in cache.values()
+        if ((v.get('vod_source') or 'a123tv'), norm_name(v.get('vod_name'))) not in covered
+    ]
+
+    all_items = [it for items in source_items.values() for it in items] + legacy
     kept, dropped = clean_and_filter(all_items)
+    kept_ids = {id(x) for x in kept}
 
-    # 把这次没重抓的旧数据接回来，否则它们会从 vod.json 里消失
-    fresh_keys = {norm_name(it.get('vod_name')) for it in kept}
-    restored = [v for k, v in cache.items() if k not in fresh_keys]
-    if restored:
-        print(f'复用缓存 {len(restored)} 条（本次未重新抓取）')
-    kept = kept + restored
-
-    snapshot = copy.deepcopy(kept)          # 留一份给 --split 用（merge 会改原对象）
-    merged = merge_items(kept)
+    merged = merge_items(copy.deepcopy(kept))
     payload = build_payload(merged)
 
     print('-' * 46)
@@ -250,8 +336,8 @@ def run(args):
 
     # 按源拆成独立文件：手机里就能把每个源当成一个站点单独选
     if args.split:
-        for src in sources:
-            subset = [x for x in snapshot if x.get('vod_source') == src.key]
+        for src in SOURCES:
+            subset = [x for x in source_items.get(src.key, []) if id(x) in kept_ids]
             if not subset:
                 continue
             sub_payload = build_payload(merge_items(copy.deepcopy(subset)))
