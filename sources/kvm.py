@@ -60,7 +60,14 @@ class KvmSource:
     name = '4K影视'
     enabled = True
 
-    host = 'https://www.4kvm.tv'
+    # 站点换过域名：4kvm.tv 现在整站 404，镜像站是 4kvm.org / 4kvm.net。
+    # 每次开跑按顺序探一遍，用第一个能出 <div class="movie-card"> 的域名。
+    hosts = [
+        'https://www.4kvm.org',
+        'https://www.4kvm.net',
+        'https://www.4kvm.tv',
+    ]
+    host = hosts[0]
     id_base = 70_000_000
     delay = 0.12
 
@@ -77,8 +84,9 @@ class KvmSource:
     ]
 
     # 点名要保证更新的片子：不受 skip 影响，每次跑都重新检查集数。
+    # 只存路径，运行时会拼上本次探测到的可用域名。
     seed_urls = [
-        {'url': 'https://www.4kvm.tv/play/ch4phdr82', 'type_name': '连续剧'},  # 嫁金钗
+        {'path': '/play/ch4phdr82', 'type_name': '连续剧'},  # 嫁金钗
     ]
 
     CARD_RE = re.compile(
@@ -439,9 +447,32 @@ class KvmSource:
         )
 
     # ---------------- 主流程 ----------------
+    def _pick_host(self):
+        """站点换域名后自动选一个能用的，全都不行就返回 None（保留旧数据）。"""
+        for h in self.hosts:
+            try:
+                r = self.http.session.get(f'{h}/tv', timeout=15)
+                html = r.text or ''
+            except Exception as e:
+                print(f'  [kvm] {h} 打不开: {str(e)[:120]}')
+                continue
+            if 'movie-card' in html:
+                if h != self.host:
+                    print(f'  [kvm] 换用可用域名 {h}')
+                self.host = h
+                self.http.referer = h
+                self.http.session.headers['Referer'] = h + '/'
+                return h
+            print(f'  [kvm] {h} 列表里没有影片卡片，换下一个域名')
+        return None
+
     def crawl(self, pages=1, max_details=60, skip=None):
         items = []
         seq = 0
+
+        if not self._pick_host():
+            print(f'  [{self.key}] 所有域名都不可用，本次跳过，保留旧数据')
+            return items
 
         def add(item):
             nonlocal seq
@@ -455,7 +486,7 @@ class KvmSource:
         for seed in self.seed_urls:
             if self._abort:
                 break
-            url = seed['url']
+            url = self.host + seed['path']
             if url in self._seen:
                 continue
             self._seen.add(url)
@@ -501,13 +532,16 @@ class KvmSource:
 
     # ---------------- 调试 ----------------
     def probe(self):
+        if not self._pick_host():
+            print('所有域名都不可用')
+            return
         print(f'列表页: {self.host}/tv')
         rows = self._list_page('tv')
         print(f'解析到 {len(rows)} 条')
         for r in rows[:3]:
             print('  ', r)
 
-        seed = self.seed_urls[0]['url']
+        seed = self.host + self.seed_urls[0]['path']
         print(f'\n详情页: {seed}')
         name, pic, remark, userlink, lines = self._detail(seed)
         print(f'片名: {name} | 备注: {remark} | userlink: {userlink}')
