@@ -9,17 +9,18 @@
 
 from .a123tv import A123TVSource
 from .jsard import JsardSource
+from .tzqjdy import TzqjdySource
 from .maccms import MacCMSSource
 from .html_generic import HtmlGenericSource
-from .stubs import STUBS
+from .stubs import HELLO, KPKUANG
 
-# 顺序就是抓取顺序；靠前的源优先级更高（合并时线路排在前面）
 SOURCES = [
-    A123TVSource(),         # 已启用：原来的自研核心，720 条主力
-    JsardSource(),          # 已启用：ajax 列表 + 播放页解码
-    MacCMSSource(),         # 未启用：确认站方 api.php 可用后填 host/api 再开
-    HtmlGenericSource(),    # 未启用：模板，复制成具体站点再开
-] + STUBS                   # 未启用：剩下 3 个站的占位骨架（tzqjdy / hello / kpkuang）
+    A123TVSource(),
+    JsardSource(),
+    TzqjdySource(),
+    MacCMSSource(),
+    HtmlGenericSource(),
+] + [HELLO, KPKUANG]
 
 
 def enabled_sources():
