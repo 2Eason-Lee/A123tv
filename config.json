@@ -35,6 +35,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "a123_fdzys",
+      "name": "🍚 饭搭子影视",
+      "type": 1,
+      "api": "https://a123tv-api.eason-lee89750.workers.dev/fdzys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ]
 }
