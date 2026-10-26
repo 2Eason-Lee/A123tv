@@ -12,8 +12,8 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    # 网飞猫/饭搭子都是逐集抓播放页；加超时避免站点异常时任务一直挂着
-    timeout-minutes: 90
+    # 网飞猫/饭搭子都是逐集抓播放页；翻页加深后首次补库会久一些，放宽到 300 分钟
+    timeout-minutes: 300
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -34,7 +34,9 @@ jobs:
 
       - name: Crawl
         # --split 必须保留：Worker 的 /fdzys、/jsard 等路径依赖 vod-<源>.json
-        run: python crawler_v2.py --pages 5 --limit 45 --split
+        # --pages 10：往分类列表更深处翻，老片/非首页的剧也能进库
+        # --limit 60：每个分类最多解析 60 条新详情（是「每个分类」，不是总数）
+        run: python crawler_v2.py --pages 10 --limit 60 --split
 
       - name: Commit
         run: |
@@ -43,7 +45,17 @@ jobs:
           git add vod.json vod-*.json
           if git diff --cached --quiet; then
             echo "没有变化，跳过提交"
-          else
-            git commit -m "Auto update VOD data ($(date -u +%Y-%m-%dT%H:%MZ))"
-            git push
+            exit 0
           fi
+          git commit -m "Auto update VOD data ($(date -u +%Y-%m-%dT%H:%MZ))"
+          # 抓取要跑几十分钟，期间你在网页上手动传过文件的话，直接 push 会被拒。
+          # 先 rebase 再重试几次，两边都保留。
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin "$(git rev-parse --abbrev-ref HEAD)" && git push; then
+              exit 0
+            fi
+            echo "push 被拒，第 $i 次重试"
+            sleep 5
+          done
+          echo "推送失败：远端在抓取期间被改动过，请重跑一次 Action"
+          exit 1
