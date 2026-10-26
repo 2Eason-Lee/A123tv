@@ -30,6 +30,7 @@ class HttpClient:
         self.retries = retries
         self.delay = delay
         self.session = requests.Session()
+        self.session.trust_env = False
         self.session.headers.update({
             'User-Agent': UA,
             'Accept': 'text/html,application/xhtml+xml,application/json;q=0.9,*/*;q=0.8',
