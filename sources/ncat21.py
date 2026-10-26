@@ -117,7 +117,7 @@ class Ncat21Source:
     max_lines = 2              # 保留质量最好的两条线路，避免只剩一条 TC/失效线路
     max_probe_lines = 99       # 探测所有线路；不能在前几条失败后就漏掉后面的 4K 线路
     max_eps = 120              # 单条线路最多抓多少集；超长剧只保留最新的一批
-    max_details_per_class = 4  # 每轮每个分类最多解析多少条新详情
+    max_details_per_class = 6  # 每轮每个分类最多解析多少条新详情
     workers = 5                # 每集播放页并发数；太高容易被站点限流
 
     classes = [
