@@ -10,6 +10,7 @@
 from .a123tv import A123TVSource
 from .jsard import JsardSource
 from .tzqjdy import TzqjdySource
+from .fdzys import FdzysSource
 from .maccms import MacCMSSource
 from .html_generic import HtmlGenericSource
 from .stubs import HELLO, KPKUANG
@@ -18,6 +19,7 @@ SOURCES = [
     A123TVSource(),
     JsardSource(),
     TzqjdySource(),
+    FdzysSource(),
     MacCMSSource(),
     HtmlGenericSource(),
 ] + [HELLO, KPKUANG]

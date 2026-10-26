@@ -135,7 +135,7 @@ def clean_episodes(pairs):
         if url in seen:
             continue
         seen.add(url)
-        name = (str(name) if name else f'第{idx + 1}集').strip().replace('$', '')
+        name = (str(name) if name else f'第{idx + 1}集').strip().replace('$', '').replace('#', '')
         out.append(f'{name}${url}')
     return out
 
