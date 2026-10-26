@@ -12,6 +12,8 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # 网飞猫/饭搭子都是逐集抓播放页；加超时避免站点异常时任务一直挂着
+    timeout-minutes: 90
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,6 +25,12 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests
+
+      # 4K影视源要用 Deno 跑官方 WASM 生成播放地址签名
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
 
       - name: Crawl
         # --split 必须保留：Worker 的 /fdzys、/jsard 等路径依赖 vod-<源>.json
