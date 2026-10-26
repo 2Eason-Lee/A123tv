@@ -1,0 +1,27 @@
+{
+  "code": 1,
+  "msg": "数据成功",
+  "page": 1,
+  "pagecount": 1,
+  "limit": 1,
+  "total": 1,
+  "class": [
+    {
+      "type_id": 11,
+      "type_name": "连续剧"
+    }
+  ],
+  "list": [
+    {
+      "vod_id": 10001,
+      "vod_name": "嫁金钗",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792226060-300x450.jpg",
+      "vod_remarks": "更新至14集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/8c8950f5dfab6650e5934581f1b67656.m3u8#第2集$https://oss.douyinbit.com/m3u8/4de407d835269bafd1ebcbc20ffec51e.m3u8#第3集$https://oss.douyinbit.com/m3u8/9ce06f6e3af873cd164014c5354c2616.m3u8#第4集$https://oss.douyinbit.com/m3u8/59d991a96729f9aa5e5d1a73e34b84c4.m3u8#第5集$https://oss.douyinbit.com/m3u8/61f3f9d6d63b3bc84c63478f5256d8c4.m3u8#第6集$https://oss.douyinbit.com/m3u8/0edc66b906173941a06bba1ee1ac12af.m3u8#第7集$https://oss.douyinbit.com/m3u8/5a2c7c80beadbf2344625dd65b082024.m3u8#第8集$https://oss.douyinbit.com/m3u8/ebf973f664e5578b1ce685d5178c882e.m3u8#第9集$https://oss.douyinbit.com/m3u8/e8a13aab6258221a6e1354f19a88fd0a.m3u8#第10集$https://oss.douyinbit.com/m3u8/74d505cc512dae8e56563eaffcdf5893.m3u8#第11集$https://oss.douyinbit.com/m3u8/f7f5c22756f2ecf296e37cf2a292097d.m3u8#第12集$https://oss.douyinbit.com/m3u8/971e172769224b00c38a41f1ea919a3d.m3u8#第13集$https://oss.douyinbit.com/m3u8/2fec460f141e1e70681ee59cab053240.m3u8#第14集$https://oss.douyinbit.com/m3u8/2b8e31e7e4ca9fb21bcd53688d989541.m3u8",
+      "vod_source": "kvm"
+    }
+  ]
+}
