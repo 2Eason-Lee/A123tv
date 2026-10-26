@@ -23,7 +23,10 @@ import json
 import base64
 import urllib.parse
 
-from .base import HttpClient, make_item, clean_episodes, abs_url
+from .base import (
+    HttpClient, make_item, clean_episodes, abs_url,
+    probe_m3u8, quality_score, stream_quality_score,
+)
 
 
 class JsardSource:
@@ -41,8 +44,10 @@ class JsardSource:
         {'type_id': 4, 'type_name': '动漫'},
     ]
 
-    max_lines = 1     # 每部片保留几条线路（多了请求翻倍）
-    max_eps = 30      # 每条线路最多抓多少集，防止短剧几百集把时间吃光
+    max_lines_movie = 4   # 电影多留几条线路：同一部片常有 TC / HD / 国语 多个版本
+    max_lines_series = 2  # 连续剧留两条，避免只剩一条 TC，同时控制请求数
+    max_eps = 80          # 每条线路最多抓多少集；76 集连续剧能完整保留
+    max_probe_lines = 99  # 探测所有线路，不能在前几条成功后就停
 
     def __init__(self):
         self.http = HttpClient(referer=self.host)
@@ -99,26 +104,29 @@ class JsardSource:
         except Exception:
             return None
 
-    def _episodes(self, first_href, sid):
+    def _episodes(self, first_href, sid, first_cfg=None):
         """
         顺着 link_next 把一条线路的剧集走完。
 
         注意：配置里的 url_next 是【下一集的播放地址（已编码）】，
         不是下一页地址；要翻页必须用 link_next。
+        first_cfg 是探测线路时已经拿到的第一集配置，传进来可以少发一次请求。
         """
         eps = []
         href = first_href
         seen = set()
+        cfg = first_cfg
         for _ in range(self.max_eps):
             if not href or href in seen:
                 break
             seen.add(href)
 
-            try:
-                cfg = self._play_config(href)
-            except Exception as e:
-                print(f'  [{self.key}] 播放页请求失败 {href}: {e}')
-                break
+            if cfg is None:
+                try:
+                    cfg = self._play_config(href)
+                except Exception as e:
+                    print(f'  [{self.key}] 播放页请求失败 {href}: {e}')
+                    break
             if not cfg:
                 break
 
@@ -137,8 +145,32 @@ class JsardSource:
             if not nxt.startswith('/'):
                 break
             href = nxt
+            cfg = None
 
         return clean_episodes(eps)
+
+    def _probe_line(self, sid, line_name, href):
+        """探测一条线路的第一集，拿到质量标签和 m3u8，不整条抓。"""
+        try:
+            cfg = self._play_config(href)
+        except Exception:
+            return None
+        if not cfg:
+            return None
+        url = self._decode_url(cfg)
+        if not url:
+            return None
+        note = (cfg.get('note') or '').strip()
+        return {
+            'sid': sid,
+            'name': line_name,
+            'href': href,
+            'cfg': cfg,
+            'url': url,
+            'note': note,
+            'label': quality_score(line_name),
+            'ep': quality_score(note),
+        }
 
     # ---------------- 主流程 ----------------
     def crawl(self, pages=1, max_details=20, skip=None):
@@ -184,29 +216,49 @@ class JsardSource:
                         print(f'  [{self.key}] 详情失败 {name}: {e}')
                         continue
 
-                    groups = []
-                    tried = 0
-                    for sid, line_name, href in lines:
-                        # 第一条线路经常是死的/预告，所以多试几条，成功够数就停
-                        if len(groups) >= self.max_lines or tried >= self.max_lines + 2:
-                            break
-                        tried += 1
-                        try:
-                            eps = self._episodes(href, sid)
-                        except Exception as e:
-                            print(f'  [{self.key}] 播放页失败 {name} sid={sid}: {e}')
-                            continue
-                        if eps:
-                            groups.append((line_name, eps))
-
-                    if not groups:
-                        print(f'  [{self.key}] 没拿到播放地址: {name}')
-                        continue
-
                     # 分类以每条数据自带的 type_1/type 为准，比固定 tid 更可靠
                     tname = ((r.get('type_1') or {}).get('type_name')
                              or (r.get('type') or {}).get('type_name')
                              or c['type_name'])
+                    is_movie = '电影' in tname
+
+                    # 关键：先探测所有线路，按「线路名 + 第一集标签 + 真实码率」排序。
+                    # 以前是抓到第一条能播的就停，所以很多片只有一条 TC 线路。
+                    candidates = []
+                    for order, (sid, line_name, href) in enumerate(lines[:self.max_probe_lines]):
+                        cand = self._probe_line(sid, line_name, href)
+                        if not cand:
+                            continue
+                        cand['order'] = order
+                        if cand['label'] == 0 and cand['ep'] == 0:
+                            cand['stream'] = stream_quality_score(
+                                probe_m3u8(self.http, cand['url']))
+                        else:
+                            cand['stream'] = 0
+                        candidates.append(cand)
+
+                    if not candidates:
+                        print(f'  [{self.key}] 没拿到播放地址: {name}')
+                        continue
+
+                    candidates.sort(key=lambda x: (
+                        -x['label'], -x['ep'], -x['stream'], x['order']))
+                    keep = self.max_lines_movie if is_movie else self.max_lines_series
+                    picked = candidates[:keep]
+
+                    groups = []
+                    for cand in picked:
+                        try:
+                            eps = self._episodes(cand['href'], cand['sid'], cand['cfg'])
+                        except Exception as e:
+                            print(f'  [{self.key}] 播放页失败 {name} sid={cand["sid"]}: {e}')
+                            continue
+                        if eps:
+                            groups.append((cand['name'], eps))
+
+                    if not groups:
+                        print(f'  [{self.key}] 没拿到播放地址: {name}')
+                        continue
 
                     item = make_item(
                         vod_id=self.id_base + seq,

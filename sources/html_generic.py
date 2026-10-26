@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-纯 HTML 源模板（给 tv.tzqjdy.com、www.kpkuang.fun 这类站用）
+纯 HTML 源模板（给 www.kpkuang.fun 这类站用）
 
 这类站没有可用 JSON 接口，只能抓列表页 + 详情页。
 模板采用「扫链接 + 就近取字段」的策略，不依赖某个具体 class 名，

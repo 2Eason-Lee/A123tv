@@ -10,6 +10,7 @@ import re
 import time
 import json
 import random
+import urllib.parse
 import requests
 
 # 统一 UA：手机端 UA 更容易拿到完整页面
@@ -99,6 +100,111 @@ def abs_url(base, url):
     return url
 
 
+def probe_m3u8(http, url, deep=True):
+    """
+    读一次 m3u8，返回线路的「真实清晰度」信息。
+
+    很多站同一部片有十几条线路，线路名（无印云 / 优质云）和集名（第01集）
+    都不带 HD/TC 标签，光看 HTML 分不出好坏。这里直接看播放列表：
+      - master playlist：RESOLUTION=1920x1080 / BANDWIDTH / 3000k 这类码率
+      - media playlist：直接数片段，确认不是空壳
+
+    deep=False 时不追进子播放列表（子列表可能有几千个片段，很慢）；
+    只是排序用的话，master 里的分辨率/码率已经够了。
+
+    返回 {'ok', 'height', 'bandwidth', 'kbps', 'segments', 'encrypted'}。
+    任何一步失败都返回 ok=False，调用方按「未知质量」处理，不会因此丢线路。
+    """
+    info = {'ok': False, 'height': 0, 'bandwidth': 0, 'kbps': 0,
+            'segments': 0, 'encrypted': False}
+    if not url or not str(url).startswith('http'):
+        return info
+
+    try:
+        text = http.get(url)
+    except Exception:
+        return info
+    if not text or '#EXTM3U' not in text:
+        return info
+
+    info['ok'] = True
+    info['encrypted'] = '#EXT-X-KEY' in text
+
+    heights = [int(x) for x in re.findall(r'RESOLUTION=\d+x(\d+)', text)]
+    bandwidths = [int(x) for x in re.findall(r'BANDWIDTH=(\d+)', text)]
+    if heights:
+        info['height'] = max(heights)
+    if bandwidths:
+        info['bandwidth'] = max(bandwidths)
+
+    if '#EXT-X-STREAM-INF' not in text:
+        info['segments'] = text.count('#EXTINF')
+        return info
+
+    # master playlist：优先选码率最高 / 路径里带 3000k 的那一路
+    best_uri, best_score = '', -1
+    lines = [ln.strip() for ln in text.splitlines()]
+    for i, line in enumerate(lines):
+        if not line.startswith('#EXT-X-STREAM-INF'):
+            continue
+        bw_m = re.search(r'BANDWIDTH=(\d+)', line)
+        bw = int(bw_m.group(1)) if bw_m else 0
+        for nxt in lines[i + 1:]:
+            if not nxt or nxt.startswith('#'):
+                continue
+            kbps_m = re.search(r'(\d{3,5})k', nxt, re.I)
+            kbps = int(kbps_m.group(1)) if kbps_m else 0
+            score = kbps * 1000 + bw
+            if score > best_score:
+                best_score, best_uri = score, nxt
+            break
+
+    if best_uri:
+        kbps_m = re.search(r'(\d{3,5})k', best_uri, re.I)
+        if kbps_m:
+            info['kbps'] = int(kbps_m.group(1))
+        if deep:
+            try:
+                sub = http.get(urllib.parse.urljoin(url, best_uri))
+                info['segments'] = sub.count('#EXTINF')
+                info['encrypted'] = info['encrypted'] or '#EXT-X-KEY' in sub
+            except Exception:
+                pass
+
+    return info
+
+
+# 片名末尾常见的清晰度 / 语言标签。站点会把它们当片名的一部分，
+# 例如「给阿嬷的情书 TC」「欢迎来龙餐馆 HD国语」，入库前统一清掉。
+_QUALITY_TAGS = (
+    'TC', 'TS', 'CAM', 'HDTS', 'HDTC', '枪版', '抢先版', '清晰版', '偷录', '盗摄',
+    'HD', 'BD', '蓝光', '高清', '超清', '4K', '1080P', '720P', '正片', '完整版',
+    '国语', '普通话', '粤语', '潮汕话', '闽南语', '原声', '中字', '中文字幕', '双语', '英语',
+)
+_QUALITY_TAIL_RE = re.compile(
+    r'[\s\-_·|/]*[\(\[（【]?\s*(?:'
+    + '|'.join(re.escape(t) for t in _QUALITY_TAGS)
+    + r')(?:版|版本)?(?:v\d+)?\s*[\)\]）】]?\s*$',
+    re.I,
+)
+
+
+def clean_title_suffix(name):
+    """去掉片名末尾的 TC / HD / HD国语 / 正片 等版本标签（可叠加，循环剥离）。
+
+    整串都是标签（例如备注里只写「TC国语」）时返回空字符串，调用方自行兜底。
+    """
+    s = (name or '').strip()
+    for _ in range(5):
+        new = _QUALITY_TAIL_RE.sub('', s).strip()
+        if new == s:
+            break
+        s = new
+        if not s:
+            break
+    return s
+
+
 def norm_name(name):
     """用于跨源去重的名称归一化：去掉季数/年份/空格/标点。"""
     if not name:
@@ -108,6 +214,37 @@ def norm_name(name):
     s = re.sub(r'(第[一二三四五六七八九十\d]+季|season\d+|s\d{1,2})', '', s)
     s = re.sub(r'(19|20)\d{2}', '', s)
     return s
+
+
+# ---- 清晰度/版本评分：所有源共用一套，避免各写一份还写得不一样 ----
+_LOW_VERSION_RE = re.compile(r'(?<![A-Z])(?:HD)?(?:TC|TS|CAM)|枪版|抢先版|清晰版|偷录|盗摄')
+_HIGH_VERSION_RE = re.compile(r'(?:HD|BD|蓝光|高清|超清|4K|1080P|720P|正片|完整版)', re.I)
+_LANG_VERSION_RE = re.compile(r'(?:国语|普通话|粤语|潮汕话|闽南语|原声|中字|中文字幕|双语|英语)', re.I)
+
+
+def quality_score(text):
+    """版本/清晰度评分：HD/正片 +50，TC/枪版 -100，纯集数不计分。"""
+    s = (text or '').strip()
+    if not s:
+        return 0
+    if s.isdigit() or re.fullmatch(r'第\s*\d+\s*集', s):
+        return 0
+    if _LOW_VERSION_RE.search(s):
+        return -100
+    score = 50 if _HIGH_VERSION_RE.search(s) else 0
+    if _LANG_VERSION_RE.search(s):
+        score += 3
+    return score
+
+
+def stream_quality_score(info):
+    """把 probe_m3u8 的结果压成一个可比较的数字：分辨率优先，其次码率。"""
+    if not info or not info.get('ok'):
+        return 0
+    height = info.get('height') or 0
+    kbps = info.get('kbps') or 0
+    bandwidth = info.get('bandwidth') or 0
+    return height * 10000 + kbps * 10 + min(bandwidth // 1000, 20000)
 
 
 def is_blocked(*texts):

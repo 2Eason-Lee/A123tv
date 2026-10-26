@@ -9,8 +9,9 @@
 
 from .a123tv import A123TVSource
 from .jsard import JsardSource
-from .tzqjdy import TzqjdySource
 from .fdzys import FdzysSource
+from .kvm import KvmSource
+from .ncat21 import Ncat21Source
 from .maccms import MacCMSSource
 from .html_generic import HtmlGenericSource
 from .stubs import HELLO, KPKUANG
@@ -18,8 +19,9 @@ from .stubs import HELLO, KPKUANG
 SOURCES = [
     A123TVSource(),
     JsardSource(),
-    TzqjdySource(),
     FdzysSource(),
+    Ncat21Source(),
+    KvmSource(),
     MacCMSSource(),
     HtmlGenericSource(),
 ] + [HELLO, KPKUANG]

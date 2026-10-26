@@ -1,16 +1,10 @@
 """
-剩下 3 个站的适配器骨架（默认关闭）
+剩下 2 个站的适配器骨架（默认关闭）
 
-这 3 个站的模板和 jsard 不一样，不能套 MacCmsCloneSource，需要各写一段解析。
+这 2 个站的模板和 jsard 不一样，不能套 MacCmsCloneSource，需要各写一段解析。
 下面把已经探明的事实写清楚，你（或我）按 TODO 填完就能启用。
 
 探测结果：
-  tv.tzqjdy.com        飘零影院
-      - /api.php/provide/vod/ 等全部 404，不是标准接口
-      - 详情页形如 https://tv.tzqjdy.com/m/19553.shtml
-      - 首页是服务端渲染，没有 __NEXT_DATA__
-      - TODO: 找到「分类列表页」URL 规律 + 详情页里的播放地址（搜 m3u8 / player_）
-
   m.hellociqryx6e.com  极光影视
       - Next.js 前端（/_next/...），HTML 里没有播放地址
       - 详情页形如 https://m.hellociqryx6e.com/detail/147455
@@ -41,13 +35,6 @@ class TodoSource(Source):
         raise NotImplementedError(f"{self.key}: 还没实现播放地址解析")
 
 
-TZQJDY = TodoSource()
-TZQJDY.key = "tzqjdy"
-TZQJDY.name = "飘零影院"
-TZQJDY.domain = "https://tv.tzqjdy.com"
-TZQJDY.offset = 30_000_000
-TZQJDY.categories = []
-
 HELLO = TodoSource()
 HELLO.key = "hellociqryx6e"
 HELLO.name = "极光影视"
@@ -62,4 +49,4 @@ KPKUANG.domain = "https://www.kpkuang.fun"
 KPKUANG.offset = 50_000_000
 KPKUANG.categories = []
 
-STUBS = [TZQJDY, HELLO, KPKUANG]
+STUBS = [HELLO, KPKUANG]
