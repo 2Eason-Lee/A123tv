@@ -48,7 +48,6 @@ class JsardSource:
     max_lines_series = 2  # 连续剧留两条，避免只剩一条 TC，同时控制请求数
     max_eps = 80          # 每条线路最多抓多少集；76 集连续剧能完整保留
     max_probe_lines = 99  # 探测所有线路，不能在前几条成功后就停
-    _WHITELIST_KEYWORDS = ['蓝光极速', '蓝光']
 
     def __init__(self):
         self.http = HttpClient(referer=self.host)
@@ -237,18 +236,6 @@ class JsardSource:
                         else:
                             cand['stream'] = 0
                         candidates.append(cand)
-
-                    candidates = [
-                        c for c in candidates
-                        if any(kw in (c['name'] or '') for kw in self._WHITELIST_KEYWORDS)
-                    ]
-                    if not candidates:
-                        print(f'  [{self.key}] {name} 没有命中白名单的线路，跳过')
-                        continue
-
-                    if not candidates:
-                        print(f'  [{self.key}] 没拿到播放地址: {name}')
-                        continue
 
                     candidates.sort(key=lambda x: (
                         -x['label'], -x['ep'], -x['stream'], x['order']))

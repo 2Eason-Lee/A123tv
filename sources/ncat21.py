@@ -43,7 +43,7 @@ from .base import (
 )
 
 
-_WHITELIST_KEYWORDS = ['超清', '秒播', '4K']
+_WHITELIST_KEYWORDS = ['超清', '秒播', '4K', '蓝光']
 
 
 class NcatHttp(HttpClient):
