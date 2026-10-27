@@ -1,55 +1,40 @@
 name: Update VOD Data
-
 on:
   schedule:
     # 每 6 小时跑一次（UTC）
     - cron: '0 */6 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
-    # 网飞猫/饭搭子都是逐集抓播放页；翻页加深后首次补库会久一些，放宽到 300 分钟
     timeout-minutes: 300
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install requests
-
-      # 4K影视源要用 Deno 跑官方 WASM 生成播放地址签名
       - name: Setup Deno
         uses: denoland/setup-deno@v2
         with:
           deno-version: v2.x
-
       - name: Crawl
-        # --split 必须保留：Worker 的 /fdzys、/jsard 等路径依赖 vod-<源>.json
-        # --pages 10：往分类列表更深处翻，老片/非首页的剧也能进库
-        # --limit 60：每个分类最多解析 60 条新详情（是「每个分类」，不是总数）
         run: python crawler_v2.py --pages 10 --limit 60 --split
-
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add vod.json vod-*.json
+          git add vod-*.json
           if git diff --cached --quiet; then
             echo "没有变化，跳过提交"
             exit 0
           fi
           git commit -m "Auto update VOD data ($(date -u +%Y-%m-%dT%H:%MZ))"
-          # 抓取要跑几十分钟，期间你在网页上手动传过文件的话，直接 push 会被拒。
-          # 先 rebase 再重试几次，两边都保留。
           for i in 1 2 3; do
             if git pull --rebase --autostash origin "$(git rev-parse --abbrev-ref HEAD)" && git push; then
               exit 0
