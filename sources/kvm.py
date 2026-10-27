@@ -60,12 +60,10 @@ class KvmSource:
     name = '4K影视'
     enabled = True
 
-    # 站点换过域名：4kvm.tv 现在整站 404，镜像站是 4kvm.org / 4kvm.net。
-    # 每次开跑按顺序探一遍，用第一个能出 <div class="movie-card"> 的域名。
     hosts = [
-        'https://www.4kvm.org',
-        'https://www.4kvm.net',
         'https://www.4kvm.tv',
+        'https://www.4kvm.net',
+        'https://www.4kvm.org',
     ]
     host = hosts[0]
     id_base = 70_000_000
@@ -428,7 +426,7 @@ class KvmSource:
             return None
 
         # 备注按「实际拿到的集数」写，避免页面写 19 集、实际只有 14 集
-        max_eps = max(len(u.split('#')) for _, u in groups)
+        max_eps = max(len(u) for _, u in groups)
         if type_name in ('连续剧', '动漫', '综艺'):
             whole = re.search(r'全\s*(\d+)\s*集', remark or '')
             if not (whole and int(whole.group(1)) == max_eps):
