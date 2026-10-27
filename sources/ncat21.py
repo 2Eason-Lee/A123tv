@@ -43,6 +43,9 @@ from .base import (
 )
 
 
+_WHITELIST_KEYWORDS = ['超清', '秒播', '4K']
+
+
 class NcatHttp(HttpClient):
     """带 cdndefend 浏览器校验的 HTTP 客户端。"""
 
@@ -114,7 +117,7 @@ class Ncat21Source:
     id_base = 80_000_000
     delay = 0.12
 
-    max_lines = 2              # 保留质量最好的两条线路，避免只剩一条 TC/失效线路
+    max_lines = 3              # 三条白名单线路
     max_probe_lines = 99       # 探测所有线路；不能在前几条失败后就漏掉后面的 4K 线路
     max_eps = 120              # 单条线路最多抓多少集；超长剧只保留最新的一批
     max_details_per_class = 6  # 每轮每个分类最多解析多少条新详情
@@ -351,8 +354,16 @@ class Ncat21Source:
             print(f'  [ncat21] 详情页没解析到线路: {detail_url}')
             return None
 
+        whitelisted = [
+            (idx, line) for idx, line in enumerate(lines)
+            if any(kw in f'{line[0]}{line[1]}' for kw in _WHITELIST_KEYWORDS)
+        ]
+        if not whitelisted:
+            print(f'  [ncat21] {name} 没有命中白名单的线路，跳过')
+            return None
+
         ordered = sorted(
-            enumerate(lines),
+            whitelisted,
             key=lambda x: (
                 -self._line_score(x[1][0], x[1][1]),
                 -x[1][2],

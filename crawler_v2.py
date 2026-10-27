@@ -403,7 +403,12 @@ def make_skip(cache, source_key=None, force=None):
             return False
         if source_key and (old.get('vod_source') or 'a123tv') != source_key:
             return False
-        return (old.get('vod_remarks') or '') == (remarks or '')
+        # vod_remarks 可能被合并阶段补成「更新至19集」，源站列表页却只写 1080p 或空。
+        # 增量判断必须和「源站原始备注」比，否则同一部片每轮都会被重抓。
+        old_remarks = old.get('vod_remarks_src')
+        if old_remarks is None:
+            old_remarks = old.get('vod_remarks') or ''
+        return old_remarks == (remarks or '')
     return skip
 
 
@@ -504,9 +509,14 @@ def run(args):
         for it in fresh:
             key = norm_name(it.get('vod_name'))
             old = prev_by_name.get(key)
+            # 源站列表页的原始备注（可能是空），增量判断用它，避免每轮重抓
+            raw_remarks = it.get('vod_remarks') or ''
             # 指定片单直接走详情页，拿不到列表页的上映日期等备注，沿用缓存里的
-            if old and not (it.get('vod_remarks') or '').strip():
-                it['vod_remarks'] = old.get('vod_remarks') or ''
+            if old and not raw_remarks.strip():
+                old_rem = old.get('vod_remarks') or ''
+                if not re.fullmatch(r'\d+\s*个线路', old_rem):
+                    it['vod_remarks'] = old_rem
+            it['vod_remarks_src'] = raw_remarks
             new_n, old_n = _max_ep_count(it), _max_ep_count(old or {})
             # 本次抓取不完整（比如站点限流）时，不要让少集数覆盖缓存里的多集数。
             # 但旧数据明显是「线路名当集名」的坏数据时，必须让新数据覆盖。
@@ -529,50 +539,27 @@ def run(args):
         for key, items in source_items.items()
         for it in items
     }
-    legacy = [
-        v for v in cache.values()
-        if ((v.get('vod_source') or 'a123tv'), norm_name(v.get('vod_name'))) not in covered
-    ]
+    for src in SOURCES:
+        subset = list(source_items.get(src.key, []))
+        if not subset:
+            continue
+        sub_items = [copy.deepcopy(x) for x in subset]
+        kept_s, dropped_s = clean_and_filter(sub_items)
+        if not kept_s:
+            continue
+        merged_s = merge_items(kept_s)
+        sub_payload = build_payload(merged_s)
+        fn = f'vod-{src.key}.json'
 
-    all_items = [it for items in source_items.values() for it in items] + legacy
-    kept, dropped = clean_and_filter(all_items)
-    kept_ids = {id(x) for x in kept}
+        if args.dry_run:
+            print(f'dry-run {fn}：{len(sub_payload["list"])} 条')
+            if sub_payload['list']:
+                print(json.dumps(sub_payload['list'][0], ensure_ascii=False)[:200])
+            continue
 
-    merged = merge_items(copy.deepcopy(kept))
-    payload = build_payload(merged)
-
-    print('-' * 46)
-    print(f'原始 {len(all_items)} 条 → 敏感词过滤 {dropped} 条 → 合并去重后 {len(merged)} 条')
-    print(f'敏感词表: {",".join(SENSITIVE_WORDS)}')
-    for c in payload['class']:
-        n = sum(1 for x in payload['list'] if x['type_id'] == c['type_id'])
-        print(f'  {c["type_name"]}({c["type_id"]}): {n} 条')
-
-    if not merged:
-        print('结果为空，不覆盖 vod.json（防止把线上数据刷没）')
-        return 2
-
-    if args.dry_run:
-        print('dry-run：不写文件')
-        for it in payload['list'][:3]:
-            print(json.dumps(it, ensure_ascii=False)[:300])
-        return 0
-
-    with open(OUT_FILE, 'w', encoding='utf-8') as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-    print(f'已写入 {OUT_FILE}（{os.path.getsize(OUT_FILE) // 1024} KB）')
-
-    # 按源拆成独立文件：手机里就能把每个源当成一个站点单独选
-    if args.split:
-        for src in SOURCES:
-            subset = [x for x in source_items.get(src.key, []) if id(x) in kept_ids]
-            if not subset:
-                continue
-            sub_payload = build_payload(merge_items(copy.deepcopy(subset)))
-            fn = f'vod-{src.key}.json'
-            with open(fn, 'w', encoding='utf-8') as f:
-                json.dump(sub_payload, f, ensure_ascii=False, indent=2)
-            print(f'已写入 {fn}（{len(sub_payload["list"])} 条）')
+        with open(fn, 'w', encoding='utf-8') as f:
+            json.dump(sub_payload, f, ensure_ascii=False, indent=2)
+        print(f'已写入 {fn}（{len(sub_payload["list"])} 条）')
 
     return 0
 
