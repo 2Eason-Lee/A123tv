@@ -3,8 +3,8 @@
   "msg": "数据成功",
   "page": 1,
   "pagecount": 1,
-  "limit": 31,
-  "total": 31,
+  "limit": 37,
+  "total": 37,
   "class": [
     {
       "type_id": 10,
@@ -26,54 +26,18 @@
   "list": [
     {
       "vod_id": 10001,
-      "vod_name": "追梦吧青春",
+      "vod_name": "遗忘假期",
       "type_id": 10,
       "type_name": "电影",
-      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261027/17/16/30/898d23ca8dd646fa0cc6c8695b72b30c.jpg",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261028/13/31/42/40af468558f8dc02877df75651581d97.jpg",
       "vod_remarks": "",
-      "vod_play_from": "蓝光3$$$蓝光4",
-      "vod_play_url": "HD国语$https://player.yzzy37-play.vip/20261027/1484_729c6888/index.m3u8$$$HD$https://v13.rstu6.com/202610/27/UksCsicWRd27/video/index.m3u8",
+      "vod_play_from": "蓝光3",
+      "vod_play_url": "HD中字$https://cdn.vvvip-plays33.cc/20261028/21754_f3af38a9/index.m3u8",
       "vod_source": "ncat21",
-      "vod_remarks_src": "HD国语"
+      "vod_remarks_src": "HD中字"
     },
     {
       "vod_id": 10002,
-      "vod_name": "吸血新一代",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261027/16/32/14/f4e38c3ed48e017da5229c9f4bb098f4.jpg",
-      "vod_remarks": "",
-      "vod_play_from": "蓝光3$$$蓝光1$$$蓝光9",
-      "vod_play_url": "HD中字$https://player.yzzy37-play.vip/20261027/1482_ab541d87/index.m3u8$$$高清$https://v.fengbao14.com/video/xixuexinyidai/9ed87bdaaac9/index.m3u8$$$正片$https://vv.jisuzyv.com/play/dyP6W8zb/index.m3u8",
-      "vod_source": "ncat21",
-      "vod_remarks_src": "HD中字"
-    },
-    {
-      "vod_id": 10003,
-      "vod_name": "迷失者",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261027/11/48/02/8d814c59b8973327240c2c305bb2ce65.jpg",
-      "vod_remarks": "",
-      "vod_play_from": "蓝光3$$$蓝光1$$$蓝光9",
-      "vod_play_url": "HD中字$https://cdn.vvvip-plays33.cc/20261027/21723_977e6726/index.m3u8$$$HD$https://v.fengbao14.com/video/mishizhe/f01e5aa56bd9/index.m3u8$$$正片$https://vv.jisuzyv.com/play/dwpEqOwe/index.m3u8",
-      "vod_source": "ncat21",
-      "vod_remarks_src": "HD中字"
-    },
-    {
-      "vod_id": 10004,
-      "vod_name": "双面游戏",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261027/11/33/04/9c25985919786c3fd40e05ebd9963d8c.jpg",
-      "vod_remarks": "",
-      "vod_play_from": "蓝光3$$$蓝光9$$$蓝光7",
-      "vod_play_url": "HD中字$https://cdn.yzzy32-play.com/20261027/52721_0c2e8113/index.m3u8$$$正片$https://vv.jisuzyv.com/play/erkElx2a/index.m3u8$$$正片$https://play.hhuus.com/play/bqxVk07a/index.m3u8",
-      "vod_source": "ncat21",
-      "vod_remarks_src": "HD中字"
-    },
-    {
-      "vod_id": 10005,
       "vod_name": "理智与情感",
       "type_id": 10,
       "type_name": "电影",
@@ -85,19 +49,187 @@
       "vod_remarks_src": "更新至"
     },
     {
-      "vod_id": 10006,
+      "vod_id": 10003,
+      "vod_name": "牛仔杀人狂",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261024/21/08/54/eab6687f09b6ce757de5fb3a9c28b1ba.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "蓝光3$$$蓝光9$$$蓝光7",
+      "vod_play_url": "HD中字$https://player.yzzyvip-35.com/20261024/19598_0e3febae/index.m3u8$$$正片$https://vv.jisuzyv.com/play/b82ox5ge/index.m3u8$$$正片$https://play.hhuus.com/play/e73nw5ye/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "正片"
+    },
+    {
+      "vod_id": 10004,
+      "vod_name": "失控长夜",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261024/14/48/03/13913a8c6535100f5e4d9137ed7fc0b9.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "蓝光3$$$蓝光9$$$蓝光7",
+      "vod_play_url": "HD中字$https://cdn.vvvip-plays33.cc/20261024/21619_e8328277/index.m3u8$$$正片$https://vv.jisuzyv.com/play/b82oxyre/index.m3u8$$$正片$https://play.hhuus.com/play/e73nwxBe/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "HD中字"
+    },
+    {
+      "vod_id": 10005,
       "vod_name": "谜林",
       "type_id": 11,
       "type_name": "连续剧",
       "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261027/11/48/02/f08418bcaf886e1a9795acb418286823.jpg",
+      "vod_remarks": "更新至12集",
+      "vod_play_from": "超清2$$$蓝光1$$$蓝光9",
+      "vod_play_url": "第1集$https://142.248.97.148:21302/data5/jvods/hls/dhz/174/173451/26102813/2_389971_6663684/1920/index.m3u8?appId=ncat&sign=f08d459b69e287a309cb1bfbbca2a0fa&timestamp=1793175795&ref=0#第2集$https://208.69.102.156:21302/data7/jvods/hls/dhz/174/173451/26102813/2_389971_6663686/1920/index.m3u8?appId=ncat&sign=5d278910b08d18b883fbc7759e89bc6a&timestamp=1793175798&ref=0#第3集$https://142.248.99.212:21302/data2/jvods/hls/dhz/174/173451/26102813/2_389971_6663691/1920/index.m3u8?appId=ncat&sign=d59a0a8e0384f348c463687a9133c819&timestamp=1793175798&ref=0#第4集$https://142.248.97.212:21302/data10/jvods/hls/dhz/174/173451/26102813/2_389971_6663689/1920/index.m3u8?appId=ncat&sign=f04cc586072a42ae498ee687fffe6c29&timestamp=1793175798&ref=0#第5集$https://142.248.96.84:21302/data1/jvods/hls/dhz/174/173451/26102813/2_389971_6663690/1920/index.m3u8?appId=ncat&sign=c1e025950cbfe2d25723f1ecd8616314&timestamp=1793175798&ref=0#第6集$https://142.248.97.120:21302/data3/jvods/hls/dhz/174/173451/26102813/2_389971_6663692/1920/index.m3u8?appId=ncat&sign=8a02c2beb51b86db5e74164e10e4ad14&timestamp=1793175798&ref=0#第7集$https://208.69.102.120:21302/data5/jvods/hls/dhz/174/173451/26102813/2_389971_6663694/1920/index.m3u8?appId=ncat&sign=a4a3aeb0ef39236c4631e881c35f252c&timestamp=1793175798&ref=0#第8集$https://208.69.102.248:21302/data6/jvods/hls/dhz/174/173451/26102813/2_389971_6663695/1920/index.m3u8?appId=ncat&sign=a129cc67ae8f9cbd2f2d34c75a93c0c8&timestamp=1793175798&ref=0#第9集$https://142.248.97.120:21302/data4/jvods/hls/dhz/174/173451/26102813/2_389971_6663693/1920/index.m3u8?appId=ncat&sign=e22a2ef47115426f75f4f292ab91273d&timestamp=1793175798&ref=0#第10集$https://208.69.102.120:21302/data8/jvods/hls/dhz/174/173451/26102813/2_389971_6663697/1920/index.m3u8?appId=ncat&sign=93017b2b45c0e2135f3f0ee387c8fe8e&timestamp=1793175798&ref=0#第11集$https://208.69.102.156:21302/data7/jvods/hls/dhz/174/173451/26102813/2_389971_6663696/1920/index.m3u8?appId=ncat&sign=82258d9d9c63499fabae6f5f070ebe05&timestamp=1793175798&ref=0#第12集$https://64.112.77.120:21302/data9/jvods/hls/dhz/174/173451/26102813/2_389971_6663698/1920/index.m3u8?appId=ncat&sign=1073267a10fac5c0eadcf60b8493a754&timestamp=1793175799&ref=0$$$第1集$https://v.fengbao14.com/video/milin/cc232c46b7fc/index.m3u8#第2集$https://v.fengbao14.com/video/milin/6a672aebb1a5/index.m3u8#第3集$https://v.fengbao14.com/video/milin/4da2fc201973/index.m3u8#第4集$https://v.fengbao14.com/video/milin/d4e69997beed/index.m3u8#第5集$https://v.fengbao14.com/video/milin/4d072f26b4a2/index.m3u8#第6集$https://v.fengbao14.com/video/milin/dcfa56ebfc23/index.m3u8#第7集$https://v.fengbao14.com/video/milin/25d56f5dfe69/index.m3u8#第8集$https://v.fengbao14.com/video/milin/7e8e33ded3db/index.m3u8#第9集$https://v.fengbao14.com/video/milin/fcd36d371802/index.m3u8#第10集$https://v.fengbao14.com/video/milin/eddc92d308e4/index.m3u8#第11集$https://v.fengbao14.com/video/milin/ceee47505a48/index.m3u8#第12集$https://v.fengbao14.com/video/milin/190a9296c60a/index.m3u8$$$第1集$https://vv.jisuzyv.com/play/aQWN8oYd/index.m3u8#第2集$https://vv.jisuzyv.com/play/dG6YVL0b/index.m3u8#第3集$https://vv.jisuzyv.com/play/epYRjN6a/index.m3u8#第4集$https://vv.jisuzyv.com/play/dyP6vZWb/index.m3u8#第5集$https://vv.jisuzyv.com/play/eZ6w9k6e/index.m3u8#第6集$https://vv.jisuzyv.com/play/aOYE0WNd/index.m3u8#第7集$https://vv.jisuzyv.com/play/ejRv9E5e/index.m3u8#第8集$https://vv.jisuzyv.com/play/b68mAn9e/index.m3u8#第9集$https://vv.jisuzyv.com/play/aOYEpOLd/index.m3u8#第10集$https://vv.jisuzyv.com/play/e0R2j1Kb/index.m3u8#第11集$https://vv.jisuzyv.com/play/b4xkn5nb/index.m3u8#第12集$https://vv.jisuzyv.com/play/eXD7B1Ae/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "更新至12集"
+    },
+    {
+      "vod_id": 10006,
+      "vod_name": "大哥请赐教",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261026/18/31/11/2581cbb143869fe1eb8bea0071f1141c.webp",
       "vod_remarks": "更新至08集",
-      "vod_play_from": "蓝光1$$$蓝光9$$$蓝光",
-      "vod_play_url": "第1集$https://v.fengbao14.com/video/milin/cc232c46b7fc/index.m3u8#第2集$https://v.fengbao14.com/video/milin/6a672aebb1a5/index.m3u8#第3集$https://v.fengbao14.com/video/milin/4da2fc201973/index.m3u8#第4集$https://v.fengbao14.com/video/milin/d4e69997beed/index.m3u8#第5集$https://v.fengbao14.com/video/milin/4d072f26b4a2/index.m3u8#第6集$https://v.fengbao14.com/video/milin/dcfa56ebfc23/index.m3u8#第7集$https://v.fengbao14.com/video/milin/25d56f5dfe69/index.m3u8#第8集$https://v.fengbao14.com/video/milin/7e8e33ded3db/index.m3u8$$$第1集$https://vv.jisuzyv.com/play/aQWN8oYd/index.m3u8#第2集$https://vv.jisuzyv.com/play/dG6YVL0b/index.m3u8#第3集$https://vv.jisuzyv.com/play/epYRjN6a/index.m3u8#第4集$https://vv.jisuzyv.com/play/dyP6vZWb/index.m3u8#第5集$https://vv.jisuzyv.com/play/eZ6w9k6e/index.m3u8#第6集$https://vv.jisuzyv.com/play/aOYE0WNd/index.m3u8#第7集$https://vv.jisuzyv.com/play/ejRv9E5e/index.m3u8#第8集$https://vv.jisuzyv.com/play/b68mAn9e/index.m3u8$$$第01集$https://play.phimgood.com/20261027/33221_4dc8561b/index.m3u8#第02集$https://play.phimgood.com/20261027/33220_2a11da45/index.m3u8#第03集$https://play.phimgood.com/20261027/33219_e9729543/index.m3u8#第04集$https://play.phimgood.com/20261027/33218_f338ee96/index.m3u8#第05集$https://play.phimgood.com/20261027/33217_02d4ad74/index.m3u8#第06集$https://play.phimgood.com/20261027/33216_b52bd057/index.m3u8#第07集$https://play.phimgood.com/20261027/33215_0a5de450/index.m3u8#第08集$https://play.phimgood.com/20261027/33214_6264104f/index.m3u8",
+      "vod_play_from": "超清2$$$蓝光1$$$蓝光9",
+      "vod_play_url": "第1集$https://142.248.96.212:21302/data6/jvods/hls/dhz/174/173454/26102814/2_389941_6663715/1920/index.m3u8?appId=ncat&sign=c99515f1a7464c5e4c58176f7bc5be75&timestamp=1793175802&ref=0#第2集$https://142.248.97.148:21302/data10/jvods/hls/dhz/174/173454/26102814/2_389941_6663719/1920/index.m3u8?appId=ncat&sign=cdf45e663bbb47236fd8be1b78662d58&timestamp=1793175804&ref=0#第3集$https://142.248.97.212:21302/data2/jvods/hls/dhz/174/173454/26102814/2_389941_6663721/1920/index.m3u8?appId=ncat&sign=26a8d54be220d8d3c227de4f4c06bb5a&timestamp=1793175804&ref=0#第4集$https://142.248.97.120:21302/data8/jvods/hls/dhz/174/173454/26102814/2_389941_6663717/1920/index.m3u8?appId=ncat&sign=de719d13a3da07b68f1472a1bc81efd8&timestamp=1793175804&ref=0#第5集$https://208.69.102.120:21302/data1/jvods/hls/dhz/174/173454/26102814/2_389941_6663720/1920/index.m3u8?appId=ncat&sign=1e18bf40c78683f6df8f10956ec5f4fd&timestamp=1793175804&ref=0#第6集$https://208.69.102.156:21302/data9/jvods/hls/dhz/174/173454/26102814/2_389941_6663718/1920/index.m3u8?appId=ncat&sign=887222460ab524cea18fa5ba42d083c3&timestamp=1793175804&ref=0$$$第1集$https://v.fengbao14.com/video/dageqingcijiao/e62054579f4a/index.m3u8#第2集$https://v.fengbao14.com/video/dageqingcijiao/002ac4788bae/index.m3u8#第3集$https://v.fengbao14.com/video/dageqingcijiao/175445ddac0a/index.m3u8#第4集$https://v.fengbao14.com/video/dageqingcijiao/79c85147e685/index.m3u8#第5集$https://v.fengbao14.com/video/dageqingcijiao/2f8d86582e9f/index.m3u8#第6集$https://v.fengbao14.com/video/dageqingcijiao/c73b85f2fb02/index.m3u8$$$第1集$https://vv.jisuzyv.com/play/aKrYVgne/index.m3u8#第2集$https://vv.jisuzyv.com/play/elYv9Z6a/index.m3u8#第3集$https://vv.jisuzyv.com/play/erkElj6a/index.m3u8#第4集$https://vv.jisuzyv.com/play/aADQYRze/index.m3u8#第5集$https://vv.jisuzyv.com/play/dwpE6OMe/index.m3u8#第6集$https://vv.jisuzyv.com/play/en5YWBEd/index.m3u8",
       "vod_source": "ncat21",
       "vod_remarks_src": "更新至08集"
     },
     {
       "vod_id": 10007,
+      "vod_name": "华灯起",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261026/15/27/02/634973a02e8b683de526cbf56318b6dc.jpg",
+      "vod_remarks": "第10集",
+      "vod_play_from": "超清2$$$蓝光1$$$蓝光9",
+      "vod_play_url": "第1集$https://208.69.102.120:21302/data2/jvods/hls/dhz/174/173450/26102813/2_389918_6663661/1920/index.m3u8?appId=ncat&sign=f15f86d9d8091ff865d40c471b1ed6b5&timestamp=1793175807&ref=0#第2集$https://208.69.102.248:21302/data7/jvods/hls/dhz/174/173450/26102813/2_389918_6663666/1920/index.m3u8?appId=ncat&sign=58b829ddf24d6c22e9416a5e8d402b53&timestamp=1793175809&ref=0#第3集$https://142.248.97.120:21302/data4/jvods/hls/dhz/174/173450/26102813/2_389918_6663663/1920/index.m3u8?appId=ncat&sign=050f32d035ee522e00bb7361dc341416&timestamp=1793175809&ref=0#第4集$https://208.69.102.120:21302/data3/jvods/hls/dhz/174/173450/26102813/2_389918_6663662/1920/index.m3u8?appId=ncat&sign=f02bba20d3f316f88bfc6542195a7c8d&timestamp=1793175809&ref=0#第5集$https://208.69.102.156:21302/data5/jvods/hls/dhz/174/173450/26102813/2_389918_6663664/1920/index.m3u8?appId=ncat&sign=253fcd86267856cb282bbe728987ca50&timestamp=1793175809&ref=0#第6集$https://64.112.77.120:21302/data6/jvods/hls/dhz/174/173450/26102813/2_389918_6663665/1920/index.m3u8?appId=ncat&sign=3ec980480591244abb33c1eb832f7b09&timestamp=1793175809&ref=0#第7集$https://64.112.77.184:21302/data8/jvods/hls/dhz/174/173450/26102813/2_389918_6663677/1920/index.m3u8?appId=ncat&sign=1b6c731b76e301bda22926c1d7bf14a3&timestamp=1793175809&ref=0#第8集$https://208.69.102.248:21302/data6/jvods/hls/dhz/174/173450/26102813/2_389918_6663675/1920/index.m3u8?appId=ncat&sign=ab7e664bd09ec4b13f2c5d73f3b8b8d5&timestamp=1793175809&ref=0#第9集$https://64.112.77.120:21302/data3/jvods/hls/dhz/174/173450/26102813/2_389918_6663682/1920/index.m3u8?appId=ncat&sign=31f6a21458eea075279c47aabeb0fb1c&timestamp=1793175809&ref=0#第10集$https://142.248.99.148:21302/data8/jvods/hls/dhz/174/173450/26102813/2_389918_6663687/1920/index.m3u8?appId=ncat&sign=46fe33e7f6b890f64a372b7f4e8b4106&timestamp=1793175809&ref=0$$$第1集$https://v.fengbao14.com/video/huadengqi/7b8cc2c89338/index.m3u8#第2集$https://v.fengbao14.com/video/huadengqi/3565327db379/index.m3u8#第3集$https://v.fengbao14.com/video/huadengqi/f2a6f661b6d6/index.m3u8#第4集$https://v.fengbao14.com/video/huadengqi/8ba645de98f4/index.m3u8#第5集$https://v.fengbao14.com/video/huadengqi/b7581c0cf0e3/index.m3u8#第6集$https://v.fengbao14.com/video/huadengqi/4bad67237e6c/index.m3u8#第7集$https://v.fengbao14.com/video/huadengqi/afb070d3f130/index.m3u8#第8集$https://v.fengbao14.com/video/huadengqi/235191841616/index.m3u8#第9集$https://v.fengbao14.com/video/huadengqi/2d4ef4c805c9/index.m3u8#第10集$https://v.fengbao14.com/video/huadengqi/c25140c85063/index.m3u8$$$第01集$https://vv.jisuzyv.com/play/eXD79NWe/index.m3u8#第02集$https://vv.jisuzyv.com/play/aOYE0Apd/index.m3u8#第03集$https://vv.jisuzyv.com/play/dG6YVp7b/index.m3u8#第04集$https://vv.jisuzyv.com/play/b4xkyN1b/index.m3u8#第05集$https://vv.jisuzyv.com/play/dwpEqQRe/index.m3u8#第06集$https://vv.jisuzyv.com/play/e0R2rJvb/index.m3u8#第07集$https://vv.jisuzyv.com/play/dyP6vK7b/index.m3u8#第08集$https://vv.jisuzyv.com/play/en5Y9ERd/index.m3u8#第09集$https://vv.jisuzyv.com/play/aQWNr99d/index.m3u8#第10集$https://vv.jisuzyv.com/play/eZ6wE75e/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "第10集"
+    },
+    {
+      "vod_id": 10008,
+      "vod_name": "危险心动",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261025/18/48/05/bca4650a0d7ed4f5531b605a9f3670d9.webp",
+      "vod_remarks": "完结",
+      "vod_play_from": "蓝光1$$$蓝光4",
+      "vod_play_url": "第1集$https://v.fengbao14.com/video/weixianxindong/c2f7269387a5/index.m3u8#第2集$https://v.fengbao14.com/video/weixianxindong/bf9a4a6118d5/index.m3u8#第3集$https://v.fengbao14.com/video/weixianxindong/8ad61b874185/index.m3u8#第4集$https://v.fengbao14.com/video/weixianxindong/3719f9589a65/index.m3u8#第5集$https://v.fengbao14.com/video/weixianxindong/d18124593fe2/index.m3u8#第6集完结$https://v.fengbao14.com/video/weixianxindong/d57298c8f938/index.m3u8$$$第01集$https://v14.rstu6.com/202610/25/pCXCUFZYC927/video/index.m3u8#第02集$https://v13.rstu6.com/202610/25/Lt1qZ3s3EA27/video/index.m3u8#第03集$https://v14.rstu6.com/202610/25/cxCmmhSWCE27/video/index.m3u8#第04集$https://v14.rstu6.com/202610/25/zB9Pv019TX27/video/index.m3u8#第05集$https://v13.rstu6.com/202610/25/8E2SLSt9EV27/video/index.m3u8#第06集$https://v14.rstu6.com/202610/25/eaAeAMkPqw27/video/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "完结"
+    },
+    {
+      "vod_id": 10009,
+      "vod_name": "大笑夜生活",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261025/12/18/05/bc023003dd117e90694e833888858d47.webp",
+      "vod_remarks": "更新至10集",
+      "vod_play_from": "超清2$$$蓝光1$$$蓝光9",
+      "vod_play_url": "第1集$https://142.248.97.148:21302/data5/jvods/hls/dhz/174/173374/26102514/2_389838_6659684/1920/index.m3u8?appId=ncat&sign=2ece7819ecfdcc6a364c91d6045722ef&timestamp=1793175817&ref=0#第2集$https://142.248.96.84:21302/data4/jvods/hls/dhz/174/173374/26102514/2_389838_6659683/1920/index.m3u8?appId=ncat&sign=624dc2e203d034c1205fe129823632bd&timestamp=1793175820&ref=0#第3集$https://142.248.99.148:21302/data6/jvods/hls/dhz/174/173374/26102514/2_389838_6659685/1920/index.m3u8?appId=ncat&sign=01549a2df3c59d735fe0d13607bf1194&timestamp=1793175820&ref=0#第4集$https://142.248.99.212:21302/data7/jvods/hls/dhz/174/173374/26102514/2_389838_6659686/1920/index.m3u8?appId=ncat&sign=18aa560b5c5f4bd879fbc2c7842d03b8&timestamp=1793175820&ref=0#第5集$https://142.248.96.212:21302/data3/jvods/hls/dhz/174/173374/26102813/2_389838_6663712/1920/index.m3u8?appId=ncat&sign=4cf6d1f0a464c3eca0c7f58cafd2d3f9&timestamp=1793175820&ref=0#第6集$https://64.112.77.120:21302/data9/jvods/hls/dhz/174/173374/26102813/2_389838_6663708/1920/index.m3u8?appId=ncat&sign=4ad298b9341e9d9546f840cdcf7de293&timestamp=1793175820&ref=0#第7集$https://142.248.97.148:21302/data4/jvods/hls/dhz/174/173374/26102813/2_389838_6663713/1920/index.m3u8?appId=ncat&sign=d7f531df5b6b9c386e9f92b3498e3c87&timestamp=1793175820&ref=0#第8集$https://142.248.96.84:21302/data1/jvods/hls/dhz/174/173374/26102813/2_389838_6663710/1920/index.m3u8?appId=ncat&sign=62629714f0c900fd99448f2a974606a1&timestamp=1793175820&ref=0#第9集$https://142.248.97.212:21302/data10/jvods/hls/dhz/174/173374/26102813/2_389838_6663709/1920/index.m3u8?appId=ncat&sign=890df1dc1eb34a1be41348be08a13f91&timestamp=1793175820&ref=0#第10集$https://142.248.99.212:21302/data2/jvods/hls/dhz/174/173374/26102813/2_389838_6663711/1920/index.m3u8?appId=ncat&sign=3cf8c34038abdd73fc9bd1314b912c05&timestamp=1793175820&ref=0$$$第1集$https://v.fengbao14.com/video/daxiaoyeshenghuo/8dfd271e8d4b/index.m3u8#第2集$https://v.fengbao14.com/video/daxiaoyeshenghuo/c4e809f56840/index.m3u8#第3集$https://v.fengbao14.com/video/daxiaoyeshenghuo/3aba23d24786/index.m3u8#第4集$https://v.fengbao14.com/video/daxiaoyeshenghuo/84a903123c90/index.m3u8#第5集$https://v.fengbao14.com/video/daxiaoyeshenghuo/814813207285/index.m3u8#第6集$https://v.fengbao14.com/video/daxiaoyeshenghuo/9527f3bf372d/index.m3u8#第7集$https://v.fengbao14.com/video/daxiaoyeshenghuo/3f5219ab8103/index.m3u8#第8集$https://v.fengbao14.com/video/daxiaoyeshenghuo/c105eb305c47/index.m3u8#第9集$https://v.fengbao14.com/video/daxiaoyeshenghuo/dfd5a91dea43/index.m3u8#第10集$https://v.fengbao14.com/video/daxiaoyeshenghuo/922fdb91f5cb/index.m3u8$$$第1集$https://vv.jisuzyv.com/play/b2kgQvvd/index.m3u8#第2集$https://vv.jisuzyv.com/play/ejRvNR5e/index.m3u8#第3集$https://vv.jisuzyv.com/play/b82o06oe/index.m3u8#第4集$https://vv.jisuzyv.com/play/eVO5Km1a/index.m3u8#第5集$https://vv.jisuzyv.com/play/erkEoVBa/index.m3u8#第6集$https://vv.jisuzyv.com/play/elYvgE7a/index.m3u8#第7集$https://vv.jisuzyv.com/play/b2kgwGNd/index.m3u8#第8集$https://vv.jisuzyv.com/play/b82oDXLe/index.m3u8#第9集$https://vv.jisuzyv.com/play/eZ6wEkwe/index.m3u8#第10集$https://vv.jisuzyv.com/play/ejRvWEle/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "更新至10集"
+    },
+    {
+      "vod_id": 10010,
+      "vod_name": "最后一桌",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261024/23/33/07/ae2995cae9172181298bed8217fe8e7c.jpg",
+      "vod_remarks": "第2集",
+      "vod_play_from": "蓝光1$$$蓝光9$$$超清2",
+      "vod_play_url": "第1集$https://v.fengbao14.com/video/Final-Table/609fcd7ab0ad/index.m3u8#第2集$https://v.fengbao14.com/video/Final-Table/6c211ff51054/index.m3u8$$$第1集$https://vv.jisuzyv.com/play/ejRvPQze/index.m3u8#第2集$https://vv.jisuzyv.com/play/dwpEvOre/index.m3u8$$$第1集$https://208.69.102.120:21302/data10/jvods/hls/dhz/174/173367/2610259/2_389811_6659509/1920/index.m3u8?appId=ncat&sign=f83cb758955c727188948f78cd573aa1&timestamp=1793175823&ref=0",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "第2集"
+    },
+    {
+      "vod_id": 10011,
+      "vod_name": "无上神帝",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20250820/10/05/05/ec6d3f2b88b290dd077a6290c9f5ddd3.jpg",
+      "vod_remarks": "更新第468集",
+      "vod_play_from": "超清2",
+      "vod_play_url": "第532集$https://142.248.97.120:21305/data5/jvods/hls/dhz/15/14211/25101017/3_41094_2503092/1920/index.m3u8?appId=ncat&sign=bc8d20513d5ef1dcf1fae9d9e75614cf&timestamp=1793175831&ref=0#第533集$https://208.69.102.120:21305/data7/jvods/hls/dhz/15/14211/25101017/3_41094_2503094/1920/index.m3u8?appId=ncat&sign=d6d9e664cb158d42e0527c306d846078&timestamp=1793175833&ref=0#第534集$https://142.248.99.212:21305/data2/jvods/hls/dhz/15/14211/25102412/3_41094_2576176/1920/index.m3u8?appId=ncat&sign=63d369b310b7382982b06653310cb701&timestamp=1793175833&ref=0#第535集$https://208.69.102.156:21305/data5/jvods/hls/dhz/15/14211/25102412/3_41094_2576179/1920/index.m3u8?appId=ncat&sign=6c5e01e4044f97672a43fa4050394b4a&timestamp=1793175833&ref=0#第536集$https://64.112.77.120:21305/data3/jvods/hls/dhz/15/14211/25102412/3_41094_2576177/1920/index.m3u8?appId=ncat&sign=2bb0561aa6eddd8b70bd493bcf9302ec&timestamp=1793175833&ref=0#第537集$https://64.112.77.184:21305/data1/jvods/hls/dhz/15/14211/25102412/3_41094_2575755/1920/index.m3u8?appId=ncat&sign=6e6bf6d708fed98b36c6b5890aa721d5&timestamp=1793175833&ref=0#第538集$https://142.248.97.148:21305/data5/jvods/hls/dhz/15/14211/25102712/3_41094_2589185/1920/index.m3u8?appId=ncat&sign=1171791f6a6544b23a22550df4e7c898&timestamp=1793175835&ref=0#第539集$https://208.69.102.120:21305/data3/jvods/hls/dhz/15/14211/25110812/3_41094_2651203/1920/index.m3u8?appId=ncat&sign=9db64649a5181ecafdf83b5fced77131&timestamp=1793175835&ref=0#第540集$https://142.248.97.120:21305/data5/jvods/hls/dhz/15/14211/25110812/3_41094_2651205/1920/index.m3u8?appId=ncat&sign=b4c5f2ff2f5b7b5e96d20822329e1460&timestamp=1793175835&ref=0#第541集$https://208.69.102.120:21305/data6/jvods/hls/dhz/15/14211/25110812/3_41094_2651206/1920/index.m3u8?appId=ncat&sign=c2d9c77fa8f598e4c545c09d67663224&timestamp=1793175835&ref=0#第542集$https://208.69.102.156:21305/data3/jvods/hls/dhz/15/14211/25111712/3_41094_2700161/1920/index.m3u8?appId=ncat&sign=31e4ed99848ac0279e0dd5b1d0b9e82e&timestamp=1793175835&ref=0#第543集$https://64.112.77.120:21305/data6/jvods/hls/dhz/15/14211/25111711/3_41094_2700150/1920/index.m3u8?appId=ncat&sign=06c8eb5afd1913236a462303b8e5aaee&timestamp=1793175836&ref=0#第544集$https://142.248.96.212:21305/data5/jvods/hls/dhz/15/14211/25111711/3_41094_2700149/1920/index.m3u8?appId=ncat&sign=7e4a70c684833e17e66589c416ad19c9&timestamp=1793175836&ref=0#第545集$https://208.69.102.248:21305/data1/jvods/hls/dhz/15/14211/25112417/3_41094_2738897/1920/index.m3u8?appId=ncat&sign=e3076d3ea9bb7bd365c96312a49da1a7&timestamp=1793175836&ref=0#第546集$https://208.69.102.156:21305/data7/jvods/hls/dhz/15/14211/25112417/3_41094_2738945/1920/index.m3u8?appId=ncat&sign=fe349738c70d1a6ae5d4ec71341474e8&timestamp=1793175836&ref=0#第547集$https://142.248.97.212:21305/data7/jvods/hls/dhz/15/14211/25121916/3_41094_2878182/1920/index.m3u8?appId=ncat&sign=04e4c67ec8144b4ffa291f2c38705e05&timestamp=1793175836&ref=0#第548集$https://142.248.96.84:21305/data6/jvods/hls/dhz/15/14211/25121916/3_41094_2878188/1920/index.m3u8?appId=ncat&sign=dc9c524603ebc039a8625717bb318646&timestamp=1793175838&ref=0#第549集$https://208.69.102.120:21305/data1/jvods/hls/dhz/15/14211/25121916/3_41094_2878183/1920/index.m3u8?appId=ncat&sign=b4b3ddb8f686f9e3ed5ef1686a77601b&timestamp=1793175838&ref=0#第550集$https://208.69.102.248:21305/data7/jvods/hls/dhz/15/14211/25121916/3_41094_2878189/1920/index.m3u8?appId=ncat&sign=918dc2293700811b3ca12709e2b6c00b&timestamp=1793175838&ref=0#第551集$https://142.248.97.120:21305/data3/jvods/hls/dhz/15/14211/25121916/3_41094_2878185/1920/index.m3u8?appId=ncat&sign=6ee81b0449df8a41e9477f0da9c55ae0&timestamp=1793175838&ref=0#第552集$https://208.69.102.156:21305/data4/jvods/hls/dhz/15/14211/25121916/3_41094_2878186/1920/index.m3u8?appId=ncat&sign=6224937881c62e9a25637a5e45fa962f&timestamp=1793175838&ref=0#第553集$https://64.112.77.120:21305/data1/jvods/hls/dhz/15/14211/25121916/3_41094_2878190/1920/index.m3u8?appId=ncat&sign=22479df61aa571fc45b99d7b59346c77&timestamp=1793175839&ref=0#第554集$https://142.248.96.212:21305/data7/jvods/hls/dhz/15/14211/25122711/3_41094_2930983/1920/index.m3u8?appId=ncat&sign=39f476d4a4c81cf63acdde1923c51063&timestamp=1793175839&ref=0#第555集$https://142.248.99.148:21305/data6/jvods/hls/dhz/15/14211/25122711/3_41094_2930982/1920/index.m3u8?appId=ncat&sign=131180ac126c0fca1f9f18682c23c424&timestamp=1793175839&ref=0#第556集$https://64.112.77.120:21305/data7/jvods/hls/dhz/15/14211/25122916/3_41094_2946383/1920/index.m3u8?appId=ncat&sign=c32caa64b25bedbf477ec626467f1d51&timestamp=1793175839&ref=0#第557集$https://142.248.99.212:21305/data1/jvods/hls/dhz/15/14211/26010217/3_41094_2973439/1920/index.m3u8?appId=ncat&sign=063041406dffdad4cce7ee3f553104f5&timestamp=1793175839&ref=0#第558集$https://142.248.97.120:21305/data4/jvods/hls/dhz/15/14211/26010517/3_41094_2987876/1920/index.m3u8?appId=ncat&sign=20563910d7e6828c13de7968bb335903&timestamp=1793175841&ref=0#第559集$https://142.248.99.148:21305/data5/jvods/hls/dhz/15/14211/26011214/3_41094_3021141/1920/index.m3u8?appId=ncat&sign=afad75c137617e63bc5026b5548acc10&timestamp=1793175841&ref=0#第560集$https://208.69.102.156:21305/data6/jvods/hls/dhz/15/14211/26011214/3_41094_3021142/1920/index.m3u8?appId=ncat&sign=6e79470017ae109256f331bc832925e4&timestamp=1793175841&ref=0#第561集$https://142.248.96.84:21305/data2/jvods/hls/dhz/15/14211/26011910/3_41094_3059904/1920/index.m3u8?appId=ncat&sign=e9928110eefdf574d62595144fa12d45&timestamp=1793175841&ref=0#第562集$https://142.248.97.148:21305/data2/jvods/hls/dhz/15/14211/26011915/3_41094_3066057/1920/index.m3u8?appId=ncat&sign=ab24e441c71f61b678d68ca757e4c6a9&timestamp=1793175841&ref=0#第563集$https://142.248.99.212:21305/data3/jvods/hls/dhz/15/14211/26012315/3_41094_3091188/1920/index.m3u8?appId=ncat&sign=3142e26d42558cb828cc4085cb3b954a&timestamp=1793175842&ref=0#第564集$https://142.248.97.120:21305/data4/jvods/hls/dhz/15/14211/26020517/3_41094_3170674/1920/index.m3u8?appId=ncat&sign=bb2b9ec62c35c3f9079fa89a46a90097&timestamp=1793175842&ref=0#第565集$https://142.248.97.120:21305/data5/jvods/hls/dhz/15/14211/26020517/3_41094_3170612/1920/index.m3u8?appId=ncat&sign=515336a8a500f24085628568ebfeec29&timestamp=1793175842&ref=0#第566集$https://64.112.77.184:21305/data4/jvods/hls/dhz/15/14211/26030320/3_41094_3306096/1280/index.m3u8?appId=ncat&sign=9e6580829378ad2f044e99fff627dd92&timestamp=1793175842&ref=0#第567集$https://208.69.102.156:21305/data2/jvods/hls/dhz/15/14211/26030914/3_41094_3331637/1280/index.m3u8?appId=ncat&sign=2b89e7126baf098d93c1c10874c58b19&timestamp=1793175842&ref=0#第568集$https://208.69.102.248:21305/data3/jvods/hls/dhz/15/14211/26030914/3_41094_3331638/1280/index.m3u8?appId=ncat&sign=4f530d20c769852a178f287d834cfdac&timestamp=1793175843&ref=0#第569集$https://64.112.77.184:21305/data5/jvods/hls/dhz/15/14211/26031417/3_41094_3355930/1280/index.m3u8?appId=ncat&sign=6b7b03a245b8484e4e1ce688a4ff8bc9&timestamp=1793175844&ref=0#第570集$https://142.248.99.148:21302/data1/jvods/hls/dhz/15/14211/26031811/3_41094_3373130/1280/index.m3u8?appId=ncat&sign=5d306b32ea9b7c754017d34a8276b564&timestamp=1793175844&ref=0#第571集$https://142.248.97.212:21302/data5/jvods/hls/dhz/15/14211/26032517/3_41094_3413314/1920/index.m3u8?appId=ncat&sign=7f5d614de6e2fd0f088d3a0b7079bdf2&timestamp=1793175844&ref=0#第572集$https://208.69.102.248:21302/data5/jvods/hls/dhz/15/14211/26032517/3_41094_3413304/1920/index.m3u8?appId=ncat&sign=683d3b4f496ab52f906102a6b149350b&timestamp=1793175844&ref=0#第573集$https://64.112.77.120:21302/data1/jvods/hls/dhz/15/14211/26033114/3_41094_3442990/1920/index.m3u8?appId=ncat&sign=2deb555d90fa1c74ad4e63fdb243941b&timestamp=1793175845&ref=0#第574集$https://64.112.77.184:21302/data2/jvods/hls/dhz/15/14211/26033114/3_41094_3442991/1920/index.m3u8?appId=ncat&sign=eaa83dcf58240bc4a188f4589f33d62e&timestamp=1793175845&ref=0#第575集$https://142.248.99.148:21302/data8/jvods/hls/dhz/15/14211/26040617/3_41094_3489857/1920/index.m3u8?appId=ncat&sign=c72f69c023bf9275a6266ef274f6d30b&timestamp=1793175845&ref=0#第576集$https://142.248.97.148:21302/data7/jvods/hls/dhz/15/14211/26040617/3_41094_3489856/1920/index.m3u8?appId=ncat&sign=3e3bfc711269344cb4b5298855b8c92f&timestamp=1793175845&ref=0#第577集$https://142.248.96.212:21302/data9/jvods/hls/dhz/15/14211/26041317/3_41094_3537688/1920/index.m3u8?appId=ncat&sign=a9f42319b62fa924b04ac315838ad370&timestamp=1793175845&ref=0#第578集$https://142.248.99.148:21302/data8/jvods/hls/dhz/15/14211/26041317/3_41094_3537687/1920/index.m3u8?appId=ncat&sign=89fdcd5895f3ee47c9abbe675266f1f2&timestamp=1793175846&ref=0#第579集$https://208.69.102.248:21302/data10/jvods/hls/dhz/15/14211/26041711/3_41094_3544519/1920/index.m3u8?appId=ncat&sign=4a361397abfe630439b71e6dae81c887&timestamp=1793175846&ref=0#第580集$https://142.248.99.148:21302/data6/jvods/hls/dhz/15/14211/26042011/3_41094_3575795/1920/index.m3u8?appId=ncat&sign=f85f829239e122cb332301af02e32218&timestamp=1793175846&ref=0#第581集$https://142.248.97.212:21302/data2/jvods/hls/dhz/15/14211/2604259/3_41094_3610501/1920/index.m3u8?appId=ncat&sign=14e0a9fabee0cbf707ac819e51fb201a&timestamp=1793175846&ref=0#第582集$https://142.248.99.212:21302/data9/jvods/hls/dhz/15/14211/26042714/3_41094_3637478/1920/index.m3u8?appId=ncat&sign=7c8d9fc56a932b1ec8ad7da27deda769&timestamp=1793175847&ref=0#第583集$https://142.248.96.84:21302/data7/jvods/hls/dhz/15/14211/26050218/3_41094_3680236/1920/index.m3u8?appId=ncat&sign=449f1fe207b2849ba4aa5c4cc861ba8f&timestamp=1793175848&ref=0#第584集$https://142.248.97.120:21302/data7/jvods/hls/dhz/15/14211/26050417/3_41094_3693366/1920/index.m3u8?appId=ncat&sign=54d959e9266dd1bbf20e7e45e5bd3ee8&timestamp=1793175848&ref=0#第585集$https://64.112.77.184:21302/data5/jvods/hls/dhz/15/14211/26050811/3_41094_3731364/1920/index.m3u8?appId=ncat&sign=02fb61ed5f8198eee2725f65e9512b07&timestamp=1793175848&ref=0#第586集$https://142.248.99.212:21302/data6/jvods/hls/dhz/15/14211/26051111/3_41094_3758015/1920/index.m3u8?appId=ncat&sign=3fd2ef825307d8ca25e2e6badeb41ef0&timestamp=1793175848&ref=0#第587集$https://208.69.102.120:21302/data10/jvods/hls/dhz/15/14211/26051512/3_41094_3788649/1920/index.m3u8?appId=ncat&sign=4fd31b8e7006c45b6e6cdb6b31505ff0&timestamp=1793175848&ref=0#第588集$https://142.248.96.84:21302/data7/jvods/hls/dhz/15/14211/26051916/3_41094_3827276/1920/index.m3u8?appId=ncat&sign=7b9aa4a1d281a4e65a2fa5c45bde8775&timestamp=1793175849&ref=0#第589集$https://142.248.99.212:21302/data6/jvods/hls/dhz/15/14211/26052211/3_41094_3854135/1920/index.m3u8?appId=ncat&sign=72e1fdbeb455b2f6c902c2b550864242&timestamp=1793175849&ref=0#第590集$https://142.248.97.120:21302/data2/jvods/hls/dhz/15/14211/26052512/3_41094_3875831/1920/index.m3u8?appId=ncat&sign=0ba2be759e8190c8d10094c533fdc0cf&timestamp=1793175849&ref=0#第591集$https://142.248.96.84:21302/data10/jvods/hls/dhz/15/14211/26052918/3_41094_3914209/1920/index.m3u8?appId=ncat&sign=d97f29e9a99dc7665bd016d22528c0d3&timestamp=1793175849&ref=0#第592集$https://208.69.102.248:21302/data4/jvods/hls/dhz/15/14211/26060117/3_41094_3937333/1920/index.m3u8?appId=ncat&sign=aff13b933074df119125906d5a148570&timestamp=1793175849&ref=0#第593集$https://208.69.102.156:21302/data1/jvods/hls/dhz/15/14211/26060514/3_41094_3975710/1920/index.m3u8?appId=ncat&sign=af9a3340220bf27c0d45420832f7b46a&timestamp=1793175851&ref=0#第594集$https://142.248.97.148:21302/data4/jvods/hls/dhz/15/14211/26060811/3_41094_3997803/1920/index.m3u8?appId=ncat&sign=86f769b86cac5b39211b64c40e27cdf5&timestamp=1793175851&ref=0#第595集$https://142.248.96.212:21302/data1/jvods/hls/dhz/15/14211/26061315/3_41094_4062600/1920/index.m3u8?appId=ncat&sign=7cd96faffa8185586cfd5e6178b6d760&timestamp=1793175851&ref=0#第596集$https://64.112.77.120:21302/data7/jvods/hls/dhz/15/14211/26062016/3_41094_4137626/1920/index.m3u8?appId=ncat&sign=c57d12d31ea5e0a925c046643980526d&timestamp=1793175851&ref=0#第597集$https://142.248.99.148:21302/data2/jvods/hls/dhz/15/14211/26062017/3_41094_4137671/1920/index.m3u8?appId=ncat&sign=f15826310172961f12daa57d5220ee28&timestamp=1793175851&ref=0#第598集$https://142.248.97.120:21302/data7/jvods/hls/dhz/15/14211/26062210/3_41094_4146646/1920/index.m3u8?appId=ncat&sign=48363bbd2d0d2625cd05b67d3809ef17&timestamp=1793175852&ref=0#第599集$https://208.69.102.248:21302/data3/jvods/hls/dhz/15/14211/26062718/3_41094_4221462/1920/index.m3u8?appId=ncat&sign=22847a6616ade31ed846d51c4870ae91&timestamp=1793175852&ref=0#第600集$https://64.112.77.184:21302/data2/jvods/hls/dhz/15/14211/26062911/3_41094_4232011/1920/index.m3u8?appId=ncat&sign=b9dd0ff3de6680d0931ff2fdeedeaa1c&timestamp=1793175852&ref=0#第601集$https://208.69.102.156:21302/data2/jvods/hls/dhz/15/14211/26070318/3_41094_4304431/1280/index.m3u8?appId=ncat&sign=5ea144c30b56b5b9ab72adfcbe964ac9&timestamp=1793175852&ref=0#第602集$https://142.248.96.212:21302/data3/jvods/hls/dhz/15/14211/26070611/3_41094_4328362/1920/index.m3u8?appId=ncat&sign=e73101ac9969b7869b60125da310ce0c&timestamp=1793175852&ref=0#第603集$https://142.248.97.120:21302/data4/jvods/hls/dhz/15/14211/26071018/3_41094_4407913/1280/index.m3u8?appId=ncat&sign=6e14221373cc26d31e0e1fe2e27881e5&timestamp=1793175854&ref=0#第604集$https://64.112.77.120:21302/data5/jvods/hls/dhz/15/14211/26071310/3_41094_4425564/1920/index.m3u8?appId=ncat&sign=c5fc5815decd8a865e1b3c6b26887121&timestamp=1793175854&ref=0#第605集$https://142.248.99.148:21302/data4/jvods/hls/dhz/15/14211/26071718/3_41094_4504763/1920/index.m3u8?appId=ncat&sign=c7c4a625587b17192f983fc1cf132992&timestamp=1793175854&ref=0#第606集$https://208.69.102.248:21302/data9/jvods/hls/dhz/15/14211/26072018/3_41094_4534208/1920/index.m3u8?appId=ncat&sign=7502532c119bdd4da7c627c918268c4a&timestamp=1793175854&ref=0#第607集$https://142.248.97.148:21302/data7/jvods/hls/dhz/15/14211/26072517/3_41094_4611756/1920/index.m3u8?appId=ncat&sign=14aa5213e26b9f178d5285a68b5b2c9a&timestamp=1793175854&ref=0#第608集$https://142.248.99.148:21302/data6/jvods/hls/dhz/15/14211/26072710/3_41094_4623335/1920/index.m3u8?appId=ncat&sign=27e23f6da2ba3882d59e7a590794d11f&timestamp=1793175855&ref=0#第609集$https://64.112.77.120:21302/data2/jvods/hls/dhz/15/14211/26080318/3_41094_4749771/1920/index.m3u8?appId=ncat&sign=09c1f4fb00830c5788e674cf3b9804fa&timestamp=1793175855&ref=0#第610集$https://142.248.97.148:21302/data10/jvods/hls/dhz/15/14211/26080318/3_41094_4749769/1920/index.m3u8?appId=ncat&sign=9078547a124eefcff0eebd0640d66968&timestamp=1793175855&ref=0#第611集$https://142.248.96.212:21302/data2/jvods/hls/dhz/15/14211/26081016/3_41094_4851001/1920/index.m3u8?appId=ncat&sign=d3f1ef3cd0e1d1453e1bb2a368ed3dbe&timestamp=1793175855&ref=0#第612集$https://208.69.102.120:21302/data9/jvods/hls/dhz/15/14211/26081016/3_41094_4850858/1920/index.m3u8?appId=ncat&sign=87c1e6f4c7922b7de4d3321923434aa4&timestamp=1793175855&ref=0#第613集$https://142.248.96.212:21302/data5/jvods/hls/dhz/15/14211/26081418/3_41094_4961234/1920/index.m3u8?appId=ncat&sign=d71b85dbe84dbb4988e8244da785f73b&timestamp=1793175857&ref=0#第614集$https://64.112.77.120:21302/data5/jvods/hls/dhz/15/14211/26081711/3_41094_4989274/1920/index.m3u8?appId=ncat&sign=7f9f283e7b7d657872208ff3422a47da&timestamp=1793175857&ref=0#第615集$https://142.248.96.84:21302/data3/jvods/hls/dhz/15/14211/26082116/3_41094_5108482/1920/index.m3u8?appId=ncat&sign=6d3b0e0ad0d0b4afdfa5ef1cc41c4551&timestamp=1793175857&ref=0#第616集$https://142.248.96.84:21302/data4/jvods/hls/dhz/15/14211/26082817/3_41094_5243523/1920/index.m3u8?appId=ncat&sign=2b006e00fabe719fabea6060ba2b60af&timestamp=1793175857&ref=0#第617集$https://142.248.96.84:21302/data4/jvods/hls/dhz/15/14211/26082817/3_41094_5243543/1920/index.m3u8?appId=ncat&sign=5998b21d6c61ef104bfa7b37377998a1&timestamp=1793175857&ref=0#第618集$https://64.112.77.184:21302/data5/jvods/hls/dhz/15/14211/26083111/3_41094_5282144/1920/index.m3u8?appId=ncat&sign=1beab88719cae26b17ca29e0fb1b976d&timestamp=1793175858&ref=0#第619集$https://142.248.99.212:21302/data6/jvods/hls/dhz/15/14211/26090416/3_41094_5393815/1920/index.m3u8?appId=ncat&sign=f134648f29583473d2620f9eba2784cb&timestamp=1793175858&ref=0#第620集$https://142.248.97.212:21302/data2/jvods/hls/dhz/15/14211/26090711/3_41094_5439441/1920/index.m3u8?appId=ncat&sign=e1b6b307e4bcb2426d5db5edc4683c50&timestamp=1793175858&ref=0#第621集$https://208.69.102.248:21302/data7/jvods/hls/dhz/15/14211/26091116/3_41094_5573176/1920/index.m3u8?appId=ncat&sign=c3b924676e383707710ab141571c7832&timestamp=1793175858&ref=0#第622集$https://64.112.77.184:21302/data9/jvods/hls/dhz/15/14211/26091411/3_41094_5601968/1920/index.m3u8?appId=ncat&sign=275b687d18c6a88a1a8f96ee2f80fcb2&timestamp=1793175858&ref=0#第623集$https://208.69.102.156:21302/data8/jvods/hls/dhz/15/14211/26091812/3_41094_5716277/1920/index.m3u8?appId=ncat&sign=787b8988daaae02c4868d647fa0bb7f9&timestamp=1793175860&ref=0#第624集$https://142.248.99.212:21302/data3/jvods/hls/dhz/15/14211/26092111/3_41094_5771662/1920/index.m3u8?appId=ncat&sign=1d7a71106e9f3da5746f0b641591ec3f&timestamp=1793175860&ref=0#第625集$https://142.248.96.84:21302/data7/jvods/hls/dhz/15/14211/26092816/3_41094_5968086/1920/index.m3u8?appId=ncat&sign=a0c28de667dc278031cb7128abfa6e86&timestamp=1793175860&ref=0#第626集$https://208.69.102.248:21302/data8/jvods/hls/dhz/15/14211/26092816/3_41094_5968087/1920/index.m3u8?appId=ncat&sign=f03b7d2fa21d7dc4937a31dc1c952279&timestamp=1793175860&ref=0#第627集$https://142.248.96.212:21302/data7/jvods/hls/dhz/15/14211/26100221/3_41094_6062516/1280/index.m3u8?appId=ncat&sign=e18c0e9dd959e73b03abc3dc82e66b4a&timestamp=1793175860&ref=0#第628集$https://64.112.77.120:21302/data10/jvods/hls/dhz/15/14211/26100511/3_41094_6161659/1920/index.m3u8?appId=ncat&sign=6a20355389db3d2560197f10dd375c24&timestamp=1793175861&ref=0#第629集$https://142.248.96.212:21302/data6/jvods/hls/dhz/15/14211/26100910/3_41094_6284405/1920/index.m3u8?appId=ncat&sign=3bdd751f2725b08fbd946e47643e5927&timestamp=1793175861&ref=0#第630集$https://208.69.102.248:21302/data5/jvods/hls/dhz/15/14211/26101117/3_41094_6300214/1920/index.m3u8?appId=ncat&sign=fbf5f1c05aa3df276e0107aeab1e3466&timestamp=1793175861&ref=0#第631集$https://64.112.77.184:21302/data10/jvods/hls/dhz/15/14211/26101117/3_41094_6300219/1920/index.m3u8?appId=ncat&sign=08e429cd1388cc171a40446017523a29&timestamp=1793175861&ref=0#第632集$https://64.112.77.184:21302/data8/jvods/hls/dhz/15/14211/26101117/3_41094_6300217/1920/index.m3u8?appId=ncat&sign=9da951c3fce5fdeb66faf9af4ddf1880&timestamp=1793175861&ref=0#第633集$https://142.248.96.212:21302/data1/jvods/hls/dhz/15/14211/26101117/3_41094_6300210/1920/index.m3u8?appId=ncat&sign=ae2afe66593d710f1f22c6158801c0ec&timestamp=1793175862&ref=0#第634集$https://64.112.77.120:21302/data3/jvods/hls/dhz/15/14211/26101117/3_41094_6300212/1920/index.m3u8?appId=ncat&sign=59a9f999895fafcaf1df4b1cd0f61449&timestamp=1793175863&ref=0#第635集$https://142.248.97.148:21302/data9/jvods/hls/dhz/15/14211/26101117/3_41094_6300208/1920/index.m3u8?appId=ncat&sign=03a2413adb450c2d0f33696c1cdde305&timestamp=1793175863&ref=0#第636集$https://142.248.96.84:21302/data4/jvods/hls/dhz/15/14211/26101117/3_41094_6300213/1920/index.m3u8?appId=ncat&sign=a652f6419f020a32776689180babe876&timestamp=1793175863&ref=0#第637集$https://142.248.97.212:21302/data2/jvods/hls/dhz/15/14211/26101117/3_41094_6300211/1920/index.m3u8?appId=ncat&sign=95c132435d00472ac8962f7ed89eca77&timestamp=1793175863&ref=0#第638集$https://142.248.99.212:21302/data10/jvods/hls/dhz/15/14211/26101117/3_41094_6300209/1920/index.m3u8?appId=ncat&sign=c1b5b441792e3202b02aa676a3a270ed&timestamp=1793175864&ref=0#第639集$https://142.248.96.212:21302/data7/jvods/hls/dhz/15/14211/26101117/3_41094_6300216/1920/index.m3u8?appId=ncat&sign=e2f868aa874f6cbcb3eb52bc9ee02ee0&timestamp=1793175864&ref=0#第640集$https://142.248.99.148:21302/data6/jvods/hls/dhz/15/14211/26101117/3_41094_6300215/1920/index.m3u8?appId=ncat&sign=aed7b94c95d011e382b506cb903b752e&timestamp=1793175864&ref=0#第641集$https://142.248.97.148:21302/data9/jvods/hls/dhz/15/14211/26101117/3_41094_6300218/1920/index.m3u8?appId=ncat&sign=e30979d85d006144f085054f89569be2&timestamp=1793175864&ref=0#第642集$https://142.248.96.84:21302/data1/jvods/hls/dhz/15/14211/26101117/3_41094_6300220/1920/index.m3u8?appId=ncat&sign=aab4b2361db375b0fb8bdb2dbb083aba&timestamp=1793175864&ref=0#第643集$https://142.248.99.148:21302/data4/jvods/hls/dhz/15/14211/26101117/3_41094_6300223/1920/index.m3u8?appId=ncat&sign=616118eab52ab5152905287b1a0dac20&timestamp=1793175865&ref=0#第644集$https://142.248.99.212:21302/data2/jvods/hls/dhz/15/14211/26101117/3_41094_6300221/1920/index.m3u8?appId=ncat&sign=db30e8d0cd65fea84e6fbfc74e5c417b&timestamp=1793175865&ref=0#第645集$https://142.248.96.212:21302/data5/jvods/hls/dhz/15/14211/26101117/3_41094_6300224/1920/index.m3u8?appId=ncat&sign=24df080a7974ff05334b9a00596382ec&timestamp=1793175865&ref=0#第646集$https://142.248.97.148:21302/data6/jvods/hls/dhz/15/14211/26101117/3_41094_6300225/1920/index.m3u8?appId=ncat&sign=fdcba3c2f17a9f12307f136596d121b7&timestamp=1793175865&ref=0#第647集$https://142.248.97.212:21302/data3/jvods/hls/dhz/15/14211/26101117/3_41094_6300222/1920/index.m3u8?appId=ncat&sign=1e90ae3abbac606a9a686715bedbb8ac&timestamp=1793175866&ref=0#第648集$https://142.248.96.84:21302/data6/jvods/hls/dhz/15/14211/26101612/3_41094_6425015/1920/index.m3u8?appId=ncat&sign=b948a38179304670242a5bfff1751cd7&timestamp=1793175867&ref=0#第649集$https://142.248.97.212:21302/data3/jvods/hls/dhz/15/14211/26101612/3_41094_6424942/1920/index.m3u8?appId=ncat&sign=f5ffa2f142f241a734c2ee3b0d6fb0b1&timestamp=1793175867&ref=0#第650集$https://208.69.102.120:21302/data3/jvods/hls/dhz/15/14211/26101913/3_41094_6513742/1920/index.m3u8?appId=ncat&sign=3a2fb5b636058f0f10e289ea0e057368&timestamp=1793175867&ref=0#第651集$https://142.248.97.120:21302/data9/jvods/hls/dhz/15/14211/26102315/3_41094_6622188/1920/index.m3u8?appId=ncat&sign=d35bf4c18747b92920bedf88e51b3e3a&timestamp=1793175867&ref=0",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "更新第468集"
+    },
+    {
+      "vod_id": 10012,
+      "vod_name": "恐龙美食大世界",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261022/18/06/04/a105a33b7cfb0f5cd7312949086a2fb6.png",
+      "vod_remarks": "更新第14集",
+      "vod_play_from": "超清2",
+      "vod_play_url": "第1集$https://64.112.77.120:21302/data9/jvods/hls/dhz/173/172676/26102218/3_389158_6597698/1920/index.m3u8?appId=ncat&sign=22d9d8d5d5fdab4c7928565cb7d22840&timestamp=1793175869&ref=0#第2集$https://142.248.99.148:21302/data5/jvods/hls/dhz/173/172676/26102218/3_389158_6597694/1920/index.m3u8?appId=ncat&sign=c3696f1c6fbb88c83799d06c3ecf5150&timestamp=1793175870&ref=0#第3集$https://208.69.102.156:21302/data4/jvods/hls/dhz/173/172676/26102218/3_389158_6597693/1920/index.m3u8?appId=ncat&sign=1893fd404a1f19ffe4c7f46e31491f0b&timestamp=1793175870&ref=0#第4集$https://208.69.102.248:21302/data6/jvods/hls/dhz/173/172676/26102218/3_389158_6597695/1920/index.m3u8?appId=ncat&sign=bf252bdab28608ba78d9557e6905abca&timestamp=1793175870&ref=0#第5集$https://64.112.77.184:21302/data4/jvods/hls/dhz/173/172676/26102418/3_389158_6597703/1920/index.m3u8?appId=ncat&sign=1e4e6b267c8a108280585837c10291e6&timestamp=1793175870&ref=0#第6集$https://64.112.77.184:21302/data10/jvods/hls/dhz/173/172676/26102218/3_389158_6597699/1920/index.m3u8?appId=ncat&sign=c58fc1b60a810c59832f24f5cd6c8c79&timestamp=1793175870&ref=0#第7集$https://142.248.96.212:21302/data7/jvods/hls/dhz/173/172676/26102418/3_389158_6597696/1920/index.m3u8?appId=ncat&sign=1807bafc9bfc00a9b997064e41a10846&timestamp=1793175871&ref=0#第8集$https://64.112.77.120:21302/data8/jvods/hls/dhz/173/172676/26102218/3_389158_6597697/1920/index.m3u8?appId=ncat&sign=cb7959e4ad41c9066a67ba6d1ae8151f&timestamp=1793175871&ref=0#第9集$https://142.248.97.148:21302/data2/jvods/hls/dhz/173/172676/26102218/3_389158_6597701/1920/index.m3u8?appId=ncat&sign=e9dcd8cf709aa8c8b68deb31f54b1a73&timestamp=1793175871&ref=0#第10集$https://142.248.96.84:21302/data1/jvods/hls/dhz/173/172676/26102218/3_389158_6597700/1920/index.m3u8?appId=ncat&sign=2f705f4daa483ab9cdf05b25792fbaf2&timestamp=1793175871&ref=0#第11集$https://208.69.102.248:21302/data5/jvods/hls/dhz/173/172676/26102218/3_389158_6597704/1920/index.m3u8?appId=ncat&sign=c9617132a548ced50553d196c660f9f2&timestamp=1793175871&ref=0#第12集$https://142.248.96.84:21302/data6/jvods/hls/dhz/173/172676/26102218/3_389158_6597705/1920/index.m3u8?appId=ncat&sign=dfeab546edc6ca2362a326dbaeb34a99&timestamp=1793175871&ref=0#第13集$https://142.248.97.120:21302/data3/jvods/hls/dhz/173/172676/26102312/3_389158_6617252/1920/index.m3u8?appId=ncat&sign=5e7e6474ba4e7a41c11980d9df692397&timestamp=1793175871&ref=0#第14集$https://142.248.97.212:21302/data5/jvods/hls/dhz/173/172676/26102816/3_389158_6664424/1920/index.m3u8?appId=ncat&sign=ebe3b76b8cbf61a0a5eec9b3eddef5a8&timestamp=1793175871&ref=0",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "更新第14集"
+    },
+    {
+      "vod_id": 10013,
+      "vod_name": "灵武大陆",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20251120/12/35/10/e9624db6e6101beae0b5e08dca3c8f9e.jpg",
+      "vod_remarks": "更新至227集",
+      "vod_play_from": "超清2",
+      "vod_play_url": "第108集$https://142.248.96.84:21305/data2/jvods/hls/dhz/30/29819/25091212/3_242795_2373218/1920/index.m3u8?appId=ncat&sign=6f6c72fb7ecc12cee86ae0cbabda844a&timestamp=1793175874&ref=0#第109集$https://208.69.102.248:21305/data3/jvods/hls/dhz/30/29819/25091512/3_242795_2395605/1920/index.m3u8?appId=ncat&sign=34dc365e03fca5ceabaca89da888345d&timestamp=1793175875&ref=0#第110集$https://142.248.96.84:21305/data7/jvods/hls/dhz/30/29819/25091912/3_242795_2412605/1920/index.m3u8?appId=ncat&sign=db185dfa7bd79bd16bacb373af5e311e&timestamp=1793175875&ref=0#第111集$https://142.248.96.84:21305/data7/jvods/hls/dhz/30/29819/25092216/3_242795_2417659/1920/index.m3u8?appId=ncat&sign=74447ca19a57e7897bfb9d75cc239b02&timestamp=1793175875&ref=0#第112集$https://64.112.77.120:21305/data2/jvods/hls/dhz/30/29819/25092612/3_242795_2438843/1920/index.m3u8?appId=ncat&sign=a22dfd749b643895d7bcba17158bbfee&timestamp=1793175875&ref=0#第113集$https://142.248.97.120:21305/data7/jvods/hls/dhz/30/29819/25092914/3_242795_2449733/1920/index.m3u8?appId=ncat&sign=2ce10e2c2f8e3c875c9b6b4cdf9a5290&timestamp=1793175875&ref=0#第114集$https://208.69.102.248:21305/data6/jvods/hls/dhz/30/29819/25100312/3_242795_2469185/1920/index.m3u8?appId=ncat&sign=9a1e3e64f46ee6827598b47f9cfeb155&timestamp=1793175876&ref=0#第115集$https://142.248.99.212:21305/data5/jvods/hls/dhz/30/29819/25100612/3_242795_2478942/1920/index.m3u8?appId=ncat&sign=9c1786e4dea6411b5ee02c6843fc6d0f&timestamp=1793175876&ref=0#第116集$https://142.248.96.84:21305/data6/jvods/hls/dhz/30/29819/25101012/3_242795_2500314/1920/index.m3u8?appId=ncat&sign=4c62af2be8b4af63d790b84fc8ed6f73&timestamp=1793175876&ref=0#第117集$https://142.248.97.120:21305/data5/jvods/hls/dhz/30/29819/25101313/3_242795_2512164/1920/index.m3u8?appId=ncat&sign=8cbb2992bd3c4c7d11e6fa1c5c03f43f&timestamp=1793175876&ref=0#第118集$https://142.248.99.148:21305/data2/jvods/hls/dhz/30/29819/25101712/3_242795_2536626/1920/index.m3u8?appId=ncat&sign=75101756cf43a936eef244b8269475b1&timestamp=1793175876&ref=0#第119集$https://64.112.77.184:21305/data5/jvods/hls/dhz/30/29819/25102013/3_242795_2546835/1920/index.m3u8?appId=ncat&sign=ff4cc4ce1dd811777ce5896d3f6a9d85&timestamp=1793175877&ref=0#第120集$https://208.69.102.120:21305/data4/jvods/hls/dhz/30/29819/25102412/3_242795_2576178/1920/index.m3u8?appId=ncat&sign=b84f1cd7c0845c8bb42e3d08c5e2483a&timestamp=1793175877&ref=0#第121集$https://142.248.96.212:21305/data7/jvods/hls/dhz/30/29819/25102712/3_242795_2589187/1920/index.m3u8?appId=ncat&sign=8dc8cdf9814ab1e747d1d48a89ef9092&timestamp=1793175877&ref=0#第122集$https://142.248.97.148:21305/data3/jvods/hls/dhz/30/29819/25103114/3_242795_2616931/1920/index.m3u8?appId=ncat&sign=c92e9f9334de5ec22f3ba14a465286d8&timestamp=1793175877&ref=0#第123集$https://142.248.97.212:21305/data6/jvods/hls/dhz/30/29819/25110315/3_242795_2630878/1920/index.m3u8?appId=ncat&sign=0b9e76aa7a6b1178ba09b0c0d087e292&timestamp=1793175877&ref=0#第124集$https://208.69.102.156:21305/data3/jvods/hls/dhz/30/29819/25110716/3_242795_2648515/1920/index.m3u8?appId=ncat&sign=5629a477896ead524f0c2c585e331241&timestamp=1793175878&ref=0#第125集$https://142.248.99.148:21305/data2/jvods/hls/dhz/30/29819/25111012/3_242795_2662017/1920/index.m3u8?appId=ncat&sign=bbe15870df319502aa05b96db9df6eec&timestamp=1793175878&ref=0#第126集$https://142.248.96.84:21305/data6/jvods/hls/dhz/30/29819/25111412/3_242795_2683280/1920/index.m3u8?appId=ncat&sign=cae7abd51475d87d06db4f18d20f2209&timestamp=1793175878&ref=0#第127集$https://142.248.99.212:21305/data4/jvods/hls/dhz/30/29819/25111712/3_242795_2700309/1920/index.m3u8?appId=ncat&sign=c2206022174c1cd9a6f8e58f9f5b5f7c&timestamp=1793175878&ref=0#第128集$https://142.248.97.148:21305/data2/jvods/hls/dhz/30/29819/25112112/3_242795_2721286/1920/index.m3u8?appId=ncat&sign=9c4eb75754781da85b6971ff56f52b3b&timestamp=1793175878&ref=0#第129集$https://142.248.96.212:21305/data1/jvods/hls/dhz/30/29819/25112414/3_242795_2735369/1920/index.m3u8?appId=ncat&sign=457fa1aa75f3387c6c3da8c937ed3b57&timestamp=1793175878&ref=0#第130集$https://208.69.102.248:21305/data4/jvods/hls/dhz/30/29819/25112811/3_242795_2757128/1920/index.m3u8?appId=ncat&sign=6b4a634bd3309ecc56674fa1744b04f5&timestamp=1793175878&ref=0#第131集$https://208.69.102.248:21305/data2/jvods/hls/dhz/30/29819/25120114/3_242795_2773499/1920/index.m3u8?appId=ncat&sign=0d9c8edb030c1000a9515f134492a3b4&timestamp=1793175878&ref=0#第132集$https://142.248.96.84:21305/data6/jvods/hls/dhz/30/29819/25120511/3_242795_2794069/1920/index.m3u8?appId=ncat&sign=ac8ac515795df0bd42a159111175c156&timestamp=1793175879&ref=0#第133集$https://208.69.102.120:21305/data2/jvods/hls/dhz/30/29819/25120814/3_242795_2810025/1920/index.m3u8?appId=ncat&sign=8d450af17123f95001c13bbc3d0e28ab&timestamp=1793175879&ref=0#第134集$https://142.248.99.148:21305/data6/jvods/hls/dhz/30/29819/25121212/3_242795_2830553/1920/index.m3u8?appId=ncat&sign=a595ee49f987dde76eae8418fcb9a50a&timestamp=1793175879&ref=0#第135集$https://208.69.102.120:21305/data3/jvods/hls/dhz/30/29819/25121514/3_242795_2844508/1920/index.m3u8?appId=ncat&sign=1789ce1a6c45cbd4e7db65f22013692f&timestamp=1793175879&ref=0#第136集$https://208.69.102.248:21305/data7/jvods/hls/dhz/30/29819/25121911/3_242795_2871497/1920/index.m3u8?appId=ncat&sign=2dec380e4a115b8258ae884e20d535a1&timestamp=1793175879&ref=0#第137集$https://142.248.97.212:21305/data4/jvods/hls/dhz/30/29819/25122214/3_242795_2891339/1920/index.m3u8?appId=ncat&sign=d66aac79a047c8df5c22fe98cc1d8bdd&timestamp=1793175879&ref=0#第138集$https://208.69.102.156:21305/data2/jvods/hls/dhz/30/29819/25122611/3_242795_2921885/1920/index.m3u8?appId=ncat&sign=29463ad0eb174add6730b7c62ba869ef&timestamp=1793175879&ref=0#第139集$https://64.112.77.184:21305/data7/jvods/hls/dhz/30/29819/25122915/3_242795_2946243/1920/index.m3u8?appId=ncat&sign=e366eb40cb0bea200925491330f2a37e&timestamp=1793175880&ref=0#第140集$https://64.112.77.184:21305/data4/jvods/hls/dhz/30/29819/26010211/3_242795_2968192/1920/index.m3u8?appId=ncat&sign=bdb6b32d5e2461a237cbc23d20bdd853&timestamp=1793175880&ref=0#第141集$https://208.69.102.120:21305/data3/jvods/hls/dhz/30/29819/26010517/3_242795_2987882/1920/index.m3u8?appId=ncat&sign=a2adaa3817d5dd1cee66f670ec8fe1d8&timestamp=1793175880&ref=0#第142集$https://142.248.96.84:21305/data4/jvods/hls/dhz/30/29819/26010911/3_242795_3004984/1920/index.m3u8?appId=ncat&sign=5b26c4cd6d5d4ccd5065e4d4046343d7&timestamp=1793175880&ref=0#第143集$https://64.112.77.184:21305/data5/jvods/hls/dhz/30/29819/26011211/3_242795_3018775/1920/index.m3u8?appId=ncat&sign=31093d5639690268b27cfcda2d8871ab&timestamp=1793175880&ref=0#第144集$https://142.248.96.84:21305/data6/jvods/hls/dhz/30/29819/26011611/3_242795_3044928/1920/index.m3u8?appId=ncat&sign=a25937d68b2455a398b433f687d388d4&timestamp=1793175881&ref=0#第145集$https://64.112.77.184:21305/data7/jvods/hls/dhz/30/29819/26011911/3_242795_3059930/1920/index.m3u8?appId=ncat&sign=3f9e7ddbd54d87e9f7affda8eb00016d&timestamp=1793175881&ref=0#第146集$https://64.112.77.120:21305/data3/jvods/hls/dhz/30/29819/26012311/3_242795_3087485/1920/index.m3u8?appId=ncat&sign=873561228890b384a95677a73020d00b&timestamp=1793175881&ref=0#第147集$https://208.69.102.120:21305/data5/jvods/hls/dhz/30/29819/26012610/3_242795_3101277/1920/index.m3u8?appId=ncat&sign=7e0ed969914c70e760c79fb161977d75&timestamp=1793175881&ref=0#第148集$https://142.248.99.212:21305/data2/jvods/hls/dhz/30/29819/26013011/3_242795_3127797/1920/index.m3u8?appId=ncat&sign=f24c5284ff628a4365daedba6a5fa62b&timestamp=1793175881&ref=0#第149集$https://64.112.77.120:21305/data1/jvods/hls/dhz/30/29819/26020211/3_242795_3144449/1920/index.m3u8?appId=ncat&sign=2398c7b4262a7467547628645a4e3511&timestamp=1793175881&ref=0#第150集$https://208.69.102.156:21305/data6/jvods/hls/dhz/30/29819/26020617/3_242795_3177466/1920/index.m3u8?appId=ncat&sign=364bb2550b37aa7cb975fa0b6a8ed974&timestamp=1793175881&ref=0#第151集$https://142.248.97.212:21305/data4/jvods/hls/dhz/30/29819/26020910/3_242795_3186067/1920/index.m3u8?appId=ncat&sign=ce3392f9363de92a0b49c5ecd58cf3e8&timestamp=1793175882&ref=0#第152集$https://208.69.102.248:21305/data5/jvods/hls/dhz/30/29819/26021310/3_242795_3210449/1920/index.m3u8?appId=ncat&sign=09740379d38bacf10cb74c2a4e40c7e2&timestamp=1793175882&ref=0#第153集$https://208.69.102.120:21305/data7/jvods/hls/dhz/30/29819/26021616/3_242795_3227930/1920/index.m3u8?appId=ncat&sign=313b6b43798de739023dd8e609c69d63&timestamp=1793175882&ref=0#第154集$https://64.112.77.120:21305/data3/jvods/hls/dhz/30/29819/26022012/3_242795_3246959/1920/index.m3u8?appId=ncat&sign=286f1705767f45e8403bcd7bf0954b45&timestamp=1793175882&ref=0#第155集$https://64.112.77.184:21305/data5/jvods/hls/dhz/30/29819/26022312/3_242795_3264839/1920/index.m3u8?appId=ncat&sign=540dc9d638804b583a0e960e268f4378&timestamp=1793175882&ref=0#第156集$https://142.248.96.84:21305/data3/jvods/hls/dhz/30/29819/26022712/3_242795_3288427/1920/index.m3u8?appId=ncat&sign=651ffea6d7d43c3569ad85f03641dd8e&timestamp=1793175882&ref=0#第157集$https://142.248.99.212:21305/data5/jvods/hls/dhz/30/29819/26030213/3_242795_3299335/1920/index.m3u8?appId=ncat&sign=fef83ecde9b338ccc28921d3dd9dcd2c&timestamp=1793175882&ref=0#第158集$https://142.248.99.212:21305/data5/jvods/hls/dhz/30/29819/26030611/3_242795_3318228/1920/index.m3u8?appId=ncat&sign=db70598b039bd9641e6333e45e7d1e94&timestamp=1793175882&ref=0#第159集$https://142.248.96.212:21305/data2/jvods/hls/dhz/30/29819/26030916/3_242795_3334808/1920/index.m3u8?appId=ncat&sign=2e53a4248846a929c62643e5c262700a&timestamp=1793175883&ref=0#第160集$https://142.248.96.212:21305/data2/jvods/hls/dhz/30/29819/26031311/3_242795_3349669/1920/index.m3u8?appId=ncat&sign=a3ce9946b774ec7f510efabb8782404d&timestamp=1793175883&ref=0#第161集$https://142.248.97.120:21302/data1/jvods/hls/dhz/30/29819/26031617/3_242795_3367180/1920/index.m3u8?appId=ncat&sign=1e442668df4e4584cafcbef4d3ab03c0&timestamp=1793175883&ref=0#第162集$https://142.248.99.148:21302/data2/jvods/hls/dhz/30/29819/26032011/3_242795_3385131/1920/index.m3u8?appId=ncat&sign=ebbae108283740dd17b9fc03ef0f42e1&timestamp=1793175883&ref=0#第163集$https://142.248.99.212:21302/data8/jvods/hls/dhz/30/29819/26032315/3_242795_3400147/1920/index.m3u8?appId=ncat&sign=fbb3dc63618fffc07ce0b92a6a178c46&timestamp=1793175883&ref=0#第164集$https://208.69.102.156:21302/data4/jvods/hls/dhz/30/29819/26032711/3_242795_3418353/1920/index.m3u8?appId=ncat&sign=6f63f210a9ca10a8a182a4ae001ccefd&timestamp=1793175884&ref=0#第165集$https://142.248.99.148:21302/data5/jvods/hls/dhz/30/29819/26033014/3_242795_3437904/1920/index.m3u8?appId=ncat&sign=32cae4a4d875ea58b48a3df8f15357ee&timestamp=1793175884&ref=0#第166集$https://142.248.97.120:21302/data10/jvods/hls/dhz/30/29819/26040311/3_242795_3465969/1920/index.m3u8?appId=ncat&sign=5728e8c90a2e8b1f4fbb8aca6d25ce90&timestamp=1793175884&ref=0#第167集$https://142.248.96.84:21302/data10/jvods/hls/dhz/30/29819/26040615/3_242795_3489759/1920/index.m3u8?appId=ncat&sign=86ec558d9e41d3b6e76e65836b4c4e3d&timestamp=1793175884&ref=0#第168集$https://208.69.102.248:21302/data5/jvods/hls/dhz/30/29819/26041010/3_242795_3513494/1920/index.m3u8?appId=ncat&sign=43a09da285079ee09cdde11cc8d8b35a&timestamp=1793175884&ref=0#第169集$https://142.248.97.120:21302/data4/jvods/hls/dhz/30/29819/26041714/3_242795_3549213/1920/index.m3u8?appId=ncat&sign=afd85b134dc78295a3ad0e85f9376c21&timestamp=1793175884&ref=0#第170集$https://208.69.102.120:21302/data7/jvods/hls/dhz/30/29819/26041714/3_242795_3549216/1920/index.m3u8?appId=ncat&sign=a71bea59f93b25866017f242b298897a&timestamp=1793175885&ref=0#第171集$https://142.248.99.212:21302/data4/jvods/hls/dhz/30/29819/2604256/3_242795_3610253/1920/index.m3u8?appId=ncat&sign=b1af1c453967e6906edc141a74d56eaf&timestamp=1793175885&ref=0#第172集$https://142.248.96.212:21302/data5/jvods/hls/dhz/30/29819/2604256/3_242795_3610254/1920/index.m3u8?appId=ncat&sign=efe3d4db1ef80df5ea2228aaca1d2275&timestamp=1793175885&ref=0#第173集$https://142.248.99.148:21302/data5/jvods/hls/dhz/30/29819/26042718/3_242795_3641304/1920/index.m3u8?appId=ncat&sign=4ff2c95348bd00531edc9187222a5b81&timestamp=1793175885&ref=0#第174集$https://142.248.99.148:21302/data2/jvods/hls/dhz/30/29819/26050110/3_242795_3665871/1920/index.m3u8?appId=ncat&sign=0593236241ffd7584b1201629b6dc378&timestamp=1793175885&ref=0#第175集$https://142.248.99.148:21302/data2/jvods/hls/dhz/30/29819/26050414/3_242795_3687371/1920/index.m3u8?appId=ncat&sign=647cce23e6229a99d384bdf61523c63c&timestamp=1793175885&ref=0#第176集$https://142.248.99.212:21302/data6/jvods/hls/dhz/30/29819/26050816/3_242795_3734225/1920/index.m3u8?appId=ncat&sign=2bb3ab71d90ef73029ab7b299595615b&timestamp=1793175885&ref=0#第177集$https://208.69.102.248:21302/data3/jvods/hls/dhz/30/29819/26051511/3_242795_3788562/1920/index.m3u8?appId=ncat&sign=bdf8f21466bfd4971e2c16522668996e&timestamp=1793175885&ref=0#第178集$https://142.248.99.148:21302/data3/jvods/hls/dhz/30/29819/26051511/3_242795_3788552/1920/index.m3u8?appId=ncat&sign=cbe5f9aeaa84a54f4af9e88f4256b233&timestamp=1793175886&ref=0#第179集$https://142.248.97.212:21302/data6/jvods/hls/dhz/30/29819/26052211/3_242795_3854095/1920/index.m3u8?appId=ncat&sign=7c5c12f484c2dfd004a1983dc6b8da20&timestamp=1793175886&ref=0#第180集$https://142.248.96.84:21302/data5/jvods/hls/dhz/30/29819/26052211/3_242795_3854094/1920/index.m3u8?appId=ncat&sign=7158e87916f1c1706aa37f22d585a181&timestamp=1793175886&ref=0#第181集$https://142.248.96.84:21302/data9/jvods/hls/dhz/30/29819/26052515/3_242795_3878188/1920/index.m3u8?appId=ncat&sign=1553b0248e84867482633906fabbe6a7&timestamp=1793175886&ref=0#第182集$https://142.248.99.148:21302/data6/jvods/hls/dhz/30/29819/26052911/3_242795_3907115/1920/index.m3u8?appId=ncat&sign=82a0a05c1c953b5d72731939d7b0f672&timestamp=1793175886&ref=0#第183集$https://142.248.96.84:21302/data10/jvods/hls/dhz/30/29819/26060116/3_242795_3937279/1920/index.m3u8?appId=ncat&sign=f46467d2e814a6dd4c8b0f530cf59825&timestamp=1793175886&ref=0#第184集$https://208.69.102.156:21302/data7/jvods/hls/dhz/30/29819/26060512/3_242795_3973886/1920/index.m3u8?appId=ncat&sign=5a89bcdc1e3eb0bee9e75dcded57b115&timestamp=1793175887&ref=0#第185集$https://142.248.97.212:21302/data1/jvods/hls/dhz/30/29819/26060816/3_242795_4000740/1920/index.m3u8?appId=ncat&sign=19a59e4dd5feb5a4e219034d4b1af465&timestamp=1793175887&ref=0#第186集$https://208.69.102.120:21302/data10/jvods/hls/dhz/30/29819/26061212/3_242795_4048469/1920/index.m3u8?appId=ncat&sign=8800697d138979dcc94b86d1318d0cdd&timestamp=1793175887&ref=0#第187集$https://142.248.97.148:21302/data10/jvods/hls/dhz/30/29819/26061515/3_242795_4074339/1920/index.m3u8?appId=ncat&sign=c1e902617393f5e305f92731c5582aba&timestamp=1793175887&ref=0#第188集$https://142.248.96.84:21302/data1/jvods/hls/dhz/30/29819/26061912/3_242795_4119170/1920/index.m3u8?appId=ncat&sign=b9f22cecca6f6f94d60168caa933babb&timestamp=1793175887&ref=0#第189集$https://142.248.97.120:21302/data8/jvods/hls/dhz/30/29819/26062214/3_242795_4147867/1920/index.m3u8?appId=ncat&sign=c58bdfadf12c06e872afe8422cabef7d&timestamp=1793175887&ref=0#第190集$https://142.248.99.212:21302/data5/jvods/hls/dhz/30/29819/26062611/3_242795_4177264/1920/index.m3u8?appId=ncat&sign=ffa7bc51ed1f65af4eb5e49b1b7f6301&timestamp=1793175888&ref=0#第191集$https://64.112.77.120:21302/data5/jvods/hls/dhz/30/29819/26070312/3_242795_4291624/1920/index.m3u8?appId=ncat&sign=cca74066fe505125611b4b17956da6d9&timestamp=1793175888&ref=0#第192集$https://64.112.77.184:21302/data4/jvods/hls/dhz/30/29819/26070312/3_242795_4291623/1920/index.m3u8?appId=ncat&sign=3e1ba840c3f1be336cf3c75ab9f02bf1&timestamp=1793175888&ref=0#第193集$https://142.248.96.212:21302/data7/jvods/hls/dhz/30/29819/26071012/3_242795_4394916/1920/index.m3u8?appId=ncat&sign=cb5410bc6ff4ee845c082013a08b6218&timestamp=1793175888&ref=0#第194集$https://142.248.99.148:21302/data6/jvods/hls/dhz/30/29819/26071012/3_242795_4394915/1920/index.m3u8?appId=ncat&sign=207f9e2b1d13a8ab0b344aede3d033f7&timestamp=1793175888&ref=0#第195集$https://142.248.99.148:21302/data9/jvods/hls/dhz/30/29819/26071416/3_242795_4455458/1920/index.m3u8?appId=ncat&sign=6862660c534784a4be6f0ab54140fba9&timestamp=1793175888&ref=0#第196集$https://142.248.99.148:21302/data9/jvods/hls/dhz/30/29819/26072116/3_242795_4546308/1920/index.m3u8?appId=ncat&sign=161421e0b7cf50a4bed2656f06709dfc&timestamp=1793175888&ref=0#第197集$https://208.69.102.156:21302/data1/jvods/hls/dhz/30/29819/26072116/3_242795_4546310/1920/index.m3u8?appId=ncat&sign=9a7b2ded6d0f57424778f22fb242d1c9&timestamp=1793175889&ref=0#第198集$https://208.69.102.248:21302/data10/jvods/hls/dhz/30/29819/26072116/3_242795_4546309/1920/index.m3u8?appId=ncat&sign=741f0a761925cdc21903351d4e6174f4&timestamp=1793175889&ref=0#第199集$https://64.112.77.184:21302/data2/jvods/hls/dhz/30/29819/26072116/3_242795_4546311/1920/index.m3u8?appId=ncat&sign=53333f3b1cf459548378f608218b1907&timestamp=1793175889&ref=0#第200集$https://208.69.102.248:21302/data5/jvods/hls/dhz/30/29819/26072410/3_242795_4587474/1920/index.m3u8?appId=ncat&sign=780672c97e5ef5e7f0af846db853941b&timestamp=1793175889&ref=0#第201集$https://64.112.77.184:21302/data6/jvods/hls/dhz/30/29819/26072712/3_242795_4625145/1920/index.m3u8?appId=ncat&sign=3a44f8be692ad32be190439efcf5d15e&timestamp=1793175889&ref=0#第202集$https://142.248.96.84:21302/data7/jvods/hls/dhz/30/29819/26073110/3_242795_4706676/1920/index.m3u8?appId=ncat&sign=dc442c2d57836d1f4ca777837433dca5&timestamp=1793175889&ref=0#第203集$https://142.248.99.148:21302/data1/jvods/hls/dhz/30/29819/26080715/3_242795_4823160/1920/index.m3u8?appId=ncat&sign=09bf73d593c87799055766a3a4c9a24e&timestamp=1793175889&ref=0#第204集$https://142.248.96.212:21302/data9/jvods/hls/dhz/30/29819/26080715/3_242795_4823188/1920/index.m3u8?appId=ncat&sign=c92bc778abeeb2eacb2b973b828a702c&timestamp=1793175890&ref=0#第205集$https://142.248.99.212:21302/data2/jvods/hls/dhz/30/29819/26081018/3_242795_4855331/1920/index.m3u8?appId=ncat&sign=bf20ae8d2f7c4f9641e1271c92b10835&timestamp=1793175890&ref=0#第206集$https://208.69.102.120:21302/data10/jvods/hls/dhz/30/29819/26081411/3_242795_4947759/1920/index.m3u8?appId=ncat&sign=b1a1df97860ea4fb08c33a82b6bef6af&timestamp=1793175890&ref=0#第207集$https://142.248.99.212:21302/data4/jvods/hls/dhz/30/29819/26081717/3_242795_5003183/1920/index.m3u8?appId=ncat&sign=c30870cfc28a9b59ae04036a194ecf43&timestamp=1793175890&ref=0#第208集$https://142.248.97.148:21302/data9/jvods/hls/dhz/30/29819/26082112/3_242795_5099718/1920/index.m3u8?appId=ncat&sign=eda19c89ee4badb199609807685e3e91&timestamp=1793175890&ref=0#第209集$https://142.248.96.84:21302/data9/jvods/hls/dhz/30/29819/26082418/3_242795_5157278/1920/index.m3u8?appId=ncat&sign=acb73734f4a24ebf8c88ae619df41352&timestamp=1793175890&ref=0#第210集$https://142.248.96.212:21302/data8/jvods/hls/dhz/30/29819/26082811/3_242795_5234907/1920/index.m3u8?appId=ncat&sign=246bcb87ebcfa7a7298e385d92af5f8e&timestamp=1793175891&ref=0#第211集$https://208.69.102.156:21302/data2/jvods/hls/dhz/30/29819/26083114/3_242795_5284441/1920/index.m3u8?appId=ncat&sign=6a79d207374bf509af4222f10f15d17b&timestamp=1793175891&ref=0#第212集$https://208.69.102.156:21302/data10/jvods/hls/dhz/30/29819/26090411/3_242795_5392279/1920/index.m3u8?appId=ncat&sign=77ac3599fca70629e3c817986aea5c0e&timestamp=1793175891&ref=0#第213集$https://64.112.77.184:21302/data8/jvods/hls/dhz/30/29819/26090716/3_242795_5452447/1920/index.m3u8?appId=ncat&sign=d8c0bcdb778388425e586ab69cc67fcb&timestamp=1793175891&ref=0#第214集$https://142.248.97.120:21302/data1/jvods/hls/dhz/30/29819/26091111/3_242795_5569890/1920/index.m3u8?appId=ncat&sign=0e4ce0097d6cb16cd5c6ca65863532ff&timestamp=1793175891&ref=0#第215集$https://142.248.99.212:21302/data3/jvods/hls/dhz/30/29819/26091416/3_242795_5604772/1920/index.m3u8?appId=ncat&sign=d90f4b8eaf5abd8857ed8acc896df650&timestamp=1793175892&ref=0#第216集$https://208.69.102.248:21302/data4/jvods/hls/dhz/30/29819/26091811/3_242795_5714853/1920/index.m3u8?appId=ncat&sign=2f1c528799c3aff392dada4ec7b3875d&timestamp=1793175892&ref=0#第217集$https://142.248.97.212:21302/data8/jvods/hls/dhz/30/29819/26092111/3_242795_5771617/1920/index.m3u8?appId=ncat&sign=544955381aa45acf475940bf34ba8831&timestamp=1793175892&ref=0#第218集$https://208.69.102.156:21302/data2/jvods/hls/dhz/30/29819/26092511/3_242795_5883231/1920/index.m3u8?appId=ncat&sign=601c4639269ccb1675d00a56678fa065&timestamp=1793175892&ref=0#第219集$https://142.248.97.120:21302/data6/jvods/hls/dhz/30/29819/26092812/3_242795_5967675/1920/index.m3u8?appId=ncat&sign=67130b9d0d080b45b15226501d4c4647&timestamp=1793175892&ref=0#第220集$https://142.248.97.148:21302/data10/jvods/hls/dhz/30/29819/26100212/3_242795_6057939/1920/index.m3u8?appId=ncat&sign=53af5dad56ae65d654127664c3b7d25a&timestamp=1793175892&ref=0#第221集$https://208.69.102.156:21302/data2/jvods/hls/dhz/30/29819/26100511/3_242795_6162071/1920/index.m3u8?appId=ncat&sign=b1b7c07e79c3a9c2aa139d78c00b74d2&timestamp=1793175892&ref=0#第222集$https://208.69.102.248:21302/data3/jvods/hls/dhz/30/29819/26100910/3_242795_6284402/1920/index.m3u8?appId=ncat&sign=92b21923ce9620ba4316d1912d75fd7f&timestamp=1793175892&ref=0#第223集$https://142.248.97.148:21302/data6/jvods/hls/dhz/30/29819/26101210/3_242795_6300325/1920/index.m3u8?appId=ncat&sign=75105388a49a4de28517add7edc54f43&timestamp=1793175893&ref=0",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "更新至227集"
+    },
+    {
+      "vod_id": 10014,
+      "vod_name": "追梦吧青春",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261027/17/16/30/898d23ca8dd646fa0cc6c8695b72b30c.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "蓝光3$$$蓝光4",
+      "vod_play_url": "HD国语$https://player.yzzy37-play.vip/20261027/1484_729c6888/index.m3u8$$$HD$https://v13.rstu6.com/202610/27/UksCsicWRd27/video/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "HD国语"
+    },
+    {
+      "vod_id": 10015,
+      "vod_name": "吸血新一代",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261027/16/32/14/f4e38c3ed48e017da5229c9f4bb098f4.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "蓝光3$$$蓝光1$$$蓝光9",
+      "vod_play_url": "HD中字$https://player.yzzy37-play.vip/20261027/1482_ab541d87/index.m3u8$$$高清$https://v.fengbao14.com/video/xixuexinyidai/9ed87bdaaac9/index.m3u8$$$正片$https://vv.jisuzyv.com/play/dyP6W8zb/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "HD中字"
+    },
+    {
+      "vod_id": 10016,
+      "vod_name": "迷失者",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261027/11/48/02/8d814c59b8973327240c2c305bb2ce65.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "蓝光3$$$蓝光1$$$蓝光9",
+      "vod_play_url": "HD中字$https://cdn.vvvip-plays33.cc/20261027/21723_977e6726/index.m3u8$$$HD$https://v.fengbao14.com/video/mishizhe/f01e5aa56bd9/index.m3u8$$$正片$https://vv.jisuzyv.com/play/dwpEqOwe/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "HD中字"
+    },
+    {
+      "vod_id": 10017,
+      "vod_name": "双面游戏",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261027/11/33/04/9c25985919786c3fd40e05ebd9963d8c.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "蓝光3$$$蓝光9$$$蓝光7",
+      "vod_play_url": "HD中字$https://cdn.yzzy32-play.com/20261027/52721_0c2e8113/index.m3u8$$$正片$https://vv.jisuzyv.com/play/erkElx2a/index.m3u8$$$正片$https://play.hhuus.com/play/bqxVk07a/index.m3u8",
+      "vod_source": "ncat21",
+      "vod_remarks_src": "HD中字"
+    },
+    {
+      "vod_id": 10018,
       "vod_name": "暑假",
       "type_id": 11,
       "type_name": "连续剧",
@@ -109,19 +241,7 @@
       "vod_remarks_src": "更新至02集"
     },
     {
-      "vod_id": 10008,
-      "vod_name": "大哥请赐教",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261026/18/31/11/2581cbb143869fe1eb8bea0071f1141c.webp",
-      "vod_remarks": "更新至06集",
-      "vod_play_from": "蓝光$$$蓝光1$$$蓝光9",
-      "vod_play_url": "第01集$https://vip.dytt-tvs.com/20261026/42840_87602fc8/index.m3u8#第02集$https://vip.dytt-tvs.com/20261026/42837_9d2a9457/index.m3u8#第03集$https://vip.dytt-tvs.com/20261026/42838_55b3c1a8/index.m3u8#第04集$https://vip.dytt-tvs.com/20261026/42839_0d8b45d9/index.m3u8#第05集$https://vip.dytt-tvs.com/20261027/42917_ee56675b/index.m3u8#第06集$https://vip.dytt-tvs.com/20261027/42916_8490dafa/index.m3u8$$$第1集$https://v.fengbao14.com/video/dageqingcijiao/e62054579f4a/index.m3u8#第2集$https://v.fengbao14.com/video/dageqingcijiao/002ac4788bae/index.m3u8#第3集$https://v.fengbao14.com/video/dageqingcijiao/175445ddac0a/index.m3u8#第4集$https://v.fengbao14.com/video/dageqingcijiao/79c85147e685/index.m3u8$$$第1集$https://vv.jisuzyv.com/play/aKrYVgne/index.m3u8#第2集$https://vv.jisuzyv.com/play/elYv9Z6a/index.m3u8#第3集$https://vv.jisuzyv.com/play/erkElj6a/index.m3u8#第4集$https://vv.jisuzyv.com/play/aADQYRze/index.m3u8",
-      "vod_source": "ncat21",
-      "vod_remarks_src": "更新至06集"
-    },
-    {
-      "vod_id": 10009,
+      "vod_id": 10019,
       "vod_name": "薪酸打工仔",
       "type_id": 11,
       "type_name": "连续剧",
@@ -133,7 +253,7 @@
       "vod_remarks_src": "更新至第14集"
     },
     {
-      "vod_id": 10010,
+      "vod_id": 10020,
       "vod_name": "大圣归墟",
       "type_id": 11,
       "type_name": "连续剧",
@@ -145,19 +265,7 @@
       "vod_remarks_src": "第11集"
     },
     {
-      "vod_id": 10011,
-      "vod_name": "华灯起",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261026/15/27/02/634973a02e8b683de526cbf56318b6dc.jpg",
-      "vod_remarks": "更新至第8集",
-      "vod_play_from": "蓝光1$$$蓝光9$$$蓝光",
-      "vod_play_url": "第1集$https://v.fengbao14.com/video/huadengqi/7b8cc2c89338/index.m3u8#第2集$https://v.fengbao14.com/video/huadengqi/3565327db379/index.m3u8#第3集$https://v.fengbao14.com/video/huadengqi/f2a6f661b6d6/index.m3u8#第4集$https://v.fengbao14.com/video/huadengqi/8ba645de98f4/index.m3u8#第5集$https://v.fengbao14.com/video/huadengqi/b7581c0cf0e3/index.m3u8#第6集$https://v.fengbao14.com/video/huadengqi/4bad67237e6c/index.m3u8#第7集$https://v.fengbao14.com/video/huadengqi/afb070d3f130/index.m3u8#第8集$https://v.fengbao14.com/video/huadengqi/235191841616/index.m3u8$$$第01集$https://vv.jisuzyv.com/play/eXD79NWe/index.m3u8#第02集$https://vv.jisuzyv.com/play/aOYE0Apd/index.m3u8#第03集$https://vv.jisuzyv.com/play/dG6YVp7b/index.m3u8#第04集$https://vv.jisuzyv.com/play/b4xkyN1b/index.m3u8#第05集$https://vv.jisuzyv.com/play/dwpEqQRe/index.m3u8#第06集$https://vv.jisuzyv.com/play/e0R2rJvb/index.m3u8#第07集$https://vv.jisuzyv.com/play/dyP6vK7b/index.m3u8#第08集$https://vv.jisuzyv.com/play/en5Y9ERd/index.m3u8$$$第01集$https://vip.dytt-tvs.com/20261026/42801_15c43702/index.m3u8#第02集$https://vip.dytt-tvs.com/20261026/42800_a7aef852/index.m3u8#第03集$https://vip.dytt-tvs.com/20261026/42811_16d6ee3c/index.m3u8#第04集$https://vip.dytt-tvs.com/20261026/42807_2e61866e/index.m3u8#第05集$https://vip.dytt-tvs.com/20261026/42799_b5faafe9/index.m3u8#第06集$https://vip.dytt-tvs.com/20261026/42798_f60244ec/index.m3u8#第07集$https://play.phimgood.com/20261027/33241_296cc6dc/index.m3u8#第08集$https://play.phimgood.com/20261027/33240_d9b207c2/index.m3u8",
-      "vod_source": "ncat21",
-      "vod_remarks_src": "更新至第8集"
-    },
-    {
-      "vod_id": 10012,
+      "vod_id": 10021,
       "vod_name": "界门之下",
       "type_id": 13,
       "type_name": "动漫",
@@ -169,7 +277,7 @@
       "vod_remarks_src": "更新至21集"
     },
     {
-      "vod_id": 10013,
+      "vod_id": 10022,
       "vod_name": "公主今天保护欲满满",
       "type_id": 13,
       "type_name": "动漫",
@@ -181,7 +289,7 @@
       "vod_remarks_src": "第28集"
     },
     {
-      "vod_id": 10014,
+      "vod_id": 10023,
       "vod_name": "泥面人",
       "type_id": 10,
       "type_name": "电影",
@@ -193,7 +301,7 @@
       "vod_remarks_src": "抢先版"
     },
     {
-      "vod_id": 10015,
+      "vod_id": 10024,
       "vod_name": "遮天2023",
       "type_id": 13,
       "type_name": "动漫",
@@ -205,29 +313,7 @@
       "vod_remarks_src": "更新至第187集"
     },
     {
-      "vod_id": 10016,
-      "vod_name": "牛仔杀人狂",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261024/21/08/54/eab6687f09b6ce757de5fb3a9c28b1ba.jpg",
-      "vod_remarks": "",
-      "vod_play_from": "蓝光3$$$蓝光9$$$蓝光7",
-      "vod_play_url": "HD中字$https://player.yzzyvip-35.com/20261024/19598_0e3febae/index.m3u8$$$正片$https://vv.jisuzyv.com/play/b82ox5ge/index.m3u8$$$正片$https://play.hhuus.com/play/e73nw5ye/index.m3u8",
-      "vod_source": "ncat21"
-    },
-    {
-      "vod_id": 10017,
-      "vod_name": "失控长夜",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261024/14/48/03/13913a8c6535100f5e4d9137ed7fc0b9.jpg",
-      "vod_remarks": "",
-      "vod_play_from": "蓝光3$$$蓝光9$$$蓝光7",
-      "vod_play_url": "HD中字$https://cdn.vvvip-plays33.cc/20261024/21619_e8328277/index.m3u8$$$正片$https://vv.jisuzyv.com/play/b82oxyre/index.m3u8$$$正片$https://play.hhuus.com/play/e73nwxBe/index.m3u8",
-      "vod_source": "ncat21"
-    },
-    {
-      "vod_id": 10018,
+      "vod_id": 10025,
       "vod_name": "驯养守则",
       "type_id": 11,
       "type_name": "连续剧",
@@ -238,18 +324,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10019,
-      "vod_name": "大笑夜生活",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://www.ncat21.com/vod1/vod/cover/20261025/12/18/05/bc023003dd117e90694e833888858d47.webp",
-      "vod_remarks": "更新至06集",
-      "vod_play_from": "蓝光9$$$超清2",
-      "vod_play_url": "第1集$https://vv.jisuzyv.com/play/b2kgQvvd/index.m3u8#第2集$https://vv.jisuzyv.com/play/ejRvNR5e/index.m3u8#第3集$https://vv.jisuzyv.com/play/b82o06oe/index.m3u8#第4集$https://vv.jisuzyv.com/play/eVO5Km1a/index.m3u8#第5集$https://vv.jisuzyv.com/play/erkEoVBa/index.m3u8#第6集$https://vv.jisuzyv.com/play/elYvgE7a/index.m3u8$$$第1集$https://142.248.97.182:21302/data5/jvods/hls/dhz/174/173374/26102514/2_389838_6659684/1920/index.m3u8?appId=ncat&sign=f21919f790c529dc3f2ccc01ede519f2&timestamp=1793017000&ref=0#第2集$https://142.248.96.118:21302/data4/jvods/hls/dhz/174/173374/26102514/2_389838_6659683/1920/index.m3u8?appId=ncat&sign=3c4485c10aec08f2cdc0a9fe6c6d0726&timestamp=1793017004&ref=0#第3集$https://142.248.99.182:21302/data6/jvods/hls/dhz/174/173374/26102514/2_389838_6659685/1920/index.m3u8?appId=ncat&sign=e979b4434609b4f6f6bd8de28a1e3f78&timestamp=1793017002&ref=0#第4集$https://142.248.99.246:21302/data7/jvods/hls/dhz/174/173374/26102514/2_389838_6659686/1920/index.m3u8?appId=ncat&sign=f8f38772e1f988fdb78796d2e0a46154&timestamp=1793017002&ref=0",
-      "vod_source": "ncat21"
-    },
-    {
-      "vod_id": 10020,
+      "vod_id": 10026,
       "vod_name": "沧元图东宁府番外篇",
       "type_id": 13,
       "type_name": "动漫",
@@ -260,7 +335,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10021,
+      "vod_id": 10027,
       "vod_name": "大唐猫妖",
       "type_id": 13,
       "type_name": "动漫",
@@ -271,7 +346,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10022,
+      "vod_id": 10028,
       "vod_name": "伦敦合伙人",
       "type_id": 12,
       "type_name": "综艺",
@@ -282,7 +357,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10023,
+      "vod_id": 10029,
       "vod_name": "舞蹈新风暴",
       "type_id": 12,
       "type_name": "综艺",
@@ -293,7 +368,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10024,
+      "vod_id": 10030,
       "vod_name": "夏风与少年之迟到的十年",
       "type_id": 11,
       "type_name": "连续剧",
@@ -304,7 +379,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10025,
+      "vod_id": 10031,
       "vod_name": "属于我们的城市第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -315,7 +390,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10026,
+      "vod_id": 10032,
       "vod_name": "武神主宰",
       "type_id": 13,
       "type_name": "动漫",
@@ -326,7 +401,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10027,
+      "vod_id": 10033,
       "vod_name": "浪里个浪青春版",
       "type_id": 12,
       "type_name": "综艺",
@@ -337,7 +412,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10028,
+      "vod_id": 10034,
       "vod_name": "战邮",
       "type_id": 10,
       "type_name": "电影",
@@ -348,7 +423,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10029,
+      "vod_id": 10035,
       "vod_name": "地产豺狼亚历山大兄弟",
       "type_id": 11,
       "type_name": "连续剧",
@@ -359,7 +434,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10030,
+      "vod_id": 10036,
       "vod_name": "吞噬星空合集篇",
       "type_id": 13,
       "type_name": "动漫",
@@ -370,7 +445,7 @@
       "vod_source": "ncat21"
     },
     {
-      "vod_id": 10031,
+      "vod_id": 10037,
       "vod_name": "肆笑播客x二的三次方",
       "type_id": 12,
       "type_name": "综艺",
