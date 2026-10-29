@@ -1,26 +1,15 @@
 # -*- coding: utf-8 -*-
-"""
-源注册表。
 
-加新源只需要两步：
-  1. 在 sources/ 下新建 xxx.py，写一个类，实现 crawl(pages) -> list[dict]
-  2. 在下面 SOURCES 里加一行，并把类里的 enabled 改成 True
-"""
-
-from .a123tv import A123TVSource
 from .jsard import JsardSource
 from .fdzys import FdzysSource
 from .kvm import KvmSource
-from .ncat21 import Ncat21Source
 from .maccms import MacCMSSource
 from .html_generic import HtmlGenericSource
 from .stubs import HELLO, KPKUANG
 
 SOURCES = [
-    A123TVSource(),
     JsardSource(),
     FdzysSource(),
-    Ncat21Source(),
     KvmSource(),
     MacCMSSource(),
     HtmlGenericSource(),

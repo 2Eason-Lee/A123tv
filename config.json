@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "a123_core",
-      "name": "🎬 A123TV 核心",
-      "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/a123tv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "a123_jsard",
       "name": "🆕 FreeOK / 新视觉",
       "type": 1,
@@ -23,15 +14,6 @@
       "name": "🍚 饭搭子影视",
       "type": 1,
       "api": "https://a123tv-api.eason-lee89750.workers.dev/fdzys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "a123_ncat21",
-      "name": "🐱 网飞猫",
-      "type": 1,
-      "api": "https://a123tv-api.eason-lee89750.workers.dev/ncat21",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

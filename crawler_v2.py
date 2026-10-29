@@ -36,7 +36,7 @@ START_ID = 10001          # 保持和旧数据一致的起始 ID
 OUT_FILE = 'vod.json'
 
 # 已下架的源：即使旧 vod.json / vod-<源>.json 里还有数据，也不要再带回来
-DROPPED_SOURCES = {'tzqjdy'}
+DROPPED_SOURCES = {'tzqjdy', 'a123tv', 'ncat21'}
 
 
 def canonical(type_name):
