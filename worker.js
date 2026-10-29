@@ -22,10 +22,8 @@ const BASE_URL = 'https://raw.githubusercontent.com/2Eason-Lee/A123tv/refs/heads
 
 // 路径 → 数据文件：访问 /jsard 就是 jsard 单独的数据，/ 是合并版
 const FILE_MAP = {
-  'a123tv': 'vod-a123tv.json',
   'jsard': 'vod-jsard.json',
   'fdzys': 'vod-fdzys.json',
-  'ncat21': 'vod-ncat21.json',
   'kvm': 'vod-kvm.json',
 };
 
