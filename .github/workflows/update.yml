@@ -8,7 +8,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 60
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,7 +23,7 @@ jobs:
         with:
           deno-version: v2.x
       - name: Crawl
-        run: python crawler_v2.py --pages 10 --limit 60 --split
+        run: python crawler_v2.py --pages 3 --limit 30 --split
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
@@ -33,7 +33,7 @@ jobs:
             echo "没有变化，跳过提交"
             exit 0
           fi
-          git commit -m "Auto update VOD data ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git commit -m "chore: update vod data ($(date -u +%Y-%m-%dT%H:%MZ))"
           for i in 1 2 3; do
             if git pull --rebase --autostash origin "$(git rev-parse --abbrev-ref HEAD)" && git push; then
               exit 0

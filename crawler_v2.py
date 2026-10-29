@@ -379,12 +379,50 @@ def load_split_cache(key):
     return cache
 
 
+_DIGITS_RE = re.compile(r'(\d+)')
+_VOID_REMARKS = {'正片', '', 'HD', '更新HD', '高清', '国语', '正片HD', '正片更新HD'}
+
+
+def _remarks_same(old_src, new_src):
+    """
+    只比「备注里的数字（集数）」，不比固定标签。
+
+    源站列表页的 remarks 经常改版：上个月返回 'HD'，这个月统一成 '正片'，
+    但这两个值都不包含集数信息，本质上是同一件事，不能因为字符串不等就重抓。
+
+    规则：
+      - 两边都没有集数数字 → 跳过（不是真的没更新就是源站没给）
+      - 两边都有集数数字且相等 → 跳过
+      - 新备注的集数更大 → 重抓
+      - 旧备注有集数、新备注没集数 → 跳过（源站可能改版了，保守起见不重抓）
+    """
+    old_src = (old_src or '').strip()
+    new_src = (new_src or '').strip()
+
+    if old_src == new_src:
+        return True
+
+    old_nums = _DIGITS_RE.findall(old_src)
+    new_nums = _DIGITS_RE.findall(new_src)
+
+    if not new_nums:
+        return True
+
+    if old_nums and new_nums:
+        if old_nums[-1] == new_nums[-1]:
+            return True
+        if int(new_nums[-1]) > int(old_nums[-1]):
+            return False
+
+    return True
+
+
 def make_skip(cache, source_key=None, force=None):
     """
     返回一个 skip(name, remarks) 判断函数。
 
-    规则：片名在缓存里、并且备注完全一样 → 跳过（不用请求详情页）。
-         备注变了（比如「更新第02集」→「更新第05集」）→ 重抓，否则新剧集永远补不上。
+    规则：片名在缓存里、并且备注里的集数没变大 → 跳过（不用请求详情页）。
+         备注集数变大了（比如「更新第02集」→「更新第05集」）→ 重抓。
 
     source_key：只和「同一个源」的旧数据比较。否则新加的源会因为别的源已经
     有同名同备注的片子而被误跳过，永远进不了自己的分源文件。
@@ -403,12 +441,10 @@ def make_skip(cache, source_key=None, force=None):
             return False
         if source_key and (old.get('vod_source') or 'a123tv') != source_key:
             return False
-        # vod_remarks 可能被合并阶段补成「更新至19集」，源站列表页却只写 1080p 或空。
-        # 增量判断必须和「源站原始备注」比，否则同一部片每轮都会被重抓。
         old_remarks = old.get('vod_remarks_src')
         if old_remarks is None:
             old_remarks = old.get('vod_remarks') or ''
-        return old_remarks == (remarks or '')
+        return _remarks_same(old_remarks, remarks or '')
     return skip
 
 

@@ -179,9 +179,13 @@ class JsardSource:
 
         for c in self.classes:
             tid = c['type_id']
-            done_cls = 0          # 每个分类单独计数，--limit 是「每分类多少条」
+            done_cls = 0
+            consec_skip = 0
             for page in range(1, pages + 1):
                 if max_details and done_cls >= max_details:
+                    break
+                if consec_skip >= 30:
+                    print(f'  [{self.key}] {c["type_name"]} 连续 {consec_skip} 条缓存命中，提前结束翻页')
                     break
                 try:
                     data = self._list_page(tid, page)
@@ -198,11 +202,14 @@ class JsardSource:
                     if max_details and done_cls >= max_details:
                         print(f'  [{self.key}] {c["type_name"]} 达到 {max_details} 条，换下一分类')
                         break
+                    if consec_skip >= 30:
+                        break
 
                     name = r.get('vod_name', '')
-                    # 已抓过且备注没变 → 跳过详情页和播放页，省掉最贵的请求
                     if skip and skip(name, r.get('vod_remarks', '')):
+                        consec_skip += 1
                         continue
+                    consec_skip = 0
                     done_cls += 1
 
                     detail_link = r.get('detail_link', '')

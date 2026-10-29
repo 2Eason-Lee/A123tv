@@ -470,8 +470,12 @@ class FdzysSource:
         # 2) 各分类列表
         for c in self.classes:
             done_cls = 0
+            consec_skip = 0
             for page in range(1, pages + 1):
                 if max_details and done_cls >= max_details:
+                    break
+                if consec_skip >= 30:
+                    print(f'  [{self.key}] {c["type_name"]} 连续 {consec_skip} 条缓存命中，提前结束翻页')
                     break
                 try:
                     rows = self._list_page(c['path'], page)
@@ -485,11 +489,15 @@ class FdzysSource:
                 for r in rows:
                     if max_details and done_cls >= max_details:
                         break
+                    if consec_skip >= 30:
+                        break
                     detail_url = r['detail_link']
                     if detail_url in self._seen:
                         continue
                     if skip and skip(r['vod_name'], r.get('vod_remarks', '')):
+                        consec_skip += 1
                         continue
+                    consec_skip = 0
                     self._seen.add(detail_url)
                     done_cls += 1
 
