@@ -46,7 +46,7 @@ class JsardSource:
 
     max_lines_movie = 4   # 电影多留几条线路：同一部片常有 TC / HD / 国语 多个版本
     max_lines_series = 2  # 连续剧留两条，避免只剩一条 TC，同时控制请求数
-    max_eps = 80          # 每条线路最多抓多少集；76 集连续剧能完整保留
+    max_eps = 60          # 每条线路最多抓多少集
     max_probe_lines = 99  # 探测所有线路，不能在前几条成功后就停
 
     def __init__(self):

@@ -62,7 +62,7 @@ class FdzysSource:
 
     max_lines_movie = 4    # 电影/单集片多留几条线路，避免只抓到一条 TC
     max_lines_series = 2   # 连续剧留两条：既有多线路兜底，又不会把请求数翻太多倍
-    max_eps = 150          # 单条线路最多抓多少集；76 集连续剧能完整保留
+    max_eps = 80           # 单条线路最多抓多少集
     max_probe_lines = 99   # 探测所有线路；不能再因为「前 5 条都不行」漏掉后面的 HD 线路
 
     classes = [

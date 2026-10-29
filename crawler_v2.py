@@ -584,6 +584,12 @@ def run(args):
         if not kept_s:
             continue
         merged_s = merge_items(kept_s)
+
+        MAX_PER_SOURCE = 1200
+        if len(merged_s) > MAX_PER_SOURCE:
+            merged_s = merged_s[:MAX_PER_SOURCE]
+            print(f'  [{src.key}] 超过 {MAX_PER_SOURCE} 条上限，截断')
+
         sub_payload = build_payload(merged_s)
         fn = f'vod-{src.key}.json'
 

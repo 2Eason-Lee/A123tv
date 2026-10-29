@@ -10,36 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Install dependencies
-        run: pip install requests
-      - name: Setup Deno
-        uses: denoland/setup-deno@v2
-        with:
-          deno-version: v2.x
-      - name: Crawl
-        run: python crawler_v2.py --pages 3 --limit 30 --split
-      - name: Commit
-        run: |
+      - run: pip install requests
+      - run: python crawler_v2.py --pages 2 --limit 25 --split
+      - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add vod-*.json
           if git diff --cached --quiet; then
-            echo "没有变化，跳过提交"
-            exit 0
+            echo "no changes"; exit 0
           fi
-          git commit -m "chore: update vod data ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git commit -m "update $(date -u +%H:%MZ)"
           for i in 1 2 3; do
             if git pull --rebase --autostash origin "$(git rev-parse --abbrev-ref HEAD)" && git push; then
               exit 0
             fi
-            echo "push 被拒，第 $i 次重试"
-            sleep 5
+            echo "retry $i"; sleep 5
           done
-          echo "推送失败：远端在抓取期间被改动过，请重跑一次 Action"
           exit 1
