@@ -30,102 +30,6 @@
   "list": [
     {
       "vod_id": 10001,
-      "vod_name": "疾速保镖",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://ynztctv.com/upload/vod/20261029-1/28ee422c83d87f43ebcc7c56e2e95a01.webp",
-      "vod_remarks": "更新",
-      "vod_play_from": "线路1$$$线路2$$$线路3",
-      "vod_play_url": "正片$https://bfikuncdn.com/20261029/mG3GfdSn/index.m3u8$$$正片$https://v.gsuus.com/play/b4xkrMkb/index.m3u8$$$正片$https://v13.qqqrst.com/yyv13/202610/29/tPAdwsJD2c27/video/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新HD"
-    },
-    {
-      "vod_id": 10002,
-      "vod_name": "敦煌英雄",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://img.dytt-tupian.com/upload/vod/20261029-1/f352473f3652bddd6baa8c47f3cee753.jpg",
-      "vod_remarks": "更新",
-      "vod_play_from": "线路4$$$线路1$$$线路3$$$线路2",
-      "vod_play_url": "正片$https://svip.ryiplay18.com/20261029/14863_4fb8b818/index.m3u8$$$正片$https://vip.dytt-see.com/20261029/46761_8513d71f/index.m3u8$$$正片$https://v.lzcdn27.com/20261029/20623_4715c227/index.m3u8$$$正片$https://v.gsuus.com/play/e0R2nG3b/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新HD"
-    },
-    {
-      "vod_id": 10003,
-      "vod_name": "落网之谜：墨西哥大毒枭的坠落",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://shandianpic.vip/upload/vod/20261029-1/4cd8f0dc77bb0c2379f1d74795949f4d.jpg",
-      "vod_remarks": "更新第03集",
-      "vod_play_from": "线路1",
-      "vod_play_url": "正片$https://v13.qqqrst.com/yyv13/202610/29/tfisFrc32r27/video/index.m3u8#第2集$https://v14.qqqrst.com/yyv14/202610/29/YjazCFuaem27/video/index.m3u8#第3集$https://v15.qqqrst.com/yyv15/202610/29/GGdtdqtFmH27/video/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新第03集"
-    },
-    {
-      "vod_id": 10004,
-      "vod_name": "我们好一点",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://img.guangsuimage.com/cover/252842cfac83631f3184d7c071b2c26d.jpg",
-      "vod_remarks": "",
-      "vod_play_from": "线路1",
-      "vod_play_url": "正片$https://v.gsuus.com/play/elYvoOja/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "正片"
-    },
-    {
-      "vod_id": 10005,
-      "vod_name": "不离不弃2026",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://img.guangsuimage.com/cover/f5376def264bb8f80e75febe0a36b089.jpg",
-      "vod_remarks": "",
-      "vod_play_from": "线路2$$$线路1",
-      "vod_play_url": "正片$https://vip.dytt-tvs.com/20260207/11112_afcb7a2f/index.m3u8$$$正片$https://v.gsuus.com/play/dwpEz4Re/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "正片"
-    },
-    {
-      "vod_id": 10006,
-      "vod_name": "我们要火啦!!",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://img.guangsuimage.com/cover/df099083450295b1ead6bc471c031a88.jpg",
-      "vod_remarks": "",
-      "vod_play_from": "线路1",
-      "vod_play_url": "正片$https://v.gsuus.com/play/en5Y04Rd/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "正片"
-    },
-    {
-      "vod_id": 10007,
-      "vod_name": "假面教师：从妻子离世的那天起",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://shandianpic.vip/upload/vod/20261008-1/94a323d928acbb66565a4fdc72c00152.jpg",
-      "vod_remarks": "更新第04集",
-      "vod_play_from": "线路2$$$线路1",
-      "vod_play_url": "正片$https://bfikuncdn.com/20261008/t13mvHsn/index.m3u8#第2集$https://bfikuncdn.com/20261016/3IFUqcOw/index.m3u8#第3集$https://bfikuncdn.com/20261029/bCMmkMt3/index.m3u8#第4集$https://bfikuncdn.com/20261029/kqkZORhg/index.m3u8$$$正片$https://v15.qqqrst.com/yyv15/202610/08/naKExigkym27/video/index.m3u8#第2集$https://v14.qqqrst.com/yyv14/202610/22/2PKZ5T3tMr27/video/index.m3u8#第3集$https://v13.qqqrst.com/yyv13/202610/22/eXDCUcdiUA27/video/index.m3u8#第4集$https://v13.qqqrst.com/yyv13/202610/29/8rS0hxCRVm27/video/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新第04集"
-    },
-    {
-      "vod_id": 10008,
-      "vod_name": "小麦与黄油与复仇",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://img.lzipic.com/upload/vod/20261009-1/381c3ad00cae19706bb7f9b0f3310d6b.webp",
-      "vod_remarks": "更新第04集",
-      "vod_play_from": "线路2$$$线路4",
-      "vod_play_url": "正片$https://bfikuncdn.com/20261008/VcsNjCY8/index.m3u8#第2集$https://bfikuncdn.com/20261022/IheHDq86/index.m3u8#第3集$https://bfikuncdn.com/20261022/Kfz1qKOE/index.m3u8#第4集$https://bfikuncdn.com/20261029/lJWyL6Mt/index.m3u8$$$正片$https://svip.ryiplay18.com/20261009/12620_a2189f1e/index.m3u8#第2集$https://svip.ryiplay18.com/20261015/13282_23b68d80/index.m3u8#第3集$https://svip.ryiplay18.com/20261022/14067_968d41b0/index.m3u8#第4集$https://svip.ryiplay18.com/20261029/14862_0aaa7d37/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新第04集"
-    },
-    {
-      "vod_id": 10009,
       "vod_name": "黑暗遗产",
       "type_id": 11,
       "type_name": "连续剧",
@@ -136,43 +40,7 @@
       "vod_source": "jsard"
     },
     {
-      "vod_id": 10010,
-      "vod_name": "爱上草莓的季节",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://img.lzipic.com/upload/vod/20261008-1/a7f376a33f168f50becfa6d154682dc2.webp",
-      "vod_remarks": "更新第04集",
-      "vod_play_from": "线路2$$$线路3",
-      "vod_play_url": "正片$https://bfikuncdn.com/20261007/3s6oUK3s/index.m3u8#第2集$https://bfikuncdn.com/20261014/lygQs5RN/index.m3u8#第3集$https://bfikuncdn.com/20261021/wxT2aAgv/index.m3u8#第4集$https://bfikuncdn.com/20261029/0kPPgmmL/index.m3u8$$$正片$https://svip.ryiplay18.com/20261007/12434_17e0daef/index.m3u8#第2集$https://svip.ryiplay18.com/20261014/13238_c68e7698/index.m3u8#第3集$https://svip.ryiplay18.com/20261021/13968_c5d0e9c4/index.m3u8#第4集$https://svip.ryiplay18.com/20261029/14859_954ce6c2/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新第04集"
-    },
-    {
-      "vod_id": 10011,
-      "vod_name": "妈妈发疯了",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://img.guangsuimage.com/cover/a9ad8a6dab1ea0231507c2575b7beaad.jpg",
-      "vod_remarks": "更新第23集",
-      "vod_play_from": "线路2$$$线路5",
-      "vod_play_url": "正片$https://bfikuncdn.com/20260929/5mt6TFKA/index.m3u8#第2集$https://bfikuncdn.com/20260930/QRBqglXu/index.m3u8#第3集$https://bfikuncdn.com/20261001/y0H0yrIm/index.m3u8#第4集$https://bfikuncdn.com/20261003/xznHS9PC/index.m3u8#第5集$https://bfikuncdn.com/20261003/jctsEjM2/index.m3u8#第6集$https://bfikuncdn.com/20261006/0jD1uQSx/index.m3u8#第7集$https://bfikuncdn.com/20261007/VQiu4CjL/index.m3u8#第8集$https://bfikuncdn.com/20261008/7PYKbAor/index.m3u8#第9集$https://bfikuncdn.com/20261009/po63J5qz/index.m3u8#第10集$https://bfikuncdn.com/20261010/tmZoHMgO/index.m3u8#第11集$https://bfikuncdn.com/20261013/9l4yV8n1/index.m3u8#第12集$https://bfikuncdn.com/20261014/VAs9HIrG/index.m3u8#第13集$https://bfikuncdn.com/20261015/x4aZ72NI/index.m3u8#第14集$https://bfikuncdn.com/20261016/si9nZ3nP/index.m3u8#第15集$https://bfikuncdn.com/20261017/UsNtMW7q/index.m3u8#第16集$https://bfikuncdn.com/20261020/maugn7sg/index.m3u8#第17集$https://bfikuncdn.com/20261021/V3oT7WGe/index.m3u8#第18集$https://bfikuncdn.com/20261022/NRy9pGCL/index.m3u8#第19集$https://bfikuncdn.com/20261023/XHy1o9OQ/index.m3u8#第20集$https://bfikuncdn.com/20261024/kzc7lGP2/index.m3u8#第21集$https://bfikuncdn.com/20261027/6uuaK6YL/index.m3u8#第22集$https://bfikuncdn.com/20261028/6rQ0ZJvL/index.m3u8#第23集$https://bfikuncdn.com/20261029/ZPzuE1og/index.m3u8$$$正片$https://svip.ryplay14.com/20260930/19879_7832fcbf/index.m3u8#第2集$https://svip.ryplay14.com/20260930/19895_b17ad1a2/index.m3u8#第3集$https://svip.ryplay14.com/20261001/19931_5914bfed/index.m3u8#第4集$https://svip.ryplay14.com/20261003/20030_812fd723/index.m3u8#第5集$https://svip.ryplay14.com/20261003/20087_b940babb/index.m3u8#第6集$https://svip.ryiplay18.com/20261006/12324_5b1574c4/index.m3u8#第7集$https://svip.ryiplay18.com/20261007/12387_e2191f1d/index.m3u8#第8集$https://svip.ryiplay18.com/20261008/12507_478b2412/index.m3u8#第9集$https://svip.ryiplay18.com/20261009/12655_8349c03a/index.m3u8#第10集$https://svip.ryiplay18.com/20261010/12725_e30b0328/index.m3u8#第11集$https://svip.ryiplay18.com/20261013/12982_b8c7be24/index.m3u8#第12集$https://svip.ryiplay18.com/20261014/13156_27d3d2c3/index.m3u8#第13集$https://svip.ryiplay18.com/20261015/13277_29e85423/index.m3u8#第14集$https://svip.ryiplay18.com/20261016/13430_17c4ca40/index.m3u8#第15集$https://svip.ryiplay18.com/20261017/13568_f2e68701/index.m3u8#第16集$https://svip.ryiplay18.com/20261020/13804_bbbcfaf3/index.m3u8#第17集$https://svip.ryiplay18.com/20261021/13920_1155e73d/index.m3u8#第18集$https://svip.ryiplay18.com/20261022/14043_4ed2d593/index.m3u8#第19集$https://svip.ryiplay18.com/20261023/14170_431ce07c/index.m3u8#第20集$https://svip.ryplay14.com/20261024/22300_718f6860/index.m3u8#第21集$https://svip.ryiplay18.com/20261027/14572_e9e1d057/index.m3u8#第22集$https://svip.ryiplay18.com/20261028/14692_402d9932/index.m3u8#第23集$https://svip.ryiplay18.com/20261028/14742_7cdf7a18/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新第23集"
-    },
-    {
-      "vod_id": 10012,
-      "vod_name": "莫语者",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://img.dytt-tupian.com/upload/vod/20261021-1/2909fd1846483c713b8e2cc3bd8ea50e.jpg",
-      "vod_remarks": "更新第22集",
-      "vod_play_from": "线路3$$$线路1",
-      "vod_play_url": "正片$https://bfikuncdn.com/20261021/QrkIVqM0/index.m3u8#第2集$https://bfikuncdn.com/20261021/IksiPHOe/index.m3u8#第3集$https://bfikuncdn.com/20261021/U7es8oMg/index.m3u8#第4集$https://bfikuncdn.com/20261021/zRt4iFc7/index.m3u8#第5集$https://bfikuncdn.com/20261021/aaHttWel/index.m3u8#第6集$https://bfikuncdn.com/20261022/7I3WT0km/index.m3u8#第7集$https://bfikuncdn.com/20261022/4PEP8C60/index.m3u8#第8集$https://bfikuncdn.com/20261022/PGrGMaGW/index.m3u8#第9集$https://bfikuncdn.com/20261023/jA9LwyWQ/index.m3u8#第10集$https://bfikuncdn.com/20261023/xVG3cweG/index.m3u8#第11集$https://bfikuncdn.com/20261024/J2cxZPd7/index.m3u8#第12集$https://bfikuncdn.com/20261024/hRGXKXqE/index.m3u8#第13集$https://bfikuncdn.com/20261025/czQsZJAp/index.m3u8#第14集$https://bfikuncdn.com/20261025/QFEb1G6K/index.m3u8#第15集$https://bfikuncdn.com/20261026/jWU2VeEQ/index.m3u8#第16集$https://bfikuncdn.com/20261026/gHjHsl0f/index.m3u8#第17集$https://bfikuncdn.com/20261027/NJP0hHJt/index.m3u8#第18集$https://bfikuncdn.com/20261027/QUNBUG2o/index.m3u8#第19集$https://bfikuncdn.com/20261028/5dikhrPE/index.m3u8#第20集$https://bfikuncdn.com/20261028/Zwf50b2M/index.m3u8#第21集$https://bfikuncdn.com/20261029/wVtsWyLh/index.m3u8#第22集$https://bfikuncdn.com/20261029/mTKvQA1X/index.m3u8$$$正片$https://vip.dytt-tvs.com/20261021/42086_95a9c1ab/index.m3u8#第2集$https://vip.dytt-tvs.com/20261021/42087_f90552c7/index.m3u8#第3集$https://vip.dytt-tvs.com/20261021/42088_88103302/index.m3u8#第4集$https://vip.dytt-tvs.com/20261021/42089_bae38661/index.m3u8#第5集$https://vip.dytt-tvs.com/20261021/42090_9ee855f3/index.m3u8#第6集$https://vip.dytt-tvs.com/20261021/42093_9d417135/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新第22集"
-    },
-    {
-      "vod_id": 10013,
+      "vod_id": 10002,
       "vod_name": "家庭关系证明书",
       "type_id": 11,
       "type_name": "连续剧",
@@ -184,43 +52,7 @@
       "vod_remarks_src": "更新第68集"
     },
     {
-      "vod_id": 10014,
-      "vod_name": "独家黑幕第二季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://img.lzipic.com/upload/vod/20261015-1/3738eef9e642460fbeed50152972cb2c.webp",
-      "vod_remarks": "更新第04集",
-      "vod_play_from": "线路6$$$线路2",
-      "vod_play_url": "正片$https://bfikuncdn.com/20261015/LqbrgUfc/index.m3u8#第2集$https://bfikuncdn.com/20261015/lHDbXIRU/index.m3u8#第3集$https://bfikuncdn.com/20261023/QPHWvUU6/index.m3u8#第4集$https://bfikuncdn.com/20261029/aBvnpje3/index.m3u8$$$正片$https://svip.ryiplay18.com/20261015/13280_d703a96e/index.m3u8#第2集$https://svip.ryiplay18.com/20261015/13279_352f272b/index.m3u8#第3集$https://svip.ryiplay18.com/20261022/14047_48787447/index.m3u8#第4集$https://svip.ryiplay18.com/20261029/14861_f9a2304c/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新第04集"
-    },
-    {
-      "vod_id": 10015,
-      "vod_name": "花朵盛开",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://img.lzipic.com/upload/vod/20261002-1/a4f9e16e9872b52edbedc001132b71fb.webp",
-      "vod_remarks": "更新第24集",
-      "vod_play_from": "线路2$$$线路3",
-      "vod_play_url": "正片$https://bfikuncdn.com/20261002/dYsbm1XV/index.m3u8#第2集$https://bfikuncdn.com/20261002/avlb2TBh/index.m3u8#第3集$https://bfikuncdn.com/20261002/C9xt5v5x/index.m3u8#第4集$https://bfikuncdn.com/20261002/RCQKX2FD/index.m3u8#第5集$https://bfikuncdn.com/20261002/tzlWg7uv/index.m3u8#第6集$https://bfikuncdn.com/20261005/rfIhvd48/index.m3u8#第7集$https://bfikuncdn.com/20261006/14ulXRWW/index.m3u8#第8集$https://bfikuncdn.com/20261007/zKClL152/index.m3u8#第9集$https://bfikuncdn.com/20261008/uHg4TLvw/index.m3u8#第10集$https://bfikuncdn.com/20261009/orenwKVe/index.m3u8#第11集$https://bfikuncdn.com/20261012/34cIaB8u/index.m3u8#第12集$https://bfikuncdn.com/20261013/nFQeWKmU/index.m3u8#第13集$https://bfikuncdn.com/20261014/hp52PyDs/index.m3u8#第14集$https://bfikuncdn.com/20261015/lCr7DFP4/index.m3u8#第15集$https://bfikuncdn.com/20261016/kHnMoCZW/index.m3u8#第16集$https://bfikuncdn.com/20261019/02BUjOUh/index.m3u8#第17集$https://bfikuncdn.com/20261020/eO7p4ABM/index.m3u8#第18集$https://bfikuncdn.com/20261021/iLEMeOFx/index.m3u8#第19集$https://bfikuncdn.com/20261022/1d36UWy0/index.m3u8#第20集$https://bfikuncdn.com/20261023/O8IxZ3x1/index.m3u8#第21集$https://bfikuncdn.com/20261026/3jydzLpA/index.m3u8#第22集$https://bfikuncdn.com/20261027/gGzqdtOV/index.m3u8#第23集$https://bfikuncdn.com/20261028/oNN3qqK9/index.m3u8#第24集$https://bfikuncdn.com/20261029/52CEKM2H/index.m3u8$$$正片$https://svip.ryplay14.com/20261002/20016_bea9dc0d/index.m3u8#第2集$https://svip.ryplay14.com/20261002/20017_d4cd231e/index.m3u8#第3集$https://svip.ryplay14.com/20261002/20018_ca5037ec/index.m3u8#第4集$https://svip.ryplay14.com/20261002/20019_3ccf7579/index.m3u8#第5集$https://svip.ryplay14.com/20261002/20020_ee6c943d/index.m3u8#第6集$https://svip.ryiplay18.com/20261005/12236_90781a68/index.m3u8#第7集$https://svip.ryiplay18.com/20261006/12323_d35dfa93/index.m3u8#第8集$https://svip.ryiplay18.com/20261007/12388_0d2ff0a4/index.m3u8#第9集$https://svip.ryiplay18.com/20261008/12487_09e295ce/index.m3u8#第10集$https://svip.ryiplay18.com/20261009/12672_58a4d958/index.m3u8#第11集$https://svip.ryiplay18.com/20261013/12992_c5f57ae4/index.m3u8#第12集$https://svip.ryiplay18.com/20261013/13022_68ca6dcb/index.m3u8#第13集$https://svip.ryiplay18.com/20261014/13157_b957b457/index.m3u8#第14集$https://svip.ryiplay18.com/20261015/13281_d08998c9/index.m3u8#第15集$https://svip.ryiplay18.com/20261016/13452_570dfbcb/index.m3u8#第16集$https://svip.ryplay14.com/20261019/22029_ef4def63/index.m3u8#第17集$https://svip.ryiplay18.com/20261020/13809_100a4225/index.m3u8#第18集$https://svip.ryiplay18.com/20261021/13924_5dbb614d/index.m3u8#第19集$https://svip.ryiplay18.com/20261022/14046_92d37eec/index.m3u8#第20集$https://svip.ryiplay18.com/20261023/14213_372ee6ce/index.m3u8#第21集$https://svip.ryiplay18.com/20261026/14499_37481e58/index.m3u8#第22集$https://svip.ryiplay18.com/20261027/14604_bb52631b/index.m3u8#第23集$https://svip.ryiplay18.com/20261028/14693_b0cca995/index.m3u8#第24集$https://svip.ryiplay18.com/20261029/14860_dd76f544/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新第24集"
-    },
-    {
-      "vod_id": 10016,
-      "vod_name": "实习医生风云第十一季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://img.dytt-tupian.com/upload/vod/20261001-1/db3f4106bc94a5e9ed35e8b4f6e449ec.webp",
-      "vod_remarks": "更新第06集",
-      "vod_play_from": "线路5$$$线路3",
-      "vod_play_url": "正片$https://bfikuncdn.com/20261003/HvjJp0bV/index.m3u8#第2集$https://bfikuncdn.com/20261003/ctg1YPVS/index.m3u8#第3集$https://bfikuncdn.com/20261008/y9Lsluad/index.m3u8#第4集$https://bfikuncdn.com/20261015/15nraEEW/index.m3u8#第5集$https://bfikuncdn.com/20261022/nov3EL5P/index.m3u8$$$正片$https://svip.ryplay14.com/20261001/19954_d1a065aa/index.m3u8#第2集$https://svip.ryplay14.com/20261001/19953_2e362b8b/index.m3u8#第3集$https://svip.ryiplay18.com/20261008/12548_2823527d/index.m3u8#第4集$https://svip.ryiplay18.com/20261015/13310_b776fbe4/index.m3u8#第5集$https://svip.ryiplay18.com/20261022/14048_71762fac/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新第06集"
-    },
-    {
-      "vod_id": 10017,
+      "vod_id": 10003,
       "vod_name": "娱乐百分百",
       "type_id": 12,
       "type_name": "综艺",
@@ -232,7 +64,7 @@
       "vod_remarks_src": "更新至20261028期"
     },
     {
-      "vod_id": 10018,
+      "vod_id": 10004,
       "vod_name": "命运好好玩",
       "type_id": 12,
       "type_name": "综艺",
@@ -244,7 +76,7 @@
       "vod_remarks_src": "更新至20261028期"
     },
     {
-      "vod_id": 10019,
+      "vod_id": 10005,
       "vod_name": "11点热吵店",
       "type_id": 12,
       "type_name": "综艺",
@@ -256,31 +88,7 @@
       "vod_remarks_src": "更新至20261028期"
     },
     {
-      "vod_id": 10020,
-      "vod_name": "后会友期",
-      "type_id": 12,
-      "type_name": "综艺",
-      "vod_pic": "https://img.dytt-tupian.com/upload/vod/20261022-1/e4c27d4492f9a8dd7fdfd5a4e9364574.webp",
-      "vod_remarks": "更新20261029 第3期（上）",
-      "vod_play_from": "线路5$$$线路3",
-      "vod_play_url": "正片$https://bfikuncdn.com/20261022/KJFh1UaF/index.m3u8#第2集$https://bfikuncdn.com/20261022/xpylrRA1/index.m3u8#第3集$https://bfikuncdn.com/20261022/sf3ENz6A/index.m3u8#第4集$https://bfikuncdn.com/20261023/InuUKfgT/index.m3u8#第5集$https://bfikuncdn.com/20261023/eAUeLJR5/index.m3u8#第6集$https://bfikuncdn.com/20261029/ZGo5nBZd/index.m3u8$$$正片$https://svip.ryiplay21.com/20261022/966_f562c61a/index.m3u8#第2集$https://svip.ryiplay21.com/20261022/965_38b72a16/index.m3u8#第3集$https://svip.ryiplay21.com/20261029/1298_5bb7d123/index.m3u8#第4集$https://svip.ryiplay21.com/20261029/1297_139dd83f/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新20261029 第3期（上）"
-    },
-    {
-      "vod_id": 10021,
-      "vod_name": "花儿与少年第八季",
-      "type_id": 12,
-      "type_name": "综艺",
-      "vod_pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2935448198.webp",
-      "vod_remarks": "更新202620260913加更版第1期",
-      "vod_play_from": "线路2$$$线路4",
-      "vod_play_url": "正片$https://vip.dytt-tvs.com/20260904/35610_0aff7964/index.m3u8#第2集$https://vip.dytt-tvs.com/20260904/35604_6be596e9/index.m3u8#第3集$https://vip.dytt-tvs.com/20260905/35766_22ab54f0/index.m3u8#第4集$https://vip.dytt-tvs.com/20260906/35862_d093b4a1/index.m3u8#第5集$https://vip.dytt-tvs.com/20260907/36006_129b4030/index.m3u8#第6集$https://vip.dytt-tvs.com/20260908/36147_e2aa765d/index.m3u8#第7集$https://vip.dytt-tvs.com/20260909/36287_361e321b/index.m3u8#第8集$https://vip.dytt-tvs.com/20260910/36426_3ee61d1c/index.m3u8#第9集$https://vip.dytt-tvs.com/20260910/36425_ced5e89c/index.m3u8#第10集$https://vip.dytt-tvs.com/20260911/36602_e61aeeec/index.m3u8#第11集$https://vip.dytt-tvs.com/20260913/36889_4747c561/index.m3u8#第12集$https://vip.dytt-tvs.com/20260914/36998_2add3c0f/index.m3u8#第13集$https://vip.dytt-tvs.com/20260915/37165_9a3fffd2/index.m3u8#第14集$https://vip.dytt-tvs.com/20260916/37274_c6e07eaa/index.m3u8#第15集$https://vip.dytt-tvs.com/20260917/37386_a7b67a5f/index.m3u8#第16集$https://vip.dytt-tvs.com/20260918/37574_da9cc4cc/index.m3u8#第17集$https://vip.dytt-tvs.com/20260920/37844_9bc678fe/index.m3u8#第18集$https://vip.dytt-tvs.com/20260924/38362_ed16bc5b/index.m3u8#第19集$https://vip.dytt-tvs.com/20260925/38520_9f82ff06/index.m3u8#第20集$https://vip.dytt-tvs.com/20260925/38526_cc4f5197/index.m3u8#第21集$https://vip.dytt-tvs.com/20260927/38769_dcf93600/index.m3u8#第22集$https://vip.dytt-tvs.com/20260928/38882_77a2b757/index.m3u8#第23集$https://vip.dytt-tvs.com/20261001/39360_e14062d4/index.m3u8#第24集$https://vip.dytt-tvs.com/20261002/39489_5a5a76e2/index.m3u8#第25集$https://vip.dytt-tvs.com/20261002/39490_962ebbfe/index.m3u8#第26集$https://vip.dytt-tvs.com/20261004/39782_fc9b0afb/index.m3u8#第27集$https://vip.dytt-tvs.com/20261008/40292_79f1792f/index.m3u8#第28集$https://vip.dytt-tvs.com/20261009/40447_ad99eee6/index.m3u8#第29集$https://vip.dytt-tvs.com/20261011/40717_71e04d8a/index.m3u8#第30集$https://vip.dytt-tvs.com/20261015/41216_b4a2d301/index.m3u8#第31集$https://vip.dytt-tvs.com/20261016/41447_21ac90c3/index.m3u8#第32集$https://vip.dytt-tvs.com/20261016/41448_d2b60f53/index.m3u8#第33集$https://vip.dytt-tvs.com/20261018/41716_80cfbf53/index.m3u8#第34集$https://vip.dytt-tvs.com/20261022/42258_1b97f9e9/index.m3u8#第35集$https://vip.dytt-tvs.com/20261023/42416_bcd5c785/index.m3u8#第36集$https://vip.dytt-tvs.com/20261023/42430_a995795c/index.m3u8#第37集$https://vip.dytt-tvs.com/20261025/42675_1f218b10/index.m3u8#第38集$https://vip.dytt-tvs.com/20261029/43125_6b6ed5a2/index.m3u8$$$正片$https://svip.ryplay17.com/20260910/21357_64039d28/index.m3u8#第2集$https://svip.ryplay17.com/20260910/21356_7911088b/index.m3u8#第3集$https://svip.ryplay17.com/20260911/21400_e761b862/index.m3u8#第4集$https://svip.ryplay17.com/20260918/21703_cb9ef071/index.m3u8#第5集$https://svip.ryplay17.com/20260925/21991_d113dcfd/index.m3u8#第6集$https://svip.ryplay17.com/20260925/21990_77758e83/index.m3u8#第7集$https://svip.ryiplay21.com/20261002/168_c5822658/index.m3u8#第8集$https://svip.ryiplay21.com/20261002/169_bad09e94/index.m3u8#第9集$https://svip.ryiplay21.com/20261009/483_a3ed40ea/index.m3u8#第10集$https://svip.ryiplay21.com/20261016/733_0ca050e1/index.m3u8#第11集$https://svip.ryiplay21.com/20261023/1025_f0512899/index.m3u8#第12集$https://svip.ryiplay21.com/20261023/1024_d7a1b57a/index.m3u8",
-      "vod_source": "jsard",
-      "vod_remarks_src": "更新202620260913加更版第1期"
-    },
-    {
-      "vod_id": 10022,
+      "vod_id": 10006,
       "vod_name": "第三调解室",
       "type_id": 12,
       "type_name": "综艺",
@@ -292,7 +100,7 @@
       "vod_remarks_src": "更新至20261028期"
     },
     {
-      "vod_id": 10023,
+      "vod_id": 10007,
       "vod_name": "男生女生向前冲",
       "type_id": 12,
       "type_name": "综艺",
@@ -304,7 +112,7 @@
       "vod_remarks_src": "更新至20261028期"
     },
     {
-      "vod_id": 10024,
+      "vod_id": 10008,
       "vod_name": "WTO姐妹会",
       "type_id": 12,
       "type_name": "综艺",
@@ -316,7 +124,7 @@
       "vod_remarks_src": "更新至20261027期"
     },
     {
-      "vod_id": 10025,
+      "vod_id": 10009,
       "vod_name": "全民星攻略",
       "type_id": 12,
       "type_name": "综艺",
@@ -326,6 +134,198 @@
       "vod_play_url": "正片$https://cdn.ryplay11.com/20240926/651_6d0cba75/index.m3u8#第2集$https://cdn.ryplay11.com/20240926/650_31a8625b/index.m3u8#第3集$https://cdn.ryplay11.com/20240927/903_55eae792/index.m3u8#第4集$https://cdn.ryplay11.com/20241001/1800_f543c448/index.m3u8#第5集$https://cdn.ryplay11.com/20241002/1848_06ee292e/index.m3u8#第6集$https://cdn.ryplay11.com/20241003/1914_ae9f22be/index.m3u8#第7集$https://cdn.ryplay11.com/20241004/1970_56f68322/index.m3u8#第8集$https://cdn.ryplay11.com/20241008/2303_f89f851e/index.m3u8#第9集$https://cdn.ryplay11.com/20241009/2363_b014b1df/index.m3u8#第10集$https://cdn.ryplay11.com/20241010/2418_54740bd6/index.m3u8#第11集$https://cdn.ryplay11.com/20241012/2572_7d0f2978/index.m3u8#第12集$https://cdn.ryplay11.com/20241015/2758_f3418e30/index.m3u8#第13集$https://cdn.ryplay11.com/20241016/2810_636596e9/index.m3u8#第14集$https://cdn.ryplay11.com/20241017/2920_905d0826/index.m3u8#第15集$https://cdn.ryplay11.com/20241018/2981_b1684bb4/index.m3u8#第16集$https://cdn.ryplay11.com/20241022/3193_b877ba14/index.m3u8#第17集$https://cdn.ryplay11.com/20241023/3245_c4fd376f/index.m3u8#第18集$https://cdn.ryplay10.com/20241024/29970_acaeed1d/index.m3u8#第19集$https://cdn.ryplay10.com/20241025/30046_1d129055/index.m3u8#第20集$https://cdn.ryplay10.com/20241029/30501_b3423667/index.m3u8#第21集$https://cdn.ryplay10.com/20241030/30644_6528f2c5/index.m3u8#第22集$https://cdn.ryplay10.com/20241031/30705_a6509708/index.m3u8#第23集$https://cdn.ryplay10.com/20241101/30779_e7689128/index.m3u8#第24集$https://cdn.ryplay10.com/20241105/31033_b2371e85/index.m3u8#第25集$https://cdn.ryplay10.com/20241106/31211_2a53fd35/index.m3u8#第26集$https://cdn.ryplay10.com/20241107/31407_1fa2b85b/index.m3u8#第27集$https://cdn.ryplay10.com/20241108/31468_ae3ffc70/index.m3u8#第28集$https://cdn.ryplay10.com/20241112/31711_87558f8f/index.m3u8#第29集$https://cdn.ryplay10.com/20241113/31862_fd888840/index.m3u8#第30集$https://cdn.ryplay10.com/20241114/31930_a232dad4/index.m3u8#第31集$https://cdn.ryplay10.com/20241115/32033_64bf69ca/index.m3u8#第32集$https://cdn.ryplay10.com/20241119/32244_ab07ba5c/index.m3u8#第33集$https://cdn.ryplay10.com/20241120/32315_5cc038ac/index.m3u8#第34集$https://cdn.ryplay10.com/20241121/32421_45688dfa/index.m3u8#第35集$https://cdn.ryplay10.com/20241122/32472_789b4bf0/index.m3u8#第36集$https://cdn.ryplay10.com/20241126/32680_7ab037ee/index.m3u8#第37集$https://cdn.ryplay10.com/20241127/32735_7bb252f9/index.m3u8#第38集$https://cdn.ryplay10.com/20241128/32791_b076d6b6/index.m3u8#第39集$https://cdn.ryplay10.com/20241129/32859_4a0c9178/index.m3u8#第40集$https://cdn.ryplay10.com/20241203/33048_49ed69b6/index.m3u8#第41集$https://cdn.ryplay10.com/20241204/33102_74756a31/index.m3u8#第42集$https://cdn.ryplay10.com/20241205/33153_1457b52a/index.m3u8#第43集$https://cdn.ryplay10.com/20241206/33244_91602593/index.m3u8#第44集$https://cdn.ryplay10.com/20241210/33457_0acd2acd/index.m3u8#第45集$https://cdn.ryplay10.com/20241211/33500_86029f5a/index.m3u8#第46集$https://cdn.ryplay10.com/20241212/33570_4cdd8390/index.m3u8#第47集$https://cdn.ryplay10.com/20241213/33646_06452855/index.m3u8#第48集$https://cdn.ryplay10.com/20241217/33843_b4b1bcf1/index.m3u8#第49集$https://cdn.ryplay10.com/20241218/33892_288dfaf4/index.m3u8#第50集$https://cdn.ryplay10.com/20241219/33942_8e2865ae/index.m3u8#第51集$https://cdn.ryplay10.com/20241220/34001_6959fd10/index.m3u8#第52集$https://cdn.ryplay10.com/20241224/34208_4e3a5fa7/index.m3u8#第53集$https://cdn.ryplay10.com/20241225/34270_7f5af60e/index.m3u8#第54集$https://cdn.ryplay10.com/20241226/34328_5f47d173/index.m3u8#第55集$https://cdn.ryplay10.com/20241227/34397_df66899b/index.m3u8#第56集$https://cdn.ryplay10.com/20241231/34646_401ab32d/index.m3u8#第57集$https://cdn.ryplay10.com/20250101/34698_2a85f134/index.m3u8#第58集$https://cdn.ryplay10.com/20250102/34751_46ad5f69/index.m3u8#第59集$https://cdn.ryplay10.com/20250103/34811_feeab89d/index.m3u8#第60集$https://cdn.ryplay10.com/20250107/35042_2e675250/index.m3u8#第61集$https://cdn.ryplay10.com/20250108/35091_74260a62/index.m3u8#第62集$https://cdn.ryplay10.com/20250109/35146_902dcfbb/index.m3u8#第63集$https://cdn.ryplay10.com/20250110/35224_a15b5357/index.m3u8#第64集$https://cdn.ryplay10.com/20250114/35414_1203636c/index.m3u8#第65集$https://cdn.ryplay10.com/20250115/35469_1d38cecc/index.m3u8#第66集$https://cdn.ryplay10.com/20250116/35515_b6922270/index.m3u8#第67集$https://cdn.ryplay10.com/20250117/35578_65b710b7/index.m3u8#第68集$https://cdn.ryplay10.com/20250121/35740_f81e556c/index.m3u8#第69集$https://cdn.ryplay10.com/20250122/35785_82e0b53e/index.m3u8#第70集$https://cdn.ryplay10.com/20250123/35835_e38ced23/index.m3u8#第71集$https://cdn.ryplay10.com/20250124/35865_85331f90/index.m3u8#第72集$https://cdn.ryplay10.com/20250128/36077_27c77a4f/index.m3u8#第73集$https://cdn.ryplay10.com/20250131/36200_dc7c2e75/index.m3u8#第74集$https://cdn.ryplay10.com/20250204/36358_6d824304/index.m3u8#第75集$https://cdn.ryplay10.com/20250205/36401_381d0fe7/index.m3u8#第76集$https://cdn.ryplay10.com/20250206/36444_f4e767a0/index.m3u8#第77集$https://cdn.ryplay10.com/20250207/36493_17c6fa4b/index.m3u8#第78集$https://cdn.ryplay10.com/20250211/36710_10d9299b/index.m3u8#第79集$https://cdn.ryplay10.com/20250212/36763_1d15ac3d/index.m3u8#第80集$https://cdn.ryplay10.com/20250213/36801_a272b199/index.m3u8$$$正片$https://vip.dytt-cinema.com/20250224/11342_9cd6f556/index.m3u8#第2集$https://vip.dytt-cinema.com/20250224/11344_2e87d147/index.m3u8#第3集$https://vip.dytt-cinema.com/20250224/11346_6a415748/index.m3u8#第4集$https://vip.dytt-cinema.com/20250224/11347_11eba299/index.m3u8#第5集$https://vip.dytt-cinema.com/20250224/11349_56710c48/index.m3u8#第6集$https://vip.dytt-cinema.com/20250224/11352_ccd2d123/index.m3u8#第7集$https://vip.dytt-cinema.com/20250224/11353_0babdd95/index.m3u8#第8集$https://vip.dytt-cinema.com/20250224/11354_a54505e6/index.m3u8#第9集$https://vip.dytt-cinema.com/20250224/11357_0bcc8ab4/index.m3u8#第10集$https://vip.dytt-cinema.com/20250224/11359_44fd3d54/index.m3u8#第11集$https://vip.dytt-cinema.com/20250224/11360_f428542e/index.m3u8#第12集$https://vip.dytt-cinema.com/20250224/11362_0de109fe/index.m3u8#第13集$https://vip.dytt-cinema.com/20250224/11364_804fce74/index.m3u8#第14集$https://vip.dytt-cinema.com/20250224/11365_fe2bea6a/index.m3u8#第15集$https://vip.dytt-cinema.com/20250224/11367_c474b217/index.m3u8#第16集$https://vip.dytt-cinema.com/20250224/11368_615ea20e/index.m3u8#第17集$https://vip.dytt-cinema.com/20250224/11370_80e4c546/index.m3u8#第18集$https://vip.dytt-cinema.com/20250224/11371_8e80aa86/index.m3u8#第19集$https://vip.dytt-cinema.com/20250224/11373_367ac971/index.m3u8#第20集$https://vip.dytt-cinema.com/20250224/11374_8beca381/index.m3u8#第21集$https://vip.dytt-cinema.com/20250224/11376_49844ba1/index.m3u8#第22集$https://vip.dytt-cinema.com/20250224/11379_94e945f5/index.m3u8#第23集$https://vip.dytt-cinema.com/20250224/11381_189e3f78/index.m3u8#第24集$https://vip.dytt-cinema.com/20250224/11384_881317e8/index.m3u8#第25集$https://vip.dytt-cinema.com/20250224/11387_7d24c36a/index.m3u8#第26集$https://vip.dytt-cinema.com/20250224/11389_47c6d232/index.m3u8#第27集$https://vip.dytt-cinema.com/20250224/11391_ff4dfdf5/index.m3u8#第28集$https://vip.dytt-cinema.com/20250224/11395_d974ad26/index.m3u8#第29集$https://vip.dytt-cinema.com/20250224/11396_43cf10a7/index.m3u8#第30集$https://vip.dytt-cinema.com/20250225/11971_e702100a/index.m3u8#第31集$https://vip.dytt-cinema.com/20250226/12341_f190ce9a/index.m3u8#第32集$https://vip.dytt-cinema.com/20250227/12486_dad8cbca/index.m3u8#第33集$https://vip.dytt-cinema.com/20250228/12821_c05c903e/index.m3u8#第34集$https://vip.dytt-cinema.com/20250304/15086_882137f3/index.m3u8#第35集$https://vip.dytt-cinema.com/20250305/16248_3d654477/index.m3u8#第36集$https://vip.dytt-cinema.com/20250306/16435_d8558e66/index.m3u8#第37集$https://vip.dytt-cinema.com/20250307/16620_8462aabd/index.m3u8#第38集$https://vip.dytt-hot.com/20250311/83368_01add3a5/index.m3u8#第39集$https://vip.dytt-hot.com/20250312/83626_5fcdb658/index.m3u8#第40集$https://vip.dytt-hot.com/20250313/83763_6d21a01b/index.m3u8#第41集$https://vip.dytt-hot.com/20250318/84499_e8fb883a/index.m3u8#第42集$https://vip.dytt-cinema.com/20250319/17263_4c40792e/index.m3u8#第43集$https://vip.dytt-hot.com/20250320/84667_7b009ecf/index.m3u8#第44集$https://vip.dytt-hot.com/20250321/84866_6e53f66f/index.m3u8#第45集$https://vip.dytt-cinema.com/20250325/17611_f46b28e1/index.m3u8#第46集$https://vip.dytt-cinema.com/20250326/17782_f6027eaa/index.m3u8#第47集$https://vip.dytt-cinema.com/20250327/17966_edeb62f9/index.m3u8#第48集$https://vip.dytt-cinema.com/20250328/18214_3fbb8f37/index.m3u8#第49集$https://vip.dytt-cinema.com/20250401/18823_a269ef5c/index.m3u8#第50集$https://vip.dytt-hot.com/20250402/85530_79614c1d/index.m3u8#第51集$https://vip.dytt-hot.com/20250403/85652_a138118a/index.m3u8#第52集$https://vip.dytt-hot.com/20250404/85732_38a10413/index.m3u8#第53集$https://vip.dytt-cinema.com/20250408/19348_5b04bd53/index.m3u8#第54集$https://vip.dytt-hot.com/20250409/86325_d2aa4eee/index.m3u8#第55集$https://vip.dytt-cinema.com/20250410/19557_7da995c4/index.m3u8#第56集$https://vip.dytt-cinema.com/20250411/19583_d7a2abc8/index.m3u8#第57集$https://vip.dytt-cinema.com/20250415/20050_e7a791ef/index.m3u8#第58集$https://vip.dytt-cinema.com/20250416/20107_72ca9431/index.m3u8#第59集$https://vip.dytt-hot.com/20250417/87116_571f3ecb/index.m3u8#第60集$https://vip.dytt-cinema.com/20250418/20463_ff3fd783/index.m3u8#第61集$https://vip.dytt-cinema.com/20250422/20931_109ea5d0/index.m3u8#第62集$https://vip.dytt-hot.com/20250423/87579_21093f62/index.m3u8#第63集$https://vip.dytt-hot.com/20250424/87701_60776d2f/index.m3u8#第64集$https://vip.dytt-cinema.com/20250425/21163_82c04dc6/index.m3u8#第65集$https://vip.dytt-cinema.com/20250429/21537_fe1af53e/index.m3u8#第66集$https://vip.dytt-hot.com/20250430/88199_37cb2db5/index.m3u8#第67集$https://vip.dytt-cinema.com/20250501/21625_9774adee/index.m3u8#第68集$https://vip.dytt-hot.com/20250502/88480_850a7c43/index.m3u8#第69集$https://vip.dytt-hot.com/20250506/88896_9ffa345b/index.m3u8#第70集$https://vip.dytt-hot.com/20250507/88987_05d11194/index.m3u8#第71集$https://vip.dytt-hot.com/20250508/89170_c005e056/index.m3u8#第72集$https://vip.dytt-cinema.com/20250509/22190_0485a94b/index.m3u8#第73集$https://vip.dytt-hot.com/20250513/89661_0dc7f631/index.m3u8#第74集$https://vip.dytt-cinema.com/20250514/22422_f9d8a11e/index.m3u8#第75集$https://vip.dytt-hot.com/20250515/89943_261eff88/index.m3u8#第76集$https://vip.dytt-hot.com/20250516/90073_03169b95/index.m3u8#第77集$https://vip.dytt-hot.com/20250520/90537_0f8c229d/index.m3u8#第78集$https://vip.dytt-cinema.com/20250521/22814_946925ef/index.m3u8#第79集$https://vip.dytt-cinema.com/20250522/22890_11f2a3ff/index.m3u8#第80集$https://vip.dytt-cinema.com/20250523/23111_7ffd8e40/index.m3u8",
       "vod_source": "jsard",
       "vod_remarks_src": "更新至20261027期"
+    },
+    {
+      "vod_id": 10010,
+      "vod_name": "疾速保镖",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://ynztctv.com/upload/vod/20261029-1/28ee422c83d87f43ebcc7c56e2e95a01.webp",
+      "vod_remarks": "更新",
+      "vod_play_from": "线路1$$$线路2$$$线路3",
+      "vod_play_url": "正片$https://bfikuncdn.com/20261029/mG3GfdSn/index.m3u8$$$正片$https://v.gsuus.com/play/b4xkrMkb/index.m3u8$$$正片$https://v13.qqqrst.com/yyv13/202610/29/tPAdwsJD2c27/video/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新HD"
+    },
+    {
+      "vod_id": 10011,
+      "vod_name": "敦煌英雄",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://img.dytt-tupian.com/upload/vod/20261029-1/f352473f3652bddd6baa8c47f3cee753.jpg",
+      "vod_remarks": "更新",
+      "vod_play_from": "线路4$$$线路1$$$线路3$$$线路2",
+      "vod_play_url": "正片$https://svip.ryiplay18.com/20261029/14863_4fb8b818/index.m3u8$$$正片$https://vip.dytt-see.com/20261029/46761_8513d71f/index.m3u8$$$正片$https://v.lzcdn27.com/20261029/20623_4715c227/index.m3u8$$$正片$https://v.gsuus.com/play/e0R2nG3b/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新HD"
+    },
+    {
+      "vod_id": 10012,
+      "vod_name": "落网之谜：墨西哥大毒枭的坠落",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://shandianpic.vip/upload/vod/20261029-1/4cd8f0dc77bb0c2379f1d74795949f4d.jpg",
+      "vod_remarks": "更新第03集",
+      "vod_play_from": "线路1",
+      "vod_play_url": "正片$https://v13.qqqrst.com/yyv13/202610/29/tfisFrc32r27/video/index.m3u8#第2集$https://v14.qqqrst.com/yyv14/202610/29/YjazCFuaem27/video/index.m3u8#第3集$https://v15.qqqrst.com/yyv15/202610/29/GGdtdqtFmH27/video/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新第03集"
+    },
+    {
+      "vod_id": 10013,
+      "vod_name": "我们好一点",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://img.guangsuimage.com/cover/252842cfac83631f3184d7c071b2c26d.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "线路1",
+      "vod_play_url": "正片$https://v.gsuus.com/play/elYvoOja/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "正片"
+    },
+    {
+      "vod_id": 10014,
+      "vod_name": "不离不弃2026",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://img.guangsuimage.com/cover/f5376def264bb8f80e75febe0a36b089.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "线路2$$$线路1",
+      "vod_play_url": "正片$https://vip.dytt-tvs.com/20260207/11112_afcb7a2f/index.m3u8$$$正片$https://v.gsuus.com/play/dwpEz4Re/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "正片"
+    },
+    {
+      "vod_id": 10015,
+      "vod_name": "我们要火啦!!",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://img.guangsuimage.com/cover/df099083450295b1ead6bc471c031a88.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "线路1",
+      "vod_play_url": "正片$https://v.gsuus.com/play/en5Y04Rd/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "正片"
+    },
+    {
+      "vod_id": 10016,
+      "vod_name": "假面教师：从妻子离世的那天起",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://shandianpic.vip/upload/vod/20261008-1/94a323d928acbb66565a4fdc72c00152.jpg",
+      "vod_remarks": "更新第04集",
+      "vod_play_from": "线路2$$$线路1",
+      "vod_play_url": "正片$https://bfikuncdn.com/20261008/t13mvHsn/index.m3u8#第2集$https://bfikuncdn.com/20261016/3IFUqcOw/index.m3u8#第3集$https://bfikuncdn.com/20261029/bCMmkMt3/index.m3u8#第4集$https://bfikuncdn.com/20261029/kqkZORhg/index.m3u8$$$正片$https://v15.qqqrst.com/yyv15/202610/08/naKExigkym27/video/index.m3u8#第2集$https://v14.qqqrst.com/yyv14/202610/22/2PKZ5T3tMr27/video/index.m3u8#第3集$https://v13.qqqrst.com/yyv13/202610/22/eXDCUcdiUA27/video/index.m3u8#第4集$https://v13.qqqrst.com/yyv13/202610/29/8rS0hxCRVm27/video/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新第04集"
+    },
+    {
+      "vod_id": 10017,
+      "vod_name": "小麦与黄油与复仇",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://img.lzipic.com/upload/vod/20261009-1/381c3ad00cae19706bb7f9b0f3310d6b.webp",
+      "vod_remarks": "更新第04集",
+      "vod_play_from": "线路2$$$线路4",
+      "vod_play_url": "正片$https://bfikuncdn.com/20261008/VcsNjCY8/index.m3u8#第2集$https://bfikuncdn.com/20261022/IheHDq86/index.m3u8#第3集$https://bfikuncdn.com/20261022/Kfz1qKOE/index.m3u8#第4集$https://bfikuncdn.com/20261029/lJWyL6Mt/index.m3u8$$$正片$https://svip.ryiplay18.com/20261009/12620_a2189f1e/index.m3u8#第2集$https://svip.ryiplay18.com/20261015/13282_23b68d80/index.m3u8#第3集$https://svip.ryiplay18.com/20261022/14067_968d41b0/index.m3u8#第4集$https://svip.ryiplay18.com/20261029/14862_0aaa7d37/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新第04集"
+    },
+    {
+      "vod_id": 10018,
+      "vod_name": "爱上草莓的季节",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://img.lzipic.com/upload/vod/20261008-1/a7f376a33f168f50becfa6d154682dc2.webp",
+      "vod_remarks": "更新第04集",
+      "vod_play_from": "线路2$$$线路3",
+      "vod_play_url": "正片$https://bfikuncdn.com/20261007/3s6oUK3s/index.m3u8#第2集$https://bfikuncdn.com/20261014/lygQs5RN/index.m3u8#第3集$https://bfikuncdn.com/20261021/wxT2aAgv/index.m3u8#第4集$https://bfikuncdn.com/20261029/0kPPgmmL/index.m3u8$$$正片$https://svip.ryiplay18.com/20261007/12434_17e0daef/index.m3u8#第2集$https://svip.ryiplay18.com/20261014/13238_c68e7698/index.m3u8#第3集$https://svip.ryiplay18.com/20261021/13968_c5d0e9c4/index.m3u8#第4集$https://svip.ryiplay18.com/20261029/14859_954ce6c2/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新第04集"
+    },
+    {
+      "vod_id": 10019,
+      "vod_name": "妈妈发疯了",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://img.guangsuimage.com/cover/a9ad8a6dab1ea0231507c2575b7beaad.jpg",
+      "vod_remarks": "更新第23集",
+      "vod_play_from": "线路2$$$线路5",
+      "vod_play_url": "正片$https://bfikuncdn.com/20260929/5mt6TFKA/index.m3u8#第2集$https://bfikuncdn.com/20260930/QRBqglXu/index.m3u8#第3集$https://bfikuncdn.com/20261001/y0H0yrIm/index.m3u8#第4集$https://bfikuncdn.com/20261003/xznHS9PC/index.m3u8#第5集$https://bfikuncdn.com/20261003/jctsEjM2/index.m3u8#第6集$https://bfikuncdn.com/20261006/0jD1uQSx/index.m3u8#第7集$https://bfikuncdn.com/20261007/VQiu4CjL/index.m3u8#第8集$https://bfikuncdn.com/20261008/7PYKbAor/index.m3u8#第9集$https://bfikuncdn.com/20261009/po63J5qz/index.m3u8#第10集$https://bfikuncdn.com/20261010/tmZoHMgO/index.m3u8#第11集$https://bfikuncdn.com/20261013/9l4yV8n1/index.m3u8#第12集$https://bfikuncdn.com/20261014/VAs9HIrG/index.m3u8#第13集$https://bfikuncdn.com/20261015/x4aZ72NI/index.m3u8#第14集$https://bfikuncdn.com/20261016/si9nZ3nP/index.m3u8#第15集$https://bfikuncdn.com/20261017/UsNtMW7q/index.m3u8#第16集$https://bfikuncdn.com/20261020/maugn7sg/index.m3u8#第17集$https://bfikuncdn.com/20261021/V3oT7WGe/index.m3u8#第18集$https://bfikuncdn.com/20261022/NRy9pGCL/index.m3u8#第19集$https://bfikuncdn.com/20261023/XHy1o9OQ/index.m3u8#第20集$https://bfikuncdn.com/20261024/kzc7lGP2/index.m3u8#第21集$https://bfikuncdn.com/20261027/6uuaK6YL/index.m3u8#第22集$https://bfikuncdn.com/20261028/6rQ0ZJvL/index.m3u8#第23集$https://bfikuncdn.com/20261029/ZPzuE1og/index.m3u8$$$正片$https://svip.ryplay14.com/20260930/19879_7832fcbf/index.m3u8#第2集$https://svip.ryplay14.com/20260930/19895_b17ad1a2/index.m3u8#第3集$https://svip.ryplay14.com/20261001/19931_5914bfed/index.m3u8#第4集$https://svip.ryplay14.com/20261003/20030_812fd723/index.m3u8#第5集$https://svip.ryplay14.com/20261003/20087_b940babb/index.m3u8#第6集$https://svip.ryiplay18.com/20261006/12324_5b1574c4/index.m3u8#第7集$https://svip.ryiplay18.com/20261007/12387_e2191f1d/index.m3u8#第8集$https://svip.ryiplay18.com/20261008/12507_478b2412/index.m3u8#第9集$https://svip.ryiplay18.com/20261009/12655_8349c03a/index.m3u8#第10集$https://svip.ryiplay18.com/20261010/12725_e30b0328/index.m3u8#第11集$https://svip.ryiplay18.com/20261013/12982_b8c7be24/index.m3u8#第12集$https://svip.ryiplay18.com/20261014/13156_27d3d2c3/index.m3u8#第13集$https://svip.ryiplay18.com/20261015/13277_29e85423/index.m3u8#第14集$https://svip.ryiplay18.com/20261016/13430_17c4ca40/index.m3u8#第15集$https://svip.ryiplay18.com/20261017/13568_f2e68701/index.m3u8#第16集$https://svip.ryiplay18.com/20261020/13804_bbbcfaf3/index.m3u8#第17集$https://svip.ryiplay18.com/20261021/13920_1155e73d/index.m3u8#第18集$https://svip.ryiplay18.com/20261022/14043_4ed2d593/index.m3u8#第19集$https://svip.ryiplay18.com/20261023/14170_431ce07c/index.m3u8#第20集$https://svip.ryplay14.com/20261024/22300_718f6860/index.m3u8#第21集$https://svip.ryiplay18.com/20261027/14572_e9e1d057/index.m3u8#第22集$https://svip.ryiplay18.com/20261028/14692_402d9932/index.m3u8#第23集$https://svip.ryiplay18.com/20261028/14742_7cdf7a18/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新第23集"
+    },
+    {
+      "vod_id": 10020,
+      "vod_name": "莫语者",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://img.dytt-tupian.com/upload/vod/20261021-1/2909fd1846483c713b8e2cc3bd8ea50e.jpg",
+      "vod_remarks": "更新第22集",
+      "vod_play_from": "线路3$$$线路1",
+      "vod_play_url": "正片$https://bfikuncdn.com/20261021/QrkIVqM0/index.m3u8#第2集$https://bfikuncdn.com/20261021/IksiPHOe/index.m3u8#第3集$https://bfikuncdn.com/20261021/U7es8oMg/index.m3u8#第4集$https://bfikuncdn.com/20261021/zRt4iFc7/index.m3u8#第5集$https://bfikuncdn.com/20261021/aaHttWel/index.m3u8#第6集$https://bfikuncdn.com/20261022/7I3WT0km/index.m3u8#第7集$https://bfikuncdn.com/20261022/4PEP8C60/index.m3u8#第8集$https://bfikuncdn.com/20261022/PGrGMaGW/index.m3u8#第9集$https://bfikuncdn.com/20261023/jA9LwyWQ/index.m3u8#第10集$https://bfikuncdn.com/20261023/xVG3cweG/index.m3u8#第11集$https://bfikuncdn.com/20261024/J2cxZPd7/index.m3u8#第12集$https://bfikuncdn.com/20261024/hRGXKXqE/index.m3u8#第13集$https://bfikuncdn.com/20261025/czQsZJAp/index.m3u8#第14集$https://bfikuncdn.com/20261025/QFEb1G6K/index.m3u8#第15集$https://bfikuncdn.com/20261026/jWU2VeEQ/index.m3u8#第16集$https://bfikuncdn.com/20261026/gHjHsl0f/index.m3u8#第17集$https://bfikuncdn.com/20261027/NJP0hHJt/index.m3u8#第18集$https://bfikuncdn.com/20261027/QUNBUG2o/index.m3u8#第19集$https://bfikuncdn.com/20261028/5dikhrPE/index.m3u8#第20集$https://bfikuncdn.com/20261028/Zwf50b2M/index.m3u8#第21集$https://bfikuncdn.com/20261029/wVtsWyLh/index.m3u8#第22集$https://bfikuncdn.com/20261029/mTKvQA1X/index.m3u8$$$正片$https://vip.dytt-tvs.com/20261021/42086_95a9c1ab/index.m3u8#第2集$https://vip.dytt-tvs.com/20261021/42087_f90552c7/index.m3u8#第3集$https://vip.dytt-tvs.com/20261021/42088_88103302/index.m3u8#第4集$https://vip.dytt-tvs.com/20261021/42089_bae38661/index.m3u8#第5集$https://vip.dytt-tvs.com/20261021/42090_9ee855f3/index.m3u8#第6集$https://vip.dytt-tvs.com/20261021/42093_9d417135/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新第22集"
+    },
+    {
+      "vod_id": 10021,
+      "vod_name": "独家黑幕第二季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://img.lzipic.com/upload/vod/20261015-1/3738eef9e642460fbeed50152972cb2c.webp",
+      "vod_remarks": "更新第04集",
+      "vod_play_from": "线路6$$$线路2",
+      "vod_play_url": "正片$https://bfikuncdn.com/20261015/LqbrgUfc/index.m3u8#第2集$https://bfikuncdn.com/20261015/lHDbXIRU/index.m3u8#第3集$https://bfikuncdn.com/20261023/QPHWvUU6/index.m3u8#第4集$https://bfikuncdn.com/20261029/aBvnpje3/index.m3u8$$$正片$https://svip.ryiplay18.com/20261015/13280_d703a96e/index.m3u8#第2集$https://svip.ryiplay18.com/20261015/13279_352f272b/index.m3u8#第3集$https://svip.ryiplay18.com/20261022/14047_48787447/index.m3u8#第4集$https://svip.ryiplay18.com/20261029/14861_f9a2304c/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新第04集"
+    },
+    {
+      "vod_id": 10022,
+      "vod_name": "花朵盛开",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://img.lzipic.com/upload/vod/20261002-1/a4f9e16e9872b52edbedc001132b71fb.webp",
+      "vod_remarks": "更新第24集",
+      "vod_play_from": "线路2$$$线路3",
+      "vod_play_url": "正片$https://bfikuncdn.com/20261002/dYsbm1XV/index.m3u8#第2集$https://bfikuncdn.com/20261002/avlb2TBh/index.m3u8#第3集$https://bfikuncdn.com/20261002/C9xt5v5x/index.m3u8#第4集$https://bfikuncdn.com/20261002/RCQKX2FD/index.m3u8#第5集$https://bfikuncdn.com/20261002/tzlWg7uv/index.m3u8#第6集$https://bfikuncdn.com/20261005/rfIhvd48/index.m3u8#第7集$https://bfikuncdn.com/20261006/14ulXRWW/index.m3u8#第8集$https://bfikuncdn.com/20261007/zKClL152/index.m3u8#第9集$https://bfikuncdn.com/20261008/uHg4TLvw/index.m3u8#第10集$https://bfikuncdn.com/20261009/orenwKVe/index.m3u8#第11集$https://bfikuncdn.com/20261012/34cIaB8u/index.m3u8#第12集$https://bfikuncdn.com/20261013/nFQeWKmU/index.m3u8#第13集$https://bfikuncdn.com/20261014/hp52PyDs/index.m3u8#第14集$https://bfikuncdn.com/20261015/lCr7DFP4/index.m3u8#第15集$https://bfikuncdn.com/20261016/kHnMoCZW/index.m3u8#第16集$https://bfikuncdn.com/20261019/02BUjOUh/index.m3u8#第17集$https://bfikuncdn.com/20261020/eO7p4ABM/index.m3u8#第18集$https://bfikuncdn.com/20261021/iLEMeOFx/index.m3u8#第19集$https://bfikuncdn.com/20261022/1d36UWy0/index.m3u8#第20集$https://bfikuncdn.com/20261023/O8IxZ3x1/index.m3u8#第21集$https://bfikuncdn.com/20261026/3jydzLpA/index.m3u8#第22集$https://bfikuncdn.com/20261027/gGzqdtOV/index.m3u8#第23集$https://bfikuncdn.com/20261028/oNN3qqK9/index.m3u8#第24集$https://bfikuncdn.com/20261029/52CEKM2H/index.m3u8$$$正片$https://svip.ryplay14.com/20261002/20016_bea9dc0d/index.m3u8#第2集$https://svip.ryplay14.com/20261002/20017_d4cd231e/index.m3u8#第3集$https://svip.ryplay14.com/20261002/20018_ca5037ec/index.m3u8#第4集$https://svip.ryplay14.com/20261002/20019_3ccf7579/index.m3u8#第5集$https://svip.ryplay14.com/20261002/20020_ee6c943d/index.m3u8#第6集$https://svip.ryiplay18.com/20261005/12236_90781a68/index.m3u8#第7集$https://svip.ryiplay18.com/20261006/12323_d35dfa93/index.m3u8#第8集$https://svip.ryiplay18.com/20261007/12388_0d2ff0a4/index.m3u8#第9集$https://svip.ryiplay18.com/20261008/12487_09e295ce/index.m3u8#第10集$https://svip.ryiplay18.com/20261009/12672_58a4d958/index.m3u8#第11集$https://svip.ryiplay18.com/20261013/12992_c5f57ae4/index.m3u8#第12集$https://svip.ryiplay18.com/20261013/13022_68ca6dcb/index.m3u8#第13集$https://svip.ryiplay18.com/20261014/13157_b957b457/index.m3u8#第14集$https://svip.ryiplay18.com/20261015/13281_d08998c9/index.m3u8#第15集$https://svip.ryiplay18.com/20261016/13452_570dfbcb/index.m3u8#第16集$https://svip.ryplay14.com/20261019/22029_ef4def63/index.m3u8#第17集$https://svip.ryiplay18.com/20261020/13809_100a4225/index.m3u8#第18集$https://svip.ryiplay18.com/20261021/13924_5dbb614d/index.m3u8#第19集$https://svip.ryiplay18.com/20261022/14046_92d37eec/index.m3u8#第20集$https://svip.ryiplay18.com/20261023/14213_372ee6ce/index.m3u8#第21集$https://svip.ryiplay18.com/20261026/14499_37481e58/index.m3u8#第22集$https://svip.ryiplay18.com/20261027/14604_bb52631b/index.m3u8#第23集$https://svip.ryiplay18.com/20261028/14693_b0cca995/index.m3u8#第24集$https://svip.ryiplay18.com/20261029/14860_dd76f544/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新第24集"
+    },
+    {
+      "vod_id": 10023,
+      "vod_name": "实习医生风云第十一季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://img.dytt-tupian.com/upload/vod/20261001-1/db3f4106bc94a5e9ed35e8b4f6e449ec.webp",
+      "vod_remarks": "更新第06集",
+      "vod_play_from": "线路5$$$线路3",
+      "vod_play_url": "正片$https://bfikuncdn.com/20261003/HvjJp0bV/index.m3u8#第2集$https://bfikuncdn.com/20261003/ctg1YPVS/index.m3u8#第3集$https://bfikuncdn.com/20261008/y9Lsluad/index.m3u8#第4集$https://bfikuncdn.com/20261015/15nraEEW/index.m3u8#第5集$https://bfikuncdn.com/20261022/nov3EL5P/index.m3u8$$$正片$https://svip.ryplay14.com/20261001/19954_d1a065aa/index.m3u8#第2集$https://svip.ryplay14.com/20261001/19953_2e362b8b/index.m3u8#第3集$https://svip.ryiplay18.com/20261008/12548_2823527d/index.m3u8#第4集$https://svip.ryiplay18.com/20261015/13310_b776fbe4/index.m3u8#第5集$https://svip.ryiplay18.com/20261022/14048_71762fac/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新第06集"
+    },
+    {
+      "vod_id": 10024,
+      "vod_name": "后会友期",
+      "type_id": 12,
+      "type_name": "综艺",
+      "vod_pic": "https://img.dytt-tupian.com/upload/vod/20261022-1/e4c27d4492f9a8dd7fdfd5a4e9364574.webp",
+      "vod_remarks": "更新20261029 第3期（上）",
+      "vod_play_from": "线路5$$$线路3",
+      "vod_play_url": "正片$https://bfikuncdn.com/20261022/KJFh1UaF/index.m3u8#第2集$https://bfikuncdn.com/20261022/xpylrRA1/index.m3u8#第3集$https://bfikuncdn.com/20261022/sf3ENz6A/index.m3u8#第4集$https://bfikuncdn.com/20261023/InuUKfgT/index.m3u8#第5集$https://bfikuncdn.com/20261023/eAUeLJR5/index.m3u8#第6集$https://bfikuncdn.com/20261029/ZGo5nBZd/index.m3u8$$$正片$https://svip.ryiplay21.com/20261022/966_f562c61a/index.m3u8#第2集$https://svip.ryiplay21.com/20261022/965_38b72a16/index.m3u8#第3集$https://svip.ryiplay21.com/20261029/1298_5bb7d123/index.m3u8#第4集$https://svip.ryiplay21.com/20261029/1297_139dd83f/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新20261029 第3期（上）"
+    },
+    {
+      "vod_id": 10025,
+      "vod_name": "花儿与少年第八季",
+      "type_id": 12,
+      "type_name": "综艺",
+      "vod_pic": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2935448198.webp",
+      "vod_remarks": "更新202620260913加更版第1期",
+      "vod_play_from": "线路2$$$线路4",
+      "vod_play_url": "正片$https://vip.dytt-tvs.com/20260904/35610_0aff7964/index.m3u8#第2集$https://vip.dytt-tvs.com/20260904/35604_6be596e9/index.m3u8#第3集$https://vip.dytt-tvs.com/20260905/35766_22ab54f0/index.m3u8#第4集$https://vip.dytt-tvs.com/20260906/35862_d093b4a1/index.m3u8#第5集$https://vip.dytt-tvs.com/20260907/36006_129b4030/index.m3u8#第6集$https://vip.dytt-tvs.com/20260908/36147_e2aa765d/index.m3u8#第7集$https://vip.dytt-tvs.com/20260909/36287_361e321b/index.m3u8#第8集$https://vip.dytt-tvs.com/20260910/36426_3ee61d1c/index.m3u8#第9集$https://vip.dytt-tvs.com/20260910/36425_ced5e89c/index.m3u8#第10集$https://vip.dytt-tvs.com/20260911/36602_e61aeeec/index.m3u8#第11集$https://vip.dytt-tvs.com/20260913/36889_4747c561/index.m3u8#第12集$https://vip.dytt-tvs.com/20260914/36998_2add3c0f/index.m3u8#第13集$https://vip.dytt-tvs.com/20260915/37165_9a3fffd2/index.m3u8#第14集$https://vip.dytt-tvs.com/20260916/37274_c6e07eaa/index.m3u8#第15集$https://vip.dytt-tvs.com/20260917/37386_a7b67a5f/index.m3u8#第16集$https://vip.dytt-tvs.com/20260918/37574_da9cc4cc/index.m3u8#第17集$https://vip.dytt-tvs.com/20260920/37844_9bc678fe/index.m3u8#第18集$https://vip.dytt-tvs.com/20260924/38362_ed16bc5b/index.m3u8#第19集$https://vip.dytt-tvs.com/20260925/38520_9f82ff06/index.m3u8#第20集$https://vip.dytt-tvs.com/20260925/38526_cc4f5197/index.m3u8#第21集$https://vip.dytt-tvs.com/20260927/38769_dcf93600/index.m3u8#第22集$https://vip.dytt-tvs.com/20260928/38882_77a2b757/index.m3u8#第23集$https://vip.dytt-tvs.com/20261001/39360_e14062d4/index.m3u8#第24集$https://vip.dytt-tvs.com/20261002/39489_5a5a76e2/index.m3u8#第25集$https://vip.dytt-tvs.com/20261002/39490_962ebbfe/index.m3u8#第26集$https://vip.dytt-tvs.com/20261004/39782_fc9b0afb/index.m3u8#第27集$https://vip.dytt-tvs.com/20261008/40292_79f1792f/index.m3u8#第28集$https://vip.dytt-tvs.com/20261009/40447_ad99eee6/index.m3u8#第29集$https://vip.dytt-tvs.com/20261011/40717_71e04d8a/index.m3u8#第30集$https://vip.dytt-tvs.com/20261015/41216_b4a2d301/index.m3u8#第31集$https://vip.dytt-tvs.com/20261016/41447_21ac90c3/index.m3u8#第32集$https://vip.dytt-tvs.com/20261016/41448_d2b60f53/index.m3u8#第33集$https://vip.dytt-tvs.com/20261018/41716_80cfbf53/index.m3u8#第34集$https://vip.dytt-tvs.com/20261022/42258_1b97f9e9/index.m3u8#第35集$https://vip.dytt-tvs.com/20261023/42416_bcd5c785/index.m3u8#第36集$https://vip.dytt-tvs.com/20261023/42430_a995795c/index.m3u8#第37集$https://vip.dytt-tvs.com/20261025/42675_1f218b10/index.m3u8#第38集$https://vip.dytt-tvs.com/20261029/43125_6b6ed5a2/index.m3u8$$$正片$https://svip.ryplay17.com/20260910/21357_64039d28/index.m3u8#第2集$https://svip.ryplay17.com/20260910/21356_7911088b/index.m3u8#第3集$https://svip.ryplay17.com/20260911/21400_e761b862/index.m3u8#第4集$https://svip.ryplay17.com/20260918/21703_cb9ef071/index.m3u8#第5集$https://svip.ryplay17.com/20260925/21991_d113dcfd/index.m3u8#第6集$https://svip.ryplay17.com/20260925/21990_77758e83/index.m3u8#第7集$https://svip.ryiplay21.com/20261002/168_c5822658/index.m3u8#第8集$https://svip.ryiplay21.com/20261002/169_bad09e94/index.m3u8#第9集$https://svip.ryiplay21.com/20261009/483_a3ed40ea/index.m3u8#第10集$https://svip.ryiplay21.com/20261016/733_0ca050e1/index.m3u8#第11集$https://svip.ryiplay21.com/20261023/1025_f0512899/index.m3u8#第12集$https://svip.ryiplay21.com/20261023/1024_d7a1b57a/index.m3u8",
+      "vod_source": "jsard",
+      "vod_remarks_src": "更新202620260913加更版第1期"
     },
     {
       "vod_id": 10026,
