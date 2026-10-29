@@ -22,8 +22,12 @@
        build_play_url(dataid, secret, quality, userlink)
          -> /video/play?p=...&v=...&q=1080&s=...&t=...&k=...
      请求这个地址才返回 quality_urls，取其中 locked=false 且是 http 的地址。
-     签名交给 sources/kvm_sign.mjs（Deno + 官方 WASM）批量生成，避免每集
-     启动一次进程。
+     签名交给 sources/kvm_sign.mjs（官方 WASM）批量生成，避免每集
+     启动一次进程。脚本 Deno / Node 18+ 都能跑：优先 Deno，没装就用 Node。
+
+     拿到的 m3u8 直接写进 JSON。不要改成「播放时再签名」：Cloudflare Worker
+     里 new WebAssembly.Module() 会被平台拒绝（Wasm codegen disallowed），
+     动态签名那条路在 Worker 上根本跑不通。
 
   为什么单独做这个源：
     其它源更新慢半拍时（例如嫁金钗网页已经 19 集、别的源只有 18 集），
@@ -32,7 +36,7 @@
   速度控制：
     - 每类只抓首页，详情数量由 classes[].limit 限制；
     - 单条线路最多 max_eps 集（超过时取最新的一批）；
-    - 一次 Deno 进程签完整条线路，再按 1.5 秒一集串行请求播放接口
+    - 一次签名进程签完整条线路，再按 1.5 秒一集串行请求播放接口
       （接口限流很严，并发会直接 429）。
 """
 
@@ -40,6 +44,7 @@ import html as _html
 import json
 import os
 import re
+import shutil
 import subprocess
 import threading
 import time
@@ -95,11 +100,13 @@ class KvmSource:
         self.http = HttpClient(referer=self.host, delay=self.delay)
         self._local = threading.local()
         self._seen = set()
-        self._signer_ok = None      # None=还没试过, False=Deno 不可用
+        self._signer_ok = None      # None=还没试过, False=deno/node 都不可用
+        self._signer_cmd = None     # 已经确认能跑的签名命令
         self._api_lock = threading.Lock()
         self._last_api = 0.0
         self._interval = self.api_interval
         self._fail_logged = 0
+        self._no_sign_logged = False  # 「没有签名运行时」只提示一次
         self._abort = False         # 连续 429 时本次直接放弃，保留旧数据
 
     # ---------------- HTTP ----------------
@@ -255,9 +262,36 @@ class KvmSource:
         return name, pic, remark, userlink, lines
 
     # ---------------- WASM 签名 ----------------
+    @staticmethod
+    def _signer_candidates():
+        """
+        能跑 kvm_sign.mjs 的运行时，按优先级排列：deno -> node。
+        Actions 上装 denoland/setup-deno 就有 deno；本地/其它环境有 node 也行。
+        """
+        deno = shutil.which('deno')
+        if not deno:
+            for c in ('/usr/local/bin/deno', '/opt/homebrew/bin/deno',
+                      os.path.expanduser('~/.deno/bin/deno')):
+                if os.path.exists(c):
+                    deno = c
+                    break
+        node = shutil.which('node')
+        if not node:
+            for c in ('/usr/local/bin/node', '/opt/homebrew/bin/node'):
+                if os.path.exists(c):
+                    node = c
+                    break
+
+        cmds = []
+        if deno:
+            cmds.append([deno, 'run', '--allow-read', SIGN_JS])
+        if node:
+            cmds.append([node, SIGN_JS])
+        return cmds
+
     def _sign_batch(self, eps, userlink):
         """
-        一次 Deno 进程签完整条线路。返回和 eps 等长的列表，失败的位置是 ''。
+        一次进程签完整条线路。返回和 eps 等长的列表，失败的位置是 ''。
         """
         if not eps:
             return []
@@ -270,22 +304,37 @@ class KvmSource:
             'items': [{'dataid': e['dataid'], 'secret': e['secret']} for e in eps],
         }, ensure_ascii=False)
 
-        try:
-            proc = subprocess.run(
-                ['deno', 'run', '--allow-read', SIGN_JS],
-                input=payload, capture_output=True, text=True, timeout=180,
-            )
-        except FileNotFoundError:
+        # 已经确认能跑的命令直接用，省掉重复探测
+        cmds = ([self._signer_cmd] if self._signer_cmd
+                else self._signer_candidates())
+        if not cmds:
             self._signer_ok = False
-            print(f'  [{self.key}] 没找到 deno，跳过播放地址签名'
-                  f'（Actions 里需要 denoland/setup-deno）')
-            return [''] * len(eps)
-        except Exception as e:
-            print(f'  [{self.key}] 签名进程失败: {e}')
+            print(f'  [{self.key}] 没找到 deno/node，跳过播放地址校验'
+                  f'（Actions 里需要 denoland/setup-deno，或自带的 node）')
             return [''] * len(eps)
 
-        if proc.returncode != 0:
-            print(f'  [{self.key}] 签名失败: {(proc.stderr or "").strip()[:300]}')
+        proc = None
+        for cmd in cmds:
+            try:
+                proc = subprocess.run(
+                    cmd, input=payload, capture_output=True, text=True,
+                    timeout=180,
+                )
+            except FileNotFoundError:
+                continue
+            except Exception as e:
+                print(f'  [{self.key}] 签名进程失败: {e}')
+                return [''] * len(eps)
+
+            if proc.returncode == 0:
+                self._signer_cmd = cmd
+                break
+            print(f'  [{self.key}] 签名失败（{os.path.basename(cmd[0])}）: '
+                  f'{(proc.stderr or "").strip()[:300]}')
+            proc = None
+
+        if proc is None:
+            self._signer_ok = False
             return [''] * len(eps)
 
         out = []
@@ -385,18 +434,28 @@ class KvmSource:
 
     def _resolve_line(self, eps, userlink, referer):
         """
-        签名 + 逐集验证可用性（过滤掉 VIP/locked 的集）。
-        4k 影视的 m3u8 有时效性，不存到 JSON，改为返回 (集名, dataid, secret)。
-        播放时由 Cloudflare Worker 实时签名解析。
+        签名 + 逐集取 m3u8（过滤掉 VIP/locked 的集），返回 [(集名, m3u8), ...]。
+
+        走的是把 m3u8 直接写进 JSON 的老路子：Cloudflare Worker 里没有
+        WebAssembly 运行时（new WebAssembly.Module() 会被平台拒绝），
+        所以不能把签名留到播放时再做。
         """
         signed = self._sign_batch(eps, userlink)
+        if self._signer_ok is False:
+            # 没有 deno/node 就签不了名，也拿不到任何地址。宁可这次不出数据
+            # （分源缓存保留旧的），也不要往 JSON 里塞一堆播不了的占位地址。
+            if not self._no_sign_logged:
+                self._no_sign_logged = True
+                print(f'  [{self.key}] ⚠ 没有签名运行时（deno/node），'
+                      f'拿不到播放地址，本次跳过 4K影视，保留旧数据')
+            return []
         out = []
         for i, ep in enumerate(eps):
             if self._abort:
                 break
             m3u8 = self._resolve(signed[i], referer)
             if m3u8:
-                out.append((ep['name'], ep['dataid'], ep['secret']))
+                out.append((ep['name'], m3u8))
         return out
 
     # ---------------- 一部片 ----------------
@@ -416,22 +475,20 @@ class KvmSource:
         for line_no, eps in picked:
             if len(eps) > self.max_eps:
                 eps = eps[-self.max_eps:]
-            triples = self._resolve_line(eps, userlink, detail_url)
-            if not triples:
+            pairs = self._resolve_line(eps, userlink, detail_url)
+            cleaned = clean_episodes(pairs)
+            if not cleaned:
                 print(f'  [{self.key}] 线路{line_no} 没拿到可用地址: {name}')
                 continue
-            episodes_str = '#'.join(
-                f'{ep_name}$__KVM__{dataid}__{secret}__{userlink}__{self.host}'
-                for ep_name, dataid, secret in triples
-            )
             line_name = '4K影视' if len(picked) == 1 else f'4K影视{line_no}'
-            groups.append((line_name, episodes_str))
+            groups.append((line_name, cleaned))
 
         if not groups:
             print(f'  [{self.key}] 没拿到可用播放地址: {name}')
             return None
 
-        max_eps = max(len(u.split('#')) for _, u in groups)
+        # 备注按「实际拿到的集数」写，避免页面写 22 集、实际只解析到 20 集
+        max_eps = max(len(u) for _, u in groups)
         if type_name in ('连续剧', '动漫', '综艺'):
             whole = re.search(r'全\s*(\d+)\s*集', remark or '')
             if not (whole and int(whole.group(1)) == max_eps):
@@ -448,7 +505,7 @@ class KvmSource:
             source=self.key,
         )
 
-        print(f'  [{self.key}] ✓ {name} | {groups[0][0]} | {max_eps} 集 (动态解析)')
+        print(f'  [{self.key}] ✓ {name} | {groups[0][0]} | {max_eps} 集 (直连 m3u8)')
         return item
 
     # ---------------- 主流程 ----------------
