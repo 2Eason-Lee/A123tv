@@ -384,7 +384,11 @@ class KvmSource:
         return ''
 
     def _resolve_line(self, eps, userlink, referer):
-        """签名 + 逐集取 m3u8（限流严格，不能并发），返回 [(集名, m3u8), ...]。"""
+        """
+        签名 + 逐集验证可用性（过滤掉 VIP/locked 的集）。
+        4k 影视的 m3u8 有时效性，不存到 JSON，改为返回 (集名, dataid, secret)。
+        播放时由 Cloudflare Worker 实时签名解析。
+        """
         signed = self._sign_batch(eps, userlink)
         out = []
         for i, ep in enumerate(eps):
@@ -392,7 +396,7 @@ class KvmSource:
                 break
             m3u8 = self._resolve(signed[i], referer)
             if m3u8:
-                out.append((ep['name'], m3u8))
+                out.append((ep['name'], ep['dataid'], ep['secret']))
         return out
 
     # ---------------- 一部片 ----------------
@@ -411,30 +415,30 @@ class KvmSource:
         groups = []
         for line_no, eps in picked:
             if len(eps) > self.max_eps:
-                # 集数太多时保最新的一批，保证更新能同步
                 eps = eps[-self.max_eps:]
-            pairs = self._resolve_line(eps, userlink, detail_url)
-            cleaned = clean_episodes(pairs)
-            if not cleaned:
+            triples = self._resolve_line(eps, userlink, detail_url)
+            if not triples:
                 print(f'  [{self.key}] 线路{line_no} 没拿到可用地址: {name}')
                 continue
+            episodes_str = '#'.join(
+                f'{ep_name}$__KVM__{dataid}__{secret}__{userlink}__{self.host}'
+                for ep_name, dataid, secret in triples
+            )
             line_name = '4K影视' if len(picked) == 1 else f'4K影视{line_no}'
-            groups.append((line_name, cleaned))
+            groups.append((line_name, episodes_str))
 
         if not groups:
             print(f'  [{self.key}] 没拿到可用播放地址: {name}')
             return None
 
-        # 备注按「实际拿到的集数」写，避免页面写 19 集、实际只有 14 集
-        max_eps = max(len(u) for _, u in groups)
+        max_eps = max(len(u.split('#')) for _, u in groups)
         if type_name in ('连续剧', '动漫', '综艺'):
             whole = re.search(r'全\s*(\d+)\s*集', remark or '')
             if not (whole and int(whole.group(1)) == max_eps):
                 remark = f'更新至{max_eps}集'
 
-        print(f'  [{self.key}] ✓ {name} | {groups[0][0]} | {len(groups[0][1])} 集')
-        return make_item(
-            vod_id=0,               # crawler_v2 统一重编号
+        item = make_item(
+            vod_id=0,
             name=name,
             type_id=0,
             type_name=type_name,
@@ -443,6 +447,9 @@ class KvmSource:
             groups=groups,
             source=self.key,
         )
+
+        print(f'  [{self.key}] ✓ {name} | {groups[0][0]} | {max_eps} 集 (动态解析)')
+        return item
 
     # ---------------- 主流程 ----------------
     def _pick_host(self):
