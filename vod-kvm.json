@@ -3,8 +3,8 @@
   "msg": "数据成功",
   "page": 1,
   "pagecount": 1,
-  "limit": 66,
-  "total": 66,
+  "limit": 67,
+  "total": 67,
   "class": [
     {
       "type_id": 10,
@@ -28,24 +28,12 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792226060-300x450.jpg",
       "vod_remarks": "更新至24集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/cf97de0cb95c0aea8a49997c4da688e9.m3u8#第2集$https://oss.douyinbit.com/m3u8/c482c563f8413b4c2b65510d21bb2ba3.m3u8#第3集$https://oss.douyinbit.com/m3u8/171d7d8ae2355e53ccfd4f8d25b57b40.m3u8#第4集$https://oss.douyinbit.com/m3u8/17fa1e2f899512342fdeb29131f94a30.m3u8#第5集$https://oss.douyinbit.com/m3u8/8b57dba7c99b056529a8f2fdddca2d9e.m3u8#第6集$https://oss.douyinbit.com/m3u8/44ba45225b472c576a66add7ec1f6112.m3u8#第7集$https://oss.douyinbit.com/m3u8/8cbc151cea83df64090945272ca5646b.m3u8#第8集$https://oss.douyinbit.com/m3u8/0012eb8727537419e84c4c45559cd8d3.m3u8#第9集$https://oss.douyinbit.com/m3u8/dcfc3d88c0a4f6355b73ad025657312f.m3u8#第10集$https://oss.douyinbit.com/m3u8/a003ed03c57dd9ceeca81e2f4b4c6bf7.m3u8#第11集$https://oss.douyinbit.com/m3u8/8e0c08f2c264407fd564ab8d0b0d023f.m3u8#第12集$https://oss.douyinbit.com/m3u8/54c94cb8d76102c7177b392594561942.m3u8#第13集$https://oss.douyinbit.com/m3u8/61f91d43efd66eee346c7299098acf60.m3u8#第14集$https://oss.douyinbit.com/m3u8/c6e35e959c9ddfd491b6969e9631a278.m3u8#第15集$https://oss.douyinbit.com/m3u8/3b89822aad6f9dc8a9739e27a3a4e84c.m3u8#第16集$https://oss.douyinbit.com/m3u8/bedf3f77c6f7486dfe78dd9d1021b86f.m3u8#第17集$https://oss.douyinbit.com/m3u8/10c7b31f68b2199939bbc574bf666c07.m3u8#第18集$https://oss.douyinbit.com/m3u8/13a9c14a42ef5555f7f09338393e7ac4.m3u8#第19集$https://oss.douyinbit.com/m3u8/91e70062e753c000285350a91f29fa83.m3u8#第20集$https://oss.douyinbit.com/m3u8/21cfd23084da8eae01543cd6f80fbf93.m3u8#第21集$https://oss.douyinbit.com/m3u8/2985abbbf8e40f5de79255007d0310a8.m3u8#第22集$https://oss.douyinbit.com/m3u8/9d09127c23dd6dc74bbb0ec6790583f4.m3u8#第23集$https://oss.douyinbit.com/m3u8/ab0bd9c989b7c9f2009aae986809a37c.m3u8#第24集$https://oss.douyinbit.com/m3u8/de4423e08c72f1dbd6f89f969cfcee7a.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/d7cf16ccb19d008aba6b3c65d35989ae.m3u8#第2集$https://oss.douyinbit.com/m3u8/dbc9ba17018f6cf55a02d99e11b4b25f.m3u8#第3集$https://oss.douyinbit.com/m3u8/d103e7ac89302b0e9b14ae68113bc7e7.m3u8#第4集$https://oss.douyinbit.com/m3u8/3092a0c8e6cc325921ac3d9fbf52de93.m3u8#第5集$https://oss.douyinbit.com/m3u8/59af4798a9ef63773e25d9c1928b3ff2.m3u8#第6集$https://oss.douyinbit.com/m3u8/3e67189f2a4b906cab27eced64ba6c79.m3u8#第7集$https://oss.douyinbit.com/m3u8/2d572ec685c3fff3768675eca014de4a.m3u8#第8集$https://oss.douyinbit.com/m3u8/d39f600dc90eb3583ab887cc70f0af5d.m3u8#第9集$https://oss.douyinbit.com/m3u8/b4f141c0b6be391459b3c1a3bf683e0e.m3u8#第10集$https://oss.douyinbit.com/m3u8/a51db71b0bcda6e7edd2567bdb0a7cc7.m3u8#第11集$https://oss.douyinbit.com/m3u8/e140ed4ac40c49fc3305022322ceece8.m3u8#第12集$https://oss.douyinbit.com/m3u8/9f8a228feed44fe9eb3a8e211d8d72e3.m3u8#第13集$https://oss.douyinbit.com/m3u8/3900198fb065098f39bfa63d1c256dba.m3u8#第14集$https://oss.douyinbit.com/m3u8/513df16d7a20e3485873595dfca3a678.m3u8#第15集$https://oss.douyinbit.com/m3u8/47251f371b7488fd50cfc8482875b92a.m3u8#第16集$https://oss.douyinbit.com/m3u8/42fe4c6d81064d760667463cb107c09a.m3u8#第17集$https://oss.douyinbit.com/m3u8/281b8dadc1d19bb413092c67b93ad180.m3u8#第18集$https://oss.douyinbit.com/m3u8/e94dfbbe74a22e27a26b9df7efe97ab1.m3u8#第19集$https://oss.douyinbit.com/m3u8/d36949faa8a5f6193de8fe675b64b942.m3u8#第20集$https://oss.douyinbit.com/m3u8/9f6b74cec40ef08c3ca3ce7b1b585562.m3u8#第21集$https://oss.douyinbit.com/m3u8/173a377726f325bfb1a01234942cf5b0.m3u8#第22集$https://oss.douyinbit.com/m3u8/9ddb4b82de55241cacdd0541b434982f.m3u8#第23集$https://oss.douyinbit.com/m3u8/a911ee3a5800288e6755ba9c4065d9f0.m3u8#第24集$https://oss.douyinbit.com/m3u8/acd26efd9adb735f23bd1c7607271c48.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至24集"
     },
     {
       "vod_id": 10002,
-      "vod_name": "Doctor X：白色黑手党时代",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1791599297-300x450.jpg",
-      "vod_remarks": "更新至8集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/f5f9fd4c7beaf1b8c5cf3d44d5b794b3.m3u8#第2集$https://oss.douyinbit.com/m3u8/db5756a13470ca69aac64e79ee9bd7be.m3u8#第3集$https://oss.douyinbit.com/m3u8/35bfb13fa5ff0c67e8b5420d4021c93c.m3u8#第4集$https://oss.douyinbit.com/m3u8/a677792a2d2f704c984a4b1e6756418a.m3u8#第5集$https://oss.douyinbit.com/m3u8/d7f7d3ad62b029f88d5a2b43daab58d0.m3u8#第6集$https://oss.douyinbit.com/m3u8/fed318782573bea38cca58f84e794419.m3u8#第7集$https://oss.douyinbit.com/m3u8/31d48540e749c4f2d08df0ef55ba5b18.m3u8#第8集$https://oss.douyinbit.com/m3u8/f99278dac8a792cc8c6bca84c800b851.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至8集"
-    },
-    {
-      "vod_id": 10003,
       "vod_name": "伟大的长征",
       "type_id": 11,
       "type_name": "连续剧",
@@ -57,43 +45,31 @@
       "vod_remarks_src": "更新至37集"
     },
     {
-      "vod_id": 10004,
-      "vod_name": "尚公主",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792849914-300x450.jpg",
-      "vod_remarks": "更新至20集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/f7d2b81dc1310dbe097590f9f860f51f.m3u8#第2集$https://oss.douyinbit.com/m3u8/5a32140f8d2c138bf71bf4f29599fe5d.m3u8#第3集$https://oss.douyinbit.com/m3u8/d66add197c3dc4eb8d19ed58f90305f1.m3u8#第4集$https://oss.douyinbit.com/m3u8/bbe197ab2ba5501fcffaab76c8df91a4.m3u8#第5集$https://oss.douyinbit.com/m3u8/f8176836b163b5e3fa04867ef9b18b4e.m3u8#第6集$https://oss.douyinbit.com/m3u8/0a9867e82d85c056d3d50f87d728e1cd.m3u8#第7集$https://oss.douyinbit.com/m3u8/353710862c7f3a70417b0454996c98af.m3u8#第8集$https://oss.douyinbit.com/m3u8/4bf6ea75ce6291f4ccf07a130c0edbb5.m3u8#第9集$https://oss.douyinbit.com/m3u8/2e33a026f0bcd859526233255a65f10c.m3u8#第10集$https://oss.douyinbit.com/m3u8/a88a8dea28cf9e093e64ab93cb5675f2.m3u8#第11集$https://oss.douyinbit.com/m3u8/344b82e12f669039f12130ff877a870c.m3u8#第12集$https://oss.douyinbit.com/m3u8/dfb90fd70c4914df7d8b81ec4d5947cb.m3u8#第13集$https://oss.douyinbit.com/m3u8/41ff916b0a3a3bb791a45ef28688ceef.m3u8#第14集$https://oss.douyinbit.com/m3u8/ed4831286075ff06958a4bb1abfb871d.m3u8#第15集$https://oss.douyinbit.com/m3u8/931304d928a639384415bf3231faee12.m3u8#第16集$https://oss.douyinbit.com/m3u8/8815e6ca88595c9c2f645dc026c76a86.m3u8#第17集$https://oss.douyinbit.com/m3u8/7b59ecd4ad0700f5db76d4e436b75bb1.m3u8#第18集$https://oss.douyinbit.com/m3u8/ddb6ac83ed2baf1d0f3483bfe6e7726c.m3u8#第19集$https://oss.douyinbit.com/m3u8/246c53f503a3cc867a0e03f64176709d.m3u8#第20集$https://oss.douyinbit.com/m3u8/b3cff033459075d2ce81dcb3b468af6a.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至20集"
-    },
-    {
-      "vod_id": 10005,
+      "vod_id": 10003,
       "vod_name": "终极名单 第二季",
       "type_id": 11,
       "type_name": "连续剧",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793336400-300x450.jpg",
       "vod_remarks": "更新至2集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/cc764791defb56d8741613703855e9f6.m3u8#第2集$https://oss.douyinbit.com/m3u8/625c89c860ee41badee4956053257187.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/6942ef5bfb14bb8489ad45585a50d613.m3u8#第2集$https://oss.douyinbit.com/m3u8/c96b015028c3e7e486cb41ea8041c8a3.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至2集"
     },
     {
-      "vod_id": 10006,
+      "vod_id": 10004,
       "vod_name": "人生复本 第二季",
       "type_id": 11,
       "type_name": "连续剧",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/09/douban_1789316982-300x450.jpg",
       "vod_remarks": "更新至8集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/43236d1440cbf0c5798f4b442cc72eb4.m3u8#第2集$https://oss.douyinbit.com/m3u8/7dd9163c488981ec10fa31b3c960bde5.m3u8#第3集$https://oss.douyinbit.com/m3u8/9f95f496a8b241bac01c057f0acd846a.m3u8#第5集$https://oss.douyinbit.com/m3u8/acd48dab659150369b2f7402c5cc5dee.m3u8#第6集$https://oss.douyinbit.com/m3u8/fb644e498964eb2b08783d68d7fc40bb.m3u8#第7集$https://oss.douyinbit.com/m3u8/4c2ef7b64ff8e632838333488ca12697.m3u8#第8集$https://oss.douyinbit.com/m3u8/8c2aac4530a015c523f6fc9a46bc2845.m3u8#第9集$https://oss.douyinbit.com/m3u8/f21ca9fe284ad54ea33c9d35fbe942b5.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/b7ee5f4c305f60755e21cf673098052b.m3u8#第2集$https://oss.douyinbit.com/m3u8/ce338ac214530188b2c8abb26f999f6a.m3u8#第3集$https://oss.douyinbit.com/m3u8/d957580dc2fcc5638737ab6e80405ab3.m3u8#第5集$https://oss.douyinbit.com/m3u8/5d856180b608fd9ee96b4a53cce18724.m3u8#第6集$https://oss.douyinbit.com/m3u8/0e5d4fea5f473395afd544a198c2349b.m3u8#第7集$https://oss.douyinbit.com/m3u8/0fdfae07b13039038360b7c84bd3aa58.m3u8#第8集$https://oss.douyinbit.com/m3u8/4d572344d0c0be96803c0d97b832322f.m3u8#第9集$https://oss.douyinbit.com/m3u8/65f27c6e88bbc5b53ef84757a1ada208.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至8集"
     },
     {
-      "vod_id": 10007,
+      "vod_id": 10005,
       "vod_name": "兰香如故",
       "type_id": 11,
       "type_name": "连续剧",
@@ -105,7 +81,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10008,
+      "vod_id": 10006,
       "vod_name": "知否知否应是绿肥红瘦: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -117,7 +93,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10009,
+      "vod_id": 10007,
       "vod_name": "甄嬛传: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -129,14 +105,38 @@
       "vod_remarks_src": "更新至39集"
     },
     {
-      "vod_id": 10010,
-      "vod_name": "庆余年 第一季",
+      "vod_id": 10008,
+      "vod_name": "无耻之徒(美版) 第九季",
       "type_id": 11,
       "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2021/01/toNgHVp0vtZ6vMLprV36NPo4qWh-1-233x350.jpg",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/08/douban_1787823791-300x441.jpg",
+      "vod_remarks": "全14集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/b63b7025d5b3efbd8ba8eadf85409ee8.m3u8#第2集$https://oss.douyinbit.com/m3u8/559124c46a559c2301d246b41728e011.m3u8#第3集$https://oss.douyinbit.com/m3u8/9dd15ac7380a3244f8fc0ef7b89a141b.m3u8#第4集$https://oss.douyinbit.com/m3u8/e006b84f0c48a3a48eb6ec90ebf9126f.m3u8#第5集$https://oss.douyinbit.com/m3u8/8860a6653dbfa2f7fa28bc4a689a1ed8.m3u8#第6集$https://oss.douyinbit.com/m3u8/3e1e17d78ce364fd40892597880c26da.m3u8#第7集$https://oss.douyinbit.com/m3u8/c1f2449dc309d9078fb7f81152f6bbf6.m3u8#第8集$https://oss.douyinbit.com/m3u8/7bb478b2119d4f96bc72d8744c313bf2.m3u8#第9集$https://oss.douyinbit.com/m3u8/54452025b2a00224b3021086f8987345.m3u8#第10集$https://oss.douyinbit.com/m3u8/e3b1a7596aaf5cd12473330e7837512a.m3u8#第11集$https://oss.douyinbit.com/m3u8/cb1f1d9a8275e29a5148973ff22077af.m3u8#第12集$https://oss.douyinbit.com/m3u8/e4091a3324a7289d2b0e0d7a0b7041f6.m3u8#第13集$https://oss.douyinbit.com/m3u8/77dd1b757ade102a6138bea0abdef912.m3u8#第14集$https://oss.douyinbit.com/m3u8/36a2cf6241dff80b9093cb0b4b10421d.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "全14集"
+    },
+    {
+      "vod_id": 10009,
+      "vod_name": "大明王朝1566: 第1季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/oOSQlqYrDk8UCmJssxgvsEQusdN-233x350.jpg",
+      "vod_remarks": "更新至26集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第7集$https://oss.douyinbit.com/m3u8/0bb2ae5c19c1ca04a74496ce14c97391.m3u8#第8集$https://oss.douyinbit.com/m3u8/7e34245283aa2dc39334a3a8f9ae3aec.m3u8#第9集$https://oss.douyinbit.com/m3u8/9835c5176e82243c117251e1c2086d3a.m3u8#第10集$https://oss.douyinbit.com/m3u8/e4d80c7186dfd16aca300b199f15bb86.m3u8#第11集$https://oss.douyinbit.com/m3u8/4d4725b3424955931b42595ebb587e5b.m3u8#第12集$https://oss.douyinbit.com/m3u8/466f6df1b026dea1413dacc834081e02.m3u8#第13集$https://oss.douyinbit.com/m3u8/f7f4bac8b7b37beffcbfc7c0cf65c716.m3u8#第14集$https://oss.douyinbit.com/m3u8/91e06e07e97801ecd94e304600e37919.m3u8#第15集$https://oss.douyinbit.com/m3u8/1a599d401a619919ae8c9356508e8605.m3u8#第16集$https://oss.douyinbit.com/m3u8/148696ce219c995a39f090bd7fd9a8db.m3u8#第17集$https://oss.douyinbit.com/m3u8/8ec90f746f6d5d89aacdd2ab35e2903c.m3u8#第18集$https://oss.douyinbit.com/m3u8/9baed23c3cad85fd868ff700548bebbb.m3u8#第19集$https://oss.douyinbit.com/m3u8/c08441e55f05a6f4a22d9be102e7243d.m3u8#第20集$https://oss.douyinbit.com/m3u8/3864a7e0f706ebe7c5bfda44a425fbf6.m3u8#第21集$https://oss.douyinbit.com/m3u8/9b2e1eb96d2db141c31f16fc2699da0d.m3u8#第22集$https://oss.douyinbit.com/m3u8/2c8c8fd4aa371a92c68fccfb02de30ee.m3u8#第23集$https://oss.douyinbit.com/m3u8/93ab1f3fe6ad959a7b18bba2ce73df50.m3u8#第24集$https://oss.douyinbit.com/m3u8/7be3b55189c755ce714f07fb98a40ac4.m3u8#第25集$https://oss.douyinbit.com/m3u8/955bf9998487c84bc1307a3767146961.m3u8#第26集$https://oss.douyinbit.com/m3u8/566a02c4e27a57d24675e8b04c2f3514.m3u8#第27集$https://oss.douyinbit.com/m3u8/4aefc62b3a63305ccebd66a0ddc64102.m3u8#第28集$https://oss.douyinbit.com/m3u8/f20c32d8f4d5cb854266fd84a8904f1c.m3u8#第29集$https://oss.douyinbit.com/m3u8/0a0cf3edda7a7652ce84d0f7a9727fc4.m3u8#第30集$https://oss.douyinbit.com/m3u8/9752bdd6bfbb210ee6d575d6ecfb0195.m3u8#第31集$https://oss.douyinbit.com/m3u8/7c45c10232b70f8e002586e4c7176936.m3u8#第32集$https://oss.douyinbit.com/m3u8/4c06ddbfaa0e287ac50a480b960eb670.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至26集"
+    },
+    {
+      "vod_id": 10010,
+      "vod_name": "人民的名义: 第1季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/5WgBKlvrlLqH2EeRftauuOnQuLS-233x350.jpg",
       "vod_remarks": "更新至27集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第7集$https://oss.douyinbit.com/m3u8/dfcec0e67b05c09cbbbf4694c8c86d91.m3u8#第8集$https://oss.douyinbit.com/m3u8/4d17c2e1dda5014491b806dc3285541e.m3u8#第9集$https://oss.douyinbit.com/m3u8/4ddaf23e1271e1238963445cb97eb457.m3u8#第10集$https://oss.douyinbit.com/m3u8/8160b5c07c189da45eb7290d98caf5b5.m3u8#第11集$https://oss.douyinbit.com/m3u8/9082ccd545e7d01a53c49a186c6d3bf9.m3u8#第12集$https://oss.douyinbit.com/m3u8/d890e43139151a5d4f46ad750b0c2d4d.m3u8#第13集$https://oss.douyinbit.com/m3u8/d1bc7de97faee065b07fa9c964b026d2.m3u8#第14集$https://oss.douyinbit.com/m3u8/6820068971b72019a115028102b8e091.m3u8#第15集$https://oss.douyinbit.com/m3u8/f38153effcd0be9a644d35802b1a7730.m3u8#第16集$https://oss.douyinbit.com/m3u8/505ca3a852d2b4a480ca716c8dc6399b.m3u8#第17集$https://oss.douyinbit.com/m3u8/b72a2a1caf1c9839dfce6348db609a23.m3u8#第18集$https://oss.douyinbit.com/m3u8/3885e9cc2d2bee951cf364984751440c.m3u8#第19集$https://oss.douyinbit.com/m3u8/2b3fdc29d2c35a1d2bb17d9097bc9561.m3u8#第20集$https://oss.douyinbit.com/m3u8/48ddf41fc02dbbd56416e7ed4c7bbb55.m3u8#第21集$https://oss.douyinbit.com/m3u8/7f10dce4ce0075fb74342301c018d342.m3u8#第22集$https://oss.douyinbit.com/m3u8/75b1c1197c8f26d77d0ae913a9c24f7b.m3u8#第23集$https://oss.douyinbit.com/m3u8/144c7d97c8418c8e78dee55c51ef77ce.m3u8#第24集$https://oss.douyinbit.com/m3u8/6e075436d83ab62405722b4def0f642a.m3u8#第25集$https://oss.douyinbit.com/m3u8/ba4df96f6eebafc026f721db3c27ffed.m3u8#第26集$https://oss.douyinbit.com/m3u8/87395156f4a649f2351dedc14c59ebb1.m3u8#第27集$https://oss.douyinbit.com/m3u8/7e7484436f824fbf50f7555011590fb7.m3u8#第28集$https://oss.douyinbit.com/m3u8/e8c0ea736ea5954ce26ef46fc3ab28a0.m3u8#第29集$https://oss.douyinbit.com/m3u8/6e117ba4fc0ee749310ed28bf99f81da.m3u8#第30集$https://oss.douyinbit.com/m3u8/fb1366ba91134f2c5557ed5842080571.m3u8#第31集$https://oss.douyinbit.com/m3u8/ceb7482de28094a10fdbeb0730dbdbe2.m3u8#第32集$https://oss.douyinbit.com/m3u8/6d4485ea2d2adb5517750962ca14b97a.m3u8#第33集$https://oss.douyinbit.com/m3u8/ffb4efc05dc1080a3c33ed4580960e62.m3u8",
+      "vod_play_url": "第16集$https://oss.douyinbit.com/m3u8/ea4635599d41a1841170bee9a27b9a34.m3u8#第17集$https://oss.douyinbit.com/m3u8/b1c15cf3eba181a118b68c2d32635840.m3u8#第18集$https://oss.douyinbit.com/m3u8/43b8c62bfe76bf0d8baeca792aa18bc9.m3u8#第19集$https://oss.douyinbit.com/m3u8/527da3cf059c696e0ad91323319aecce.m3u8#第20集$https://oss.douyinbit.com/m3u8/608714b1e8fa0d13cd1f889b2fdd1686.m3u8#第21集$https://oss.douyinbit.com/m3u8/37d77a97cbc765f9cad739620380b9a4.m3u8#第22集$https://oss.douyinbit.com/m3u8/063ecde8f4ec1d5ed868cf6bd474e684.m3u8#第23集$https://oss.douyinbit.com/m3u8/8a8a6fcc895eea7fc8eb718647d55a7f.m3u8#第24集$https://oss.douyinbit.com/m3u8/ab260b0ff2ac6f310736b82114666689.m3u8#第25集$https://oss.douyinbit.com/m3u8/e36f317c442808ac124142153dfd0f03.m3u8#第26集$https://oss.douyinbit.com/m3u8/193700b1841c4c91ad0372822142b468.m3u8#第27集$https://oss.douyinbit.com/m3u8/d7f9c94172ef0f97e8a93d4c3e30cd0d.m3u8#第28集$https://oss.douyinbit.com/m3u8/a125e1798ee832485d02391e8298d93e.m3u8#第29集$https://oss.douyinbit.com/m3u8/1e23aa91dee7ab845653672a72b0069b.m3u8#第30集$https://oss.douyinbit.com/m3u8/e37c9e14066874170407e297ba7ea86c.m3u8#第31集$https://oss.douyinbit.com/m3u8/c41addc5e1294d2b625e6b73215390cb.m3u8#第32集$https://oss.douyinbit.com/m3u8/847699724a50d7c57d0f75772f9bab82.m3u8#第33集$https://oss.douyinbit.com/m3u8/20ec74abbcbabb95712f1831f9ad0ca9.m3u8#第34集$https://oss.douyinbit.com/m3u8/5f5b8d71317e7438d10c67255fa8590f.m3u8#第35集$https://oss.douyinbit.com/m3u8/9816eaf6de3dc02457f9fc19a3dd283f.m3u8#第36集$https://oss.douyinbit.com/m3u8/028cf49744f16ef1609abfb91d605a82.m3u8#第37集$https://oss.douyinbit.com/m3u8/95b5e30304e907bb1f5becfd82fbf6a0.m3u8#第38集$https://oss.douyinbit.com/m3u8/44051fdb22fdc6514b78c5f4e6745668.m3u8#第39集$https://oss.douyinbit.com/m3u8/eef3a81a200812482e86a91dc38c3571.m3u8#第40集$https://oss.douyinbit.com/m3u8/f1debceb12d426807a0042ea21cabb31.m3u8#第41集$https://oss.douyinbit.com/m3u8/86b18037faea3d1fd5b0f0143d1dda66.m3u8#第42集$https://oss.douyinbit.com/m3u8/08a85e7fa88bf423b95fa3f65fba0caf.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至27集"
     },
@@ -148,31 +148,31 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2021/03/2ILzpYoHgHztVKZa2RkZdqUS9DA-1-233x350.jpg",
       "vod_remarks": "更新至27集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第15集$https://oss.douyinbit.com/m3u8/6a4e12f218938052fb2047ba60a705f2.m3u8#第16集$https://oss.douyinbit.com/m3u8/be872dc114847f5fd47b67f436fbd5b4.m3u8#第17集$https://oss.douyinbit.com/m3u8/9a79ff137dbc9b4947639bb4ad09461e.m3u8#第18集$https://oss.douyinbit.com/m3u8/c2fb2d3fb87828ce7cf1a6a0fb91bafe.m3u8#第19集$https://oss.douyinbit.com/m3u8/f52057bc1ddfb1c0e7e338a47a0f6b41.m3u8#第20集$https://oss.douyinbit.com/m3u8/367dc5e086044f8638a6d89a0c090874.m3u8#第21集$https://oss.douyinbit.com/m3u8/5bb28e635819a84759af6ddada65db19.m3u8#第22集$https://oss.douyinbit.com/m3u8/a9dff52be1e9d74b24f6bb040609335d.m3u8#第23集$https://oss.douyinbit.com/m3u8/ede4c2ad54b9cb29d27f0df0fc0530da.m3u8#第24集$https://oss.douyinbit.com/m3u8/986981f5875c1bb53ad22f074e9d8ba5.m3u8#第25集$https://oss.douyinbit.com/m3u8/d6617336e88da6083d5144be34f352c4.m3u8#第26集$https://oss.douyinbit.com/m3u8/a0292b57609656b1177bbe23b67b28f9.m3u8#第27集$https://oss.douyinbit.com/m3u8/b0b45ce0cd9e5497a44264a17632ea9a.m3u8#第28集$https://oss.douyinbit.com/m3u8/4f6650d83b7a4e78291e144e34cc4177.m3u8#第29集$https://oss.douyinbit.com/m3u8/e8c8aac8f86cde22f25661beed3a555d.m3u8#第30集$https://oss.douyinbit.com/m3u8/c879eb3b0095a076e8586d9e02d09d0a.m3u8#第31集$https://oss.douyinbit.com/m3u8/1fd17dad34e4a2d1c027719eddec3760.m3u8#第32集$https://oss.douyinbit.com/m3u8/eff7f6b1672e6e74fbc3d6d3066f3546.m3u8#第33集$https://oss.douyinbit.com/m3u8/d6a43a4512af136747b1bef92ffa6b2d.m3u8#第34集$https://oss.douyinbit.com/m3u8/cef204e4fac924cefe30c8d11b329aef.m3u8#第35集$https://oss.douyinbit.com/m3u8/85b2d3a5d20f2c8309fec0a7182337b7.m3u8#第36集$https://oss.douyinbit.com/m3u8/207e79a6f8d7aa03fe3d44dde2b71752.m3u8#第37集$https://oss.douyinbit.com/m3u8/868da29929b1ea115bcafe47d0fce4f7.m3u8#第38集$https://oss.douyinbit.com/m3u8/102d5e347bf0917f3b25b2a44d1a4f52.m3u8#第39集$https://oss.douyinbit.com/m3u8/8119fd99778dbd8290fda9152ee4cca5.m3u8#第40集$https://oss.douyinbit.com/m3u8/91ede6aec0098cc210533f02585c9339.m3u8#第41集$https://oss.douyinbit.com/m3u8/c851eb16db2955021293333866686206.m3u8",
+      "vod_play_url": "第15集$https://oss.douyinbit.com/m3u8/df60f03b043a9074c66220e54ab7b63a.m3u8#第16集$https://oss.douyinbit.com/m3u8/8d75871c69d8e748c4b93f3e0c1d393b.m3u8#第17集$https://oss.douyinbit.com/m3u8/70fae94b84efbafae7cb886a18e27141.m3u8#第18集$https://oss.douyinbit.com/m3u8/81f9803b10940b2da98b19154378b57d.m3u8#第19集$https://oss.douyinbit.com/m3u8/7e0e6f1527c66729d9934594c1c6b8e7.m3u8#第20集$https://oss.douyinbit.com/m3u8/3b58748d28560feda734563f8d7d77c5.m3u8#第21集$https://oss.douyinbit.com/m3u8/0bc83387ae5131cfbdca069b4998b2dc.m3u8#第22集$https://oss.douyinbit.com/m3u8/b18a32ce9b341d8699422400cbf37f3a.m3u8#第23集$https://oss.douyinbit.com/m3u8/b9d17eabcd8048a31feee164877306c1.m3u8#第24集$https://oss.douyinbit.com/m3u8/b2c9629242363d09dbf4323aaa5be52e.m3u8#第25集$https://oss.douyinbit.com/m3u8/5afe47734d63ed36595b20b5381b25aa.m3u8#第26集$https://oss.douyinbit.com/m3u8/0814ad43a6b26baa82cc7850fd708c4f.m3u8#第27集$https://oss.douyinbit.com/m3u8/2d3a757f419c964490a3ef40573b0fe1.m3u8#第28集$https://oss.douyinbit.com/m3u8/aa85e15032c5d6deae56c51e8f9dc7dd.m3u8#第29集$https://oss.douyinbit.com/m3u8/8ec305279caac0b29f7448492818d0e0.m3u8#第30集$https://oss.douyinbit.com/m3u8/302cb251b33ba55419b73de13fee3099.m3u8#第31集$https://oss.douyinbit.com/m3u8/a9f3f81e87160b18f46c32827b4c8d37.m3u8#第32集$https://oss.douyinbit.com/m3u8/93a13ab3d5f7e0db3a42426acecc55e9.m3u8#第33集$https://oss.douyinbit.com/m3u8/254e3eb53e6b4eb81297b7c383ce5bb6.m3u8#第34集$https://oss.douyinbit.com/m3u8/f9b6b133c51e10fe16ecf49ab8f98ba4.m3u8#第35集$https://oss.douyinbit.com/m3u8/c6422c6bb884b8db17f73fc4c6dcf422.m3u8#第36集$https://oss.douyinbit.com/m3u8/bd620d75fe0ca6ce4425db08bd97397f.m3u8#第37集$https://oss.douyinbit.com/m3u8/8eb795fb28a752178eeaedfd7966ffdf.m3u8#第38集$https://oss.douyinbit.com/m3u8/86be41c80ea5013ac13e9bf23b2d1581.m3u8#第39集$https://oss.douyinbit.com/m3u8/9976ca1bf42f75eec9714b37a89b7296.m3u8#第40集$https://oss.douyinbit.com/m3u8/97a0995353eff830b32522dc4abee825.m3u8#第41集$https://oss.douyinbit.com/m3u8/7bf07ae55d569e44c2135fbff5724beb.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至27集"
     },
     {
       "vod_id": 10012,
+      "vod_name": "庆余年 第一季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2021/01/toNgHVp0vtZ6vMLprV36NPo4qWh-1-233x350.jpg",
+      "vod_remarks": "更新至27集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第7集$https://oss.douyinbit.com/m3u8/a7e29c8215c6fc0dbe513cdb8d2f0a8f.m3u8#第8集$https://oss.douyinbit.com/m3u8/27e90229610605c06a02a04e41d7bcc4.m3u8#第9集$https://oss.douyinbit.com/m3u8/1622ab984168dadf66be335200b8cd58.m3u8#第10集$https://oss.douyinbit.com/m3u8/d4ca75614e31272a0b3bdba12c7fe974.m3u8#第11集$https://oss.douyinbit.com/m3u8/72040ab6255abaa3c529b789ac21cfa3.m3u8#第12集$https://oss.douyinbit.com/m3u8/2a981e657069de54144693d6520d5a11.m3u8#第13集$https://oss.douyinbit.com/m3u8/3df17970cb284f6310744b597e49c74b.m3u8#第14集$https://oss.douyinbit.com/m3u8/75a936ee5ac237c30ac70b8a6c6e2de5.m3u8#第15集$https://oss.douyinbit.com/m3u8/b6ba430b17127cdab4337acc047506bf.m3u8#第16集$https://oss.douyinbit.com/m3u8/003b686912543a23f878e35ca6df4758.m3u8#第17集$https://oss.douyinbit.com/m3u8/0d9f409a45ee49812f4fe5baf3fc560e.m3u8#第18集$https://oss.douyinbit.com/m3u8/be18894e91f2d8d0d9035b977b9bb3f7.m3u8#第19集$https://oss.douyinbit.com/m3u8/446c010273cfa2abb8dbe1ff69e9af8a.m3u8#第20集$https://oss.douyinbit.com/m3u8/564abe8d51943b452c7859e625b864aa.m3u8#第21集$https://oss.douyinbit.com/m3u8/fb5d78b7fa56b4541ea555b0e81fa040.m3u8#第22集$https://oss.douyinbit.com/m3u8/f349c02c84fd52753146a0c9a3bb926a.m3u8#第23集$https://oss.douyinbit.com/m3u8/6d27696c93641e5fc152e11f2ba98168.m3u8#第24集$https://oss.douyinbit.com/m3u8/0a70602655081a92e0a2fde5e5e22ff0.m3u8#第25集$https://oss.douyinbit.com/m3u8/5882a4c3a912903672562664d64199d8.m3u8#第26集$https://oss.douyinbit.com/m3u8/a48270e14828f875253437f10e2d7792.m3u8#第27集$https://oss.douyinbit.com/m3u8/1f99cd9ebfbfb6ed39b74faa7e6731bc.m3u8#第28集$https://oss.douyinbit.com/m3u8/f6e69acff0fda942f15e8f9106eb3925.m3u8#第29集$https://oss.douyinbit.com/m3u8/eed688b1e3005aa52e45d201f6a6ccab.m3u8#第30集$https://oss.douyinbit.com/m3u8/13aa962ba01a8709b42ff7f05d84753f.m3u8#第31集$https://oss.douyinbit.com/m3u8/f2addace4a1826d784e0d0f1d24b9f21.m3u8#第32集$https://oss.douyinbit.com/m3u8/d137f8bb6c57c71843563758180d2b26.m3u8#第33集$https://oss.douyinbit.com/m3u8/798e37becf3321c146c29f6db9166ac5.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至27集"
+    },
+    {
+      "vod_id": 10013,
       "vod_name": "逐玉",
       "type_id": 11,
       "type_name": "连续剧",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/03/3DJ4lbauSj3kECWywtsBQUHZRAR-233x350.jpg",
       "vod_remarks": "更新至27集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/7f5b0ec5c1816cd865b225634357e7fa.m3u8#第2集$https://oss.douyinbit.com/m3u8/7e0b48822c40dcec37092dd2d693a1a4.m3u8#第3集$https://oss.douyinbit.com/m3u8/57fb4de172240f742e26ec121c4cd2db.m3u8#第4集$https://oss.douyinbit.com/m3u8/4dbee365907f985edeb797f939072ec1.m3u8#第5集$https://oss.douyinbit.com/m3u8/722bce10f3a4d8ab274d34da0e490c32.m3u8#第6集$https://oss.douyinbit.com/m3u8/7a717af75d5569eccb1726cd07985fd7.m3u8#第7集$https://oss.douyinbit.com/m3u8/198093fbae6436999cdcf5416cb198a2.m3u8#第8集$https://oss.douyinbit.com/m3u8/4de467d0a0065280b4aade3d9fa4f39e.m3u8#第9集$https://oss.douyinbit.com/m3u8/895879e89fb4b8b618303b07d89c8614.m3u8#第10集$https://oss.douyinbit.com/m3u8/e507cb70d588f9a71b96ea16e3b9ffbf.m3u8#第11集$https://oss.douyinbit.com/m3u8/f0a3582d24ce1934385fcc0c510bd581.m3u8#第12集$https://oss.douyinbit.com/m3u8/70d325b5bee941d2abcf2d18a291146f.m3u8#第13集$https://oss.douyinbit.com/m3u8/f3af2f14d95a94c5a513bef202cab52f.m3u8#第14集$https://oss.douyinbit.com/m3u8/67c52ebe80cdf64670d606b47a3cc88f.m3u8#第15集$https://oss.douyinbit.com/m3u8/de31964f2fdd1cac051711fdbb95260f.m3u8#第16集$https://oss.douyinbit.com/m3u8/981d3dfd49a2b6ac03c315c2097ac883.m3u8#第17集$https://oss.douyinbit.com/m3u8/16ad581a670f834ad9f0aa764b0cd373.m3u8#第18集$https://oss.douyinbit.com/m3u8/0600012c31e79a8af759e8266c91ab17.m3u8#第19集$https://oss.douyinbit.com/m3u8/f523d9e2724dd593a76eee6d8b856776.m3u8#第20集$https://oss.douyinbit.com/m3u8/4d285e0bd9d6717e84ae5c31391c1926.m3u8#第21集$https://oss.douyinbit.com/m3u8/43b0bbeb613e7ab6d24e8dbb84f610d7.m3u8#第22集$https://oss.douyinbit.com/m3u8/23a9ebfeb9aa230379b7b5be6fe302ed.m3u8#第23集$https://oss.douyinbit.com/m3u8/57683a6488c88f214ee9fd92b616805f.m3u8#第24集$https://oss.douyinbit.com/m3u8/8d22a1c283ba9497afdcae929f33a117.m3u8#第25集$https://oss.douyinbit.com/m3u8/5720e30b2d3e451fd9805f0a63e5066c.m3u8#第26集$https://oss.douyinbit.com/m3u8/ce342eb4fc6f42d91f5ec993babf61d6.m3u8#第27集$https://oss.douyinbit.com/m3u8/bf941a1249bacf6f9cb42e8ad575927a.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至27集"
-    },
-    {
-      "vod_id": 10013,
-      "vod_name": "人民的名义: 第1季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/5WgBKlvrlLqH2EeRftauuOnQuLS-233x350.jpg",
-      "vod_remarks": "更新至27集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第16集$https://oss.douyinbit.com/m3u8/a23634bf82513b51ed58598976e29a6b.m3u8#第17集$https://oss.douyinbit.com/m3u8/f501d958d14280b4a6ab8a02ced943fa.m3u8#第18集$https://oss.douyinbit.com/m3u8/0efa67c8b424dcf83e4135a456b18ee4.m3u8#第19集$https://oss.douyinbit.com/m3u8/29a8ee9252eaec933dcc46a932a7005d.m3u8#第20集$https://oss.douyinbit.com/m3u8/841870491fd832e80e89c027dc19b426.m3u8#第21集$https://oss.douyinbit.com/m3u8/58dfc64f921dedd44d3c36d3b45642ec.m3u8#第22集$https://oss.douyinbit.com/m3u8/acd784d60e1710c3400d0f5f345bce8a.m3u8#第23集$https://oss.douyinbit.com/m3u8/9dbdb16926538105e4a101c5180bb6fd.m3u8#第24集$https://oss.douyinbit.com/m3u8/e479ffb507e0f1aad3e7c6b22026e6f4.m3u8#第25集$https://oss.douyinbit.com/m3u8/7557c001aca73959b11203bdc4500e44.m3u8#第26集$https://oss.douyinbit.com/m3u8/592139ddb1aa8d7c43606dbc564ce269.m3u8#第27集$https://oss.douyinbit.com/m3u8/eaeb71544065a05ed554595751719a99.m3u8#第28集$https://oss.douyinbit.com/m3u8/a22cd73b31219d7fafe6414fd0093406.m3u8#第29集$https://oss.douyinbit.com/m3u8/29dd5f096ea52963560fdcff99525a1e.m3u8#第30集$https://oss.douyinbit.com/m3u8/e64788654bd145037c68cd12914bc2e4.m3u8#第31集$https://oss.douyinbit.com/m3u8/a94602fd69a729ed2490b4c6ae8eaa05.m3u8#第32集$https://oss.douyinbit.com/m3u8/ef745cc05107f1c163f70b2306cc41b0.m3u8#第33集$https://oss.douyinbit.com/m3u8/6b60de90ec754521a3242b7051eb0cb2.m3u8#第34集$https://oss.douyinbit.com/m3u8/5539429154e6dca6ca42173786abb7bf.m3u8#第35集$https://oss.douyinbit.com/m3u8/241a263e6a71a88365bbb733aebfc73a.m3u8#第36集$https://oss.douyinbit.com/m3u8/d65bf889d5b92f2546e86173ba8ba890.m3u8#第37集$https://oss.douyinbit.com/m3u8/0275a1232f629926b1d515a099705dd8.m3u8#第38集$https://oss.douyinbit.com/m3u8/e9c7c5f26a232615f95dc59a5e65a648.m3u8#第39集$https://oss.douyinbit.com/m3u8/99c401ffa3855282f3af3c18ec2e4087.m3u8#第40集$https://oss.douyinbit.com/m3u8/222f5ce20ee389e11bac600997ae42ba.m3u8#第41集$https://oss.douyinbit.com/m3u8/66e4248dc9edd3fe4096ce27f2c2af30.m3u8#第42集$https://oss.douyinbit.com/m3u8/a787f7cd6676b6d6e49d8d7037bf88af.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/c20a8600ff42684f95b60c8c0e03b70a.m3u8#第2集$https://oss.douyinbit.com/m3u8/cef1cd09352d217fc44a5e3579fe7f8f.m3u8#第3集$https://oss.douyinbit.com/m3u8/a9ab69e2575df3d6c42ed33f4efc3da5.m3u8#第4集$https://oss.douyinbit.com/m3u8/f106acdb1cb16f886e1bbd80f79f0e5d.m3u8#第5集$https://oss.douyinbit.com/m3u8/ac80399a70e4eaa802a7fca2c70dc18c.m3u8#第6集$https://oss.douyinbit.com/m3u8/ae96b71f0d7ee8082851e23151e73601.m3u8#第7集$https://oss.douyinbit.com/m3u8/7aafdb0a7b3051735c6d0bdefad717fb.m3u8#第8集$https://oss.douyinbit.com/m3u8/7d327232be6d96b0b10e5794e7616839.m3u8#第9集$https://oss.douyinbit.com/m3u8/a8f6f5dea727256c21582dec48079595.m3u8#第10集$https://oss.douyinbit.com/m3u8/e5896373a8b9ce89aa41bdf6fe30cf13.m3u8#第11集$https://oss.douyinbit.com/m3u8/0298a95ad13ed34d58a0f7ae58275b9c.m3u8#第12集$https://oss.douyinbit.com/m3u8/b92d475e790d0a85c4c95b058e565c06.m3u8#第13集$https://oss.douyinbit.com/m3u8/1c7d92c4c38aa44e8e3e93d584f24a0e.m3u8#第14集$https://oss.douyinbit.com/m3u8/8bf8cb833b2a89e9126bad708ac32e90.m3u8#第15集$https://oss.douyinbit.com/m3u8/6330ea425a0f8551c1cd97381f6096c2.m3u8#第16集$https://oss.douyinbit.com/m3u8/bf64075b4de3e3338363366a08a282bf.m3u8#第17集$https://oss.douyinbit.com/m3u8/eb3817051ebf4d5bc822d9585e8ab870.m3u8#第18集$https://oss.douyinbit.com/m3u8/236a0e05a51f5f9c7a9ab50c4dda68fa.m3u8#第19集$https://oss.douyinbit.com/m3u8/4a11a6398b1c7317de15acd03ab6db1a.m3u8#第20集$https://oss.douyinbit.com/m3u8/1ada1372f977abc7e1e9dd74064fe70b.m3u8#第21集$https://oss.douyinbit.com/m3u8/872388caa45e711e4f3009a13e65f7e9.m3u8#第22集$https://oss.douyinbit.com/m3u8/7e2148d7723e624e4b933be2e15f81d0.m3u8#第23集$https://oss.douyinbit.com/m3u8/5a751971c33e01858109c187517106ec.m3u8#第24集$https://oss.douyinbit.com/m3u8/b1ddbf2bc7e607c4c491a703c421ec49.m3u8#第25集$https://oss.douyinbit.com/m3u8/71357e04cf75044cd1ed7e2b25a137c0.m3u8#第26集$https://oss.douyinbit.com/m3u8/5e4652dbc62e1fa127b2e34b0aba7083.m3u8#第27集$https://oss.douyinbit.com/m3u8/496d98ae3ec0165a3f1522dce8562f08.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至27集"
     },
@@ -184,7 +184,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793434519-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/5ccc0c96a8e2fa1779092a4da2af6abe.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/fd81ca1a726f153c6c964b67f117b2ec.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -196,7 +196,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793346949-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/6989a80fa048675939c5c06746530550.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/2ffebe81ad3fb660e18343b7a789c4ed.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -208,7 +208,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793324922-300x424.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/53f6ff0be10ff89eca8727bf86273d01.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/70f591339d90a463037c45c9bd17a024.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -220,7 +220,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793191015-300x417.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/ed633eb783e8c6f380fe704e8b9ee6da.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/e2b853e0e1d103bc87bbf6d1ca05a066.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -232,7 +232,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793170333-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/eb04dbd5a2a88a66f4b9b0363f391e10.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/7f449cbadea2a713a68f59f706c5e47b.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -244,7 +244,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793090659-300x423.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/5c3c56af215b8ee5687f01ed37545f01.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/95a437223e559749f3d5b3e94d5230ea.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -256,7 +256,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793026896-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/5e54d8f7ad2c44fd0b734300a8d36589.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/924317d2892f2c24c89a378e00cae1dc.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -268,96 +268,12 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793015599-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/1fdca1c5cdad5a527bae670ed861d89d.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/a82bb8fb75c90bf4bc8014192c64fd2e.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
     {
       "vod_id": 10022,
-      "vod_name": "光阴之外",
-      "type_id": 13,
-      "type_name": "动漫",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/05/douban_1778212473-300x400.jpg",
-      "vod_remarks": "更新至27集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第7集$https://oss.douyinbit.com/m3u8/631f3ea95b612eef32719079da948727.m3u8#第8集$https://oss.douyinbit.com/m3u8/d4422e1b7844256839975f99fd9ccace.m3u8#第9集$https://oss.douyinbit.com/m3u8/df2426ad1e122fd865a3b28be2a11ca5.m3u8#第10集$https://oss.douyinbit.com/m3u8/a26b05008f353ae1a99ec0e505705839.m3u8#第11集$https://oss.douyinbit.com/m3u8/882cd52f13921e7f1111634f20a7357c.m3u8#第12集$https://oss.douyinbit.com/m3u8/ca287b52d3f2b628b4f89cb7458fa3d2.m3u8#第13集$https://oss.douyinbit.com/m3u8/f186a63bef599408ef6030fa55550919.m3u8#第14集$https://oss.douyinbit.com/m3u8/8cdc216d8013b37a60b07ec1eb5cd60c.m3u8#第15集$https://oss.douyinbit.com/m3u8/a8bc3f5ef49914dcae2265ce06db7ece.m3u8#第16集$https://oss.douyinbit.com/m3u8/a7144227784330e0ab7ead43c99c052b.m3u8#第17集$https://oss.douyinbit.com/m3u8/218c29669265370cd5c033ce96e79a35.m3u8#第18集$https://oss.douyinbit.com/m3u8/c931ba0a155364a229d54787bd83e236.m3u8#第19集$https://oss.douyinbit.com/m3u8/435b037ca886d555e5f7f2082ee2fa5e.m3u8#第20集$https://oss.douyinbit.com/m3u8/9fd11a920bc0f1abb07f73ba722e2498.m3u8#第21集$https://oss.douyinbit.com/m3u8/b727f9f46663e569461da6beb56612e4.m3u8#第22集$https://oss.douyinbit.com/m3u8/d1c208b1ea83af8452021e91197759ae.m3u8#第23集$https://oss.douyinbit.com/m3u8/b7f0d5adc9b36a9b86e4a5eae15fd35f.m3u8#第24集$https://oss.douyinbit.com/m3u8/861c8605a47d3176a408e504bff93709.m3u8#第25集$https://oss.douyinbit.com/m3u8/5bba009c664d831c20d771138afd5c61.m3u8#第26集$https://oss.douyinbit.com/m3u8/4df2e7cc5b7997e494cb259930f0e03e.m3u8#第27集$https://oss.douyinbit.com/m3u8/471ffdb73607584f776fef8d98be8bf9.m3u8#第28集$https://oss.douyinbit.com/m3u8/4dce422d7879a51e13d1788781a7c7de.m3u8#第29集$https://oss.douyinbit.com/m3u8/e0e6d5e81fb23369eebaabfa51c89e35.m3u8#第30集$https://oss.douyinbit.com/m3u8/d9a95e785a99b7ff73eaaa9feac084bf.m3u8#第31集$https://oss.douyinbit.com/m3u8/39fff06d00dce6a655a12cee3c1c2c08.m3u8#第32集$https://oss.douyinbit.com/m3u8/050f003e24227927d84cea4a315a53ff.m3u8#第33集$https://oss.douyinbit.com/m3u8/bdabd3b98b9017897a7601dd3cfc5712.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至27集"
-    },
-    {
-      "vod_id": 10023,
-      "vod_name": "凡人修仙传",
-      "type_id": 13,
-      "type_name": "动漫",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/bb14k2AyChUVSJiFqd8wd2fQ4U8-250x350.jpg",
-      "vod_remarks": "更新至40集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第159集$https://oss.douyinbit.com/m3u8/458c493a8309c2393d2c6392415db2cd.m3u8#第160集$https://oss.douyinbit.com/m3u8/1cb0688a1678731758909534894c1ce7.m3u8#第161集$https://oss.douyinbit.com/m3u8/4bb1ce87280396b61c0bf54da3b5928b.m3u8#第162集$https://oss.douyinbit.com/m3u8/ef57cd74a77578f1537c9c336d5653a8.m3u8#第163集$https://oss.douyinbit.com/m3u8/28c87c4a65877fd8c45b6c1da2eaf7a6.m3u8#第164集$https://oss.douyinbit.com/m3u8/41183a8678c65154d118486c4a9d70fc.m3u8#第165集$https://oss.douyinbit.com/m3u8/9c3935eb28cf322d2ca56bdbfc81ffca.m3u8#第166集$https://oss.douyinbit.com/m3u8/1574e16893fac34483dc879a3b6440c1.m3u8#第167集$https://oss.douyinbit.com/m3u8/57c5c8b2f327f60f5e9a099f4ff2b13e.m3u8#第168集$https://oss.douyinbit.com/m3u8/c894892af13f01ff0129078f2b2076f4.m3u8#第169集$https://oss.douyinbit.com/m3u8/81693e330cf355a5844c071fc61f3833.m3u8#第170集$https://oss.douyinbit.com/m3u8/18b521583a06ccf34b55a06abb6901a7.m3u8#第171集$https://oss.douyinbit.com/m3u8/a2ab467e286b99df0f9e101b2a5bbdf7.m3u8#第172集$https://oss.douyinbit.com/m3u8/9362528f79b106df17bca3cbb4513164.m3u8#第173集$https://oss.douyinbit.com/m3u8/66638c26ef3cdf3b5336aa919310f4a8.m3u8#第174集$https://oss.douyinbit.com/m3u8/a98807b7cc5bd9bfd5c2f8a234270765.m3u8#第175集$https://oss.douyinbit.com/m3u8/ef875ccd85a53ee3de958939da99f843.m3u8#第176集$https://oss.douyinbit.com/m3u8/234e8e60cbae25583d251ea7a823769c.m3u8#第177集$https://oss.douyinbit.com/m3u8/61ff5cc732eab0e4dba59a92af222703.m3u8#第178集$https://oss.douyinbit.com/m3u8/1f7db29b8ddd73de3495194cbfbc0d62.m3u8#第179集$https://oss.douyinbit.com/m3u8/8d23a2bb34778cc32e2e09bd787e3955.m3u8#第180集$https://oss.douyinbit.com/m3u8/1a5f2bce2aff85f87c962b465a38402b.m3u8#第181集$https://oss.douyinbit.com/m3u8/5c62c068cd212c88cd53de379e5f1408.m3u8#第182集$https://oss.douyinbit.com/m3u8/8d5f902a1286d8a7d834334d24f8b9fc.m3u8#第183集$https://oss.douyinbit.com/m3u8/20f79fd313292a684d7c1c96c3b8d30f.m3u8#第184集$https://oss.douyinbit.com/m3u8/842b5a06a44949f79d71c759ab79a663.m3u8#第185集$https://oss.douyinbit.com/m3u8/84d13e940ec2725c87803fad35244258.m3u8#第186集$https://oss.douyinbit.com/m3u8/15d2ff90a256d04055e89f94b4c90f87.m3u8#第187集$https://oss.douyinbit.com/m3u8/8a93ad8ed17fcdeba470414e545dbeb2.m3u8#第188集$https://oss.douyinbit.com/m3u8/fdf1d5bc55e4200cc1f84fc65bd8dad7.m3u8#第189集$https://oss.douyinbit.com/m3u8/5fb1d9147d76cb425f6febd2f07a6dd7.m3u8#第190集$https://oss.douyinbit.com/m3u8/42631944a89d0653fcb6169873631d17.m3u8#第191集$https://oss.douyinbit.com/m3u8/b21265533818d19318412c25c6b2a27e.m3u8#第192集$https://oss.douyinbit.com/m3u8/6d7bd04fb4d5b735b9e288d03c1273d7.m3u8#第193集$https://oss.douyinbit.com/m3u8/0af4d79b67e901bbbaf6991479d70173.m3u8#第194集$https://oss.douyinbit.com/m3u8/90b4c6de0e0fe6edf9f31fa7f4429151.m3u8#第195集$https://oss.douyinbit.com/m3u8/a46791f26c5f0c104acef9202bc2db89.m3u8#第196集$https://oss.douyinbit.com/m3u8/cc541aad8e60988b5c8767bf37c4a2b1.m3u8#第197集$https://oss.douyinbit.com/m3u8/a8d0d3c89305bfde7e986c28e7a2a5af.m3u8#第198集$https://oss.douyinbit.com/m3u8/7d21f1212629416251014d6cccf171f9.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至40集"
-    },
-    {
-      "vod_id": 10024,
-      "vod_name": "沧元图",
-      "type_id": 13,
-      "type_name": "动漫",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/07/douban_1782917834-300x450.jpg",
-      "vod_remarks": "更新至27集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第62集$https://oss.douyinbit.com/m3u8/4311b0272b112f66d6611f89dc8ba8dc.m3u8#第63集$https://oss.douyinbit.com/m3u8/7be4f03943b7990c60cc1915f8cf52ec.m3u8#第64集$https://oss.douyinbit.com/m3u8/086e55bc2b3c96b860051ce9bd355ba1.m3u8#第65集$https://oss.douyinbit.com/m3u8/03aa0b817b951f982ca044be1c762a32.m3u8#第66集$https://oss.douyinbit.com/m3u8/abc04195f5a16569358669bc1600194d.m3u8#第67集$https://oss.douyinbit.com/m3u8/0d26528e85772ad684f308a84a94ca09.m3u8#第68集$https://oss.douyinbit.com/m3u8/9f6023d3398540b33ee1f269b8287f10.m3u8#第69集$https://oss.douyinbit.com/m3u8/4ad1d7727d796f37841ab70e866ed4e0.m3u8#第70集$https://oss.douyinbit.com/m3u8/9971226fb6f5de13c116e9e0c6a0ed1b.m3u8#第71集$https://oss.douyinbit.com/m3u8/d12ea32ce366db6e1a0a51f2113c5c32.m3u8#第72集$https://oss.douyinbit.com/m3u8/d3371e6a253d590bf9b7cc3056d92e64.m3u8#第73集$https://oss.douyinbit.com/m3u8/b55d47ca35e22ff58534869a760fe03d.m3u8#第74集$https://oss.douyinbit.com/m3u8/8c32a51c95c3e4d48257c61e68ae0ede.m3u8#第75集$https://oss.douyinbit.com/m3u8/01917c9e53255b01040a8580d53286e3.m3u8#第76集$https://oss.douyinbit.com/m3u8/985664e65d2fa7165f41c1bd8b7db803.m3u8#第77集$https://oss.douyinbit.com/m3u8/8fb32b9d55a0f2f4f296ba1a17da1fc9.m3u8#第78集$https://oss.douyinbit.com/m3u8/6706617ae4b72e4d94af3aa8b0c62a57.m3u8#第79集$https://oss.douyinbit.com/m3u8/101a8b895a05913b3561b6b1b1864f27.m3u8#第80集$https://oss.douyinbit.com/m3u8/ca7bcd0c3db5333befe7293946a733fa.m3u8#第81集$https://oss.douyinbit.com/m3u8/99e3c0c21bd0be26a31e9c11bcb864d2.m3u8#第82集$https://oss.douyinbit.com/m3u8/7d54bbe9b56f836fd85cfdc2f63fb467.m3u8#第83集$https://oss.douyinbit.com/m3u8/ec1214ea64f2355f41cf20cdc2312918.m3u8#第84集$https://oss.douyinbit.com/m3u8/55354a3ce0fa7173ba822f78c458bc4e.m3u8#第85集$https://oss.douyinbit.com/m3u8/375c9d31ccaab0487e3c1be68c75835e.m3u8#第86集$https://oss.douyinbit.com/m3u8/bdef6ec5207c4db2f90721d2db0735b5.m3u8#第87集$https://oss.douyinbit.com/m3u8/816083c23f7f23050b8429876ed6d410.m3u8#第88集$https://oss.douyinbit.com/m3u8/16dea93576a012eeb648110728256b1e.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至27集"
-    },
-    {
-      "vod_id": 10025,
-      "vod_name": "风骚律师: 第6季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/rbNc44otT6VRd7QpxqlUAMyByaQ-1-233x350.jpg",
-      "vod_remarks": "全13集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/06458ee5d9da4231d2a880b6327ebfe1.m3u8#第2集$https://oss.douyinbit.com/m3u8/bd26848afb728617b1bee79c0d382e24.m3u8#第3集$https://oss.douyinbit.com/m3u8/4bdc0adc55d30e3c45e47cf3aa3304db.m3u8#第4集$https://oss.douyinbit.com/m3u8/592c024857250e92cb25a5b1d375c901.m3u8#第5集$https://oss.douyinbit.com/m3u8/875682572e144cf3482574ed48c2653e.m3u8#第6集$https://oss.douyinbit.com/m3u8/10da76663d2e46635f811343de1a049e.m3u8#第7集$https://oss.douyinbit.com/m3u8/496f74d0f01b1a599ce154cf238adfc4.m3u8#第8集$https://oss.douyinbit.com/m3u8/06d96e3f9c1e8bee50cfe2c94001ba53.m3u8#第9集$https://oss.douyinbit.com/m3u8/33810ea6c754f4e9521f8d2fda93705f.m3u8#第10集$https://oss.douyinbit.com/m3u8/33c196bd3a5e4ce51980e22a104bdf18.m3u8#第11集$https://oss.douyinbit.com/m3u8/09800a2dbf54a91f8121e065a446a2c0.m3u8#第12集$https://oss.douyinbit.com/m3u8/e0cdf1c4d13006df801c6701d9b57bd6.m3u8#第13集$https://oss.douyinbit.com/m3u8/e961eaae21b959aa3f9076a7a0ce36ed.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "全13集"
-    },
-    {
-      "vod_id": 10026,
-      "vod_name": "小巷人家: 第1季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2024/10/fQg0G3ZEJmPVnwwpJmxCvDLEbIv-233x350.jpg",
-      "vod_remarks": "更新至27集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/e793d783d4f612d7dc1e6add485c82eb.m3u8#第2集$https://oss.douyinbit.com/m3u8/bc3c029cd393d97b32f5c81a516e604f.m3u8#第3集$https://oss.douyinbit.com/m3u8/fbe4c42b5e90269a736773a507a632bf.m3u8#第4集$https://oss.douyinbit.com/m3u8/36996d6b0376e3d6166b3082f5c4a88e.m3u8#第5集$https://oss.douyinbit.com/m3u8/c4dcca298d178bfd81ba5dd1eb8d1b50.m3u8#第6集$https://oss.douyinbit.com/m3u8/61ea5a5ca9b88b2b9dd638a0d0a45795.m3u8#第7集$https://oss.douyinbit.com/m3u8/abf7ba0b36840a92c01b4cbb6225c941.m3u8#第8集$https://oss.douyinbit.com/m3u8/65e5e9f4b4b307b07a26b13f6534b387.m3u8#第9集$https://oss.douyinbit.com/m3u8/17d36f178274afa738026a9ab5af9990.m3u8#第10集$https://oss.douyinbit.com/m3u8/3082b78b178475af20b921627326daef.m3u8#第11集$https://oss.douyinbit.com/m3u8/127255d8625f2f3a80c9ddb5ffdf018b.m3u8#第12集$https://oss.douyinbit.com/m3u8/e9cd2c93386136afa6004b5b77b77afc.m3u8#第13集$https://oss.douyinbit.com/m3u8/e780c551f14df903473666269ab76286.m3u8#第14集$https://oss.douyinbit.com/m3u8/b7ab5189d56326876bcf6b2ba4d76af5.m3u8#第15集$https://oss.douyinbit.com/m3u8/f82c4cededcd21a78221027784e826c4.m3u8#第16集$https://oss.douyinbit.com/m3u8/c6d42131e0a2343300ee8cf9e03456cf.m3u8#第17集$https://oss.douyinbit.com/m3u8/c76cbfce4d2506a73326aebebf3a5f9d.m3u8#第18集$https://oss.douyinbit.com/m3u8/dfa4cf247d4dd0397827f80badec2e5f.m3u8#第19集$https://oss.douyinbit.com/m3u8/4929a0f41a5953dc893e09bc513438ae.m3u8#第20集$https://oss.douyinbit.com/m3u8/aba29fe67b60fffb7754f1916fa6ff59.m3u8#第21集$https://oss.douyinbit.com/m3u8/1b946b35d788b459915b3c2066c0ba10.m3u8#第22集$https://oss.douyinbit.com/m3u8/f040df2a54ef7caa2d4e9cb34a8b73c6.m3u8#第23集$https://oss.douyinbit.com/m3u8/882402ad4acffabd76252bd8557e22bc.m3u8#第24集$https://oss.douyinbit.com/m3u8/e1353af6b7eecbb4177997c9d15eec8d.m3u8#第25集$https://oss.douyinbit.com/m3u8/59552242277d30797c687fe0be5d69c3.m3u8#第26集$https://oss.douyinbit.com/m3u8/a7bf1495b83cdaf2cb3132ecf3923917.m3u8#第27集$https://oss.douyinbit.com/m3u8/d2c9bcc33582d2f10dbdec1502149233.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至27集"
-    },
-    {
-      "vod_id": 10027,
-      "vod_name": "大主宰 年番",
-      "type_id": 13,
-      "type_name": "动漫",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792902560-300x450.jpg",
-      "vod_remarks": "更新至27集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第58集$https://oss.douyinbit.com/m3u8/38f1e795cce25de78858fd627ce5a703.m3u8#第59集$https://oss.douyinbit.com/m3u8/99586633ff5117971d6bbb060b80f926.m3u8#第60集$https://oss.douyinbit.com/m3u8/baaa3976ab5f898f371a75cc9e22345d.m3u8#第61集$https://oss.douyinbit.com/m3u8/2cfa8b2d75701077eb4560248d3e04fd.m3u8#第62集$https://oss.douyinbit.com/m3u8/3ac86615c4980173e1b998a9ece04db6.m3u8#第63集$https://oss.douyinbit.com/m3u8/37f2d79104213614062c0abfeddd3537.m3u8#第64集$https://oss.douyinbit.com/m3u8/3dc8d61c0ab6102c502e033fc82db013.m3u8#第65集$https://oss.douyinbit.com/m3u8/255dc17aa602e5965f912e6afadf0467.m3u8#第66集$https://oss.douyinbit.com/m3u8/9d40a6e350004b3a6283f021d8f13b07.m3u8#第67集$https://oss.douyinbit.com/m3u8/c10b63586e525cc7df340837d9898915.m3u8#第68集$https://oss.douyinbit.com/m3u8/3e4ee5bc813ae07a30b0feaf75a4475e.m3u8#第69集$https://oss.douyinbit.com/m3u8/dd6fbec5e77ec2ee799dd6f42f8fa56b.m3u8#第70集$https://oss.douyinbit.com/m3u8/cc9aaf8e1e653fba3c7ddd803ebba2f0.m3u8#第71集$https://oss.douyinbit.com/m3u8/3ef62dbfa72306178d5255eed2823edb.m3u8#第72集$https://oss.douyinbit.com/m3u8/3d7470e0b66b3d650eea9dca65d5cb70.m3u8#第73集$https://oss.douyinbit.com/m3u8/828de526583d2085365a0ddca6c9afad.m3u8#第74集$https://oss.douyinbit.com/m3u8/bb801830777b5e827abfea7b6fb35b78.m3u8#第75集$https://oss.douyinbit.com/m3u8/e9a679cfd8b64478017784869216d274.m3u8#第76集$https://oss.douyinbit.com/m3u8/e1fa5019147ccd97fc4b82134d513fa8.m3u8#第77集$https://oss.douyinbit.com/m3u8/d7950f833e8919034576aa23d849deca.m3u8#第78集$https://oss.douyinbit.com/m3u8/0191ff53ec1ba9f68ee793d7cdda9d3c.m3u8#第79集$https://oss.douyinbit.com/m3u8/3587864556077c4bd18b369ae90efc91.m3u8#第80集$https://oss.douyinbit.com/m3u8/6effdbf2cdc3c904d758b47b81b844a4.m3u8#第81集$https://oss.douyinbit.com/m3u8/ca17d6b158d3415841283cffa67bd73b.m3u8#第82集$https://oss.douyinbit.com/m3u8/ce7ac7fcb55b1c249faa7d25575a843a.m3u8#第83集$https://oss.douyinbit.com/m3u8/927cff25b12ae8da133ade3b300c0d55.m3u8#第84集$https://oss.douyinbit.com/m3u8/2b52180d5e795fc0250f2e66c7cf78bb.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至27集"
-    },
-    {
-      "vod_id": 10028,
-      "vod_name": "仙逆",
-      "type_id": 13,
-      "type_name": "动漫",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2024/09/fyBg1g4C596rtu7sitzmtb1QsYB-250x350.jpg",
-      "vod_remarks": "更新至27集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第125集$https://oss.douyinbit.com/m3u8/75a949cb49fc2810e053be63cc099692.m3u8#第126集$https://oss.douyinbit.com/m3u8/09b6a8d355b875958d472acff5761906.m3u8#第127集$https://oss.douyinbit.com/m3u8/8f37693db88ccab3c71aacbcebc643ad.m3u8#第128集$https://oss.douyinbit.com/m3u8/96252244dcf4ab901fa928b8d8c3a97b.m3u8#第129集$https://oss.douyinbit.com/m3u8/c6ece741a7e1f69114ea04aba23aa502.m3u8#第130集$https://oss.douyinbit.com/m3u8/305e8d72b8732464c50e5696f8d3b5b6.m3u8#第131集$https://oss.douyinbit.com/m3u8/fb07d3b1df0fc894f6758ba4e4925342.m3u8#第132集$https://oss.douyinbit.com/m3u8/38b5625877aa19d900ed06dc81650d1a.m3u8#第133集$https://oss.douyinbit.com/m3u8/b287d38391e096a9c60bb59ed27aca2d.m3u8#第134集$https://oss.douyinbit.com/m3u8/a36cc71b74076e87f8fec57ff1c840b1.m3u8#第135集$https://oss.douyinbit.com/m3u8/d3477a404bc6365a4078449065762c97.m3u8#第136集$https://oss.douyinbit.com/m3u8/9fc1efeccd057dcbdc62123ba88060eb.m3u8#第137集$https://oss.douyinbit.com/m3u8/f3fe3e1cb1b24bcd00d49848ef97b2e1.m3u8#第138集$https://oss.douyinbit.com/m3u8/1b2a49501b545c38666cf09aaa047f29.m3u8#第139集$https://oss.douyinbit.com/m3u8/db442309b51d637c16e1a01f64c846ba.m3u8#第140集$https://oss.douyinbit.com/m3u8/aa2c5c19a0576a2cf6b8c714d0219631.m3u8#第141集$https://oss.douyinbit.com/m3u8/820e287ba8c8a51ed015c4a101b7a7a8.m3u8#第142集$https://oss.douyinbit.com/m3u8/599c00143df226758295c50853814c25.m3u8#第143集$https://oss.douyinbit.com/m3u8/bf089b453e80d360d440fcd7bb2592a1.m3u8#第144集$https://oss.douyinbit.com/m3u8/1f86cf55a7ad04881d227d0beb64eef4.m3u8#第145集$https://oss.douyinbit.com/m3u8/e4f7b0fce6671d78cef8a9a09859574b.m3u8#第146集$https://oss.douyinbit.com/m3u8/e2e6f165e9bb773610c12d6284337ef2.m3u8#第147集$https://oss.douyinbit.com/m3u8/8952763a584aa6b70efe905dd7ca45da.m3u8#第148集$https://oss.douyinbit.com/m3u8/6049118bc792db27007949866a5a9d5e.m3u8#第149集$https://oss.douyinbit.com/m3u8/2aa6e091c2928da92dc05bde941713ab.m3u8#第150集$https://oss.douyinbit.com/m3u8/46190cf0de5be7b60bcde12773abfaca.m3u8#第151集$https://oss.douyinbit.com/m3u8/5c8962d29f7be78f4bc3cf683d5cffcb.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至27集"
-    },
-    {
-      "vod_id": 10029,
       "vod_name": "牧神记 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -369,7 +285,115 @@
       "vod_remarks_src": "更新至27集"
     },
     {
+      "vod_id": 10023,
+      "vod_name": "Doctor X：白色黑手党时代",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1791599297-300x450.jpg",
+      "vod_remarks": "更新至8集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/f5f9fd4c7beaf1b8c5cf3d44d5b794b3.m3u8#第2集$https://oss.douyinbit.com/m3u8/db5756a13470ca69aac64e79ee9bd7be.m3u8#第3集$https://oss.douyinbit.com/m3u8/35bfb13fa5ff0c67e8b5420d4021c93c.m3u8#第4集$https://oss.douyinbit.com/m3u8/a677792a2d2f704c984a4b1e6756418a.m3u8#第5集$https://oss.douyinbit.com/m3u8/d7f7d3ad62b029f88d5a2b43daab58d0.m3u8#第6集$https://oss.douyinbit.com/m3u8/fed318782573bea38cca58f84e794419.m3u8#第7集$https://oss.douyinbit.com/m3u8/31d48540e749c4f2d08df0ef55ba5b18.m3u8#第8集$https://oss.douyinbit.com/m3u8/f99278dac8a792cc8c6bca84c800b851.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至8集"
+    },
+    {
+      "vod_id": 10024,
+      "vod_name": "尚公主",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792849914-300x450.jpg",
+      "vod_remarks": "更新至20集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/f7d2b81dc1310dbe097590f9f860f51f.m3u8#第2集$https://oss.douyinbit.com/m3u8/5a32140f8d2c138bf71bf4f29599fe5d.m3u8#第3集$https://oss.douyinbit.com/m3u8/d66add197c3dc4eb8d19ed58f90305f1.m3u8#第4集$https://oss.douyinbit.com/m3u8/bbe197ab2ba5501fcffaab76c8df91a4.m3u8#第5集$https://oss.douyinbit.com/m3u8/f8176836b163b5e3fa04867ef9b18b4e.m3u8#第6集$https://oss.douyinbit.com/m3u8/0a9867e82d85c056d3d50f87d728e1cd.m3u8#第7集$https://oss.douyinbit.com/m3u8/353710862c7f3a70417b0454996c98af.m3u8#第8集$https://oss.douyinbit.com/m3u8/4bf6ea75ce6291f4ccf07a130c0edbb5.m3u8#第9集$https://oss.douyinbit.com/m3u8/2e33a026f0bcd859526233255a65f10c.m3u8#第10集$https://oss.douyinbit.com/m3u8/a88a8dea28cf9e093e64ab93cb5675f2.m3u8#第11集$https://oss.douyinbit.com/m3u8/344b82e12f669039f12130ff877a870c.m3u8#第12集$https://oss.douyinbit.com/m3u8/dfb90fd70c4914df7d8b81ec4d5947cb.m3u8#第13集$https://oss.douyinbit.com/m3u8/41ff916b0a3a3bb791a45ef28688ceef.m3u8#第14集$https://oss.douyinbit.com/m3u8/ed4831286075ff06958a4bb1abfb871d.m3u8#第15集$https://oss.douyinbit.com/m3u8/931304d928a639384415bf3231faee12.m3u8#第16集$https://oss.douyinbit.com/m3u8/8815e6ca88595c9c2f645dc026c76a86.m3u8#第17集$https://oss.douyinbit.com/m3u8/7b59ecd4ad0700f5db76d4e436b75bb1.m3u8#第18集$https://oss.douyinbit.com/m3u8/ddb6ac83ed2baf1d0f3483bfe6e7726c.m3u8#第19集$https://oss.douyinbit.com/m3u8/246c53f503a3cc867a0e03f64176709d.m3u8#第20集$https://oss.douyinbit.com/m3u8/b3cff033459075d2ce81dcb3b468af6a.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至20集"
+    },
+    {
+      "vod_id": 10025,
+      "vod_name": "光阴之外",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/05/douban_1778212473-300x400.jpg",
+      "vod_remarks": "更新至27集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第7集$https://oss.douyinbit.com/m3u8/631f3ea95b612eef32719079da948727.m3u8#第8集$https://oss.douyinbit.com/m3u8/d4422e1b7844256839975f99fd9ccace.m3u8#第9集$https://oss.douyinbit.com/m3u8/df2426ad1e122fd865a3b28be2a11ca5.m3u8#第10集$https://oss.douyinbit.com/m3u8/a26b05008f353ae1a99ec0e505705839.m3u8#第11集$https://oss.douyinbit.com/m3u8/882cd52f13921e7f1111634f20a7357c.m3u8#第12集$https://oss.douyinbit.com/m3u8/ca287b52d3f2b628b4f89cb7458fa3d2.m3u8#第13集$https://oss.douyinbit.com/m3u8/f186a63bef599408ef6030fa55550919.m3u8#第14集$https://oss.douyinbit.com/m3u8/8cdc216d8013b37a60b07ec1eb5cd60c.m3u8#第15集$https://oss.douyinbit.com/m3u8/a8bc3f5ef49914dcae2265ce06db7ece.m3u8#第16集$https://oss.douyinbit.com/m3u8/a7144227784330e0ab7ead43c99c052b.m3u8#第17集$https://oss.douyinbit.com/m3u8/218c29669265370cd5c033ce96e79a35.m3u8#第18集$https://oss.douyinbit.com/m3u8/c931ba0a155364a229d54787bd83e236.m3u8#第19集$https://oss.douyinbit.com/m3u8/435b037ca886d555e5f7f2082ee2fa5e.m3u8#第20集$https://oss.douyinbit.com/m3u8/9fd11a920bc0f1abb07f73ba722e2498.m3u8#第21集$https://oss.douyinbit.com/m3u8/b727f9f46663e569461da6beb56612e4.m3u8#第22集$https://oss.douyinbit.com/m3u8/d1c208b1ea83af8452021e91197759ae.m3u8#第23集$https://oss.douyinbit.com/m3u8/b7f0d5adc9b36a9b86e4a5eae15fd35f.m3u8#第24集$https://oss.douyinbit.com/m3u8/861c8605a47d3176a408e504bff93709.m3u8#第25集$https://oss.douyinbit.com/m3u8/5bba009c664d831c20d771138afd5c61.m3u8#第26集$https://oss.douyinbit.com/m3u8/4df2e7cc5b7997e494cb259930f0e03e.m3u8#第27集$https://oss.douyinbit.com/m3u8/471ffdb73607584f776fef8d98be8bf9.m3u8#第28集$https://oss.douyinbit.com/m3u8/4dce422d7879a51e13d1788781a7c7de.m3u8#第29集$https://oss.douyinbit.com/m3u8/e0e6d5e81fb23369eebaabfa51c89e35.m3u8#第30集$https://oss.douyinbit.com/m3u8/d9a95e785a99b7ff73eaaa9feac084bf.m3u8#第31集$https://oss.douyinbit.com/m3u8/39fff06d00dce6a655a12cee3c1c2c08.m3u8#第32集$https://oss.douyinbit.com/m3u8/050f003e24227927d84cea4a315a53ff.m3u8#第33集$https://oss.douyinbit.com/m3u8/bdabd3b98b9017897a7601dd3cfc5712.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至27集"
+    },
+    {
+      "vod_id": 10026,
+      "vod_name": "凡人修仙传",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/bb14k2AyChUVSJiFqd8wd2fQ4U8-250x350.jpg",
+      "vod_remarks": "更新至40集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第159集$https://oss.douyinbit.com/m3u8/458c493a8309c2393d2c6392415db2cd.m3u8#第160集$https://oss.douyinbit.com/m3u8/1cb0688a1678731758909534894c1ce7.m3u8#第161集$https://oss.douyinbit.com/m3u8/4bb1ce87280396b61c0bf54da3b5928b.m3u8#第162集$https://oss.douyinbit.com/m3u8/ef57cd74a77578f1537c9c336d5653a8.m3u8#第163集$https://oss.douyinbit.com/m3u8/28c87c4a65877fd8c45b6c1da2eaf7a6.m3u8#第164集$https://oss.douyinbit.com/m3u8/41183a8678c65154d118486c4a9d70fc.m3u8#第165集$https://oss.douyinbit.com/m3u8/9c3935eb28cf322d2ca56bdbfc81ffca.m3u8#第166集$https://oss.douyinbit.com/m3u8/1574e16893fac34483dc879a3b6440c1.m3u8#第167集$https://oss.douyinbit.com/m3u8/57c5c8b2f327f60f5e9a099f4ff2b13e.m3u8#第168集$https://oss.douyinbit.com/m3u8/c894892af13f01ff0129078f2b2076f4.m3u8#第169集$https://oss.douyinbit.com/m3u8/81693e330cf355a5844c071fc61f3833.m3u8#第170集$https://oss.douyinbit.com/m3u8/18b521583a06ccf34b55a06abb6901a7.m3u8#第171集$https://oss.douyinbit.com/m3u8/a2ab467e286b99df0f9e101b2a5bbdf7.m3u8#第172集$https://oss.douyinbit.com/m3u8/9362528f79b106df17bca3cbb4513164.m3u8#第173集$https://oss.douyinbit.com/m3u8/66638c26ef3cdf3b5336aa919310f4a8.m3u8#第174集$https://oss.douyinbit.com/m3u8/a98807b7cc5bd9bfd5c2f8a234270765.m3u8#第175集$https://oss.douyinbit.com/m3u8/ef875ccd85a53ee3de958939da99f843.m3u8#第176集$https://oss.douyinbit.com/m3u8/234e8e60cbae25583d251ea7a823769c.m3u8#第177集$https://oss.douyinbit.com/m3u8/61ff5cc732eab0e4dba59a92af222703.m3u8#第178集$https://oss.douyinbit.com/m3u8/1f7db29b8ddd73de3495194cbfbc0d62.m3u8#第179集$https://oss.douyinbit.com/m3u8/8d23a2bb34778cc32e2e09bd787e3955.m3u8#第180集$https://oss.douyinbit.com/m3u8/1a5f2bce2aff85f87c962b465a38402b.m3u8#第181集$https://oss.douyinbit.com/m3u8/5c62c068cd212c88cd53de379e5f1408.m3u8#第182集$https://oss.douyinbit.com/m3u8/8d5f902a1286d8a7d834334d24f8b9fc.m3u8#第183集$https://oss.douyinbit.com/m3u8/20f79fd313292a684d7c1c96c3b8d30f.m3u8#第184集$https://oss.douyinbit.com/m3u8/842b5a06a44949f79d71c759ab79a663.m3u8#第185集$https://oss.douyinbit.com/m3u8/84d13e940ec2725c87803fad35244258.m3u8#第186集$https://oss.douyinbit.com/m3u8/15d2ff90a256d04055e89f94b4c90f87.m3u8#第187集$https://oss.douyinbit.com/m3u8/8a93ad8ed17fcdeba470414e545dbeb2.m3u8#第188集$https://oss.douyinbit.com/m3u8/fdf1d5bc55e4200cc1f84fc65bd8dad7.m3u8#第189集$https://oss.douyinbit.com/m3u8/5fb1d9147d76cb425f6febd2f07a6dd7.m3u8#第190集$https://oss.douyinbit.com/m3u8/42631944a89d0653fcb6169873631d17.m3u8#第191集$https://oss.douyinbit.com/m3u8/b21265533818d19318412c25c6b2a27e.m3u8#第192集$https://oss.douyinbit.com/m3u8/6d7bd04fb4d5b735b9e288d03c1273d7.m3u8#第193集$https://oss.douyinbit.com/m3u8/0af4d79b67e901bbbaf6991479d70173.m3u8#第194集$https://oss.douyinbit.com/m3u8/90b4c6de0e0fe6edf9f31fa7f4429151.m3u8#第195集$https://oss.douyinbit.com/m3u8/a46791f26c5f0c104acef9202bc2db89.m3u8#第196集$https://oss.douyinbit.com/m3u8/cc541aad8e60988b5c8767bf37c4a2b1.m3u8#第197集$https://oss.douyinbit.com/m3u8/a8d0d3c89305bfde7e986c28e7a2a5af.m3u8#第198集$https://oss.douyinbit.com/m3u8/7d21f1212629416251014d6cccf171f9.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至40集"
+    },
+    {
+      "vod_id": 10027,
+      "vod_name": "沧元图",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/07/douban_1782917834-300x450.jpg",
+      "vod_remarks": "更新至27集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第62集$https://oss.douyinbit.com/m3u8/4311b0272b112f66d6611f89dc8ba8dc.m3u8#第63集$https://oss.douyinbit.com/m3u8/7be4f03943b7990c60cc1915f8cf52ec.m3u8#第64集$https://oss.douyinbit.com/m3u8/086e55bc2b3c96b860051ce9bd355ba1.m3u8#第65集$https://oss.douyinbit.com/m3u8/03aa0b817b951f982ca044be1c762a32.m3u8#第66集$https://oss.douyinbit.com/m3u8/abc04195f5a16569358669bc1600194d.m3u8#第67集$https://oss.douyinbit.com/m3u8/0d26528e85772ad684f308a84a94ca09.m3u8#第68集$https://oss.douyinbit.com/m3u8/9f6023d3398540b33ee1f269b8287f10.m3u8#第69集$https://oss.douyinbit.com/m3u8/4ad1d7727d796f37841ab70e866ed4e0.m3u8#第70集$https://oss.douyinbit.com/m3u8/9971226fb6f5de13c116e9e0c6a0ed1b.m3u8#第71集$https://oss.douyinbit.com/m3u8/d12ea32ce366db6e1a0a51f2113c5c32.m3u8#第72集$https://oss.douyinbit.com/m3u8/d3371e6a253d590bf9b7cc3056d92e64.m3u8#第73集$https://oss.douyinbit.com/m3u8/b55d47ca35e22ff58534869a760fe03d.m3u8#第74集$https://oss.douyinbit.com/m3u8/8c32a51c95c3e4d48257c61e68ae0ede.m3u8#第75集$https://oss.douyinbit.com/m3u8/01917c9e53255b01040a8580d53286e3.m3u8#第76集$https://oss.douyinbit.com/m3u8/985664e65d2fa7165f41c1bd8b7db803.m3u8#第77集$https://oss.douyinbit.com/m3u8/8fb32b9d55a0f2f4f296ba1a17da1fc9.m3u8#第78集$https://oss.douyinbit.com/m3u8/6706617ae4b72e4d94af3aa8b0c62a57.m3u8#第79集$https://oss.douyinbit.com/m3u8/101a8b895a05913b3561b6b1b1864f27.m3u8#第80集$https://oss.douyinbit.com/m3u8/ca7bcd0c3db5333befe7293946a733fa.m3u8#第81集$https://oss.douyinbit.com/m3u8/99e3c0c21bd0be26a31e9c11bcb864d2.m3u8#第82集$https://oss.douyinbit.com/m3u8/7d54bbe9b56f836fd85cfdc2f63fb467.m3u8#第83集$https://oss.douyinbit.com/m3u8/ec1214ea64f2355f41cf20cdc2312918.m3u8#第84集$https://oss.douyinbit.com/m3u8/55354a3ce0fa7173ba822f78c458bc4e.m3u8#第85集$https://oss.douyinbit.com/m3u8/375c9d31ccaab0487e3c1be68c75835e.m3u8#第86集$https://oss.douyinbit.com/m3u8/bdef6ec5207c4db2f90721d2db0735b5.m3u8#第87集$https://oss.douyinbit.com/m3u8/816083c23f7f23050b8429876ed6d410.m3u8#第88集$https://oss.douyinbit.com/m3u8/16dea93576a012eeb648110728256b1e.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至27集"
+    },
+    {
+      "vod_id": 10028,
+      "vod_name": "风骚律师: 第6季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/rbNc44otT6VRd7QpxqlUAMyByaQ-1-233x350.jpg",
+      "vod_remarks": "全13集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/06458ee5d9da4231d2a880b6327ebfe1.m3u8#第2集$https://oss.douyinbit.com/m3u8/bd26848afb728617b1bee79c0d382e24.m3u8#第3集$https://oss.douyinbit.com/m3u8/4bdc0adc55d30e3c45e47cf3aa3304db.m3u8#第4集$https://oss.douyinbit.com/m3u8/592c024857250e92cb25a5b1d375c901.m3u8#第5集$https://oss.douyinbit.com/m3u8/875682572e144cf3482574ed48c2653e.m3u8#第6集$https://oss.douyinbit.com/m3u8/10da76663d2e46635f811343de1a049e.m3u8#第7集$https://oss.douyinbit.com/m3u8/496f74d0f01b1a599ce154cf238adfc4.m3u8#第8集$https://oss.douyinbit.com/m3u8/06d96e3f9c1e8bee50cfe2c94001ba53.m3u8#第9集$https://oss.douyinbit.com/m3u8/33810ea6c754f4e9521f8d2fda93705f.m3u8#第10集$https://oss.douyinbit.com/m3u8/33c196bd3a5e4ce51980e22a104bdf18.m3u8#第11集$https://oss.douyinbit.com/m3u8/09800a2dbf54a91f8121e065a446a2c0.m3u8#第12集$https://oss.douyinbit.com/m3u8/e0cdf1c4d13006df801c6701d9b57bd6.m3u8#第13集$https://oss.douyinbit.com/m3u8/e961eaae21b959aa3f9076a7a0ce36ed.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "全13集"
+    },
+    {
+      "vod_id": 10029,
+      "vod_name": "小巷人家: 第1季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2024/10/fQg0G3ZEJmPVnwwpJmxCvDLEbIv-233x350.jpg",
+      "vod_remarks": "更新至27集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/e793d783d4f612d7dc1e6add485c82eb.m3u8#第2集$https://oss.douyinbit.com/m3u8/bc3c029cd393d97b32f5c81a516e604f.m3u8#第3集$https://oss.douyinbit.com/m3u8/fbe4c42b5e90269a736773a507a632bf.m3u8#第4集$https://oss.douyinbit.com/m3u8/36996d6b0376e3d6166b3082f5c4a88e.m3u8#第5集$https://oss.douyinbit.com/m3u8/c4dcca298d178bfd81ba5dd1eb8d1b50.m3u8#第6集$https://oss.douyinbit.com/m3u8/61ea5a5ca9b88b2b9dd638a0d0a45795.m3u8#第7集$https://oss.douyinbit.com/m3u8/abf7ba0b36840a92c01b4cbb6225c941.m3u8#第8集$https://oss.douyinbit.com/m3u8/65e5e9f4b4b307b07a26b13f6534b387.m3u8#第9集$https://oss.douyinbit.com/m3u8/17d36f178274afa738026a9ab5af9990.m3u8#第10集$https://oss.douyinbit.com/m3u8/3082b78b178475af20b921627326daef.m3u8#第11集$https://oss.douyinbit.com/m3u8/127255d8625f2f3a80c9ddb5ffdf018b.m3u8#第12集$https://oss.douyinbit.com/m3u8/e9cd2c93386136afa6004b5b77b77afc.m3u8#第13集$https://oss.douyinbit.com/m3u8/e780c551f14df903473666269ab76286.m3u8#第14集$https://oss.douyinbit.com/m3u8/b7ab5189d56326876bcf6b2ba4d76af5.m3u8#第15集$https://oss.douyinbit.com/m3u8/f82c4cededcd21a78221027784e826c4.m3u8#第16集$https://oss.douyinbit.com/m3u8/c6d42131e0a2343300ee8cf9e03456cf.m3u8#第17集$https://oss.douyinbit.com/m3u8/c76cbfce4d2506a73326aebebf3a5f9d.m3u8#第18集$https://oss.douyinbit.com/m3u8/dfa4cf247d4dd0397827f80badec2e5f.m3u8#第19集$https://oss.douyinbit.com/m3u8/4929a0f41a5953dc893e09bc513438ae.m3u8#第20集$https://oss.douyinbit.com/m3u8/aba29fe67b60fffb7754f1916fa6ff59.m3u8#第21集$https://oss.douyinbit.com/m3u8/1b946b35d788b459915b3c2066c0ba10.m3u8#第22集$https://oss.douyinbit.com/m3u8/f040df2a54ef7caa2d4e9cb34a8b73c6.m3u8#第23集$https://oss.douyinbit.com/m3u8/882402ad4acffabd76252bd8557e22bc.m3u8#第24集$https://oss.douyinbit.com/m3u8/e1353af6b7eecbb4177997c9d15eec8d.m3u8#第25集$https://oss.douyinbit.com/m3u8/59552242277d30797c687fe0be5d69c3.m3u8#第26集$https://oss.douyinbit.com/m3u8/a7bf1495b83cdaf2cb3132ecf3923917.m3u8#第27集$https://oss.douyinbit.com/m3u8/d2c9bcc33582d2f10dbdec1502149233.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至27集"
+    },
+    {
       "vod_id": 10030,
+      "vod_name": "大主宰 年番",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792902560-300x450.jpg",
+      "vod_remarks": "更新至27集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第58集$https://oss.douyinbit.com/m3u8/38f1e795cce25de78858fd627ce5a703.m3u8#第59集$https://oss.douyinbit.com/m3u8/99586633ff5117971d6bbb060b80f926.m3u8#第60集$https://oss.douyinbit.com/m3u8/baaa3976ab5f898f371a75cc9e22345d.m3u8#第61集$https://oss.douyinbit.com/m3u8/2cfa8b2d75701077eb4560248d3e04fd.m3u8#第62集$https://oss.douyinbit.com/m3u8/3ac86615c4980173e1b998a9ece04db6.m3u8#第63集$https://oss.douyinbit.com/m3u8/37f2d79104213614062c0abfeddd3537.m3u8#第64集$https://oss.douyinbit.com/m3u8/3dc8d61c0ab6102c502e033fc82db013.m3u8#第65集$https://oss.douyinbit.com/m3u8/255dc17aa602e5965f912e6afadf0467.m3u8#第66集$https://oss.douyinbit.com/m3u8/9d40a6e350004b3a6283f021d8f13b07.m3u8#第67集$https://oss.douyinbit.com/m3u8/c10b63586e525cc7df340837d9898915.m3u8#第68集$https://oss.douyinbit.com/m3u8/3e4ee5bc813ae07a30b0feaf75a4475e.m3u8#第69集$https://oss.douyinbit.com/m3u8/dd6fbec5e77ec2ee799dd6f42f8fa56b.m3u8#第70集$https://oss.douyinbit.com/m3u8/cc9aaf8e1e653fba3c7ddd803ebba2f0.m3u8#第71集$https://oss.douyinbit.com/m3u8/3ef62dbfa72306178d5255eed2823edb.m3u8#第72集$https://oss.douyinbit.com/m3u8/3d7470e0b66b3d650eea9dca65d5cb70.m3u8#第73集$https://oss.douyinbit.com/m3u8/828de526583d2085365a0ddca6c9afad.m3u8#第74集$https://oss.douyinbit.com/m3u8/bb801830777b5e827abfea7b6fb35b78.m3u8#第75集$https://oss.douyinbit.com/m3u8/e9a679cfd8b64478017784869216d274.m3u8#第76集$https://oss.douyinbit.com/m3u8/e1fa5019147ccd97fc4b82134d513fa8.m3u8#第77集$https://oss.douyinbit.com/m3u8/d7950f833e8919034576aa23d849deca.m3u8#第78集$https://oss.douyinbit.com/m3u8/0191ff53ec1ba9f68ee793d7cdda9d3c.m3u8#第79集$https://oss.douyinbit.com/m3u8/3587864556077c4bd18b369ae90efc91.m3u8#第80集$https://oss.douyinbit.com/m3u8/6effdbf2cdc3c904d758b47b81b844a4.m3u8#第81集$https://oss.douyinbit.com/m3u8/ca17d6b158d3415841283cffa67bd73b.m3u8#第82集$https://oss.douyinbit.com/m3u8/ce7ac7fcb55b1c249faa7d25575a843a.m3u8#第83集$https://oss.douyinbit.com/m3u8/927cff25b12ae8da133ade3b300c0d55.m3u8#第84集$https://oss.douyinbit.com/m3u8/2b52180d5e795fc0250f2e66c7cf78bb.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至27集"
+    },
+    {
+      "vod_id": 10031,
+      "vod_name": "仙逆",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2024/09/fyBg1g4C596rtu7sitzmtb1QsYB-250x350.jpg",
+      "vod_remarks": "更新至27集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第125集$https://oss.douyinbit.com/m3u8/75a949cb49fc2810e053be63cc099692.m3u8#第126集$https://oss.douyinbit.com/m3u8/09b6a8d355b875958d472acff5761906.m3u8#第127集$https://oss.douyinbit.com/m3u8/8f37693db88ccab3c71aacbcebc643ad.m3u8#第128集$https://oss.douyinbit.com/m3u8/96252244dcf4ab901fa928b8d8c3a97b.m3u8#第129集$https://oss.douyinbit.com/m3u8/c6ece741a7e1f69114ea04aba23aa502.m3u8#第130集$https://oss.douyinbit.com/m3u8/305e8d72b8732464c50e5696f8d3b5b6.m3u8#第131集$https://oss.douyinbit.com/m3u8/fb07d3b1df0fc894f6758ba4e4925342.m3u8#第132集$https://oss.douyinbit.com/m3u8/38b5625877aa19d900ed06dc81650d1a.m3u8#第133集$https://oss.douyinbit.com/m3u8/b287d38391e096a9c60bb59ed27aca2d.m3u8#第134集$https://oss.douyinbit.com/m3u8/a36cc71b74076e87f8fec57ff1c840b1.m3u8#第135集$https://oss.douyinbit.com/m3u8/d3477a404bc6365a4078449065762c97.m3u8#第136集$https://oss.douyinbit.com/m3u8/9fc1efeccd057dcbdc62123ba88060eb.m3u8#第137集$https://oss.douyinbit.com/m3u8/f3fe3e1cb1b24bcd00d49848ef97b2e1.m3u8#第138集$https://oss.douyinbit.com/m3u8/1b2a49501b545c38666cf09aaa047f29.m3u8#第139集$https://oss.douyinbit.com/m3u8/db442309b51d637c16e1a01f64c846ba.m3u8#第140集$https://oss.douyinbit.com/m3u8/aa2c5c19a0576a2cf6b8c714d0219631.m3u8#第141集$https://oss.douyinbit.com/m3u8/820e287ba8c8a51ed015c4a101b7a7a8.m3u8#第142集$https://oss.douyinbit.com/m3u8/599c00143df226758295c50853814c25.m3u8#第143集$https://oss.douyinbit.com/m3u8/bf089b453e80d360d440fcd7bb2592a1.m3u8#第144集$https://oss.douyinbit.com/m3u8/1f86cf55a7ad04881d227d0beb64eef4.m3u8#第145集$https://oss.douyinbit.com/m3u8/e4f7b0fce6671d78cef8a9a09859574b.m3u8#第146集$https://oss.douyinbit.com/m3u8/e2e6f165e9bb773610c12d6284337ef2.m3u8#第147集$https://oss.douyinbit.com/m3u8/8952763a584aa6b70efe905dd7ca45da.m3u8#第148集$https://oss.douyinbit.com/m3u8/6049118bc792db27007949866a5a9d5e.m3u8#第149集$https://oss.douyinbit.com/m3u8/2aa6e091c2928da92dc05bde941713ab.m3u8#第150集$https://oss.douyinbit.com/m3u8/46190cf0de5be7b60bcde12773abfaca.m3u8#第151集$https://oss.douyinbit.com/m3u8/5c8962d29f7be78f4bc3cf683d5cffcb.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至27集"
+    },
+    {
+      "vod_id": 10032,
       "vod_name": "吞噬星空",
       "type_id": 13,
       "type_name": "动漫",
@@ -381,7 +405,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10031,
+      "vod_id": 10033,
       "vod_name": "小城良方",
       "type_id": 11,
       "type_name": "连续剧",
@@ -393,7 +417,7 @@
       "vod_remarks_src": "更新至24集"
     },
     {
-      "vod_id": 10032,
+      "vod_id": 10034,
       "vod_name": "怪奇物语: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -405,7 +429,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10033,
+      "vod_id": 10035,
       "vod_name": "权力的游戏 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -417,7 +441,7 @@
       "vod_remarks_src": "全10集"
     },
     {
-      "vod_id": 10034,
+      "vod_id": 10036,
       "vod_name": "药屋少女的呢喃 第二季",
       "type_id": 13,
       "type_name": "动漫",
@@ -429,7 +453,7 @@
       "vod_remarks_src": "更新至23集"
     },
     {
-      "vod_id": 10035,
+      "vod_id": 10037,
       "vod_name": "灵境行者",
       "type_id": 13,
       "type_name": "动漫",
@@ -441,7 +465,7 @@
       "vod_remarks_src": "更新至10集"
     },
     {
-      "vod_id": 10036,
+      "vod_id": 10038,
       "vod_name": "潜伏",
       "type_id": 11,
       "type_name": "连续剧",
@@ -453,7 +477,7 @@
       "vod_remarks_src": "全30集"
     },
     {
-      "vod_id": 10037,
+      "vod_id": 10039,
       "vod_name": "余红旧事",
       "type_id": 11,
       "type_name": "连续剧",
@@ -465,7 +489,7 @@
       "vod_remarks_src": "全34集"
     },
     {
-      "vod_id": 10038,
+      "vod_id": 10040,
       "vod_name": "美人余",
       "type_id": 11,
       "type_name": "连续剧",
@@ -477,7 +501,7 @@
       "vod_remarks_src": "全28集"
     },
     {
-      "vod_id": 10039,
+      "vod_id": 10041,
       "vod_name": "交锋",
       "type_id": 11,
       "type_name": "连续剧",
@@ -489,7 +513,7 @@
       "vod_remarks_src": "全40集"
     },
     {
-      "vod_id": 10040,
+      "vod_id": 10042,
       "vod_name": "无耻之徒: 第4季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -501,7 +525,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10041,
+      "vod_id": 10043,
       "vod_name": "蒸蒸日上",
       "type_id": 11,
       "type_name": "连续剧",
@@ -513,7 +537,7 @@
       "vod_remarks_src": "全22集"
     },
     {
-      "vod_id": 10042,
+      "vod_id": 10044,
       "vod_name": "无可替代",
       "type_id": 11,
       "type_name": "连续剧",
@@ -525,7 +549,7 @@
       "vod_remarks_src": "全20集"
     },
     {
-      "vod_id": 10043,
+      "vod_id": 10045,
       "vod_name": "九品芝麻官",
       "type_id": 10,
       "type_name": "电影",
@@ -537,7 +561,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10044,
+      "vod_id": 10046,
       "vod_name": "择日飞升",
       "type_id": 13,
       "type_name": "动漫",
@@ -549,7 +573,7 @@
       "vod_remarks_src": "更新至18集"
     },
     {
-      "vod_id": 10045,
+      "vod_id": 10047,
       "vod_name": "绝命毒师: 第5季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -561,7 +585,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10046,
+      "vod_id": 10048,
       "vod_name": "办公室 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -573,7 +597,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10047,
+      "vod_id": 10049,
       "vod_name": "幻视任务",
       "type_id": 11,
       "type_name": "连续剧",
@@ -585,7 +609,7 @@
       "vod_remarks_src": "更新至6集"
     },
     {
-      "vod_id": 10048,
+      "vod_id": 10050,
       "vod_name": "新闻编辑室 第三季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -597,7 +621,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10049,
+      "vod_id": 10051,
       "vod_name": "我不是大师",
       "type_id": 11,
       "type_name": "连续剧",
@@ -609,19 +633,7 @@
       "vod_remarks_src": "全24集"
     },
     {
-      "vod_id": 10050,
-      "vod_name": "无耻之徒(美版) 第一季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2024/01/3L0ewQDnvgWdfL8rYi4fdHeiell-233x350.jpg",
-      "vod_remarks": "全12集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/9624e8f5931456040736efc47661e58c.m3u8#第2集$https://oss.douyinbit.com/m3u8/990c8db5b163129fe785c5024025e703.m3u8#第3集$https://oss.douyinbit.com/m3u8/a83406824fbd0986e64a710f514bfa12.m3u8#第4集$https://oss.douyinbit.com/m3u8/216820729c2a258a0efdc8f0f1c5831d.m3u8#第5集$https://oss.douyinbit.com/m3u8/f8311a3d87459b2c60ddee56856dce68.m3u8#第6集$https://oss.douyinbit.com/m3u8/432557cde1db467c1f9772458821ac78.m3u8#第7集$https://oss.douyinbit.com/m3u8/4e4fc96b51f8f92ee182dc1e1e1f39cd.m3u8#第8集$https://oss.douyinbit.com/m3u8/0b622b9233aac7217aa64b416c72b46f.m3u8#第9集$https://oss.douyinbit.com/m3u8/77c5fe9f23a07d460b3b1f7f7134cb0f.m3u8#第10集$https://oss.douyinbit.com/m3u8/137bf9dca1bbaf7bca5c1ebfd771dd11.m3u8#第11集$https://oss.douyinbit.com/m3u8/2eff5c6b63f9398b366a7b4fc10069a4.m3u8#第12集$https://oss.douyinbit.com/m3u8/0d2144c84106b33c6e6004ea080b1fd4.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "全12集"
-    },
-    {
-      "vod_id": 10051,
+      "vod_id": 10052,
       "vod_name": "三太太",
       "type_id": 10,
       "type_name": "电影",
@@ -633,7 +645,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10052,
+      "vod_id": 10053,
       "vod_name": "自由坠落",
       "type_id": 10,
       "type_name": "电影",
@@ -645,7 +657,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10053,
+      "vod_id": 10054,
       "vod_name": "诛仙 全季",
       "type_id": 13,
       "type_name": "动漫",
@@ -657,7 +669,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10054,
+      "vod_id": 10055,
       "vod_name": "塔尔萨之王 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -669,7 +681,7 @@
       "vod_remarks_src": "更新至2集"
     },
     {
-      "vod_id": 10055,
+      "vod_id": 10056,
       "vod_name": "别班 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -681,7 +693,7 @@
       "vod_remarks_src": "更新至12集"
     },
     {
-      "vod_id": 10056,
+      "vod_id": 10057,
       "vod_name": "黑帮领地 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -693,7 +705,7 @@
       "vod_remarks_src": "更新至6集"
     },
     {
-      "vod_id": 10057,
+      "vod_id": 10058,
       "vod_name": "恋爱博士",
       "type_id": 11,
       "type_name": "连续剧",
@@ -705,7 +717,7 @@
       "vod_remarks_src": "更新至7集"
     },
     {
-      "vod_id": 10058,
+      "vod_id": 10059,
       "vod_name": "无间兄弟情",
       "type_id": 11,
       "type_name": "连续剧",
@@ -717,7 +729,7 @@
       "vod_remarks_src": "更新至6集"
     },
     {
-      "vod_id": 10059,
+      "vod_id": 10060,
       "vod_name": "叶卡捷琳娜大帝 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -729,7 +741,7 @@
       "vod_remarks_src": "更新至16集"
     },
     {
-      "vod_id": 10060,
+      "vod_id": 10061,
       "vod_name": "攻壳机动队 第一季",
       "type_id": 13,
       "type_name": "动漫",
@@ -741,7 +753,7 @@
       "vod_remarks_src": "全26集"
     },
     {
-      "vod_id": 10061,
+      "vod_id": 10062,
       "vod_name": "遮天",
       "type_id": 13,
       "type_name": "动漫",
@@ -753,7 +765,7 @@
       "vod_remarks_src": "更新至26集"
     },
     {
-      "vod_id": 10062,
+      "vod_id": 10063,
       "vod_name": "斗罗大陆Ⅱ绝世唐门 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -765,7 +777,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10063,
+      "vod_id": 10064,
       "vod_name": "一斩苍穹",
       "type_id": 13,
       "type_name": "动漫",
@@ -777,7 +789,7 @@
       "vod_remarks_src": "更新至15集"
     },
     {
-      "vod_id": 10064,
+      "vod_id": 10065,
       "vod_name": "七龙珠超：比鲁斯",
       "type_id": 13,
       "type_name": "动漫",
@@ -789,7 +801,7 @@
       "vod_remarks_src": "更新至3集"
     },
     {
-      "vod_id": 10065,
+      "vod_id": 10066,
       "vod_name": "犬夜叉",
       "type_id": 13,
       "type_name": "动漫",
@@ -801,7 +813,7 @@
       "vod_remarks_src": "更新至26集"
     },
     {
-      "vod_id": 10066,
+      "vod_id": 10067,
       "vod_name": "斗破苍穹 年番",
       "type_id": 13,
       "type_name": "动漫",
