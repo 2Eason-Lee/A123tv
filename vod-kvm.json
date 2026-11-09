@@ -3,8 +3,8 @@
   "msg": "数据成功",
   "page": 1,
   "pagecount": 1,
-  "limit": 89,
-  "total": 89,
+  "limit": 90,
+  "total": 90,
   "class": [
     {
       "type_id": 10,
@@ -28,7 +28,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792226060-300x450.jpg",
       "vod_remarks": "全30集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/3432b2a9ced0310d30984de743e2e038.m3u8#第2集$https://oss.douyinbit.com/m3u8/49b7cab38a2934acac33bfad40811f4d.m3u8#第3集$https://oss.douyinbit.com/m3u8/cb546b60eba090711128567e257e3481.m3u8#第4集$https://oss.douyinbit.com/m3u8/94774138b400aa410751a79d995c0bd8.m3u8#第5集$https://oss.douyinbit.com/m3u8/868b1f4d545081e923727883f13caaf4.m3u8#第6集$https://oss.douyinbit.com/m3u8/178cd701505d0f4729d82764d3db3679.m3u8#第7集$https://oss.douyinbit.com/m3u8/ddec1dbda9302beac844440496f8d10c.m3u8#第8集$https://oss.douyinbit.com/m3u8/2fbff442810f262859987311ebf6c0c4.m3u8#第9集$https://oss.douyinbit.com/m3u8/f2c14dc9bc63f428ef8026bb6fac9962.m3u8#第10集$https://oss.douyinbit.com/m3u8/471c87d48b9b06a00ec982664e65b40b.m3u8#第11集$https://oss.douyinbit.com/m3u8/ea211bafb7cecf98b39b87dc9f898b01.m3u8#第12集$https://oss.douyinbit.com/m3u8/1cd0eb168f314a4d7a0ff46bd00c2b6d.m3u8#第13集$https://oss.douyinbit.com/m3u8/5b0b63e241f1c5643b967b38de486066.m3u8#第14集$https://oss.douyinbit.com/m3u8/a6ca8a99aa19c319dc2e2372d728ae2e.m3u8#第15集$https://oss.douyinbit.com/m3u8/7334287c4b3439a5651f47eb23ea6a7d.m3u8#第16集$https://oss.douyinbit.com/m3u8/b310dff880bdf1c795254257f54fa06b.m3u8#第17集$https://oss.douyinbit.com/m3u8/952a9d12038e45d03360e18c0425bf18.m3u8#第18集$https://oss.douyinbit.com/m3u8/8a4ab28e05074eb1a18df17941d763cd.m3u8#第19集$https://oss.douyinbit.com/m3u8/3df8e3efcc12b3f6779b2202d967285b.m3u8#第20集$https://oss.douyinbit.com/m3u8/397292d5825c53533382d1344fbbe20d.m3u8#第21集$https://oss.douyinbit.com/m3u8/05dacc58677d919d04171a100c2ff941.m3u8#第22集$https://oss.douyinbit.com/m3u8/b1ad1dc069b0bca4ec295b2bed223dda.m3u8#第23集$https://oss.douyinbit.com/m3u8/8207a00917ac4c73d8a3f9022054ec95.m3u8#第24集$https://oss.douyinbit.com/m3u8/053ea72ff56d9d4fcdb613d61a3f3160.m3u8#第25集$https://oss.douyinbit.com/m3u8/d9eaf3577b6585d280d2412631dd6163.m3u8#第26集$https://oss.douyinbit.com/m3u8/8bc552bb7b304367345864c23e9a368d.m3u8#第27集$https://oss.douyinbit.com/m3u8/aab6e4c84cf5e8a85c538a50f153975b.m3u8#第28集$https://oss.douyinbit.com/m3u8/4ea0daa6055d4bcd203d6ee7b73db063.m3u8#第29集$https://oss.douyinbit.com/m3u8/bbc647791c99607b82d2b22b9bbe3e8a.m3u8#第30集$https://oss.douyinbit.com/m3u8/7d314c8baa06e2eba1bd4333b8c934ef.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/29d6d1f23aafe76c7f86035d77191317.m3u8#第2集$https://oss.douyinbit.com/m3u8/a6085c131b355206385f72365951e5d9.m3u8#第3集$https://oss.douyinbit.com/m3u8/c2cecdd21fac93a54bd0c7903107c8ce.m3u8#第4集$https://oss.douyinbit.com/m3u8/9258fa0e509723c37e3eccc4f83b9a77.m3u8#第5集$https://oss.douyinbit.com/m3u8/d28f3c52f848cb99afeb858a576ce2c2.m3u8#第6集$https://oss.douyinbit.com/m3u8/746c0a5ed5932bbf9c39267f9fffeaf5.m3u8#第7集$https://oss.douyinbit.com/m3u8/4311e0f51b37b29f58e3fb8d0503fb2d.m3u8#第8集$https://oss.douyinbit.com/m3u8/f21806d51b5054afdc4a30e62c3579d0.m3u8#第9集$https://oss.douyinbit.com/m3u8/3cb12dbe42eae55fcc02efe4b05b9bc4.m3u8#第10集$https://oss.douyinbit.com/m3u8/2669994466534236e4b0409f355c5887.m3u8#第11集$https://oss.douyinbit.com/m3u8/54678f732451561dbb2d15ea11c90067.m3u8#第12集$https://oss.douyinbit.com/m3u8/de59ca2800ab490a367910886f12f633.m3u8#第13集$https://oss.douyinbit.com/m3u8/dda8f4b95e36756163fcfa86b4e36942.m3u8#第14集$https://oss.douyinbit.com/m3u8/4b9937ecbcd3a23f4703b8b12dc483c1.m3u8#第15集$https://oss.douyinbit.com/m3u8/28595db9e37204908a522ec7b8b4e144.m3u8#第16集$https://oss.douyinbit.com/m3u8/21ff1acff7a99d91a58c2cd09b4682ec.m3u8#第17集$https://oss.douyinbit.com/m3u8/6af353aca1c0ad62771e24896590dd00.m3u8#第18集$https://oss.douyinbit.com/m3u8/47c0566498050f3d6208a2330c559cd3.m3u8#第19集$https://oss.douyinbit.com/m3u8/939118b6c137fce9b4ada1e347b02af9.m3u8#第20集$https://oss.douyinbit.com/m3u8/f41dc64e85a8c9e803f426fd9e2cf62b.m3u8#第21集$https://oss.douyinbit.com/m3u8/f32b850315c26e20035026878595da52.m3u8#第22集$https://oss.douyinbit.com/m3u8/fe83f9778b1333ae69cd845b0d86df09.m3u8#第23集$https://oss.douyinbit.com/m3u8/84f3e156bfa79f7783100ea7927c4a68.m3u8#第24集$https://oss.douyinbit.com/m3u8/27a2957a1d147e2e6f4c84a88618bffe.m3u8#第25集$https://oss.douyinbit.com/m3u8/7d047ea404159371ee8ff168e5be20a1.m3u8#第26集$https://oss.douyinbit.com/m3u8/a37e358945257541d216eed52a2634eb.m3u8#第27集$https://oss.douyinbit.com/m3u8/cd254892d61ad00a544df01fe8a872ff.m3u8#第28集$https://oss.douyinbit.com/m3u8/7010f648a27a2ff6c012fb50533a0905.m3u8#第29集$https://oss.douyinbit.com/m3u8/2c3668e4aabc8465256bbf7ffde6f1d0.m3u8#第30集$https://oss.douyinbit.com/m3u8/3971ab5ff6be95c9b06bc34f72aae3c2.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "全30集"
     },
@@ -64,7 +64,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/09/douban_1789316982-300x450.jpg",
       "vod_remarks": "更新至9集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/8041671d97ea3931fb486c84c592dba4.m3u8#第2集$https://oss.douyinbit.com/m3u8/f08d151e44f37628351567d44ee454a3.m3u8#第3集$https://oss.douyinbit.com/m3u8/86cb9898e1312468a06e2891ca8a7cc3.m3u8#第5集$https://oss.douyinbit.com/m3u8/9457c1130f5c71fe93a3f5c87147a7d6.m3u8#第6集$https://oss.douyinbit.com/m3u8/ce17339663af63dc627959310aa73318.m3u8#第7集$https://oss.douyinbit.com/m3u8/f07a9676deac6fb5474246c4484edcee.m3u8#第8集$https://oss.douyinbit.com/m3u8/8ae217b4ce5cc89b7cfec37ec51a1331.m3u8#第9集$https://oss.douyinbit.com/m3u8/329db32b89ce57923253d5c77d48892e.m3u8#第10集$https://oss.douyinbit.com/m3u8/773169c32ceffa7767f16530018fc022.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/62a1960683a3f2507450c70921969299.m3u8#第2集$https://oss.douyinbit.com/m3u8/a13bd8f22785a5611d0db294a37b5b70.m3u8#第3集$https://oss.douyinbit.com/m3u8/76d48e9f3c2d1ff5d82de616a97c9358.m3u8#第5集$https://oss.douyinbit.com/m3u8/2736ae92bebafe87d52c830843431ede.m3u8#第6集$https://oss.douyinbit.com/m3u8/480209fb6fa4285183aae9bb0406fe24.m3u8#第7集$https://oss.douyinbit.com/m3u8/de3aba6f868b3c91552ad07df94f855d.m3u8#第8集$https://oss.douyinbit.com/m3u8/c8328956e622dfddb739e8953ed257fb.m3u8#第9集$https://oss.douyinbit.com/m3u8/22dc951cd329b838d6698149339d5894.m3u8#第10集$https://oss.douyinbit.com/m3u8/6bbac850a527abfaa20c419fcf89e96f.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至9集"
     },
@@ -112,12 +112,36 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2023/01/6sbKSe7x3dFetFCdXmDkgE0t6H2-233x350.jpg",
       "vod_remarks": "更新至27集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/72a38a970a5626c284319cda93bd7faa.m3u8#第2集$https://oss.douyinbit.com/m3u8/ba434bb5c0ffb64f202afdc3f1742a1d.m3u8#第3集$https://oss.douyinbit.com/m3u8/1ae323d7101a8f79f8084d670b0e79e8.m3u8#第4集$https://oss.douyinbit.com/m3u8/c936edcd3ac6553edc05c95202093d56.m3u8#第5集$https://oss.douyinbit.com/m3u8/a200e950b45d8ea46a10f852d470e01e.m3u8#第6集$https://oss.douyinbit.com/m3u8/e059c3188debd480c4dc0421897e0eff.m3u8#第7集$https://oss.douyinbit.com/m3u8/541cf01570195d022dff8bdfd85ab1a9.m3u8#第8集$https://oss.douyinbit.com/m3u8/8a6903d84248c418edb3100d095eed77.m3u8#第9集$https://oss.douyinbit.com/m3u8/62b9817a0a15c0b5de1a1055b76ce2a3.m3u8#第10集$https://oss.douyinbit.com/m3u8/0545c1d2136c49466ee5ff517038409d.m3u8#第11集$https://oss.douyinbit.com/m3u8/4b8884723a0863f9a828e60177f43857.m3u8#第12集$https://oss.douyinbit.com/m3u8/45551a514305a1132385523574441244.m3u8#第13集$https://oss.douyinbit.com/m3u8/0d27c09b2370214362de06d6d1f9c751.m3u8#第14集$https://oss.douyinbit.com/m3u8/d63fa2df173d047d7228cf97d883f64f.m3u8#第15集$https://oss.douyinbit.com/m3u8/2de79a47355d54df43a1b42379dcd58b.m3u8#第16集$https://oss.douyinbit.com/m3u8/7616d03f8936ef1782497454b36bac10.m3u8#第17集$https://oss.douyinbit.com/m3u8/27c255556585c5f3304e71ed1598d044.m3u8#第18集$https://oss.douyinbit.com/m3u8/b4284a0051e799a00c6b589f643f2a8d.m3u8#第19集$https://oss.douyinbit.com/m3u8/70d9a660afb0549fac876f67f3f7e946.m3u8#第20集$https://oss.douyinbit.com/m3u8/435f1ae8a70f4d1c0f7a466856b35ddb.m3u8#第21集$https://oss.douyinbit.com/m3u8/4848d62b62793ca5f644c1d631447f63.m3u8#第22集$https://oss.douyinbit.com/m3u8/a305c1915cb2ac1f83c19fef54c070a3.m3u8#第23集$https://oss.douyinbit.com/m3u8/31ca5d57f0ec753e104deaea3ebd35ca.m3u8#第24集$https://oss.douyinbit.com/m3u8/719eb1499baed5780a1cb63314ee2b6c.m3u8#第25集$https://oss.douyinbit.com/m3u8/94b7bff0c2714ae5383cce4fcdec71b4.m3u8#第26集$https://oss.douyinbit.com/m3u8/9612c3491bb93dbd733c3b86922103cb.m3u8#第27集$https://oss.douyinbit.com/m3u8/07366a9c08c3e36aafdc45ab752e7d0a.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/2c3375aea2cd6a2d69221c8ac82f7b9e.m3u8#第2集$https://oss.douyinbit.com/m3u8/16087f53cde441479f4c86631c305d19.m3u8#第3集$https://oss.douyinbit.com/m3u8/2370bb1e95a0c0fa2b5ea8abdbfaa285.m3u8#第4集$https://oss.douyinbit.com/m3u8/85c04886dd4203abc8bd8977f4c7a9b8.m3u8#第5集$https://oss.douyinbit.com/m3u8/254ac2a58c10709d8e50726aed989efd.m3u8#第6集$https://oss.douyinbit.com/m3u8/903bac3ef30b4021581c2cba41f8d3cc.m3u8#第7集$https://oss.douyinbit.com/m3u8/78f12dd4a8f99db9f12094a09e7e39ae.m3u8#第8集$https://oss.douyinbit.com/m3u8/74417cf5b4ef0be712bcc6843b40d1c3.m3u8#第9集$https://oss.douyinbit.com/m3u8/c0d29ffe9e5a32cbba8c0e30fffafb21.m3u8#第10集$https://oss.douyinbit.com/m3u8/71a6e40be946ebde6ba11c23f6660236.m3u8#第11集$https://oss.douyinbit.com/m3u8/d21dde3b58e1e561472433c06a284ea6.m3u8#第12集$https://oss.douyinbit.com/m3u8/a282dc20a3f00ae7b673e5eb1439e280.m3u8#第13集$https://oss.douyinbit.com/m3u8/cac34b61e8ed4a0af8be2f6cd35007b6.m3u8#第14集$https://oss.douyinbit.com/m3u8/fb99dd77bfc83e5e30c2a9bea9424fbf.m3u8#第15集$https://oss.douyinbit.com/m3u8/e2cac47372d6641e5198831f2e411533.m3u8#第16集$https://oss.douyinbit.com/m3u8/a2e3a6a6037100669240bde233037e03.m3u8#第17集$https://oss.douyinbit.com/m3u8/5b59971b4b93e6433a5b91a5ca46b084.m3u8#第18集$https://oss.douyinbit.com/m3u8/9c21f344a64b95cd402001171212cf2d.m3u8#第19集$https://oss.douyinbit.com/m3u8/052739c322f3a64a3fc648ae1bdd02ee.m3u8#第20集$https://oss.douyinbit.com/m3u8/ca1721cf6517f0f38efc90351ed901bf.m3u8#第21集$https://oss.douyinbit.com/m3u8/29d60d2b21dabb77c92ae329897297d0.m3u8#第22集$https://oss.douyinbit.com/m3u8/0bedc11c7e028acb895b5ddaa7809149.m3u8#第23集$https://oss.douyinbit.com/m3u8/aeeee9e40d596556d423ef90411e4e93.m3u8#第24集$https://oss.douyinbit.com/m3u8/509cd5df92e9f7d324e5d01f382ed031.m3u8#第25集$https://oss.douyinbit.com/m3u8/c757e106033588eed2f434ce6aa21ab0.m3u8#第26集$https://oss.douyinbit.com/m3u8/3223123908aaffab01c318481536f229.m3u8#第27集$https://oss.douyinbit.com/m3u8/16c6bc4d3bcbb4975e54bf5251353452.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至27集"
     },
     {
       "vod_id": 10009,
+      "vod_name": "卿卿日常: 第1季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/11/ne1V8BjV5EgKuyye6GAjQy9v8yU-233x350.jpg",
+      "vod_remarks": "更新至27集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/311f9110-94c1-454e-81bf-c5e25b9535e7.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T042945Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E01.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1080335863&x-amz-UFID=724091220235100807&X-Amz-Signature=ce8277eb7111e015549b52fce1acfc154bf1c9cd3329f10a71d631abc39a23a6#第2集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/32a538c2-3e68-4e30-b89f-babb9eb87715.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T043703Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E02.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=787101127&x-amz-UFID=523191220234216368&X-Amz-Signature=98c1ac3320d637bdd1f62e33f4425463d809444da102ff6f833c08666d0a7c8b#第3集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/70578965-f548-4737-ab61-9042e19c9324.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045057Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E03.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=891520412&x-amz-UFID=125381220234793664&X-Amz-Signature=20912615b68577b59e4e449d1a15d0c487c09ef1a9e9ab460d5a0297d5f1eef1#第4集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c7100b88-1ad8-435a-9f01-a6389403ded7.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045104Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E04.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=926893280&x-amz-UFID=823671220235021760&X-Amz-Signature=b9377ca71f7d3faa30763834b2ad44b73049e63cf5353b161ae735d591a97632#第5集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/378ca881-fa16-443a-8983-423555022ac0.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T044016Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E05.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=884549903&x-amz-UFID=625461220234118073&X-Amz-Signature=1e80f78359c290b2f662f55fab76ba33d08eb2b71de99381be4fcc6ea98eead8#第6集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/10f9bd03-4f6d-4df8-8911-5f127c5f9524.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045100Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E06.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1003720292&x-amz-UFID=724481220235341680&X-Amz-Signature=69b2b318c34d38acd2723d176bb2ff9a879f22dee23f749f08bfd26c99811c9c#第7集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/1b7e9eb9-355e-485d-a397-04919dc20c17.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045111Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E07.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1033198013&x-amz-UFID=625431220235520813&X-Amz-Signature=7e5a3067b4b83190e0a095a62ae0ab673727af96b25035d73bae9d67e08a31a1#第8集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/0c3b813d-bfb9-42e3-83af-b691969ce2a5.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T044138Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E08.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=946963911&x-amz-UFID=424431220234616265&X-Amz-Signature=c9681e319eb2e57b6fc6aae7f814e359f0507c60519c93a0cae4bcadcbb0cfe4#第9集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/551aa1c4-735c-4edb-8ac9-3f30c603677b.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T042945Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E09.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=993080957&x-amz-UFID=324971220234706310&X-Amz-Signature=7aed5c1d76251eb2560a4d969b3ab00d8b094cf0ffc46e355827885d019e96ef#第10集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/feb96bad-cec9-42a2-aa69-2131da201d3f.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045118Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E10.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1033228657&x-amz-UFID=724661220234993809&X-Amz-Signature=449e75df7bc5c7a1b1f2efca679d29354a2d836fe720a04023b7811638484059#第11集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/ea827ecf-5923-4320-8a02-c45a50f39973.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045120Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E11.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=937756470&x-amz-UFID=824381220235670843&X-Amz-Signature=c14f1c2967b3eec37493f3cf1937f8b122870ae16778df3df4f9945f3a327738#第12集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/155c154d-1e5a-4671-81cf-a1913c5d98c0.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T043248Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E12.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=808770038&x-amz-UFID=224081220234984329&X-Amz-Signature=001de91934dda7f48f1c5a6fa1f79b9e274567a2da4c9c7da5e8400b293b3333#第13集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c3ba4c78-ce65-405b-958b-e7977cf4a514.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045125Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E13.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=912507745&x-amz-UFID=125461220235850120&X-Amz-Signature=f24f0b4c782857fb736aa5e34491a25a0ce91c6fdeb28b22954972597f25bb05#第14集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/f304606c-58fc-4127-8994-6f873bc29ad9.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045127Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E14.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=943065628&x-amz-UFID=323671220235024454&X-Amz-Signature=7ec5c4e1476e920481d4d05ba26e53bbcfe0ae02865cc968f5b96f685f381447#第15集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/a5a1028e-89d9-4304-9d8b-007635a39faa.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045130Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E15.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=939822486&x-amz-UFID=424661220234995114&X-Amz-Signature=ad03d17320a87aabde74e2bc93ae68b45a935272214a7abd0cc8bacb6478fca5#第16集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c4f7de8f-a172-4a65-93ac-b9b5224a53d1.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045132Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E16.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1004303786&x-amz-UFID=824651220235542686&X-Amz-Signature=2206645617b9c3b0208c819f0ffbd21ee2a2fc3847046cbe8a50f6393c8016bd#第17集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/e62013b9-0ea8-4cff-842b-7cb3f7ac0947.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045133Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E17.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1026557870&x-amz-UFID=425461220235851116&X-Amz-Signature=b290bdd71528d5e9ffc5c2a2e51cb02b0fd4c610d929d76cb506ea294efc6731#第18集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/30d5cb61-422e-4f95-b084-e2a6c38478d5.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045136Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E18.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=933784108&x-amz-UFID=525061220235284215&X-Amz-Signature=62190fb0ea5997e5b04d0092e630d7af678cf56aff064b6ef4853a8319868747#第19集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/f5e98b61-e00e-4850-9804-2b9fabae2cc5.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045138Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E19.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=954649017&x-amz-UFID=724031220236050661&X-Amz-Signature=fe3b8f959fd4402f78bb92930c22e2447925dbb313de23c4d350efa37f813998#第20集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c7ea51aa-394a-4d26-b86a-d5231a79f8db.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045140Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E20.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=860822432&x-amz-UFID=624431220234459881&X-Amz-Signature=a9fa0c8fd3a48cd44462ac9c7f60e3785d22862036db728f5b4de483a87bee5b#第21集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/8947428d-4f21-4fe4-b71f-bea548c16117.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045143Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E21.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=993430839&x-amz-UFID=824651220235544054&X-Amz-Signature=d2ad95a0dcbebf9f4f1166dd236a1dc9c42adba3f151cbd79d7ce07aeeaf8541#第22集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/e995ba51-fac0-41f0-814f-7ba4c2265f59.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045145Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E22.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1033677924&x-amz-UFID=725471220236001512&X-Amz-Signature=591a03e834cf5ec1f41f810176679527a534a5b4dd5be30453831fe35df9a7a0#第23集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/1e042ce5-e1cf-4dac-a623-cf715a9307bd.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T044055Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E23.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=958289984&x-amz-UFID=225501220235445066&X-Amz-Signature=0478dc44173658645bd8630908e8ce197b0cb3ae6bd5d4006709a08d9911a07c#第24集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/330772bf-890c-425e-87ec-b7f351197fab.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045150Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E24.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=887815132&x-amz-UFID=525521220234689762&X-Amz-Signature=f2bba7aae950e9fcfbcbb394927486cc5877e1d9e24b2592c25c63f9167d0eb2#第25集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c4395abe-9cf3-4cef-8d2c-47a38707db40.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045152Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E25.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=914435264&x-amz-UFID=224691220235594334&X-Amz-Signature=8e7a6a4856302f7985b7464c7d4d2d272bdf4b9f5544394ba03ca5bf37ec3c8a#第26集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/4002861d-b12e-4cb5-9e36-ebe81d60a214.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045154Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E26.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=923021983&x-amz-UFID=123411220235872746&X-Amz-Signature=5c163e4ca50f6400906b19519e5aff336ae3a08ea3fefc3a288a48925a5be3c5#第27集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/d0f94c43-55cb-4375-a3cd-7bfae4e69ac9.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261109T045156Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261109/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E27.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=834817802&x-amz-UFID=423191220235992362&X-Amz-Signature=ea0d21a0a35b8026c05be05de28081406a12b49836e4b6030b450c64660aa659",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至27集"
+    },
+    {
+      "vod_id": 10010,
+      "vod_name": "太平年",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/09/douban_1789278370-300x450.jpg",
+      "vod_remarks": "更新至40集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第9集$https://oss.douyinbit.com/m3u8/db6a5a4beec7e1b97efcf6aa5b248fba.m3u8#第10集$https://oss.douyinbit.com/m3u8/78123e3267952e971de525f22d74a7fb.m3u8#第11集$https://oss.douyinbit.com/m3u8/94185ad0f31ffa96a8619b5dc7c94ee4.m3u8#第12集$https://oss.douyinbit.com/m3u8/00dc42a38d10b169c752cb3ebee26488.m3u8#第13集$https://oss.douyinbit.com/m3u8/080590dfaec5e8bea2f0264cf70a264b.m3u8#第14集$https://oss.douyinbit.com/m3u8/ba1d1be791352c4a7f5c99a706e36fe2.m3u8#第15集$https://oss.douyinbit.com/m3u8/fa9ff985be2026cb665408ceaee0be89.m3u8#第16集$https://oss.douyinbit.com/m3u8/fc4bc5a69d830ce9014d4715d00b8e6e.m3u8#第17集$https://oss.douyinbit.com/m3u8/d788f962a799cd542a6fc85682db4722.m3u8#第18集$https://oss.douyinbit.com/m3u8/26e71f44506de54505a635fc46d1862f.m3u8#第19集$https://oss.douyinbit.com/m3u8/6a633a88ca27a4ab28d2a1fab9860f0d.m3u8#第20集$https://oss.douyinbit.com/m3u8/389f892bb88584adc34ba520331b4ae3.m3u8#第21集$https://oss.douyinbit.com/m3u8/3b3c256cb337ad37130a5f153e1a6a46.m3u8#第22集$https://oss.douyinbit.com/m3u8/5ae6a48146d96bf301261d49d4a29b8e.m3u8#第23集$https://oss.douyinbit.com/m3u8/2fc419a79989c62953008192913ab75e.m3u8#第24集$https://oss.douyinbit.com/m3u8/c2774143932511c1e2e7ece7da36bfff.m3u8#第25集$https://oss.douyinbit.com/m3u8/89fd0789c835bca7afb60a6c08151e5e.m3u8#第26集$https://oss.douyinbit.com/m3u8/f0a68ca790a67dcd2b02c192f6538956.m3u8#第27集$https://oss.douyinbit.com/m3u8/5318d7a9966168f5e544c942246f0e8e.m3u8#第28集$https://oss.douyinbit.com/m3u8/8d161505e438eb80ee4197724a3e6a65.m3u8#第29集$https://oss.douyinbit.com/m3u8/941fa8cd1edf65b0201b367321c81b99.m3u8#第30集$https://oss.douyinbit.com/m3u8/2c32c59756385170c6fd1df95dc563e0.m3u8#第31集$https://oss.douyinbit.com/m3u8/ed617ae39d0c7d46d53945c639447120.m3u8#第32集$https://oss.douyinbit.com/m3u8/0758a2d392ca02b55fc5c31e2083617e.m3u8#第33集$https://oss.douyinbit.com/m3u8/01cd961ac9fb8ece015620b1f857ba2c.m3u8#第34集$https://oss.douyinbit.com/m3u8/39ed1d5e1ccfad26146608b324dd206a.m3u8#第35集$https://oss.douyinbit.com/m3u8/2547b8ca18f9bcb2dfb2e480a73ad1ec.m3u8#第36集$https://oss.douyinbit.com/m3u8/dee22aa5c4fe4e19a59ba249ea3a437e.m3u8#第37集$https://oss.douyinbit.com/m3u8/011cd849959c5ed9d89bec720eff10a7.m3u8#第38集$https://oss.douyinbit.com/m3u8/b80bd9995bbd86b42d2affab78d6aea7.m3u8#第39集$https://oss.douyinbit.com/m3u8/476ed99c0670f9283e4b78ac28d121c9.m3u8#第40集$https://oss.douyinbit.com/m3u8/442deaeead34844c9f765cf88e38b630.m3u8#第41集$https://oss.douyinbit.com/m3u8/0490bad0ad942cb8e28738eaf7591c55.m3u8#第42集$https://oss.douyinbit.com/m3u8/4ee8b8beec6dd8f70ab92b591274965a.m3u8#第43集$https://oss.douyinbit.com/m3u8/4e5af89740ced421a61253b433372314.m3u8#第44集$https://oss.douyinbit.com/m3u8/0b547d220125cc47f157842ffd223cfd.m3u8#第45集$https://oss.douyinbit.com/m3u8/927791d01899f1fda0cadbf199a590e9.m3u8#第46集$https://oss.douyinbit.com/m3u8/8543a876f03977a454560be2cf30820c.m3u8#第47集$https://oss.douyinbit.com/m3u8/65fd5c42598d2effe80d145b2bb3f745.m3u8#第48集$https://oss.douyinbit.com/m3u8/807600a9e47f2b0b347dbab7def0794b.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至40集"
+    },
+    {
+      "vod_id": 10011,
       "vod_name": "庆余年 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -129,52 +153,28 @@
       "vod_remarks_src": "更新至39集"
     },
     {
-      "vod_id": 10010,
-      "vod_name": "人世间: 第1季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/03/5d0d234664991-250x332.jpg",
-      "vod_remarks": "更新至27集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第19集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/d8a886d1-9e45-4cbe-aee9-b3632837de45.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222051Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E19.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=681794394&x-amz-UFID=424751207360808686&X-Amz-Signature=3c245da75131e49719678805d9a46e1118602220062f26ec018da5fcefb82fa8#第20集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/d4a46076-4ee9-416b-9c78-028187f01e82.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222052Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E20.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=690676572&x-amz-UFID=924041207358396578&X-Amz-Signature=81f831f11c0d30d8f1f8b2de7bd9e452771420e1150336c7ec9a7a529aa54e21#第21集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/8b3394e2-2e00-4b38-ae9f-1fa8d357c55f.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222054Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E21.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=698532283&x-amz-UFID=423891207360887640&X-Amz-Signature=ec2857e8bfa71d3993eb178f653918198f3508ff990defe44623ff93a9bdad18#第22集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/9125abfd-7ff5-45db-afb7-1ddbdc522be0.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222056Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E22.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=690366451&x-amz-UFID=524371207362350614&X-Amz-Signature=f9ccaf5d3658d917a8c1e56a7cbc4fa393d5d3199cf4794de2c8c61b8b2685bb#第23集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/9b54a0ce-c379-4902-b7d1-b5abe9a43354.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222058Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E23.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=525658238&x-amz-UFID=725111207359862201&X-Amz-Signature=5f1dacd4ac919939b87a3f105af75a4afa70a0da27d1a729c0f7d170d32724e9#第24集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/b5165836-943e-4a32-8560-2d2db7065e23.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222101Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E24.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=536810228&x-amz-UFID=623781207362360331&X-Amz-Signature=5a137768b660d6c2382bd9702b987f6270172b347c8ad4a1bdd900894f2d82a9#第25集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/7f448b24-e27e-4879-ba3f-3ffb661a60e2.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222103Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E25.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=671718693&x-amz-UFID=823111207362052039&X-Amz-Signature=03856597ea38795a431d86266079adaaec6f6e98bab061f81a30d586000fabbc#第26集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/228add90-fc5b-43fe-bece-788f67fe6dcc.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222105Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E26.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=655293225&x-amz-UFID=824011207360977589&X-Amz-Signature=91b530c6591bdb7d00b11bcaab73b5d81920f2d911c262afbca2de7e4718d6fa#第27集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/d64eac82-736d-4193-9028-6e3c224e21da.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222107Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E27.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=658636993&x-amz-UFID=824551207361255764&X-Amz-Signature=dc565d4f90046ad6144f32dd18e2d44bf5f44d06e82c7a8eeeab89773c3771b3#第28集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/f037e3ce-eee0-4e56-906d-0c4a9043cd17.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222110Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E28.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=637704541&x-amz-UFID=525021207361434723&X-Amz-Signature=23f9c2836473350d079e13f4dad5988531a7afac11cf22bd1ee3058047def17b#第29集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/1c45ed0a-91a4-495b-856e-39a9cd408899.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222112Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E29.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=683869231&x-amz-UFID=623801207358117485&X-Amz-Signature=e471d7f6fd65b289ad614103fd9ecafcdd67babe8d3a9ff91915e394cb307cd2#第30集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/e493b6b3-6394-4dbe-b7f4-c06680789bb2.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222114Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E30.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=673758801&x-amz-UFID=524101207360797613&X-Amz-Signature=4d42c1b4362a1e94bf5e90290870496198c2ca406915147bc6bf17552e32a80c#第31集$https://cloudcube.wuxi.cn/cloudcube-beijinggpz-js-person/4c3b7cd4-dcb5-4d4b-8b7d-300e06ce965d?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222116Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E31.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=652767363&x-amz-UFID=125191207358206795&X-Amz-Signature=f96fb6c00b1bb49fe99029ff571c850265ba307dad2c80d8c62c5d794b108bbe#第32集$https://obs-shh2-qysuzhou-person.obs.cn-jssz1.ctyun.cn/0db44c2d-ea5e-49c9-85d2-86187cd37c9d?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222119Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E32.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=656999908&x-amz-UFID=524661207357199365&X-Amz-Signature=ea2f683a8cb721c4341c3ab360eb12ba1e23234093ca340a6ba30b9b51a3d40e#第33集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/27d84aa4-e9f0-4905-a5c6-dab664d4a900.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222121Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E33.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=677051093&x-amz-UFID=923131207361305183&X-Amz-Signature=dbb497cab091d1aa2202565dff7b39e5274f854e8f01cf478c5df0d248ea9bb1#第34集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/75416984-d255-497b-aecb-3a756eb9060c.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222123Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E34.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=674380170&x-amz-UFID=325061207360309234&X-Amz-Signature=35621d9da457a986c24e7931ef441df815deb02f8e49ce673b0190fe04940350#第35集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/ef8aabe9-928b-42cf-babf-f216d48d801b.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222125Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E35.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=663851090&x-amz-UFID=725411207358076733&X-Amz-Signature=8e93553eb87f49376f63fdabd651e95e815372e7b855763c82b42c45d025f7ce#第36集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/db15a26e-4567-49c0-ac34-be49069978ff.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222128Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E36.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=672718163&x-amz-UFID=923201207361065459&X-Amz-Signature=81a0c435ac94c735471d8e8a5818a2ea6615980b660d40f0318521de7fd81f18#第37集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/8098243d-b36a-4862-b6c1-4796a5eb188d.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222130Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E37.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=653795609&x-amz-UFID=124591207360945909&X-Amz-Signature=b48391bac4bd41648cc44f1fc97bcc8395b99bf7badcfcf82fb0d36518b30eef#第38集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/d5dc2912-83aa-4958-ad97-c92e5ec6b6cb.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222132Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E38.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=665746629&x-amz-UFID=523911207359941302&X-Amz-Signature=bfd1b9a26318884432f2dba27a21f67d3fbed822b5b3df717ac1a51bf48b3dd7#第39集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/4c52f0f2-0179-4cf0-8a5f-977185d3eba0.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222134Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E39.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=535403142&x-amz-UFID=123771207360298182&X-Amz-Signature=d16bd87688c9dd18a321a33bfd7101718668b289ae666acc316f665e571fdd9f#第40集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/1c53f9a5-1524-44a2-b4f1-cbeeb7d48839.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222137Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E40.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=694943749&x-amz-UFID=524751207360806358&X-Amz-Signature=56435620968407f590bd527f5771fe0592e72e9352e622005f2f84fc941a689a#第41集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/384493dc-7b10-4d0d-bc79-56f626e01fd4.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222139Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E41.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=529782886&x-amz-UFID=924371207360398379&X-Amz-Signature=cfab204237a8d2c9baa53e7586fb2bd26bd89be05436a35251b043ffafa6cd43#第42集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/6d02c4ad-081b-4941-ab0c-e04bc3a2da5e.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222141Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E42.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=540724900&x-amz-UFID=724161207360088686&X-Amz-Signature=a9a9cdf9f31a47ae0400968c18d544515cac584b43400abf456ce6984c3f5252#第43集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/4781d098-8560-48ba-8537-d698815ed541.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222143Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E43.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=695632731&x-amz-UFID=523911207359941050&X-Amz-Signature=205c1b0cd5b6a3cb01073d927a35d9b733b2177be133d127af5999e4c6b84783#第44集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/cd714a57-ea96-4c97-82b2-df61dfb60372.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222146Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E44.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=653525258&x-amz-UFID=824591207360626718&X-Amz-Signature=f14bd568264c45b60a089374de9b97f0e514f534fb3af3d93193002193df42b1#第45集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/18dfb3aa-c45b-483b-920a-71f183fecbd2.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222148Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E45.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=565185295&x-amz-UFID=724981207360050643&X-Amz-Signature=668e6f8c517271c7adcf7c46423bf6c763e8c085cc61e8d41934c3f12c275c30",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至27集"
-    },
-    {
-      "vod_id": 10011,
-      "vod_name": "卿卿日常: 第1季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/11/ne1V8BjV5EgKuyye6GAjQy9v8yU-233x350.jpg",
-      "vod_remarks": "更新至27集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/311f9110-94c1-454e-81bf-c5e25b9535e7.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222219Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E01.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1080335863&x-amz-UFID=724091220235100807&X-Amz-Signature=2edf019dffbf8bfe529956ce81418155a0fbe1a2d9ba23bff7f1451f777d6252#第2集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/32a538c2-3e68-4e30-b89f-babb9eb87715.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222222Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E02.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=787101127&x-amz-UFID=523191220234216368&X-Amz-Signature=31457237d062f73558f3b29aaf023dff15f0a27b27d7be332118368fc0027b1d#第3集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/70578965-f548-4737-ab61-9042e19c9324.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222224Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E03.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=891520412&x-amz-UFID=125381220234793664&X-Amz-Signature=27d14935c3037bd74198ee3ea6e4171ccda2e47cb34f9aa31b805e440a3b251f#第4集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c7100b88-1ad8-435a-9f01-a6389403ded7.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222226Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E04.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=926893280&x-amz-UFID=823671220235021760&X-Amz-Signature=6653fffdcc65ff72b2487bbde24cea1df773251fd52bf0d84f4503e7d3422ddb#第5集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/378ca881-fa16-443a-8983-423555022ac0.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222228Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E05.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=884549903&x-amz-UFID=625461220234118073&X-Amz-Signature=2ff01403b584169436b0748ea11a366358726a09c0856b30bacef9c8c1fe659e#第6集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/10f9bd03-4f6d-4df8-8911-5f127c5f9524.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222231Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E06.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1003720292&x-amz-UFID=724481220235341680&X-Amz-Signature=32577701b5aa4806d4f660bd0c22dc1c8d1bafbfc4a93d4f24cc84406493d885#第7集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/1b7e9eb9-355e-485d-a397-04919dc20c17.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222233Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E07.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1033198013&x-amz-UFID=625431220235520813&X-Amz-Signature=8e6ef692c01251c7d3275d2fd8cfa8717a3efc888cad1d79e38df3002de45a51#第8集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/0c3b813d-bfb9-42e3-83af-b691969ce2a5.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222235Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E08.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=946963911&x-amz-UFID=424431220234616265&X-Amz-Signature=f70a01e9f60b48f928c25c4ee32f41c65bca434f9cd07c44c08578a5ee2c308c#第9集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/551aa1c4-735c-4edb-8ac9-3f30c603677b.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222237Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E09.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=993080957&x-amz-UFID=324971220234706310&X-Amz-Signature=a062a4e49fddd2c3d8193b734aa946c717c30e02330a88e0c07149c2ce7c05fc#第10集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/feb96bad-cec9-42a2-aa69-2131da201d3f.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222240Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E10.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1033228657&x-amz-UFID=724661220234993809&X-Amz-Signature=b5437c486ede7cd7bfd78e9fc193b19a4ab6196c198e6378a1d926b9a8563f32#第11集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/ea827ecf-5923-4320-8a02-c45a50f39973.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222242Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E11.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=937756470&x-amz-UFID=824381220235670843&X-Amz-Signature=8b3e00ae76e7ce91d32ebbf28e608662b2b0473e6131a322513e4df3dae63f80#第12集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/155c154d-1e5a-4671-81cf-a1913c5d98c0.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222244Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E12.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=808770038&x-amz-UFID=224081220234984329&X-Amz-Signature=5a5b4bd39a5e1a5a8878d1d87efe0f38940cc1d8d8c9d1ad62ab2cf74a9cbf61#第13集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c3ba4c78-ce65-405b-958b-e7977cf4a514.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222246Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E13.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=912507745&x-amz-UFID=125461220235850120&X-Amz-Signature=51ab52fb121da875c03cf7226c1ed8cb10acd7857ce3717db2398f3e5fc449a1#第14集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/f304606c-58fc-4127-8994-6f873bc29ad9.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222249Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E14.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=943065628&x-amz-UFID=323671220235024454&X-Amz-Signature=ccb0c8a600adf92eaf96c2d52264634d28540fcde94da2a5595244109295ce79#第15集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/a5a1028e-89d9-4304-9d8b-007635a39faa.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222251Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E15.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=939822486&x-amz-UFID=424661220234995114&X-Amz-Signature=beacd74db76a19ba44c2bc7392d5b4f7de4ed3812cc9484fc230d17b899ca8b0#第16集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c4f7de8f-a172-4a65-93ac-b9b5224a53d1.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222253Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E16.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1004303786&x-amz-UFID=824651220235542686&X-Amz-Signature=12042df7d0bcd01f6a3fbeed4707d8ae5f679d8f0536977b93c3ce2d50bb00a8#第17集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/e62013b9-0ea8-4cff-842b-7cb3f7ac0947.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222255Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E17.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1026557870&x-amz-UFID=425461220235851116&X-Amz-Signature=80c42d671f71f5a80e39f2a7dd87b6651ab72358cbad870e8c985396e04226c2#第18集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/30d5cb61-422e-4f95-b084-e2a6c38478d5.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222258Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E18.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=933784108&x-amz-UFID=525061220235284215&X-Amz-Signature=2690347ba76671d68a1f436ef88e25420d7882aa83899c71d28569ddfdc63363#第19集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/f5e98b61-e00e-4850-9804-2b9fabae2cc5.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222300Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E19.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=954649017&x-amz-UFID=724031220236050661&X-Amz-Signature=71484d00ef93cba308eda9242fdf2cf9ed33d529279169f7192ede87fa9be28e#第20集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c7ea51aa-394a-4d26-b86a-d5231a79f8db.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222302Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E20.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=860822432&x-amz-UFID=624431220234459881&X-Amz-Signature=89f589947464e42de3857b846c35507291481305363a7312db8578e7770c9511#第21集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/8947428d-4f21-4fe4-b71f-bea548c16117.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222304Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E21.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=993430839&x-amz-UFID=824651220235544054&X-Amz-Signature=54a3cb7db176fb489652ffd04ad8384155d6e57fcdccbf65c4a13a2351fccc5d#第22集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/e995ba51-fac0-41f0-814f-7ba4c2265f59.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222307Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E22.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1033677924&x-amz-UFID=725471220236001512&X-Amz-Signature=8df75728c37f4f24047253aa872d16140b27b2c0360e7333e80a6e764f9a4e42#第23集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/1e042ce5-e1cf-4dac-a623-cf715a9307bd.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222309Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E23.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=958289984&x-amz-UFID=225501220235445066&X-Amz-Signature=68e0bffb0007163b9fcabca93b14b4eca69b2e1130e6f2090f0b5c14ce2c59e1#第24集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/330772bf-890c-425e-87ec-b7f351197fab.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222311Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E24.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=887815132&x-amz-UFID=525521220234689762&X-Amz-Signature=8e1733b02a0085b6ed4e7bcc06ff0606e26b140bc3ebaa883caa965a0a55131d#第25集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/c4395abe-9cf3-4cef-8d2c-47a38707db40.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222313Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E25.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=914435264&x-amz-UFID=224691220235594334&X-Amz-Signature=6d04654b8287d3d67aaa281b3deeb67696dea6e6717aa300138595c4e86d9acb#第26集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/4002861d-b12e-4cb5-9e36-ebe81d60a214.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222316Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E26.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=923021983&x-amz-UFID=123411220235872746&X-Amz-Signature=e5dd0490a8a93b809d8290c8d15f14cf8683953485c600b717896b951257a578#第27集$https://obs-bjcyfy-suzhou-home.obs.cn-jssz1.ctyun.cn/FAMILYCLOUD/d0f94c43-55cb-4375-a3cd-7bfae4e69ac9.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222318Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001730778441&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%258D%25BF%25E5%258D%25BF%25E6%2597%25A5%25E5%25B8%25B8.E27.mp4&x-amz-OPERID=300001730795856&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=834817802&x-amz-UFID=423191220235992362&X-Amz-Signature=d8b8f90f8581ed271923b23c4184edbe698953ecdce6a4eaae2107ad38602663",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至27集"
-    },
-    {
       "vod_id": 10012,
-      "vod_name": "行尸走肉: 第4季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2023/08/1bFtBZg4ehney9ogQncllQAeX8o-233x350.jpg",
-      "vod_remarks": "全16集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/9455bed30a70e333a2b0987e43848dfb.m3u8#第2集$https://oss.douyinbit.com/m3u8/81f04f02a66f379fa2cb051b389f0b37.m3u8#第3集$https://oss.douyinbit.com/m3u8/f58244efbdd3a2b494eaa65958c87b2a.m3u8#第4集$https://oss.douyinbit.com/m3u8/6d1aca302975bcf71ba5ccd9feb797d0.m3u8#第5集$https://oss.douyinbit.com/m3u8/10568ab41b81711bf4452154ca0a6524.m3u8#第6集$https://oss.douyinbit.com/m3u8/a9f422cfc27f1bc886a6f2012bcb8bdd.m3u8#第7集$https://oss.douyinbit.com/m3u8/8611e631e70e858caff1bc0a318caa86.m3u8#第8集$https://oss.douyinbit.com/m3u8/314295c7123f6321feb68931148c7b4b.m3u8#第9集$https://oss.douyinbit.com/m3u8/cdc1b4333235141dd1a1b3790bdf1265.m3u8#第10集$https://oss.douyinbit.com/m3u8/6e2bc0506eb0b3f6686950b8aeb57280.m3u8#第11集$https://oss.douyinbit.com/m3u8/316d82da8dc0b650a53462a1e97d8da0.m3u8#第12集$https://oss.douyinbit.com/m3u8/909607715db6780c5a6ce6d36e6be333.m3u8#第13集$https://oss.douyinbit.com/m3u8/f1b5289d0e793d83e8c0d8512c575e94.m3u8#第14集$https://oss.douyinbit.com/m3u8/d8ac90f1e9f98167ba7413ef49c48ee5.m3u8#第15集$https://oss.douyinbit.com/m3u8/15c0e3f23c3c2ad85b97269416b8e9a5.m3u8#第16集$https://oss.douyinbit.com/m3u8/7030577981e84fa2af972adde43e716c.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "全16集"
-    },
-    {
-      "vod_id": 10013,
       "vod_name": "挑情丑闻",
       "type_id": 11,
       "type_name": "连续剧",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/09/douban_1789792011-300x450.jpg",
       "vod_remarks": "更新至1集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/87d8eaa7b221667bad1df472151447a8.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/8d3ae5a2a72a3eac2d7a1f5025ebe45d.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至1集"
+    },
+    {
+      "vod_id": 10013,
+      "vod_name": "铁拳教育",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/06/douban_1780822432-300x445.jpg",
+      "vod_remarks": "全10集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/c3f3140c02df54774c78739e08e4fc4e.m3u8#第2集$https://oss.douyinbit.com/m3u8/f488fa23ad3b0e182bdb66dcb0d4c566.m3u8#第3集$https://oss.douyinbit.com/m3u8/5e50e0cef0f3b185cebb0ed7bd32e597.m3u8#第4集$https://oss.douyinbit.com/m3u8/63067648f2c3d3172cc57e3d9d32605c.m3u8#第5集$https://oss.douyinbit.com/m3u8/79ea952ad0c0eada6d5b73d02ac5c941.m3u8#第6集$https://oss.douyinbit.com/m3u8/03da79575d5c304164f86a947831bcc7.m3u8#第7集$https://oss.douyinbit.com/m3u8/109f47c21716d773184f3e0f80ae4f58.m3u8#第8集$https://oss.douyinbit.com/m3u8/f70846a703b64c7f45f1879611501f9b.m3u8#第9集$https://oss.douyinbit.com/m3u8/9b567deb31eaa0da26700dff972abbd4.m3u8#第10集$https://oss.douyinbit.com/m3u8/459ce9f9c0c1377c6522af2374de24ec.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "全10集"
     },
     {
       "vod_id": 10014,
@@ -184,7 +184,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794069215-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/c54532afb7805b962769de5cce604b62.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/25ee89974cd0d0fb73a26870f46d573a.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -196,7 +196,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794047878-300x428.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/bd9ddf9fd47ebeb1ef552e1167c4f658.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/adeb73fe976b95a06e973f2160466cfc.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -208,7 +208,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1793969920-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/fa887c31a528b61bcf000b311e8fb977.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/024847827d92c795dbb4bb5cf3ac8656.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -220,7 +220,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1793966158-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/55f601da9cb0edd2d4a14fd2457dd9d3.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/0a8434b07dba06ca17f10e1c9f0020c4.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -232,7 +232,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1793711204-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/a9e08cfd1493ae2658d0d05149cd5572.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/862c0c98dd70a17d2dd8aeaef99d2871.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -244,7 +244,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793434519-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/319b12d64872f50e6a56bfb8fb5398ae.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/c6f4ff57ca8e982c34dcc69dd7b0b480.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -256,7 +256,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793346949-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/b8e33456bb5994719c3c0994c38d5bff.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/01476468492afffd7174e978647c28fd.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -268,7 +268,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793324922-300x424.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/85c2d5b4dde818901e4a1aec31f70728.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/fe227716379408613baf0d0031ad7644.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -280,7 +280,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793191015-300x417.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/b0ddce7eae689cf4214bbc04f99e5183.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/35064995faba1bfb7c705323b1326e33.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -292,7 +292,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1793170333-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/1440ff400f049eef2bbd2693567fbdab.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/29b90bba6b68c165016045dcacc1c4cd.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
@@ -310,6 +310,30 @@
     },
     {
       "vod_id": 10025,
+      "vod_name": "人世间: 第1季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/03/5d0d234664991-250x332.jpg",
+      "vod_remarks": "更新至27集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第19集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/d8a886d1-9e45-4cbe-aee9-b3632837de45.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222051Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E19.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=681794394&x-amz-UFID=424751207360808686&X-Amz-Signature=3c245da75131e49719678805d9a46e1118602220062f26ec018da5fcefb82fa8#第20集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/d4a46076-4ee9-416b-9c78-028187f01e82.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222052Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E20.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=690676572&x-amz-UFID=924041207358396578&X-Amz-Signature=81f831f11c0d30d8f1f8b2de7bd9e452771420e1150336c7ec9a7a529aa54e21#第21集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/8b3394e2-2e00-4b38-ae9f-1fa8d357c55f.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222054Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E21.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=698532283&x-amz-UFID=423891207360887640&X-Amz-Signature=ec2857e8bfa71d3993eb178f653918198f3508ff990defe44623ff93a9bdad18#第22集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/9125abfd-7ff5-45db-afb7-1ddbdc522be0.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222056Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E22.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=690366451&x-amz-UFID=524371207362350614&X-Amz-Signature=f9ccaf5d3658d917a8c1e56a7cbc4fa393d5d3199cf4794de2c8c61b8b2685bb#第23集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/9b54a0ce-c379-4902-b7d1-b5abe9a43354.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222058Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E23.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=525658238&x-amz-UFID=725111207359862201&X-Amz-Signature=5f1dacd4ac919939b87a3f105af75a4afa70a0da27d1a729c0f7d170d32724e9#第24集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/b5165836-943e-4a32-8560-2d2db7065e23.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222101Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E24.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=536810228&x-amz-UFID=623781207362360331&X-Amz-Signature=5a137768b660d6c2382bd9702b987f6270172b347c8ad4a1bdd900894f2d82a9#第25集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/7f448b24-e27e-4879-ba3f-3ffb661a60e2.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222103Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E25.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=671718693&x-amz-UFID=823111207362052039&X-Amz-Signature=03856597ea38795a431d86266079adaaec6f6e98bab061f81a30d586000fabbc#第26集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/228add90-fc5b-43fe-bece-788f67fe6dcc.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222105Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E26.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=655293225&x-amz-UFID=824011207360977589&X-Amz-Signature=91b530c6591bdb7d00b11bcaab73b5d81920f2d911c262afbca2de7e4718d6fa#第27集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/d64eac82-736d-4193-9028-6e3c224e21da.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222107Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E27.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=658636993&x-amz-UFID=824551207361255764&X-Amz-Signature=dc565d4f90046ad6144f32dd18e2d44bf5f44d06e82c7a8eeeab89773c3771b3#第28集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/f037e3ce-eee0-4e56-906d-0c4a9043cd17.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222110Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E28.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=637704541&x-amz-UFID=525021207361434723&X-Amz-Signature=23f9c2836473350d079e13f4dad5988531a7afac11cf22bd1ee3058047def17b#第29集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/1c45ed0a-91a4-495b-856e-39a9cd408899.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222112Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E29.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=683869231&x-amz-UFID=623801207358117485&X-Amz-Signature=e471d7f6fd65b289ad614103fd9ecafcdd67babe8d3a9ff91915e394cb307cd2#第30集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/e493b6b3-6394-4dbe-b7f4-c06680789bb2.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222114Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E30.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=673758801&x-amz-UFID=524101207360797613&X-Amz-Signature=4d42c1b4362a1e94bf5e90290870496198c2ca406915147bc6bf17552e32a80c#第31集$https://cloudcube.wuxi.cn/cloudcube-beijinggpz-js-person/4c3b7cd4-dcb5-4d4b-8b7d-300e06ce965d?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222116Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E31.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=652767363&x-amz-UFID=125191207358206795&X-Amz-Signature=f96fb6c00b1bb49fe99029ff571c850265ba307dad2c80d8c62c5d794b108bbe#第32集$https://obs-shh2-qysuzhou-person.obs.cn-jssz1.ctyun.cn/0db44c2d-ea5e-49c9-85d2-86187cd37c9d?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222119Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E32.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=656999908&x-amz-UFID=524661207357199365&X-Amz-Signature=ea2f683a8cb721c4341c3ab360eb12ba1e23234093ca340a6ba30b9b51a3d40e#第33集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/27d84aa4-e9f0-4905-a5c6-dab664d4a900.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222121Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E33.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=677051093&x-amz-UFID=923131207361305183&X-Amz-Signature=dbb497cab091d1aa2202565dff7b39e5274f854e8f01cf478c5df0d248ea9bb1#第34集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/75416984-d255-497b-aecb-3a756eb9060c.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222123Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E34.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=674380170&x-amz-UFID=325061207360309234&X-Amz-Signature=35621d9da457a986c24e7931ef441df815deb02f8e49ce673b0190fe04940350#第35集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/ef8aabe9-928b-42cf-babf-f216d48d801b.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222125Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E35.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=663851090&x-amz-UFID=725411207358076733&X-Amz-Signature=8e93553eb87f49376f63fdabd651e95e815372e7b855763c82b42c45d025f7ce#第36集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/db15a26e-4567-49c0-ac34-be49069978ff.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222128Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E36.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=672718163&x-amz-UFID=923201207361065459&X-Amz-Signature=81a0c435ac94c735471d8e8a5818a2ea6615980b660d40f0318521de7fd81f18#第37集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/8098243d-b36a-4862-b6c1-4796a5eb188d.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222130Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E37.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=653795609&x-amz-UFID=124591207360945909&X-Amz-Signature=b48391bac4bd41648cc44f1fc97bcc8395b99bf7badcfcf82fb0d36518b30eef#第38集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/d5dc2912-83aa-4958-ad97-c92e5ec6b6cb.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222132Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E38.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=665746629&x-amz-UFID=523911207359941302&X-Amz-Signature=bfd1b9a26318884432f2dba27a21f67d3fbed822b5b3df717ac1a51bf48b3dd7#第39集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/4c52f0f2-0179-4cf0-8a5f-977185d3eba0.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222134Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E39.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=535403142&x-amz-UFID=123771207360298182&X-Amz-Signature=d16bd87688c9dd18a321a33bfd7101718668b289ae666acc316f665e571fdd9f#第40集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/1c53f9a5-1524-44a2-b4f1-cbeeb7d48839.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222137Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E40.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=694943749&x-amz-UFID=524751207360806358&X-Amz-Signature=56435620968407f590bd527f5771fe0592e72e9352e622005f2f84fc941a689a#第41集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/384493dc-7b10-4d0d-bc79-56f626e01fd4.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222139Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E41.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=529782886&x-amz-UFID=924371207360398379&X-Amz-Signature=cfab204237a8d2c9baa53e7586fb2bd26bd89be05436a35251b043ffafa6cd43#第42集$https://cloudcube.telecomjs.com/media-zjhz-fy-home/FAMILYCLOUD/6d02c4ad-081b-4941-ab0c-e04bc3a2da5e.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222141Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=SZshenghuo/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E42.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=540724900&x-amz-UFID=724161207360088686&X-Amz-Signature=a9a9cdf9f31a47ae0400968c18d544515cac584b43400abf456ce6984c3f5252#第43集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/4781d098-8560-48ba-8537-d698815ed541.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222143Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E43.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=695632731&x-amz-UFID=523911207359941050&X-Amz-Signature=205c1b0cd5b6a3cb01073d927a35d9b733b2177be133d127af5999e4c6b84783#第44集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/cd714a57-ea96-4c97-82b2-df61dfb60372.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222146Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E44.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=653525258&x-amz-UFID=824591207360626718&X-Amz-Signature=f14bd568264c45b60a089374de9b97f0e514f534fb3af3d93193002193df42b1#第45集$https://media-bj-gpz-qyneimeng-home.nm8oss.ctyunxs.cn/18dfb3aa-c45b-483b-920a-71f183fecbd2.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261108T222148Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=0MZV8MPhrUO0fMgJf4bG/20261108/us-east-1/s3/aws4_request&x-amz-UID=300001602543597&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E4%25BA%25BA%25E4%25B8%2596%25E9%2597%25B4.E45.mp4&x-amz-OPERID=300001602560034&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=565185295&x-amz-UFID=724981207360050643&X-Amz-Signature=668e6f8c517271c7adcf7c46423bf6c763e8c085cc61e8d41934c3f12c275c30",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至27集"
+    },
+    {
+      "vod_id": 10026,
+      "vod_name": "行尸走肉: 第4季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2023/08/1bFtBZg4ehney9ogQncllQAeX8o-233x350.jpg",
+      "vod_remarks": "全16集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/9455bed30a70e333a2b0987e43848dfb.m3u8#第2集$https://oss.douyinbit.com/m3u8/81f04f02a66f379fa2cb051b389f0b37.m3u8#第3集$https://oss.douyinbit.com/m3u8/f58244efbdd3a2b494eaa65958c87b2a.m3u8#第4集$https://oss.douyinbit.com/m3u8/6d1aca302975bcf71ba5ccd9feb797d0.m3u8#第5集$https://oss.douyinbit.com/m3u8/10568ab41b81711bf4452154ca0a6524.m3u8#第6集$https://oss.douyinbit.com/m3u8/a9f422cfc27f1bc886a6f2012bcb8bdd.m3u8#第7集$https://oss.douyinbit.com/m3u8/8611e631e70e858caff1bc0a318caa86.m3u8#第8集$https://oss.douyinbit.com/m3u8/314295c7123f6321feb68931148c7b4b.m3u8#第9集$https://oss.douyinbit.com/m3u8/cdc1b4333235141dd1a1b3790bdf1265.m3u8#第10集$https://oss.douyinbit.com/m3u8/6e2bc0506eb0b3f6686950b8aeb57280.m3u8#第11集$https://oss.douyinbit.com/m3u8/316d82da8dc0b650a53462a1e97d8da0.m3u8#第12集$https://oss.douyinbit.com/m3u8/909607715db6780c5a6ce6d36e6be333.m3u8#第13集$https://oss.douyinbit.com/m3u8/f1b5289d0e793d83e8c0d8512c575e94.m3u8#第14集$https://oss.douyinbit.com/m3u8/d8ac90f1e9f98167ba7413ef49c48ee5.m3u8#第15集$https://oss.douyinbit.com/m3u8/15c0e3f23c3c2ad85b97269416b8e9a5.m3u8#第16集$https://oss.douyinbit.com/m3u8/7030577981e84fa2af972adde43e716c.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "全16集"
+    },
+    {
+      "vod_id": 10027,
       "vod_name": "牧神记 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -321,7 +345,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10026,
+      "vod_id": 10028,
       "vod_name": "谷雨",
       "type_id": 11,
       "type_name": "连续剧",
@@ -333,7 +357,7 @@
       "vod_remarks_src": "更新至10集"
     },
     {
-      "vod_id": 10027,
+      "vod_id": 10029,
       "vod_name": "Doctor X：白色黑手党时代",
       "type_id": 11,
       "type_name": "连续剧",
@@ -345,7 +369,7 @@
       "vod_remarks_src": "更新至10集"
     },
     {
-      "vod_id": 10028,
+      "vod_id": 10030,
       "vod_name": "人民的名义: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -357,19 +381,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10029,
-      "vod_name": "太平年",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/09/douban_1789278370-300x450.jpg",
-      "vod_remarks": "更新至40集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第9集$https://oss.douyinbit.com/m3u8/db6a5a4beec7e1b97efcf6aa5b248fba.m3u8#第10集$https://oss.douyinbit.com/m3u8/78123e3267952e971de525f22d74a7fb.m3u8#第11集$https://oss.douyinbit.com/m3u8/94185ad0f31ffa96a8619b5dc7c94ee4.m3u8#第12集$https://oss.douyinbit.com/m3u8/00dc42a38d10b169c752cb3ebee26488.m3u8#第13集$https://oss.douyinbit.com/m3u8/080590dfaec5e8bea2f0264cf70a264b.m3u8#第14集$https://oss.douyinbit.com/m3u8/ba1d1be791352c4a7f5c99a706e36fe2.m3u8#第15集$https://oss.douyinbit.com/m3u8/fa9ff985be2026cb665408ceaee0be89.m3u8#第16集$https://oss.douyinbit.com/m3u8/fc4bc5a69d830ce9014d4715d00b8e6e.m3u8#第17集$https://oss.douyinbit.com/m3u8/d788f962a799cd542a6fc85682db4722.m3u8#第18集$https://oss.douyinbit.com/m3u8/26e71f44506de54505a635fc46d1862f.m3u8#第19集$https://oss.douyinbit.com/m3u8/6a633a88ca27a4ab28d2a1fab9860f0d.m3u8#第20集$https://oss.douyinbit.com/m3u8/389f892bb88584adc34ba520331b4ae3.m3u8#第21集$https://oss.douyinbit.com/m3u8/3b3c256cb337ad37130a5f153e1a6a46.m3u8#第22集$https://oss.douyinbit.com/m3u8/5ae6a48146d96bf301261d49d4a29b8e.m3u8#第23集$https://oss.douyinbit.com/m3u8/2fc419a79989c62953008192913ab75e.m3u8#第24集$https://oss.douyinbit.com/m3u8/c2774143932511c1e2e7ece7da36bfff.m3u8#第25集$https://oss.douyinbit.com/m3u8/89fd0789c835bca7afb60a6c08151e5e.m3u8#第26集$https://oss.douyinbit.com/m3u8/f0a68ca790a67dcd2b02c192f6538956.m3u8#第27集$https://oss.douyinbit.com/m3u8/5318d7a9966168f5e544c942246f0e8e.m3u8#第28集$https://oss.douyinbit.com/m3u8/8d161505e438eb80ee4197724a3e6a65.m3u8#第29集$https://oss.douyinbit.com/m3u8/941fa8cd1edf65b0201b367321c81b99.m3u8#第30集$https://oss.douyinbit.com/m3u8/2c32c59756385170c6fd1df95dc563e0.m3u8#第31集$https://oss.douyinbit.com/m3u8/ed617ae39d0c7d46d53945c639447120.m3u8#第32集$https://oss.douyinbit.com/m3u8/0758a2d392ca02b55fc5c31e2083617e.m3u8#第33集$https://oss.douyinbit.com/m3u8/01cd961ac9fb8ece015620b1f857ba2c.m3u8#第34集$https://oss.douyinbit.com/m3u8/39ed1d5e1ccfad26146608b324dd206a.m3u8#第35集$https://oss.douyinbit.com/m3u8/2547b8ca18f9bcb2dfb2e480a73ad1ec.m3u8#第36集$https://oss.douyinbit.com/m3u8/dee22aa5c4fe4e19a59ba249ea3a437e.m3u8#第37集$https://oss.douyinbit.com/m3u8/011cd849959c5ed9d89bec720eff10a7.m3u8#第38集$https://oss.douyinbit.com/m3u8/b80bd9995bbd86b42d2affab78d6aea7.m3u8#第39集$https://oss.douyinbit.com/m3u8/476ed99c0670f9283e4b78ac28d121c9.m3u8#第40集$https://oss.douyinbit.com/m3u8/442deaeead34844c9f765cf88e38b630.m3u8#第41集$https://oss.douyinbit.com/m3u8/0490bad0ad942cb8e28738eaf7591c55.m3u8#第42集$https://oss.douyinbit.com/m3u8/4ee8b8beec6dd8f70ab92b591274965a.m3u8#第43集$https://oss.douyinbit.com/m3u8/4e5af89740ced421a61253b433372314.m3u8#第44集$https://oss.douyinbit.com/m3u8/0b547d220125cc47f157842ffd223cfd.m3u8#第45集$https://oss.douyinbit.com/m3u8/927791d01899f1fda0cadbf199a590e9.m3u8#第46集$https://oss.douyinbit.com/m3u8/8543a876f03977a454560be2cf30820c.m3u8#第47集$https://oss.douyinbit.com/m3u8/65fd5c42598d2effe80d145b2bb3f745.m3u8#第48集$https://oss.douyinbit.com/m3u8/807600a9e47f2b0b347dbab7def0794b.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至40集"
-    },
-    {
-      "vod_id": 10030,
+      "vod_id": 10031,
       "vod_name": "极恶老大 第一季",
       "type_id": 13,
       "type_name": "动漫",
@@ -381,7 +393,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10031,
+      "vod_id": 10032,
       "vod_name": "光阴之外",
       "type_id": 13,
       "type_name": "动漫",
@@ -393,7 +405,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10032,
+      "vod_id": 10033,
       "vod_name": "凡人修仙传",
       "type_id": 13,
       "type_name": "动漫",
@@ -405,7 +417,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10033,
+      "vod_id": 10034,
       "vod_name": "小城良方",
       "type_id": 11,
       "type_name": "连续剧",
@@ -417,7 +429,7 @@
       "vod_remarks_src": "全29集"
     },
     {
-      "vod_id": 10034,
+      "vod_id": 10035,
       "vod_name": "英雄联盟：双城之战: 第2季",
       "type_id": 13,
       "type_name": "动漫",
@@ -429,7 +441,7 @@
       "vod_remarks_src": "更新至9集"
     },
     {
-      "vod_id": 10035,
+      "vod_id": 10036,
       "vod_name": "走马上任",
       "type_id": 11,
       "type_name": "连续剧",
@@ -441,7 +453,7 @@
       "vod_remarks_src": "更新至15集"
     },
     {
-      "vod_id": 10036,
+      "vod_id": 10037,
       "vod_name": "琅琊榜",
       "type_id": 11,
       "type_name": "连续剧",
@@ -453,7 +465,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10037,
+      "vod_id": 10038,
       "vod_name": "流人 第六季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -465,7 +477,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10038,
+      "vod_id": 10039,
       "vod_name": "极恶非道",
       "type_id": 10,
       "type_name": "电影",
@@ -477,7 +489,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10039,
+      "vod_id": 10040,
       "vod_name": "沧元图",
       "type_id": 13,
       "type_name": "动漫",
@@ -489,7 +501,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10040,
+      "vod_id": 10041,
       "vod_name": "大主宰 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -501,7 +513,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10041,
+      "vod_id": 10042,
       "vod_name": "灵境行者",
       "type_id": 13,
       "type_name": "动漫",
@@ -513,7 +525,7 @@
       "vod_remarks_src": "更新至11集"
     },
     {
-      "vod_id": 10042,
+      "vod_id": 10043,
       "vod_name": "诛仙 全季",
       "type_id": 13,
       "type_name": "动漫",
@@ -525,7 +537,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10043,
+      "vod_id": 10044,
       "vod_name": "斗罗大陆Ⅱ绝世唐门 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -537,7 +549,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10044,
+      "vod_id": 10045,
       "vod_name": "塔尔萨之王 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -549,7 +561,7 @@
       "vod_remarks_src": "更新至3集"
     },
     {
-      "vod_id": 10045,
+      "vod_id": 10046,
       "vod_name": "终极名单 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -561,7 +573,7 @@
       "vod_remarks_src": "更新至2集"
     },
     {
-      "vod_id": 10046,
+      "vod_id": 10047,
       "vod_name": "抖擞",
       "type_id": 10,
       "type_name": "电影",
@@ -573,7 +585,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10047,
+      "vod_id": 10048,
       "vod_name": "斗破苍穹 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -585,7 +597,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10048,
+      "vod_id": 10049,
       "vod_name": "逐玉",
       "type_id": 11,
       "type_name": "连续剧",
@@ -597,7 +609,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10049,
+      "vod_id": 10050,
       "vod_name": "遮天",
       "type_id": 13,
       "type_name": "动漫",
@@ -609,7 +621,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10050,
+      "vod_id": 10051,
       "vod_name": "吞噬星空",
       "type_id": 13,
       "type_name": "动漫",
@@ -621,7 +633,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10051,
+      "vod_id": 10052,
       "vod_name": "百日谎言",
       "type_id": 11,
       "type_name": "连续剧",
@@ -633,7 +645,7 @@
       "vod_remarks_src": "更新至8集"
     },
     {
-      "vod_id": 10052,
+      "vod_id": 10053,
       "vod_name": "请回答1988",
       "type_id": 11,
       "type_name": "连续剧",
@@ -645,7 +657,7 @@
       "vod_remarks_src": "全20集"
     },
     {
-      "vod_id": 10053,
+      "vod_id": 10054,
       "vod_name": "末路兼职",
       "type_id": 11,
       "type_name": "连续剧",
@@ -657,7 +669,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10054,
+      "vod_id": 10055,
       "vod_name": "爱情公寓3",
       "type_id": 11,
       "type_name": "连续剧",
@@ -669,7 +681,7 @@
       "vod_remarks_src": "全24集"
     },
     {
-      "vod_id": 10055,
+      "vod_id": 10056,
       "vod_name": "幻视任务",
       "type_id": 11,
       "type_name": "连续剧",
@@ -681,7 +693,7 @@
       "vod_remarks_src": "更新至7集"
     },
     {
-      "vod_id": 10056,
+      "vod_id": 10057,
       "vod_name": "别班 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -693,7 +705,7 @@
       "vod_remarks_src": "更新至13集"
     },
     {
-      "vod_id": 10057,
+      "vod_id": 10058,
       "vod_name": "黑帮领地 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -705,7 +717,7 @@
       "vod_remarks_src": "更新至7集"
     },
     {
-      "vod_id": 10058,
+      "vod_id": 10059,
       "vod_name": "无间兄弟情",
       "type_id": 11,
       "type_name": "连续剧",
@@ -717,7 +729,7 @@
       "vod_remarks_src": "更新至7集"
     },
     {
-      "vod_id": 10059,
+      "vod_id": 10060,
       "vod_name": "七龙珠超：比鲁斯",
       "type_id": 13,
       "type_name": "动漫",
@@ -729,7 +741,7 @@
       "vod_remarks_src": "更新至4集"
     },
     {
-      "vod_id": 10060,
+      "vod_id": 10061,
       "vod_name": "一斩苍穹",
       "type_id": 13,
       "type_name": "动漫",
@@ -741,7 +753,7 @@
       "vod_remarks_src": "更新至16集"
     },
     {
-      "vod_id": 10061,
+      "vod_id": 10062,
       "vod_name": "恋爱博士",
       "type_id": 11,
       "type_name": "连续剧",
@@ -753,7 +765,7 @@
       "vod_remarks_src": "更新至10集"
     },
     {
-      "vod_id": 10062,
+      "vod_id": 10063,
       "vod_name": "怪奇物语: 第4季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -765,7 +777,7 @@
       "vod_remarks_src": "全9集"
     },
     {
-      "vod_id": 10063,
+      "vod_id": 10064,
       "vod_name": "小巷人家: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -777,7 +789,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10064,
+      "vod_id": 10065,
       "vod_name": "大明王朝1566: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -789,7 +801,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10065,
+      "vod_id": 10066,
       "vod_name": "狂爱情挑",
       "type_id": 10,
       "type_name": "电影",
@@ -801,7 +813,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10066,
+      "vod_id": 10067,
       "vod_name": "死神 千年血战篇 -祸进谭",
       "type_id": 13,
       "type_name": "动漫",
@@ -813,7 +825,7 @@
       "vod_remarks_src": "更新至10集"
     },
     {
-      "vod_id": 10067,
+      "vod_id": 10068,
       "vod_name": "爱情公寓: 第5季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -825,7 +837,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10068,
+      "vod_id": 10069,
       "vod_name": "无耻之徒(美版) 第九季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -837,7 +849,7 @@
       "vod_remarks_src": "全14集"
     },
     {
-      "vod_id": 10069,
+      "vod_id": 10070,
       "vod_name": "风骚律师: 第6季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -849,7 +861,7 @@
       "vod_remarks_src": "全13集"
     },
     {
-      "vod_id": 10070,
+      "vod_id": 10071,
       "vod_name": "权力的游戏 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -861,7 +873,7 @@
       "vod_remarks_src": "全10集"
     },
     {
-      "vod_id": 10071,
+      "vod_id": 10072,
       "vod_name": "药屋少女的呢喃 第二季",
       "type_id": 13,
       "type_name": "动漫",
@@ -873,7 +885,7 @@
       "vod_remarks_src": "更新至23集"
     },
     {
-      "vod_id": 10072,
+      "vod_id": 10073,
       "vod_name": "潜伏",
       "type_id": 11,
       "type_name": "连续剧",
@@ -885,7 +897,7 @@
       "vod_remarks_src": "全30集"
     },
     {
-      "vod_id": 10073,
+      "vod_id": 10074,
       "vod_name": "余红旧事",
       "type_id": 11,
       "type_name": "连续剧",
@@ -897,7 +909,7 @@
       "vod_remarks_src": "全34集"
     },
     {
-      "vod_id": 10074,
+      "vod_id": 10075,
       "vod_name": "美人余",
       "type_id": 11,
       "type_name": "连续剧",
@@ -909,7 +921,7 @@
       "vod_remarks_src": "全28集"
     },
     {
-      "vod_id": 10075,
+      "vod_id": 10076,
       "vod_name": "交锋",
       "type_id": 11,
       "type_name": "连续剧",
@@ -921,7 +933,7 @@
       "vod_remarks_src": "全40集"
     },
     {
-      "vod_id": 10076,
+      "vod_id": 10077,
       "vod_name": "无耻之徒: 第4季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -933,7 +945,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10077,
+      "vod_id": 10078,
       "vod_name": "蒸蒸日上",
       "type_id": 11,
       "type_name": "连续剧",
@@ -945,7 +957,7 @@
       "vod_remarks_src": "全22集"
     },
     {
-      "vod_id": 10078,
+      "vod_id": 10079,
       "vod_name": "无可替代",
       "type_id": 11,
       "type_name": "连续剧",
@@ -957,7 +969,7 @@
       "vod_remarks_src": "全20集"
     },
     {
-      "vod_id": 10079,
+      "vod_id": 10080,
       "vod_name": "九品芝麻官",
       "type_id": 10,
       "type_name": "电影",
@@ -969,7 +981,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10080,
+      "vod_id": 10081,
       "vod_name": "择日飞升",
       "type_id": 13,
       "type_name": "动漫",
@@ -981,7 +993,7 @@
       "vod_remarks_src": "更新至18集"
     },
     {
-      "vod_id": 10081,
+      "vod_id": 10082,
       "vod_name": "绝命毒师: 第5季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -993,7 +1005,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10082,
+      "vod_id": 10083,
       "vod_name": "办公室 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1005,7 +1017,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10083,
+      "vod_id": 10084,
       "vod_name": "新闻编辑室 第三季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1017,7 +1029,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10084,
+      "vod_id": 10085,
       "vod_name": "我不是大师",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1029,7 +1041,7 @@
       "vod_remarks_src": "全24集"
     },
     {
-      "vod_id": 10085,
+      "vod_id": 10086,
       "vod_name": "三太太",
       "type_id": 10,
       "type_name": "电影",
@@ -1041,7 +1053,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10086,
+      "vod_id": 10087,
       "vod_name": "自由坠落",
       "type_id": 10,
       "type_name": "电影",
@@ -1053,7 +1065,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10087,
+      "vod_id": 10088,
       "vod_name": "叶卡捷琳娜大帝 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1065,7 +1077,7 @@
       "vod_remarks_src": "更新至16集"
     },
     {
-      "vod_id": 10088,
+      "vod_id": 10089,
       "vod_name": "攻壳机动队 第一季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1077,7 +1089,7 @@
       "vod_remarks_src": "全26集"
     },
     {
-      "vod_id": 10089,
+      "vod_id": 10090,
       "vod_name": "犬夜叉",
       "type_id": 13,
       "type_name": "动漫",
