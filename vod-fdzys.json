@@ -252,6 +252,18 @@
     },
     {
       "vod_id": 10020,
+      "vod_name": "百家讲坛",
+      "type_id": 12,
+      "type_name": "综艺",
+      "vod_pic": "https://fdzys.com/upload/vod/20260513-1/aeb3f8012de2623e60a1fd1eeb2f1b2f.webp",
+      "vod_remarks": "更新至20261112期",
+      "vod_play_from": "无印云",
+      "vod_play_url": "第20251120集$https://v14.wsyzym3u8.com/202512/01/aaJShsAEH622/video/index.m3u8#第20251121集$https://v14.wsyzym3u8.com/202512/01/Nz3FqJdTMW22/video/index.m3u8#第20251122集$https://v14.wsyzym3u8.com/202512/01/XMKJpSv7BG22/video/index.m3u8#第20251123集$https://v14.wsyzym3u8.com/202512/01/7bFhyLBfW122/video/index.m3u8#第20251124集$https://v14.wsyzym3u8.com/202512/01/R3Dj1icF8b22/video/index.m3u8#第20251125集$https://v14.wsyzym3u8.com/202512/01/m5NwE7DzLq22/video/index.m3u8#第20251126集$https://v14.wsyzym3u8.com/202512/01/4rGKPyvCFM22/video/index.m3u8#第20251127集$https://v14.wsyzym3u8.com/202512/01/595gM2mw7r22/video/index.m3u8#第20251128集$https://v14.wsyzym3u8.com/202512/01/wCvZUacfYB22/video/index.m3u8#第20251129集$https://v14.wsyzym3u8.com/202512/01/wYp45vQ1hk22/video/index.m3u8#第20251130集$https://v14.wsyzym3u8.com/202512/01/9YFYdGYtrU22/video/index.m3u8#第20251201集$https://v14.wsyzym3u8.com/202512/01/y3UdFWrkA222/video/index.m3u8#第20251202集$https://v14.wsyzym3u8.com/202512/02/FQzDMYf56222/video/index.m3u8#第20251203集$https://v14.wsyzym3u8.com/202512/03/RBaGVshnYs22/video/index.m3u8",
+      "vod_source": "fdzys",
+      "vod_remarks_src": "更新至20261112期"
+    },
+    {
+      "vod_id": 10021,
       "vod_name": "闹着玩",
       "type_id": 12,
       "type_name": "综艺",
@@ -263,7 +275,19 @@
       "vod_remarks_src": "更新20261026"
     },
     {
-      "vod_id": 10021,
+      "vod_id": 10022,
+      "vod_name": "花儿与少年第八季",
+      "type_id": 12,
+      "type_name": "综艺",
+      "vod_pic": "https://pic.youkupic.com/upload/vod/20260904-1/b4b8e45383c5eee731ba4267e5c9908f.jpg",
+      "vod_remarks": "更新至20261112期",
+      "vod_play_from": "优质云",
+      "vod_play_url": "20260904七福陪看记$https://svip.yzzy33-play.vip/20260904/19054_d59721f6/index.m3u8#20260904首映篇$https://player.yzzyvip-35.com/20260904/15611_fc1618c9/index.m3u8#20260905送机篇$https://player.yzzyvip-35.com/20260905/15664_e36078a8/index.m3u8#20260906送机篇$https://cdn.yzzy31-play.com/20260906/25254_596676c0/index.m3u8#20260907送机篇$https://svip.yzzy33-play.vip/20260907/19213_23e140a8/index.m3u8#20260908送机篇$https://svip.yzzy33-play.vip/20260908/19340_441314de/index.m3u8#20260909超前营业$https://cdn.yzzy31-play.com/20260909/25443_961e4b86/index.m3u8#20260910上$https://player.yzzyvip-35.com/20260910/16382_6055d2a6/index.m3u8#20260910中$https://player.yzzyvip-35.com/20260910/16383_09a7d8e1/index.m3u8#20260911下$https://cdn.yzzy30-play.com/20260911/58933_bb38b68d/index.m3u8#20260913加更版$https://cdn.yzzy31-play.com/20260913/25796_3f94dc57/index.m3u8#20260914七福陪看记$https://cdn.yzzy31-play.com/20260914/25851_5c10d595/index.m3u8#20260915送机篇$https://cdn.yzzy31-play.com/20260915/25914_40db0c1f/index.m3u8#20260916送机篇$https://cdn.yzzy31-play.com/20260916/25971_e8568f57/index.m3u8#20260917超前营业$https://svip.yzzy33-play.vip/20260917/19725_091fe63c/index.m3u8#20260918期$https://svip.yzzy33-play.vip/20260918/19771_4afa2aea/index.m3u8#20260918正片加码$https://player.yzzyvip-35.com/20260918/16859_9300f7b7/index.m3u8#20260920加更版$https://cdn.yzzy31-play.com/20260920/26431_eecb119b/index.m3u8#20260924超前营业$https://cdn.yzzy31-play.com/20260924/26611_64a9c037/index.m3u8#20260925上$https://svip.yzzy33-play.vip/20260925/20287_37e4ff18/index.m3u8#20260925下$https://svip.yzzy33-play.vip/20260925/20288_b34fcbb8/index.m3u8#202600927加更版$https://svip.yzzy33-play.vip/20260927/20401_a8149e93/index.m3u8#20260928七福陪看记$https://cdn.yzzy30-play.com/20260928/59570_8bb44a44/index.m3u8#20261001超前营业$https://cdn.yzzy31-play.com/20261001/26885_ede08f3a/index.m3u8#20261002上$https://player.yzzyvip-35.com/20261002/17965_70625b09/index.m3u8#20261002下$https://player.yzzyvip-35.com/20261002/17966_edeb62f9/index.m3u8#20261004加更版$https://player.yzzyvip-35.com/20261004/18167_676146e0/index.m3u8#20261008超前营业$https://player.yzzyvip-35.com/20261008/18440_81a1e36d/index.m3u8#20261009期$https://player.yzzyvip-35.com/20261009/18494_38ba5157/index.m3u8#20261009正片加码$https://cdn.yzzy31-play.com/20261009/27310_36784239/index.m3u8#20261011加更版$https://player.yzzyvip-35.com/20261011/18596_075a0fee/index.m3u8#20261015超前营业$https://cdn.yzzy31-play.com/20261015/27686_3590f3fb/index.m3u8#20261016期$https://player.yzzyvip-35.com/20261016/19125_3a98773b/index.m3u8#20261016正片加码$https://player.yzzyvip-35.com/20261016/19126_3a5b32a3/index.m3u8#20261018加更版$https://cdn.yzzy31-play.com/20261018/27859_6f2c88b9/index.m3u8#20261022超前营业$https://cdn.yzzy30-play.com/20261022/60729_e1f911f0/index.m3u8#20261023上$https://svip.yzzy33-play.vip/20261023/21575_7effe368/index.m3u8#20261023下$https://svip.yzzy33-play.vip/20261023/21576_d075b709/index.m3u8#20261025加更版$https://player.yzzy37-play.vip/20261025/1327_17fafe5f/index.m3u8#20261029超前营业$https://player.yzzy37-play.vip/20261029/1564_facf9f74/index.m3u8#20261030期$https://player.yzzyvip-35.com/20261030/19827_2297ae3a/index.m3u8#20261030正片加码$https://player.yzzy37-play.vip/20261030/1594_0ebcc77d/index.m3u8#20261031特别企划$https://cdn.yzzy30-play.com/20261031/61043_03f46dea/index.m3u8#20261101加更版$https://svip.yzzy33-play.vip/20261101/21996_acac6e55/index.m3u8#20261105超前营业$https://svip.yzzy33-play.vip/20261105/22218_d1cc6b3e/index.m3u8#20261106上$https://player.yzzyvip-35.com/20261106/20113_105bbb4c/index.m3u8#20261106下$https://player.yzzyvip-35.com/20261106/20110_c6852f03/index.m3u8#20261108加更版$https://player.yzzyvip-35.com/20261108/20176_c3671e16/index.m3u8#20261112超前营业$https://svip.yzzy33-play.vip/20261112/22601_2071adba/index.m3u8",
+      "vod_source": "fdzys",
+      "vod_remarks_src": "更新至20261112期"
+    },
+    {
+      "vod_id": 10023,
       "vod_name": "凡人修仙传2020",
       "type_id": 13,
       "type_name": "动漫",
@@ -275,7 +299,7 @@
       "vod_remarks_src": "更新至第197集"
     },
     {
-      "vod_id": 10022,
+      "vod_id": 10024,
       "vod_name": "吞噬星空",
       "type_id": 13,
       "type_name": "动漫",
@@ -286,7 +310,7 @@
       "vod_source": "fdzys"
     },
     {
-      "vod_id": 10023,
+      "vod_id": 10025,
       "vod_name": "完美世界",
       "type_id": 13,
       "type_name": "动漫",
@@ -297,7 +321,7 @@
       "vod_source": "fdzys"
     },
     {
-      "vod_id": 10024,
+      "vod_id": 10026,
       "vod_name": "沧元图",
       "type_id": 13,
       "type_name": "动漫",
@@ -308,7 +332,7 @@
       "vod_source": "fdzys"
     },
     {
-      "vod_id": 10025,
+      "vod_id": 10027,
       "vod_name": "师兄啊师兄",
       "type_id": 13,
       "type_name": "动漫",
@@ -320,7 +344,7 @@
       "vod_remarks_src": "第165集"
     },
     {
-      "vod_id": 10026,
+      "vod_id": 10028,
       "vod_name": "大主宰年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -331,7 +355,7 @@
       "vod_source": "fdzys"
     },
     {
-      "vod_id": 10027,
+      "vod_id": 10029,
       "vod_name": "名侦探柯南",
       "type_id": 13,
       "type_name": "动漫",
@@ -343,7 +367,7 @@
       "vod_remarks_src": "更新至1277集"
     },
     {
-      "vod_id": 10028,
+      "vod_id": 10030,
       "vod_name": "炼气十万年",
       "type_id": 13,
       "type_name": "动漫",
@@ -355,7 +379,7 @@
       "vod_remarks_src": "更新至第389集"
     },
     {
-      "vod_id": 10029,
+      "vod_id": 10031,
       "vod_name": "无上神帝",
       "type_id": 13,
       "type_name": "动漫",
@@ -366,19 +390,7 @@
       "vod_source": "fdzys"
     },
     {
-      "vod_id": 10030,
-      "vod_name": "百家讲坛",
-      "type_id": 12,
-      "type_name": "综艺",
-      "vod_pic": "https://fdzys.com/upload/vod/20260513-1/aeb3f8012de2623e60a1fd1eeb2f1b2f.webp",
-      "vod_remarks": "更新至20261111期",
-      "vod_play_from": "无印云",
-      "vod_play_url": "第20251120集$https://v14.wsyzym3u8.com/202512/01/aaJShsAEH622/video/index.m3u8#第20251121集$https://v14.wsyzym3u8.com/202512/01/Nz3FqJdTMW22/video/index.m3u8#第20251122集$https://v14.wsyzym3u8.com/202512/01/XMKJpSv7BG22/video/index.m3u8#第20251123集$https://v14.wsyzym3u8.com/202512/01/7bFhyLBfW122/video/index.m3u8#第20251124集$https://v14.wsyzym3u8.com/202512/01/R3Dj1icF8b22/video/index.m3u8#第20251125集$https://v14.wsyzym3u8.com/202512/01/m5NwE7DzLq22/video/index.m3u8#第20251126集$https://v14.wsyzym3u8.com/202512/01/4rGKPyvCFM22/video/index.m3u8#第20251127集$https://v14.wsyzym3u8.com/202512/01/595gM2mw7r22/video/index.m3u8#第20251128集$https://v14.wsyzym3u8.com/202512/01/wCvZUacfYB22/video/index.m3u8#第20251129集$https://v14.wsyzym3u8.com/202512/01/wYp45vQ1hk22/video/index.m3u8#第20251130集$https://v14.wsyzym3u8.com/202512/01/9YFYdGYtrU22/video/index.m3u8#第20251201集$https://v14.wsyzym3u8.com/202512/01/y3UdFWrkA222/video/index.m3u8#第20251202集$https://v14.wsyzym3u8.com/202512/02/FQzDMYf56222/video/index.m3u8#第20251203集$https://v14.wsyzym3u8.com/202512/03/RBaGVshnYs22/video/index.m3u8",
-      "vod_source": "fdzys",
-      "vod_remarks_src": "更新至20261111期"
-    },
-    {
-      "vod_id": 10031,
+      "vod_id": 10032,
       "vod_name": "灵境行者",
       "type_id": 13,
       "type_name": "动漫",
@@ -390,7 +402,7 @@
       "vod_remarks_src": "更新至第12集"
     },
     {
-      "vod_id": 10032,
+      "vod_id": 10033,
       "vod_name": "一斩苍穹",
       "type_id": 13,
       "type_name": "动漫",
@@ -402,7 +414,7 @@
       "vod_remarks_src": "更新至17集"
     },
     {
-      "vod_id": 10033,
+      "vod_id": 10034,
       "vod_name": "披荆斩棘第六季",
       "type_id": 12,
       "type_name": "综艺",
@@ -410,18 +422,6 @@
       "vod_remarks": "更新至20261108期",
       "vod_play_from": "非凡云",
       "vod_play_url": "第20260809期超前下$https://vod.ffzy-bofang.com/20260809/1773_4abe17a1/index.m3u8#第20260814期先导片$https://vod.ffzy-bofang.com/20260814/1998_c5b2cebf/index.m3u8#第20260815期直播$https://vod.ffzy-bofang.com/20260816/2075_cbef4632/index.m3u8#第20260816期直播$https://vod.ffzy-bofang.com/20260817/2113_01931a69/index.m3u8#第20260817期$https://vod.ffzy-bofang.com/20260817/2114_51174add/index.m3u8#第20260822期纯享$https://vod.ffzy-bofang.com/20260822/2321_761c7920/index.m3u8#第20260823期$https://vod.ffzy-bofang.com/20260823/2331_27344841/index.m3u8#第20260827期$https://vod.ffzy-bofang.com/20260827/2464_70c445ee/index.m3u8#第20260828期$https://vod.ffzy-bofang.com/20260828/2517_c5dc3e08/index.m3u8#第20260829期$https://vod.ffzy-bofang.com/20260829/2559_b5baa9c2/index.m3u8#第20260830期$https://vod.ffzy-bofang.com/20260830/2590_7876acb6/index.m3u8#第20260901期$https://vod.ffzy-bofang.com/20260902/2692_d790c9e6/index.m3u8#第20260903期$https://vod.ffzy-bofang.com/20260903/2732_36144052/index.m3u8#第20260904期直播$https://vod.ffzy-bofang.com/20260905/2829_46b2644c/index.m3u8#第20260905期$https://vod.ffzy-bofang.com/20260905/2830_0738069b/index.m3u8#第20260906期$https://vod.ffzy-bofang.com/20260906/2846_eb9fc349/index.m3u8#第20260908期$https://vod.ffzy-bofang.com/20260908/2911_ef67f7c2/index.m3u8#第20260909期$https://vod.ffzy-bofang.com/20260909/2939_6c990b7a/index.m3u8#第20260910期$https://vod.ffzy-bofang.com/20260910/2986_769675d7/index.m3u8#第20260911期$https://vod.ffzy-bofang.com/20260911/3029_a0ba2648/index.m3u8#第20260912期$https://vod.ffzy-bofang.com/20260912/3052_c1b70d96/index.m3u8#第20260913期$https://vod.ffzy-bofang.com/20260913/3087_78bc62d0/index.m3u8#第20260915期$https://vod.ffzy-bofang.com/20260916/3164_98b17f06/index.m3u8#第20260919期直播$https://vod.ffzy-bofang.com/20260920/3276_b58ac840/index.m3u8#第20260920期$https://vod.ffzy-bofang.com/20260920/3289_645e6bfd/index.m3u8#第20260921期$https://vod.ffzy-bofang.com/20260921/3312_334467d4/index.m3u8#第20260922期$https://vod.ffzy-bofang.com/20260922/3332_b0ab42fc/index.m3u8#第20260923期$https://vod.ffzy-bofang.com/20260923/3363_664dd858/index.m3u8#第20260924期$https://vod.ffzy-bofang.com/20260924/3394_e8a642ed/index.m3u8#第20260925期$https://vod.ffzy-bofang.com/20260925/3426_5d2c2cee/index.m3u8#第20260926期$https://vod.ffzy-bofang.com/20260926/3447_2e1b24a6/index.m3u8#第20260927期$https://vod.ffzy-bofang.com/20260927/3462_9edda0fd/index.m3u8#第20260929期$https://vod.ffzy-bofang.com/20260930/3525_da9e6a4a/index.m3u8#第20261001期$https://vod.ffzy-bofang.com/20261001/3555_22b1cd16/index.m3u8#第20261002期直播$https://vod.ffzy-bofang.com/20261004/3643_7ae11af2/index.m3u8#第20261003期观演$https://vod.ffzy-bofang.com/20261004/3645_d0aa518d/index.m3u8#第20261004期$https://vod.ffzy-bofang.com/20261004/3646_b5a1d925/index.m3u8#第20261006期$https://vod.ffzy-bofang.com/20261006/3689_39ea40e1/index.m3u8#第20261007期$https://vod.ffzy-bofang.com/20261007/3718_9d068c86/index.m3u8#第20261008期$https://vod.ffzy-bofang.com/20261008/3736_3e195b07/index.m3u8#第20261009期$https://vod.ffzy-bofang.com/20261009/3773_5c151c2a/index.m3u8#第20261010期$https://vod.ffzy-bofang.com/20261010/3800_63c6598e/index.m3u8#第20261011期$https://vod.ffzy-bofang.com/20261011/3831_cac8e130/index.m3u8#第20261013期$https://vod.ffzy-bofang.com/20261014/3916_49cbb759/index.m3u8#第20261016期直播$https://vod.ffzy-bofang.com/20261017/4016_f04cd739/index.m3u8#第20261017期直播$https://vod.ffzy-bofang.com/20261018/4051_3e33b970/index.m3u8#第20261018期$https://vod.ffzy-bofang.com/20261018/4052_90525e70/index.m3u8#第20261020期$https://vod.ffzy-bofang.com/20261020/4094_64c53a52/index.m3u8#第20261021期$https://vod.ffzy-bofang.com/20261021/4127_ca8a2d76/index.m3u8#第20261022期$https://vod.ffzy-bofang.com/20261022/4150_8b5c8441/index.m3u8#第20261023期$https://vod.ffzy-bofang.com/20261023/4193_3770282a/index.m3u8#第20261024期$https://vod.ffzy-bofang.com/20261024/4218_d278df49/index.m3u8#第20261025期$https://vod.ffzy-bofang.com/20261025/4244_7369f3c8/index.m3u8#第20261030期观演$https://vod.ffzy-bofang.com/20261031/4399_bdbca288/index.m3u8#第20261031期加更$https://vod.ffzy-bofang.com/20261031/4401_2120606d/index.m3u8#第20261105期$https://vod.ffzy-bofang.com/20261105/4553_ccb1d57d/index.m3u8#第20261106期$https://vod.ffzy-bofang.com/20261106/4578_c2890d44/index.m3u8#第20261107期$https://vod.ffzy-bofang.com/20261107/4601_6d0c9328/index.m3u8#第20261108期$https://vod.ffzy-bofang.com/20261108/4633_96c97455/index.m3u8",
-      "vod_source": "fdzys",
-      "vod_remarks_src": "更新至20261108期"
-    },
-    {
-      "vod_id": 10034,
-      "vod_name": "花儿与少年第八季",
-      "type_id": 12,
-      "type_name": "综艺",
-      "vod_pic": "https://pic.youkupic.com/upload/vod/20260904-1/b4b8e45383c5eee731ba4267e5c9908f.jpg",
-      "vod_remarks": "更新至20261108期",
-      "vod_play_from": "优质云",
-      "vod_play_url": "20260904七福陪看记$https://cdn.vvvip-plays33.cc/20260904/19054_d59721f6/index.m3u8#20260904首映篇$https://player.yzzyvip-35.com/20260904/15611_fc1618c9/index.m3u8#20260905送机篇$https://player.yzzyvip-35.com/20260905/15664_e36078a8/index.m3u8#20260906送机篇$https://cdn.yzzy31-play.com/20260906/25254_596676c0/index.m3u8#20260907送机篇$https://cdn.vvvip-plays33.cc/20260907/19213_23e140a8/index.m3u8#20260908送机篇$https://cdn.vvvip-plays33.cc/20260908/19340_441314de/index.m3u8#20260909超前营业$https://cdn.yzzy31-play.com/20260909/25443_961e4b86/index.m3u8#20260910上$https://player.yzzyvip-35.com/20260910/16382_6055d2a6/index.m3u8#20260910中$https://player.yzzyvip-35.com/20260910/16383_09a7d8e1/index.m3u8#20260911下$https://cdn.yzzy30-play.com/20260911/58933_bb38b68d/index.m3u8#20260913加更版$https://cdn.yzzy31-play.com/20260913/25796_3f94dc57/index.m3u8#20260914七福陪看记$https://cdn.yzzy31-play.com/20260914/25851_5c10d595/index.m3u8#20260915送机篇$https://cdn.yzzy31-play.com/20260915/25914_40db0c1f/index.m3u8#20260916送机篇$https://cdn.yzzy31-play.com/20260916/25971_e8568f57/index.m3u8#20260917超前营业$https://cdn.vvvip-plays33.cc/20260917/19725_091fe63c/index.m3u8#20260918期$https://cdn.vvvip-plays33.cc/20260918/19771_4afa2aea/index.m3u8#20260918正片加码$https://player.yzzyvip-35.com/20260918/16859_9300f7b7/index.m3u8#20260920加更版$https://cdn.yzzy31-play.com/20260920/26431_eecb119b/index.m3u8#20260924超前营业$https://cdn.yzzy31-play.com/20260924/26611_64a9c037/index.m3u8#20260925上$https://cdn.vvvip-plays33.cc/20260925/20287_37e4ff18/index.m3u8#20260925下$https://cdn.vvvip-plays33.cc/20260925/20288_b34fcbb8/index.m3u8#202600927加更版$https://cdn.vvvip-plays33.cc/20260927/20401_a8149e93/index.m3u8#20260928七福陪看记$https://cdn.yzzy30-play.com/20260928/59570_8bb44a44/index.m3u8#20261001超前营业$https://cdn.yzzy31-play.com/20261001/26885_ede08f3a/index.m3u8#20261002上$https://player.yzzyvip-35.com/20261002/17965_70625b09/index.m3u8#20261002下$https://player.yzzyvip-35.com/20261002/17966_edeb62f9/index.m3u8#20261004加更版$https://player.yzzyvip-35.com/20261004/18167_676146e0/index.m3u8#20261008超前营业$https://player.yzzyvip-35.com/20261008/18440_81a1e36d/index.m3u8#20261009期$https://player.yzzyvip-35.com/20261009/18494_38ba5157/index.m3u8#20261009正片加码$https://cdn.yzzy31-play.com/20261009/27310_36784239/index.m3u8#20261011加更版$https://player.yzzyvip-35.com/20261011/18596_075a0fee/index.m3u8#20261015超前营业$https://cdn.yzzy31-play.com/20261015/27686_3590f3fb/index.m3u8#20261016期$https://player.yzzyvip-35.com/20261016/19125_3a98773b/index.m3u8#20261016正片加码$https://player.yzzyvip-35.com/20261016/19126_3a5b32a3/index.m3u8#20261018加更版$https://cdn.yzzy31-play.com/20261018/27859_6f2c88b9/index.m3u8#20261022超前营业$https://cdn.yzzy30-play.com/20261022/60729_e1f911f0/index.m3u8#20261023上$https://cdn.vvvip-plays33.cc/20261023/21575_7effe368/index.m3u8#20261023下$https://cdn.vvvip-plays33.cc/20261023/21576_d075b709/index.m3u8#20261025加更版$https://player.yzzy37-play.vip/20261025/1327_17fafe5f/index.m3u8#20261029超前营业$https://player.yzzy37-play.vip/20261029/1564_facf9f74/index.m3u8#20261030期$https://player.yzzyvip-35.com/20261030/19827_2297ae3a/index.m3u8#20261030正片加码$https://player.yzzy37-play.vip/20261030/1594_0ebcc77d/index.m3u8#20261031特别企划$https://cdn.yzzy30-play.com/20261031/61043_03f46dea/index.m3u8#20261101加更版$https://cdn.vvvip-plays33.cc/20261101/21996_acac6e55/index.m3u8#20261105超前营业$https://cdn.vvvip-plays33.cc/20261105/22218_d1cc6b3e/index.m3u8#20261106上$https://player.yzzyvip-35.com/20261106/20113_105bbb4c/index.m3u8#20261106下$https://player.yzzyvip-35.com/20261106/20110_c6852f03/index.m3u8#20261108加更版$https://player.yzzyvip-35.com/20261108/20176_c3671e16/index.m3u8",
       "vod_source": "fdzys",
       "vod_remarks_src": "更新至20261108期"
     },
