@@ -3,8 +3,8 @@
   "msg": "数据成功",
   "page": 1,
   "pagecount": 1,
-  "limit": 132,
-  "total": 132,
+  "limit": 137,
+  "total": 137,
   "class": [
     {
       "type_id": 10,
@@ -28,36 +28,72 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792226060-300x450.jpg",
       "vod_remarks": "全30集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/a71b729ccb20055a5b23333280d2019b.m3u8#第2集$https://oss.douyinbit.com/m3u8/29b7030040c38fc3a874bc9f69020c91.m3u8#第3集$https://oss.douyinbit.com/m3u8/73943633bfdf98fabfd8ed81d86bfda9.m3u8#第4集$https://oss.douyinbit.com/m3u8/7f5e32149222cb51e0be557e7d911127.m3u8#第5集$https://oss.douyinbit.com/m3u8/97c5e2b1d663d1d9e7eea25bb9b923eb.m3u8#第6集$https://oss.douyinbit.com/m3u8/60b46a96d4f2cbd988c2426f30296347.m3u8#第7集$https://oss.douyinbit.com/m3u8/f6b4bc7e8753c1efbacd3ce37f885299.m3u8#第8集$https://oss.douyinbit.com/m3u8/feeabd707abf0ca526a6bf71aca21bdf.m3u8#第9集$https://oss.douyinbit.com/m3u8/c360ef592f5fab83bbb9de8a749b48f8.m3u8#第10集$https://oss.douyinbit.com/m3u8/f27440f7ad9d7991ca5456ab416a67c1.m3u8#第11集$https://oss.douyinbit.com/m3u8/816aaf118550974415bc0f3775dc3872.m3u8#第12集$https://oss.douyinbit.com/m3u8/ed478d6cf70eb044f41866b006c35143.m3u8#第13集$https://oss.douyinbit.com/m3u8/58cc6a0a1258635512436edd5aacb9f9.m3u8#第14集$https://oss.douyinbit.com/m3u8/a7ac2e5533cea50d7b2db1df7bcf8ac4.m3u8#第15集$https://oss.douyinbit.com/m3u8/2067deab32317ade27e0afbb2faf17ff.m3u8#第16集$https://oss.douyinbit.com/m3u8/eb2f92463484ab6d09084a285614b0bb.m3u8#第17集$https://oss.douyinbit.com/m3u8/c9aa039a56269646c913954dd5850083.m3u8#第18集$https://oss.douyinbit.com/m3u8/e1c293a89ab33820ebe1cc0a0dbd0412.m3u8#第19集$https://oss.douyinbit.com/m3u8/88110aefc90bf890b077dd2e761b6655.m3u8#第20集$https://oss.douyinbit.com/m3u8/b0c31033b11485f0cc26bb3c071ba177.m3u8#第21集$https://oss.douyinbit.com/m3u8/0ebaca6969a214fbf927cc4c581c9331.m3u8#第22集$https://oss.douyinbit.com/m3u8/fb5cb886667c4978886076ff700c0002.m3u8#第23集$https://oss.douyinbit.com/m3u8/fbb12399e3c68c06769198e724a5216c.m3u8#第24集$https://oss.douyinbit.com/m3u8/aa93eb898b7d6b64ef82ddf5b4759fcd.m3u8#第25集$https://oss.douyinbit.com/m3u8/3fbe10b8486fa9838130aa1ab4b8868c.m3u8#第26集$https://oss.douyinbit.com/m3u8/2258fc8a5bb959e02d38479781685ce8.m3u8#第27集$https://oss.douyinbit.com/m3u8/1a9e71a93021e61ad72e2ddcfe048f30.m3u8#第28集$https://oss.douyinbit.com/m3u8/22d565014bb4ce938493f4c12575a613.m3u8#第29集$https://oss.douyinbit.com/m3u8/a9c415f58028ce0de6a3e145e4db1de2.m3u8#第30集$https://oss.douyinbit.com/m3u8/fa7d14872567de0013cd2bc4e1353407.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/b89d9a017289ed9122a70607201c2d28.m3u8#第2集$https://oss.douyinbit.com/m3u8/dd9dd5c943b75cc4d83aa0c74cd2df1d.m3u8#第3集$https://oss.douyinbit.com/m3u8/5fb2c9bf43b58ea2a1ee6286f0137cbf.m3u8#第4集$https://oss.douyinbit.com/m3u8/fbc975dc1c48f21f600a6e51a44286c4.m3u8#第5集$https://oss.douyinbit.com/m3u8/acdb0ac74d763c51bf0c74a062f79d63.m3u8#第6集$https://oss.douyinbit.com/m3u8/52756a7b67f0bad2f808bc54ab5c7629.m3u8#第7集$https://oss.douyinbit.com/m3u8/7ebe6ad5fd269e0a1677b1ed9eda813e.m3u8#第8集$https://oss.douyinbit.com/m3u8/f77c81dc845a26feeca10d1386cefc20.m3u8#第9集$https://oss.douyinbit.com/m3u8/7c65ec86947d89114ffac046c9f88fdb.m3u8#第10集$https://oss.douyinbit.com/m3u8/2a4d8307179a7e7b2f126343728f78b9.m3u8#第11集$https://oss.douyinbit.com/m3u8/a6cd8ff037b0b918f914b472c8607e64.m3u8#第12集$https://oss.douyinbit.com/m3u8/2c80f3af2356bd5dc82c2142dfb06cc8.m3u8#第13集$https://oss.douyinbit.com/m3u8/5e13c8145748734939a66c5eefa35730.m3u8#第14集$https://oss.douyinbit.com/m3u8/b4a723b747b61a6b6ea7f1181f04a1b9.m3u8#第15集$https://oss.douyinbit.com/m3u8/b7aebe2ac939273210188f0d30cd03a3.m3u8#第16集$https://oss.douyinbit.com/m3u8/c3a816aa88fc645a914a39adde6f049e.m3u8#第17集$https://oss.douyinbit.com/m3u8/bd924805a050fa9b409a0ad4410b1784.m3u8#第18集$https://oss.douyinbit.com/m3u8/71c739df0d419019a7b98fbc21c41291.m3u8#第19集$https://oss.douyinbit.com/m3u8/38b4c46e75826f2a2440d4cc07f89ded.m3u8#第20集$https://oss.douyinbit.com/m3u8/5081564ff4b10e524f59ac5434fb30d3.m3u8#第21集$https://oss.douyinbit.com/m3u8/71604af991b4951617461ffba2ab1cc9.m3u8#第22集$https://oss.douyinbit.com/m3u8/66c14a3e1523ed8eaac9aafe8c247f55.m3u8#第23集$https://oss.douyinbit.com/m3u8/3fec424d6aee27b709cf942b87a2c0f9.m3u8#第24集$https://oss.douyinbit.com/m3u8/2233a0e2ae2f6928b2f17cf42c21827d.m3u8#第25集$https://oss.douyinbit.com/m3u8/4fc68f3394405eac1922ad3bfeca540f.m3u8#第26集$https://oss.douyinbit.com/m3u8/d55e098e99a333fa91dcb068547551e8.m3u8#第27集$https://oss.douyinbit.com/m3u8/efb22883be1d2ca10d5ed1bb9615487a.m3u8#第28集$https://oss.douyinbit.com/m3u8/a3303839199f864dff79a23a2b70f7ef.m3u8#第29集$https://oss.douyinbit.com/m3u8/d955d01c36cf5ba00356fb0f4fc70859.m3u8#第30集$https://oss.douyinbit.com/m3u8/65492c3fafc6838b661979e8d48b7baf.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "全30集"
     },
     {
       "vod_id": 10002,
-      "vod_name": "别班 第二季",
+      "vod_name": "谷雨",
       "type_id": 11,
       "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792203502-300x450.jpg",
-      "vod_remarks": "更新至13集",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794142208-300x450.jpg",
+      "vod_remarks": "更新至26集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/2430ee14791ee13b2e9d96476ff2f257.m3u8#第2集$https://oss.douyinbit.com/m3u8/667d0bf0ebc83d9eab787e3a66bd3765.m3u8#第3集$https://oss.douyinbit.com/m3u8/e92525de4b8730a1e3dfef25c619ce8b.m3u8#第4集$https://oss.douyinbit.com/m3u8/9f568e2451aff8eab4d70eaac4442998.m3u8#第5集$https://oss.douyinbit.com/m3u8/2bf812dd03557c5007fb3df3566c7276.m3u8#第6集$https://oss.douyinbit.com/m3u8/360f16700c287e42b6bf8d4200711c6a.m3u8#第7集$https://oss.douyinbit.com/m3u8/91804ae1e2ba4fe477358c4ee6847ca8.m3u8#第8集$https://oss.douyinbit.com/m3u8/7bbb19f2fab0baf5bba2c520ea3146f8.m3u8#第9集$https://oss.douyinbit.com/m3u8/3c1c47c3e9d454905e1f74ea7b95bafb.m3u8#第10集$https://oss.douyinbit.com/m3u8/de92ffb394ada44d398c04a77346740e.m3u8#第11集$https://oss.douyinbit.com/m3u8/71dc5e4ccf80b05d4f70507241e6a518.m3u8#第12集$https://oss.douyinbit.com/m3u8/b685051436527e7072ff974dd0cfa568.m3u8#第23集$https://oss.douyinbit.com/m3u8/0f79c41ba36505613b92fc59e232562d.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/544b189944d196e5fa8f931311d30f94.m3u8#第2集$https://oss.douyinbit.com/m3u8/9d9a7da469265851240a7e39d2c73ab7.m3u8#第3集$https://oss.douyinbit.com/m3u8/ddb09dd99b152fabc832ade5f3afe96f.m3u8#第4集$https://oss.douyinbit.com/m3u8/1d1ea825ebcf5976c2b11705cf6711f0.m3u8#第5集$https://oss.douyinbit.com/m3u8/23b32841fbc8e9c1237a6ad5a8e6e25e.m3u8#第6集$https://oss.douyinbit.com/m3u8/63e5137e9fe7b2fdb8f12cdfcf014e5c.m3u8#第7集$https://oss.douyinbit.com/m3u8/5741b6f4dc427c88c5ec7a2bd9d4682f.m3u8#第8集$https://oss.douyinbit.com/m3u8/b6847218b089cdda1a8dbafcf5929a66.m3u8#第9集$https://oss.douyinbit.com/m3u8/edf815960c32a7173fc7203061db34a0.m3u8#第10集$https://oss.douyinbit.com/m3u8/8c3620310de2db93110dd0cf036cacbd.m3u8#第11集$https://oss.douyinbit.com/m3u8/0cad6851734777fbeeb5e1ca22f3f2a8.m3u8#第12集$https://oss.douyinbit.com/m3u8/9666619a1e013269d26ae04c9bb8c6d0.m3u8#第13集$https://oss.douyinbit.com/m3u8/9973bebe8a0bd6ce9487df52f9b8a66d.m3u8#第14集$https://oss.douyinbit.com/m3u8/407562b873c2587e7541f6a6e61a7a65.m3u8#第15集$https://oss.douyinbit.com/m3u8/bd53252a23ecee0a3f18eb9b96226b52.m3u8#第16集$https://oss.douyinbit.com/m3u8/23002f5f5f81bfd1237fa9873307e341.m3u8#第17集$https://oss.douyinbit.com/m3u8/b10efd197818a054d24862629496144b.m3u8#第18集$https://oss.douyinbit.com/m3u8/73fe9175cea54ca2177a52e48f674245.m3u8#第19集$https://oss.douyinbit.com/m3u8/5429bf7e9760520008eebbbcdb297d10.m3u8#第20集$https://oss.douyinbit.com/m3u8/01f31d77bf146a098b25d5e0d1aecd00.m3u8#第21集$https://oss.douyinbit.com/m3u8/3853a856ca44fb45f03e2c375fb89193.m3u8#第22集$https://oss.douyinbit.com/m3u8/2f771216447a42f4a93466257e2c3820.m3u8#第23集$https://oss.douyinbit.com/m3u8/a43f5614264ca3abbc539fea548c35f3.m3u8#第24集$https://oss.douyinbit.com/m3u8/8b40ec05daf43e0c4971abf60da775da.m3u8#第25集$https://ppvod01.kqgfbs.com/splitOut/20261116/1433295/V20261116215134426171433295/index.m3u8?t=6afb4c68&whip=3.42.157.94&sign=ba5179c7da3e1ed69cf786283a23c340566ef81b#第26集$https://ppvod01.kqgfbs.com/splitOut/20261116/1433207/V20261116190930290241433207/index.m3u8?t=6afb4c6b&whip=3.42.157.94&sign=44bdfd827696a743bc4edabba760eaf60e56b41a",
       "vod_source": "kvm",
-      "vod_remarks_src": "更新至13集"
+      "vod_remarks_src": "更新至26集"
     },
     {
       "vod_id": 10003,
-      "vod_name": "百日谎言",
+      "vod_name": "十万狂花入梦来",
       "type_id": 11,
       "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1793864273-300x450.jpg",
-      "vod_remarks": "更新至12集",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794905283-300x450.jpg",
+      "vod_remarks": "更新至9集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/5eb4a74f4d03f05f9dd063434f7290d1.m3u8#第2集$https://oss.douyinbit.com/m3u8/76e73ee36b68d0f71e0ae2f5507b6603.m3u8#第3集$https://oss.douyinbit.com/m3u8/c8685e5dca2a0f4c757fad462a51f75c.m3u8#第4集$https://oss.douyinbit.com/m3u8/8ff397160cf4cad64308be900da2372f.m3u8#第5集$https://oss.douyinbit.com/m3u8/7086c1595feb13cf12df7d5c51e18398.m3u8#第6集$https://oss.douyinbit.com/m3u8/5366e2d5c4178726e863d420580c285c.m3u8#第7集$https://oss.douyinbit.com/m3u8/7c0dc1a3be38f1b865157c68a75b05f3.m3u8#第8集$https://oss.douyinbit.com/m3u8/059584f0ce713891f334e6b678d937f1.m3u8#第9集$https://oss.douyinbit.com/m3u8/b6c3715e2347c28ddfa2522ca7a42bba.m3u8#第10集$https://oss.douyinbit.com/m3u8/b85152aefc9b8fe508eb00c8706212ed.m3u8#第11集$https://oss.douyinbit.com/m3u8/38b3769c06a6582335e7e6a68df8e179.m3u8#第12集$https://oss.douyinbit.com/m3u8/da96f94f29d5a4ed543fc68586c1de36.m3u8",
+      "vod_play_url": "第1集$https://zy1080-02.sskan01.top/api/zy1080_02/NGZhZS9HQlBLYWV4WnFGZ08wZmNFQjdMaXd5MjgxTzhxRVU5Z2ZMSFhEb0lxRWUzZVFCYlRVajR1eWJ6UXEyUDFyVW90UExqaE1hUkVZQnlSdWtkeFMrRk4yVzVFc0tnd2l4YW9FcGhxUW1Ra1M4ZWwvdkFTOENjdWQ0VS9pQUQzKzFDYzlyQUFuSmM4RnVkbndGZlVYUXhrcmdTd2lqTGd1TmlFZkRsNWV0aUt2N1FuUTF0c3dhUDNpRWFXZDNDSlcwdld1NmVJdkZoaHZkSC9DUGJBZHZEcExrcnZ5QXNPWHJzZE5ybEhFU0NBSFptVDgvTlFRWkpqaGM2WWVUY2E0RTBrYWdoUlo1VkNoMS9mWEJDTzc1OEE0bTA0K2tOdHRwQWJPdGt4emdnMkl5dkRDYkUvTjJhRzg1N3loNGl5eVJ4eXA1WXFLNTYyM09KTVRWc2xRR2JtaHlvMzcraVZ5WDFCYjlOeFJzcmh6RWdoZ043N0hNVFR5NUxWdjlIa0pDOTB2SFFOYjNOUnNHemFJbHpUaDRlQWdHUmVDR1QvL2dQMnNRWnhTbjY3eGpXb1d2NGxYREYyaWtVU25YUA.m3u8#第2集$https://zy1080-02.sskan01.top/api/zy1080_02/MjE5YkcxM0orRC9ucVJEWDlaRkdoaFF6VUVIUDVzazRBekg5TUxUcCtmVVVJNDBxWVE4WTBtWkgrRlBQOUxDSnowWkVSSENMc29hOGpaajdjYk0waDFNeTdYZlZBeDVOMERudG9vdDh3S0dpcXpLQWtJdVZsMUt6cE5kQTU2Q0dDeFQ1NVVlUFB3T21mcHNUKzFBNEJVK2ZEeUVlck9GaTFJTVF1MCtJWmNOT2RDaXhoejlTZnJzTUMzRnJ1UlVJWkZJVnNvNXVualBNOWlYNjFlSURibzI1bDZLdVBXMkhRdmtOK3ZOQkV6R3F3clJuRVo1eGFCR2J1MEtJT3dlcVk4cmNTZmpvUE1PVFJuZE9Db0tmdHdPYU1Rc0ZMMERiNUxMeW5UTHpnejFKTHI4dzRBeEdPRDZVNUZuMkhOdlprWlZQY1IwNW1sQ2Q4WDRZSW9SVkJnSEhEYUlHSGxyeXVNaDJlMnVBblBsOGFSTE8zNndQbDdvdG9OZ1dkUERUSmVoMUpoTHZkWmZRbzU1bW5lc2NpWXNRREdaWmNsT1dHbVg4VVIvU25Yak8vd1h3MzFtbDhpRHdRNDdxNHhyZg.m3u8#第3集$https://zy1080-02.sskan01.top/api/zy1080_02/NjE3M1picm14WFJnTTRFUi9sZlZ2VU1lQTNjK2s0bWRFZTRJR3dBSWlCS0FNQVdVT0l5N1hJT1BXU3BzalVLT29SWWJXNERvWU9QVkNpNE1ydE9hdFhJbWdZeWIxYmZFdjhpOHhBZlA4eGd2eWJmRjVXVWNYbFVxckorTjdWMTV5RUVnMkwvc0lZWEZybnJ0c2lYdnJodFgxdU16b0RFbWorZFFyTFAraUhMMTRYQTUraXZGL3V3Qjdvd0lmREhGSlF2c3ZWM2V1d0NvVFlMWWhVNmdvYTNtUUNVdWsvNFhlZTBuS3l4Y0czQ3RBT2RJcHc1d2RaTWwveVRjMUh0cXAwNjQwMTBJbCtkWVJ1VWw0ZFhQaFVIbFFtaUUremNNSVVRVXAwTnVsVlh3cm84Ujl1MDRaamRCRWdVbzZBM25UZElTWklwTjV4bzhxNzkwNnhySWptbXdLaTZ2N20vVndTQk9UbTVDRlB6ZWpFQ0ZzRi9abHVVWkVDUEhMdjVZMDNpa3VBeWNIaE5YY1J1VTVmdHZBK3lJb2Voay9UYnBMdm5aTVdCQ21JQUlTa0I0a2V6K2VxTUpQS3Yyamc.m3u8#第4集$https://zy1080-02.sskan01.top/api/zy1080_02/MWNjM0FjM28wVnBkMTdwVFVyeHA4cm11OFF3VTdwVHZsUXVsNHV3enM5K1JoUFJHUGZ5RWxmRncxMHRUMnVKS2tTYUNNV21rRm9RblgvMkF2RkxGRGdJSGtDOVo0Y1hiQnBwOWtrMjRWUW5xeldEOTRDN0NndlF3c1ppTG8wcmcrNXl1QUhwZXVaQzQvMzBlcW9XNC92ZUxkeFZMN0c1VjNXYlR2em5XVldyYm0rNFlueVc4WnF6cUJ5VlhTcGxNZm00aW03c3paaXVtd2hvdTc4Sk1oWFlQVThvR1EzQVRQVkY5ZThNbHd2Nm5zUS9lUkZMVjJHMlBzNVdzS096dnZRMkorMnNudzVTUFYwdHcxTWlGUXNma09mVjE5NjR4RGw1S2JCRG45VXYvVnB2RGs1ZVZtTlJjZElZcFhKc2JkeTN0RXBDYWQ0ZjdYaFJ2ZlE2VXg1WmVQQVV1S0lZakRUa2MveVFKeENQM0V3bkNpSVQwQkFqR3kwMHRsN0FSRHl5RUgxOFltYTI1TzFYczZuVzZuWU9VSi9VRHFOSC9qVCtNUkNiZjQxdFlQQ0I3MnhWYTVqT0FuNGtLTUE2ZQ.m3u8#第5集$https://zy1080-02.sskan01.top/api/zy1080_02/MjBmMTVJaHpqeHdnajYrcjVGUCs5R3VRVjJxNHNiQkk0d0pxNnVEVGZNM0dSWEFUMWVMeGE1S3JzZGFRRk1iS1JYR1Q5RVk4WkxlRjlQNi9LNnZ2V1YwclJPZFo3b1BpK3VTUVRCNXlFQVdaN0RLVTMvbXVwVWtrYlM3ZllQOXNsVjNGUkRFWEQ3dzNGb3JxTzhzUEVZY0tYZjliekVSWDNjd0hyZTB1b1pmSWJpS3lxRzRaSnlUZCtCaWQ1Y3VBUkxscEZHbjFGd2I4Z3lFQnhncHNqc1I1UVZzQUMzeWwxN0NLNkE3S0tUMWhaY3k1dUJSdU1TeitDMzFYVFc3dVVjekxsVUl3Ym5ibXgrdEJoVVVjRitRN3FjdmhrMks3NDdoN1Q0c0JtNWtKOE02U1VhMDRGV21SU2Z2OWxyejE2VVdhWndiNmpzcWtGMUVwTlVTcjVYZ2NWRHM3N29TS0dROUtuM3JTV2paQTdONjRWemt6cytXUk5sWk1XTUZWM29JNklWcGdTT2Z0ZGc0cDExKzNoNzN1NTllY2RhWis4RTBtb1dCVzBnTlpWSkF3RHhUYnFxMW9mSFIveGZPdg.m3u8#第6集$https://zy1080-02.sskan01.top/api/zy1080_02/NDYwZVRTNTExYkwwWlpUOHpDUndPY1ZKK3FrSzVOblQ3d2lmcmNYNW9jbjd2NXl4UDdvYkR0OVR3Z0JwOWhKY3REWUFzSmpwQ3JVTVlKZlZJOERHL253a0tRblV4aGI0S1NGWDJ3NVQrTnd3SHBsWFFlYzdkMTVIVGs4VmFTZFNQS0thelVYNmNxY1AxSGR1QUxMM21pdWkzc1cvMnFmUHRhVE94eEVrVnFTUHYwb3pjTEEvT1dBTGVkdjcxSnRISVNLLy9oK2p5WERHZk9FaG1taVMySEl5NmRnbithREhrQmNZR2dNQ1NBNnpKSGJSWVhkQm9HRlhVakh6YmFiTGlBc0hGWlpRMll4UWVuY0JCK1VKU3l5QlJTdjZGRE93R3l0bkgxOWtoaEUwa0tpZ2pWUjRHbjRKQTU2WE9iVmJFQUhXVFpuZk5Iam9Hc0UrU05Ga2pGLzltZjZsZzJtOWJ1ZE1FTU9OOE5XVkJMaVdLS29vVit5OXRJbG8wVnIzZ2IrcWFCdVRXcnV0Y0FyV05MZ3p2OUVSVnYwZlRiQ3owOGxqRkh3VUU1REJZWkIyUWVacXJaUDJaN0FsYTJmVA.m3u8#第7集$https://zy1080-02.sskan01.top/api/zy1080_02/ZjA2OTIxelBEM1NiTGRIU1cxY2ZJdzJRcS9RejJkQ01TUnNBRUJjU3VFRXo0cTZZaktuZFkrT3E1UUZ2MnVFa0t3VVJlZEw1b1htLzZUZys1dnBubHY3MVMwcDNJNVowaXl1QVN2RWViVjNXanYxRnZHY215dnJvUG9GTXkxZTVNcnFzQUxYb1ZZSWZTTFI4c0hjaW95Q1JhWWczYmh6NGZXaThWVzcreitvNzZyaVVxemNHeCtTQ0Q1dS9lanF2amJ1RUYySjAyZjFvN1BmK1hLUVVvcEwxaW41OGV1OEJHRlJEa1drbmtBenVSNmdacHlrTGt1VTQwMkxTWWZxSFpPS05DRlJSa2R4aUJFdTBlQUNOcncxNDZ4aFVtVG5nN1JzbDZEMkkyMXllcVJXTytHVFp2MUdEQnBPN2cvalBGaXJJWlBUMXZEZDRnelVqY0hROUtLVzdXUVZMMVhLaDZNOVZ1aVV2aHZ5SHVyOVZGRHNGWGVwVFNaYWMyZjJTTVczUW02a01pN3VRekhlSm41L3BzWklTQmxEbWRxWjY0OHZ2VFAzbHFVL1lzbEFaT2JHaHdJY0hmbkhJR09nWQ.m3u8#第8集$https://ppvod01.kqgfbs.com/splitOut/20261117/1433975/V20261117181530127051433975/index.m3u8?t=6afca770&whip=3.42.157.92&sign=d768fb463cb403c2a8a87d7a17d0354a715a5351#第9集$https://ppvod01.kqgfbs.com/splitOut/20261117/1433971/V20261117180937190941433971/index.m3u8?t=6afca772&whip=3.42.157.92&sign=98f0af59b7a8bda1c383bcfab27c29e468a8c9fb",
       "vod_source": "kvm",
-      "vod_remarks_src": "更新至12集"
+      "vod_remarks_src": "更新至9集"
     },
     {
       "vod_id": 10004,
+      "vod_name": "再婚皇后",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794905078-300x450.jpg",
+      "vod_remarks": "更新至6集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://zy1080-02.sskan01.top/api/zy1080_02/Y2IxMUZFUUM0UzYxaWp5aUtCSWZxcnM4UU5VRHhFVXVaWndmejdsQjNQTFFGbG1aMTZjQUFhZkVsdDhkT1JVR201SlNiSlBVbFR1TVo5UmJQL2VtRmVtcGFiTm9BTzAxbHNvNGRONTN0MDNpS0RUQS9lWnFyd3JWMVBkSFdCMXB5WTVJVThPbW5EYzdYci9YVnd5U0twU0JHSW5iRm0rQkhnOGhHNTNqVjhrS0ZVVDlVNlowRnNXdkFGWWZtdktJYldTZTJXcUFUOTRWU3ltNnJXNXh1RHRFRGFXWlZzMm9NNlc2Vi9Ialh0SUJjdkFYYmh1WXBUVnlBTjJGL0ZRd24vOTZ1WE1iYkRKbUk0Q1VuK1F4QmNtR3E5OEJnYzNNYmFUYXE0YVlmaVUxTDJQYTR6Qzd2YXhZZVFuM0ZwZ3NLT29mbkN2N1AzeVU3Z0ZlcU1GcjhMRllrSEVadW4weFlaekg1YWpRZk8zWi82VUExRGdrcFBxTWZLNGs1UDhNY3hYR2VMeFFKWmVqOWVLVzgrM2U3YWptK3IzL2ZGL2RLa2hwZ2NJTFVRZE43UUliWC9DNVpPWERyZWY1d3lYOQ.m3u8#第2集$https://zy1080-02.sskan01.top/api/zy1080_02/ZjQ3ZHp2eUlxTXJ5SWExbUVCSUMrT0RUWXJHUVFMTFl6ZksrT3YzMDRINldyajNadnpUQ25UQitOY3VxSmlRVDcxcUlGYWYwTytoM0xNTWtGL2F4b0d4QmNpaGRHakh1Ry83ajd6VTZwT0NUWjB3TmdZbGZWS0VMVDFZaVVwOHZwaE42RGNNTEgxZzNncU5ycE1XZFcvejZFWWZjZlM0YXpiV253c2Zpb2Q0d3VHczZCdXFLNW5WTzBSdHo3WFUxSG1WbFFsVnRqM0hGN3B4WWlzUTJFOWZmOGFja21yaC9ZU2drWHpNWldQUkk1OCs5RWp2ZCszUnBIWFpSV1JyZUZXNTBWcmRPQVQ2TTAzalhLajhJd0pCZUZtT01lbVNWdHZIemp5RmRzYzNEak9jendrb2J0amF0WUE1VzVpNExEWDJrbFFqN1kyNzQySFRzazBrV1VGS3E1TjlaQU5HQTdGNVZMMzVmYXFUakQwK0FTSFBEUTNkMHNiMEhxOGxnTHVDVG1uSSs3cjFBb3NiS2wzYjFmb2xYSnJwRnRhclNZQ2NLRUJtTUdOUHhNcStKL2dkQkcvRk11SHQ2VkRncg.m3u8#第3集$https://zy1080-02.sskan01.top/api/zy1080_02/Mzc1OXc4ZnpMOG5MWngwZ2s4MysvK2dQNXA3R2oxZ2FOclR5WDNiMDBOaXlGR2lmLzJPczNXN2UvaFpMdlZ5RE1FWm1taHA5OVpuSGNVcnFCeFNYNGxVTVVtOUUvd2puYW9kbFhjdVJNcTNJVXNIbC9NcmM1c2RvRWNHVGpzbk9pQU5tamVlUVppeGV5enl3QU5CR0E1UWtBUG96RFRNVE9WVVZtZnhiNDNMVDBucUt5dnIzODgyb3ZzV1hiYkl3OXo0c1J2OUFLc0VXT1pXVlFxU3VYQ2owR2dJS2QzT2Nmd1BQRkUzTTBCVnhTak5rYnE3WC9iUUZ6VVlLMDhTaUVneW5FY1ZvVzBBK01BeEJjNUE3aDd1aFhxWFp1RHRNdXo0WkJGVU5TNlZrK0MyU1Z1UkRIeGxudnZjWTVDczJDQk1wQkRtcitMSG9vUGlOa28wbUdYcVdhKzdhZ3ZVZUFlUWFTU1dPZXlmL3BXRTdvUTU3VWZ1M2dIVVZIRTVsdCtqeWZ3UGs4ZGtpOGFOcEhzSDJGYy9EWDVuK09WR2R3NVBFM3JoUS83aTZWQWwzRDhQVVo1alJXS2UyVUFKYw.m3u8#第4集$https://zy1080-02.sskan01.top/api/zy1080_02/YjJiYjJhZ0t2bzdlQ2JzbjdRR3hOcTI4WWxBMFl1UTcrWGdtQjluLzk1ZnYxTkNhVFV1ZUtOYUlCbkV1bUwxTEN4VVJGN3dINmtuR2tpV1BqYTZnYnNLNVdLWlZFUDhWenU5Z2JzV1R4bkd4dW9nRmZUMjV3dVhJSmd6NjBBWkFyZE9lL01aVE1YU28xQ0l4Q01zOEtPTkIvOFQ3QTZMVkxpTVZNdUl5dm9Kc3RzNnI1R3hheEt3SlQ5R1hBTjFTNm8yTWNVbWxVeUVYdVRjYm1sVDJsZmZKcjUvOHE5N0YzNUgybUpTdzBGL3QvSXRnRWE4UW11R21UamV6cHg3UzdMSkZ6SE52cDhoak1UcWxZUlcxSTNVVnFLMWo4ZTczTlpJbWQ4MU1HVUpkTTJNZTVHdmQ1UURRWjhjaTYrOUlwOTR3VjMreHFNV3FNSFNjNXVGRndOQ3d5SFUrZmpidFRqY1I0Y2t3Rll1NGUzblNvSlNiOXJqd1VjMER5Y1BQVFhXUHNBYUgzdUgwd0FtbGI5ZjQ1Q1JKUWNnTzJDOXhQaGhHeUdnb295TzRYZ1RHdkhUaEZvaGJJNGora2J2bQ.m3u8#第5集$https://zy1080-02.sskan01.top/api/zy1080_02/MWExYXNwUVJudkw1RWRQeFZDT0xZUkcwRnQ1amp1ZDkyQTg4aVJONW85UkFiY0MwMXl2dGdVZFZOd1JHczFraDZGVzA1d2FhdllEaXZPSUpaL0hwYlpoZVFMTklzSys5TEJvTnB4ZU55Y0FZbXVWejlTOXAwWUhpQ3ovbHlMTnBqbTUyQjlFYnJvOGRKRWlwZldBUnlGUUt4OE15cmhFRk9wbklaTmFkQzcxMjVMTzBvQk45eStsc2ZXWnZ3ZURWMXZjb1lOR1k0RjFuT25xOGtLZ0tWL2ZKdS9kZlRpaEEwbjB5eXdsbFUyMTBMZzU4aEJuTjlTSW1Ud0tXbkgraGlEWm8xeDdWUkNZL2N2QmFNV3FkOGZuWklTcmtoa2ZGMEg0b2xGNWF6MlRBcW55WXFnUVo4dlpRdjY1a25JcUZVVlg3RllWNFNleUErM0daSW9oMWRqUy9lOTZDcksxN0tXRC9FR002M2NsRFJjcGdncGJEemgyZk13WHVpSWpka2c5NXk0dk1pL21tWTN4czM0QlJ2SDVaU3JyTldLamwxMHhQMm94eFhySkdTTjRTNm9YNk5adHNiS3VUTVhVYw.m3u8#第6集$https://zy1080-02.sskan01.top/api/zy1080_02/NTUyZkV1OTJBUlgyL1dicW4xdHZkY3E1NHFWcXNoZytqLzlVVmp2V0FXaHMrbHlBb2hzclVLMU8vMWptUVJCbWtOTTBpdlE3bzdhNFdrbWg4MWlCdm4vYjFySnF4RWd2c3BEalQveFNPNDNRVkxvL29laS9FNnNJVTdDVGVrMEM1ZjBqUnE0NUJMSFdnODRISE5KbjFvZVlONWM3eHVBZFJqUXZJNmQvNnQ5T3ZkRUlTbUxqZHZoSStUMGM5ZTd4eXh1NU5heDBmSTlIVi9SSUdQa3orYzBweDFWMGVlQzZ5T0dacU50OHRFYS84UURENFlQamRKcTlTd1Y5a1dWZ2hjVWJKUThwaUxLa3VPYzVsbm8vK0tXN1BldWVxdTFjM20rcEtMMHBwcG5rWTZqVUMxUWZzNkJldFQ2ZFdjRWI2cnFNWlk0VEsxckZvZGJmUHB6QVR2V3FvV2VMNlJzVWFzL09VenpHa3dpb1RxRkxReUpxWGpEcGFpQW53VFN1cEtVazR3c015K081T29yVVNwa3M2d0oyL0xtM3gwc09BelBHTU5PdTA4RTg2ZWNMQjh0TE44QktLUVAyemxxMDdR.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至6集"
+    },
+    {
+      "vod_id": 10005,
+      "vod_name": "暑假",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794904683-300x450.jpg",
+      "vod_remarks": "更新至7集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://zy1080-02.sskan01.top/api/zy1080_02/M2RmM3JVbE5adjhoRWtwYVF3UTd0a1IzS016eW1GclNSNDdmRkdQNFJPR2pTYWdtT2NnM202L1I5bzArbUxJWmtCOFptQUNpc2loc2c2SWRFeWhTOHBoc1BSWFduSmVGVW12NGZLSE1vb3cyMWRRY0d1MXVpelFBdDFOMlVtQlMrcWtUak1leFA1L2lSbmd2ZXphTGt4eWFyQmpZTklxWGxUZkgxLzg5LzJhMERrRXUrSk1SZzhaUFRtR0pxZmhnaHNjV3lQeW9WWWd0ajJRamtTcXBpMUtHbTh5MU9YdCt5dmVBMWdUTHdmRCt3MWp4cHBRQnJrRGZJZDBRZWczYUJ5OUFzZFFCcDhSQTNkN0NIMEdNdzd2NW5JYTFyWUR2Z2VCOHE5d0VSSlJEb2x3UmZhaFdBdlNzYmJKWHNVUHg1bkIyUjdKd1llMkdYR3Y5aFZOMEtlNmp2eEcvcXNXQ2R6R3E0ZEdqQkVDbTFUdkFqNXdzR2xZUDc4a2dGbkp5NUoxb2YydUFKU0FtQm41VGhKbjlVRks0YXVEZ1dka01zaW5ZbzU1NFk3V1hkN3l5RlEvdzczdw.m3u8#第2集$https://zy1080-02.sskan01.top/api/zy1080_02/YTQwYUd0TGdtdm0wZUd1KzViUVVtOVZPektPbWRzbk1iSUF3K3EvSCtiUy92NlBRL2ZTdk9nWGJFZlBCbmlYcFhVWGlNTTR1QlNmemwzTVZaeUdDU0grL3RxMGdzZk11dGRlQnZVV3VOdlMwM1lpdENCRlRTMkhBVXNNdzRycmJRZVFyUzVHUkUxYm9mRTdvUjJxL09WY1dwb2JrWUlqdUJEaU5WNE1aandCb1pWTEk1TSs1YUVEQzFQYmxvTForTWFIRlRMek14WjlBcTdhVEJKQS8zdmdCRHVBaXVaWlMyaDBwdmNZZnRNTVBtL2doaHVURXIrL0NJeXNTa2poN1NDMXhEcFhLLzJ4WnMvOFJlb3duZUx3MVp5Z0NPai9rM3RQbjlSelhJYTY2anJSd3JzekoxQlQxb1MwMkxMS3VlNzRhaXpFWGtWcm9wNzQxQkt4MExRVFBpNFl6VEM1UkRLUFhLRTFuYWdtMGxwa1FzWFA2U2NjN2RBcStUdktGU1RWS29Wem5VdTVHRzA2ZlVRa05SQllLL0RHVTlRTXAyaDNUL25ubnU4b00raERTd2hvbzI0bw.m3u8#第3集$https://zy1080-02.sskan01.top/api/zy1080_02/NGZlM1E3bmNyZWNTT0IwTzFIdHpWYXlzU1Z6emZ0OTF6QVRIaDJINmlDdThMMytQSHhqWmlrdVRTS3FFRnJCd0NHeXlQSHZGRHBiQnJUNkhvL3FIYWpNU3B2elFHQ2xTTVM0aXh6dUgya2NoTGQydjRnbCtQUkpPYWxPbHRkSzJPRzNWL2tVY0NjdEZ1TXBDU0hDaTd1YWVBT0JCaEZpV3d0UEtSMFl1bEc4bnoxN2UxQVFpaVFPOElDWnhQcSsxNzEyWDlVTzlIbmc1VFlHNDMzelNEWkhlZXpuMFEyV2pyRDNQQmFwMlh0MnlGeVVTM1MwUXgvM2swK3ZQUmdBdHJibkJHR1pXMlNrSnM0WXUzZjExNzc0MHpTSWp6ZllsTTNFVURwZ0pETHcwWWlxa2ZhV1hMbll5aGQvOW96d0hMNFVkN2hiUGVvaHU2SzVteXhqdmxNa2NmWEU2UjBvc3pGZHFyMlNKUzlWRzRuZFRCOFZmVHhZTm9PeDVuVUFQZng5UDB4QXVYWDlaVDFyR2lHRmorQUNabEVvSGxVR0NQRmJvNWtnTEZGUmM4Tkx6NUNlcVZCMA.m3u8#第4集$https://zy1080-02.sskan01.top/api/zy1080_02/MzQ5ZG9vbU5MVFVTSmZGWmpFdXh3NHRGQ0d6M0cwV3lNL21WTGpkS1NKQVJnYU83bWRSMXRSc21aQmRrL0pOZHpzaW5aT1FqRDMwVzRMU2VRcGNvSzRvekY1TDk1YzVQa3E5NUIwQlgzUVpYeWlJaDNzVnA2SlJDVlY1M2lCUndIZnl0cW9EbjhSTDExbUhEeTBnVDdnbUhFU29ZZC9NS1I5R3JxQThDanRDNEJEalpidWJpaWNRc1pPUWl5UWswRTE4MWhDRGh3d0xmMkhpekZQVXZaWFRLQTl5cHg1L2Z1WUlvdFBJUGE2aWFXR0NkTDcySzdVUUZYdVA5RGhrbis0dnNkMkh6YldkWkttWjREUlVsbDJITWRpK1I4QkxXaUZ3NE03MldpRWtNa1pSYy9lMWdGNXg2anB0RVNWNmVwM2l3WXF1QjhHLzBiT0RUVkMyN2hMVWl4U1BYUlZxVFhEMDBjTzBnVk1GOWdHYVgrTGRmTUtVVnZwdVo0YlNuTWl5WEx1azhWU1h5NmhlSTg2Z0dIOG9iK3hNK2t2SDdteURHZStGRWllTkJIWFNLQ2syMzBhQytFeW8.m3u8#第5集$https://zy1080-02.sskan01.top/api/zy1080_02/MzBkYUxUOThTWDJxRWptOEdDUXFFN1dDaTFFVnBIV2pINUtVVlJobk10Yml0SlBUanY1Yk02am9sdzlpb0lxUVJLT3ZMNnZmeXp5a0hZYkYrdmVZd1R4L1RwZlJEb0ZNbUlqbVZmQWVKc2ZndEg2YXgwckFFMGluWHM4Ni81eHdkZzVBVVdCblJXVE50K3d3UmJxcE9yNlJWMnROdnN5OWMwM3hGRmd3ODMzVGo2eWlibWdkMXFZV0RqOHFGODQzUjg2dzVKQWZiK2lMTVF0RjEvWk5SaHJubDl3MWRYRVFrRVkrSUhheFNnNE9kaFFaSldVeTJHMmp2WUJkSVdUcnYyRXg2Wjd5N1JoZUMzZU5PMTdTdkU1NW9iVFBMdFIyV1h4M29WS1VJTkxNTlNqNTI1cUpvUFFkVUYycGFmQ0FnclEwNHFQd2JWSjk3a2pOU3J0NVU4c1d6YVlhdTQvWjIrR2Y5Y2ZTTjdWNlBZNjJzZkZrdE5BU2dNZ29FcEo4WXB4cEl0MlF2RERORmYxS2djaWFTVzNzMklPeEVlNVBreC9GU1ZqQ2VMbWg2SEZlemExanYraw.m3u8#第6集$https://zy1080-02.sskan01.top/api/zy1080_02/ZjQxNGdVVVkxdEpqOGJiVTRIQXdnNGZjWW5hVm9rdVY3Z0krQ01tSWxHak1MZlVrcTNLMUFYM1dJT0Z2SExmeURZbkZpbzh5Y1J1eGNtR1E4NmI0SlRqcllRbEt3bFN6dGd5aEtQbTVhUTJOdVA3c3JrMm1MNjZjWlM1N1doS0JOVHJwWS9KTHlKZEc2d0ZQbG5QWnVIcXpUYjNiTW4yS21LeGhHUEdpRkxXdG0wNzRYRzMwZ21nWlpVZ0ZXRFlsT2NRYzF0RXZucnZlOE0vU1psS1pUSit4dXhEdmt0Y1RJYXF4cjc0WjFoQStPWGpRWXp1V1R5L3NPZ2l1dWNoMXF3Vkk4aXV3NXlRTVRac0dtNnN4V3VteG1xbGNuYkxCVkRmSlVqeHBEV0NEUG1hQWV5UGo0UHZBck9QbzFOSTU0MU9QeGh2dnRaQkswMUMrVzFsNlJCemJydHhRMDJRRVVGTHRoakZmaUwzOXpzRVJCbldORnRPODBlOHJhZGF1V2UxMWtvK1VSblhZL0Zvb29CYVRoU2VxV2E1M0hLS0UvVVBuUEVGOWhaUC9aaER0RlJKN0hCWQ.m3u8#第7集$https://zy1080-02.sskan01.top/api/zy1080_02/YTRiZkJuU3h3UE9TMjBMUnlILzdWNkUza2FkL2xPZjJnVm1tYnhJVzg1WHZvUHdIeHNVWFQ1d0crT3pHdmYvcDFsS0d5bDBKaks2em9ZZjBjMWRWd01aQzh1aDJSNFV1SDV6YUw2K1NwWkhtbXhzbzJRTkZEYlh2WVVob2RYcUxvTzhoOUppN21ReUE3T2ZxWVdBQmtVWERkd1NiaDhTYlJsa3lIRnBBc2JSSEFaRHlIcW1yRzdrNm5hcTdFMVY4RnFWQnJpNjVnS0R1WDcwUUpxc01kaW1sUW5oTVJncUh3MHI1cVJlSjFQWE1rRXdKM3ZadjhUakMzQkFPWlRkK0w2RDd2TklnbHdVWHkrSWkwUHVpZCsrSTBIaWZDR0xDZmEzZVFFU1VZTWc1eXY0TTMxeTZpL285d2UwMkF6V3dQMDhoODdnM25iVVJEQUFxeDMyWXJRRjNEb0VWb1dDUnJuRGN5a295a0hhK0FES1prU01tUTNoYkxXaDJjdHppN1czWEM0MEpDMTVrMDl6Wlc4STNhV1JMZE5jQkxPTXdIRnpTQjR5RUJsUGdscklocXM4V0t3.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至7集"
+    },
+    {
+      "vod_id": 10006,
+      "vod_name": "我的有罪之人",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794239555-300x450.jpg",
+      "vod_remarks": "更新至8集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://ppvod01.kqgfbs.com/splitOut/20261020/1415695/V20261020005732486011415695/index.m3u8?t=6afca792&whip=3.42.157.92&sign=396b471887a51fa281f29a84fdf7f3a21e35e85c#第2集$https://ppvod01.kqgfbs.com/splitOut/20261021/1416571/V20261021182132718011416571/index.m3u8?t=6afca794&whip=3.42.157.92&sign=d452038b295053cf2cbc7e52993484aaccd5794c#第3集$https://ppvod01.kqgfbs.com/splitOut/20261027/1419508/V20261027003935571071419508/index.m3u8?t=6afca797&whip=3.42.157.92&sign=da930296de087be2597cb2211f154a06362ad02d#第4集$https://ppvod01.kqgfbs.com/splitOut/20261028/1420331/V20261028190932608791420331/index.m3u8?t=6afca799&whip=3.42.157.92&sign=0682d7fe9a87110403c84ccb9eb902dd4206bb3f#第5集$https://ppvod01.kqgfbs.com/splitOut/20261103/1423804/V20261103185739665761423804/index.m3u8?t=6afca79c&whip=3.42.157.92&sign=66e7d511e7dba1262ce6cea6d562a2cb7ed7833a#第6集$https://ppvod01.kqgfbs.com/splitOut/20261104/1424009/V20261104013330196301424009/index.m3u8?t=6afca79f&whip=3.42.157.92&sign=d9daad1d63e1bb72295027f9e75f7f1ea2203299#第7集$https://yun2.jiexicn.top/api/banyun/67aa1e33a3423358.m3u8?NzViMmlUOGJpZHZMZ3BuVHMvNmtib1NyN0lkWjlWb1BXNWRUb2xyT2tCTHh2UkVDZEFjdEFsTEk0SnZ1elJaMENxV2hzb0xCMXpyZEluL3pKb3FYcGpZMkI3QUNKZUoxSkliV1ExK3haZ1I0ZlluWXJRSDlidE5RVGloOVBkYmhuYXVKb1QxalQ0eTRtbUtpNk9BVlpaK1QxVzJzK3ZSUGR5cG5iZldESVRVM2t2S0FrOHExR3FhUDNn#第8集$https://oss.douyinbit.com/m3u8/dbb4df7ef72f1fda5e7515b9cdfab17a.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至8集"
+    },
+    {
+      "vod_id": 10007,
       "vod_name": "走马上任",
       "type_id": 11,
       "type_name": "连续剧",
@@ -69,7 +105,43 @@
       "vod_remarks_src": "更新至30集"
     },
     {
-      "vod_id": 10005,
+      "vod_id": 10008,
+      "vod_name": "今天是太阳雨",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794214679-300x450.jpg",
+      "vod_remarks": "全24集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://v6-default.douyinvod.com/2a1b6e9edbc065c0d32b24fd6cd17341/6afcd04f/video/tos/cn/tos-cn-v-5f73e7/oQYEDFDd1aAhWIUIA1EIdJBHg8Hgk06R9qfijf/?name=viptvmv.mp4#第2集$https://oss.douyinbit.com/m3u8/6c3dff551f2f5c1cc455cb483778671c.m3u8#第3集$https://oss.douyinbit.com/m3u8/fa1765605d04b5ad500a7ca85bfc9b3c.m3u8#第4集$https://oss.douyinbit.com/m3u8/32cda8520360e4e5229ca1f7d6114ca7.m3u8#第5集$https://p3-imcloud-sign.byteimg.com/tos-cn-v-5f73e7/oI3lvQZBtEoOiB52ADjxAAAwjIPAa7UJ2RiFA~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330032&x-signature=s6UnJdOhYKTint6pbxFKOYMNND0%3D&a=7127&ch=1&cr=1&dr=0&er=1&lr=test&cd=0%7C0%7C6%7C7&br=3351&bt=2930&cs=5&ds=16&ft=Dq4OtBSU8Dk1iQqci8z_ojgp0AV4fJTKKv_n8hJAzyNfoiYq7R&mime_type=video_mp4&qs=10&rc=ZC6N9Iit2zVGGIE8XOqCUNmOucFHrGeQfKjMSQAU7sRon68spD8nR64nfRlHH2Fdr7kjP0LPhurLSsMN9bqrWXD8kN==&btag=c9b9fa6c4883d4&dy_q=1794738033&l=202611150382031d48be305da78c2a7bc6&filename=924410.mp4&name=viptj#第6集$https://p3-imcloud-sign.byteimg.com/tos-cn-v-5f73e7/oAFvwI1xaLDgAygKAAaBwDYstrNUiP2EBA5iA~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330076&x-signature=40%2FhLyLmYkKxKXr4PYuQ%2BDpQrgg%3D&a=8272&ch=3&cr=2&dr=6&er=1&lr=pc&cd=9%7C6%7C8%7C4&br=3683&bt=3311&cs=5&ds=10&ft=TtK44MtWV.CFWTJG67ijxrirbAJpYCakmg3NQh9q.R5~icDFH6&mime_type=video_mp4&qs=9&rc=a3OLDQDnGLLnHxgNaJiDVPSxTogYAdPNBkXYH1twD3jqBqrbp302XUmIbcRhU432fuYfStOMsA5OeIkINFDTKIIX9d==&btag=cf2d52bd84279b&dy_q=1794738076&l=20261115db583b407a91f36fdb96710f81&filename=708316.mp4&name=viptj#第7集$https://p9-imcloud-sign.byteimg.com/tos-cn-i-3jr8j4ixpe/77f378ddc9d14e1c8ea4883cf6419623~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330239&x-signature=76Z%2FvQwkIB4P%2Bg6b05GZ%2BSfdxQI%3D&a=1374&ch=21&cr=2&dr=6&er=1&lr=test&cd=8%7C9%7C6%7C8&br=2567&bt=1026&cs=10&ds=19&ft=9ohHOivD9ZJvR.6TVf1nx~Bolt.6UaZuYLB_S4hrnfSpMdcibH&mime_type=video_mp4&qs=1&rc=cj2M3tszlIdfIqGdRzhgJKNX5575aofqU9FtNOyTlep5XVzBp70VosvUR4FT1luzTGTdxZxQTVTB04mZ6nVHM2cJpf==&btag=c87ae6e23930b7&dy_q=1794738239&l=20261115e3d69e7e3f4df8f8369d29d170&filename=19403.mp4&name=viptj#第8集$https://p3-imcloud-sign.byteimg.com/tos-cn-v-5f73e7/owCq1ADK8HBfTAeYgk9TN3mEAMuFIaqCAAgHcI~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330131&x-signature=TEPgY%2B64gTomwJHl39hcEWo0YpE%3D&a=2624&ch=15&cr=1&dr=6&er=2&lr=pc&cd=2%7C0%7C2%7C2&br=2099&bt=2413&cs=2&ds=13&ft=OMrHqivh2_hpLFL37CFkZq72ZjUsrCpPN3tO~V_ximOPzDJcgH&mime_type=video_mp4&qs=20&rc=YaHl3MJiP0q5H5LZ3M4xVYpStN5Bhf6g3ATH9gsB7XlI1nhRovxbCrTyRd3jBRTvgN6kKvgjuITPPQitZieNh2pj9M==&btag=c7327dbb2b0335&dy_q=1794738131&l=20261115c81bc2d89e85e3a564bc92fb13&filename=6781.mp4&name=viptj#第9集$https://p9-imcloud-sign.byteimg.com/tos-cn-v-5f73e7/oU0qif3FAHAyA1AvgIFM82NDMfnbB5WEAaCHiA~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797329939&x-signature=BWwX1jO1gpL4TqdW7%2BGjW%2B%2BsxAc%3D&a=6222&ch=40&cr=0&dr=2&er=2&lr=pc&cd=9%7C8%7C3%7C7&br=2168&bt=1754&cs=19&ds=15&ft=51aVO9DG44ZGpnlnlPrjNDxDx8ehQh_ri2ITuOpPX0EhD9M4YD&mime_type=video_mp4&qs=0&rc=INzmBy8bBn7AgoZO9RHT8M7OFxRtNcaWzBW9iaor1NbxR3Pi9BeqsO2MRg2OyQKDEbAWpYxOl1FPMvvHlJmXhGS1vf==&btag=c8b2adf17dc0eb&dy_q=1794737939&l=202611151344285f977e56c8c078f4a40e&filename=91881.mp4&name=viptj#第10集$https://p9-imcloud-sign.byteimg.com/tos-cn-i-jow9h3l7b2/ogfzoqRD8BAFQigIeIs2wkCFEjEgRq2vDdJyEz~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330356&x-signature=oUprK%2Bnw6wZeekpIi9835osoKPo%3D&a=2991&ch=39&cr=0&dr=5&er=1&lr=mix&cd=4%7C0%7C8%7C0&br=3180&bt=3161&cs=20&ds=14&ft=d2U2m.3~6z~B9jwi01OFfqrbpUnP3dU3CvK3Kuxrn9Hkj9nP9r&mime_type=video_mp4&qs=13&rc=VPRkUKkvV0AxN4pmWe8xe5X6BCTVoM7NyXueiEPnLgA3mRdKtXebuE0CQxTr654xO57wpbE9sew7vstc8N4RL2H3Sm==&btag=cfea7543c2ec0b&dy_q=1794738356&l=2026111563f40ae642bd0632cbeecbea55&filename=756383.mp4&name=viptj#第11集$https://v26-default.douyinvod.com/51c8d5ef564fc7673718996be174e2bb/6afcde78/video/tos/cn/tos-cn-v-5f73e7/owvAjPDlFBq58GzTI1icHBVaceoEEDgfgqxKGE/?name=viptvmv.mp4#第12集$https://oss.douyinbit.com/m3u8/616bca8bb4ff943288cbd97df65e1c42.m3u8#第13集$https://oss.douyinbit.com/m3u8/8605050b62b5222218c72d51717dd4c5.m3u8#第14集$https://zy1080-02.sskan01.top/api/zy1080_02/OGI3Y3pNZGtvOU1VUHg4NnozZzZTTmpLRVpGZldRTk5lUG9uM1E3Z2NsbjkrUEVPdEx6TjJUVGp4aW9CcHFYZnJZeUwzMm9YOU5GTzFpQzRqTjNmemFMMThUSnN6TndGVFFaZFF2WW9WaVBlN05tZmpGSVhMekdRZVZxNDRlSmtHRE11eUNpM3VEOVZCU3NxZlFxeWROUnFmS1B4QkI1S1JTWE8zbzJScmxXTzNFMldzMTZDN3JISnhSZkNLQTBkVnpMMlZjamRSSnlJcDdNL2ZUWjQ4VHRoNjNlaVdHN01vcVAxRUkvaWpkSk52RUdLcFRyUis3cHdoQ0FKejAvTFN6ZWFxclhENnJPSzBwS3A3SXRSU2N3M2liZWtIZFhaakdPc1d4T0ZESTRQZXhmVDJiOXlvRVNMZ3NSYzJTMVZyNDdvNERNamRIS1l5eTFEdmF3V0JtSmQwZVBmSGZSTHlKYzZnZFNvR2ZXbENpWDNJTGtnbDZnZWR5eSs0RHI2RDBnOGhaemdzZEpCOXJDQkRORmgyTjJqWUZmdFY5Y2EvUnJNdGFWcjB1TVZMcW5TSzNtYU1KemFLTUV0.m3u8#第15集$https://oss.douyinbit.com/m3u8/e1f85266822c1918a6a83e79c1b373e4.m3u8#第16集$https://yun2.jiexicn.top/api/banyun/969e48ce601f9203.m3u8?ZWVlY0ZybFVSc2MvYzFQN0dwZkpaZWQ4QjdTM0szM2ZaRjJPK2QwbmlpM2QydGFZbWQ1SFhxVlRvNDNmcVZuMURCZjZUb0dvN2Z5b0FJS04rYmE5MWFqRXdjN1hianJEMWxzTGVCS2Y2S3U3TFZnUGxGaGMwKzBnR2FKVjhNZ21LSForVm5sZGNuaFdUc2Q4cUV1SElvbFRQS0M4WUhCQzJpaFRSSjdrL1V2MWdxTFFIZjdleGlMSEpR#第17集$https://oss.douyinbit.com/m3u8/b72ec0737fd67e93f24a9067ad87c27f.m3u8#第18集$https://zy1080-02.sskan01.top/api/zy1080_02/MDQ4OWhSMEhlRlB2aG5CdjV4dzgzUzVuYU0vNDgvSG9UMmptb2wyQ3c3bko2S3B0R0pxYTBtSnluQW5Kdis4TlJ3c251c0l6TlcxL0dxMGc2aXhhWWFmR2hKRWIvYkc3eUk4RmMxbkt0aUJMR09na1NLRUMxMEhuRFpDOGN2b0RXRXlvcGpTWUhHa0dSWVZtQVY2L3hoejdEaFFXUWVVcmhJQ3lPdG8zYXNUd256Vk1rK3dPWUpRTDhqTU13QjIrU2UwOUhlZFZuWkFkcHlRK2FPaS9vVkI4YXJJTUZxNFkzUEhqdDcwbEFZb0hLY1NGWUx3b01sOEE5Y3dyNDVwR2dETFdSbDZ3WXBzT1ZJK0FyWVVCV2x3SFhOQVA4NTNlc0tjQmZ3ZkN0T2h5YXZTRHFERERJV1pkU3JScGFMaG9pc1RWQnpuY09pYmdSbVpaTHdHMWlBM2xtVnpyZHdtbllEeklzNUx6MDdMMkMvQ2JKSTVhdkJpclp5M3poR2NNRGFhWHZuWEZiRC9QRm0yNGVNZWJoaGNVRnd6cjF1eVpuRkM1K1gzVncza2JoMTh3MGdVQWVjc0ErVFZzRmc.m3u8#第19集$https://zy1080-02.sskan01.top/api/zy1080_02/MzFiN0JhQzdOaUtKRjF3NE5RMGNWajFRWmRNaXE1Q2NYSDVLUytQYWZUTmJ2WHN1OHlZRHhhTmtpMFZqV2VRcEtWc2RMUVEvSDFaVVZvdXRHTERsUWZ5VzluTnhjcGIzVjlsbnI1U051dE5INFJpcC9CZWQwYTk1azU0TSttU0xwS3lTL0g5RUEzbk9xa1RLbzAxSkJJaWpNYk12dCtiRU95VEpuNGZ4d2phMUcrZ3hYVHM2QTcxYkJPRVdNdS9CUi9SNmx6Kzl4Q0w5ZjQ5R0lYMkliaU4wbDFXN1FwdVNTL2YrY2dOVldqeTFTZndMci9TMTFSdFhQUTdIM2IyL013emluZVV1VmZpcm95bHNLSVJpamZnMVFCU0o5WXNxQ1VSai8rWERlSzExY3p4dXRuN1Fzd2dELzZrT09HY09jNkpUNTJkVjJzYjF2eDBjNFkvM3liNHFqR29qYzJGUTFWZHhwL1l0b2xkZ0Q4SmNZVkU5QkNlb2lhaGQ2TXlHZUZjbzRsMlF1MUdobjJEOWVtSFhnVDdQT0xub3BpUTNNUlQvSVp3SU9UbjI3MjBsTWpWaFVwY2tKL2tmR3c.m3u8#第20集$https://p9-imcloud-sign.byteimg.com/tos-cn-i-jow9h3l7b2/oAeEcCEo2DDBTrAMNeoaF06BfiEYXVE6gWEsBd~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797421931&x-signature=6wj9fRw%2FIwvxH9cNWoI7Wz6ESJk%3D&a=1871&ch=2&cr=1&dr=2&er=2&lr=pc&cd=8%7C4%7C2%7C5&br=2569&bt=2770&cs=20&ds=11&ft=t4Wd0zJLEX6acC8NZ9bk3kZ9HqVpt16VDlZa1g.cCRqzyIlCGQ&mime_type=video_mp4&qs=10&rc=Mj2QPevPqWraFgYzlTlod0ybEDMNpYN2g9Kzld2RMKpwAjuQMCCbg3gHWKrETjwbanJFce0r7evDtYri9BlldflZyU==&btag=ceca43a6a36b2c&dy_q=1794829931&l=2026111681549227cd5e797ebe14d36f2e&filename=151448.mp4&name=viptj#第21集$https://zy1080-02.sskan01.top/api/zy1080_02/MmM2ZnV0clhFeFhRV2ZLT3ZzTWJBOEwzcjBqeTdLU01ya3daNEhNVjhPUjBWa3FybGVBcFV0WktxZllRTUZLWkNXTzlvQm4rK0xWS3NXVjhpdzZSNGVESG8rSjMzcFRacld3RlhlYjJTQW1vcXpTMTk0bzhCSzgwK3ZCZU83TGtBTUQwM0dqTXFCcEJGZ2VGbzV3ZUFtelVQWVhpT0ZDckNEejdyeEpHUVloSi9NZk1ocXdnR2RjSWx0S25la1dpSmsxY2EwYjIxUlh6c3FNRDU1d0pENCtvNjJzODNKV1FqbE4yQzc3OTMyUmhNSjB0enA2K1EwY2MyV2JQZEN5aDV1ZlZDOTFHbUZCeExJdWFhVkErYktLNkVORlVldkdycTVhSStHSEtycDgrOENma0l1dG5KQktmcml2aUVVOUJ2RkQrcXJYZjRFTHZ0VXRrNlM4Rno4akJjWERleFp5V1N3a1pUL3BBUHBrL2tKWFI5NStDV3o0M290SW0yL3FqOHdvTlRlaXJ2c1Y5M1BqT0pWOVZxb1Q5TVJmWGV1ZnNrd0NlMm41bUNkUmtOQnBaRU05c0FXaGJBbHVUelE.m3u8#第22集$https://zy1080-02.sskan01.top/api/zy1080_02/YzJiOFVpdEJJNmpXQTJvOUJuanV5cjU1T2NnU0tNcTBBK3huS0xsTFQ5YndtdkFEOVBlZys1bzE1blBVM3RsWXpuQWtjWVl5a0ttWkpkblNFMURCYmt1S2tIL3lWZTdVNmRrZmdQTEVXQ08wcklqcFBZdDJRZmdINFdZOHpKaHlDUGw0QS9Ca3BTMitMdXY3TjZwcjk2Z0JXWEh3NWFGYkNkZlF0UDMxUnM2YXBhRnNHZnoxM0l3MERpdCtiaXVtVExNSWp2bUN4Q0ZkU0dSaHFWQnh3NUJvRU41MWV0QVdlSndvVjhDcEo5MWdJVFczZnViVkV3NlBWTDdGNTNWek1zdjkrTERUTWRCRFR4RnEzTkFnVjh0OGxXYjFZMHVoYmZLajVRbDN2OGp5Zk9iSFVIODJFbWpRMm4vcU10YVFybkZWZW1tYi9NVVdJL1VFWmgrdlExTTNsZ0o2WjRrd0dhR0diRWNCQTh2SXJIRS9IOVBENlg1a3hRbFFZQ1M3eDIzM1d4dWdtSWMvMFpnNEp3M2JyL093N2JySTY1ZlFVM1FNcTM5MlZScUFNUytrM0pQZlB6ZGZFZm4xaUE.m3u8#第23集$https://ppvod01.kqgfbs.com/splitOut/20261117/1433826/V20261117130938890571433826/index.m3u8?t=6afca82a&whip=3.42.157.92&sign=4aa420627cd04a39b467c276f75fa8472083057e#第24集$https://ppvod01.kqgfbs.com/splitOut/20261117/1433825/V20261117130938514811433825/index.m3u8?t=6afca82e&whip=3.42.157.92&sign=460db097af908a5a8432aee473121e995aba6b0d",
+      "vod_source": "kvm",
+      "vod_remarks_src": "全24集"
+    },
+    {
+      "vod_id": 10009,
+      "vod_name": "德鲁纳酒店",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2021/08/3PcOKiki5Eg1k9aTUTyBza4HCHA-1-248x350.jpg",
+      "vod_remarks": "全16集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://media-qhxn-fj-home.qh6oss.ctyunxs.cn/FAMILYCLOUD/77b6940d-0e24-4445-9240-e94129bde0e1.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=yPySeUDW6JolLinanQ0A&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E01.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E01.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=tRjP7my2UvAxk%2Bs5KFqww/KTqsQ%3D&Expires=1794941998&x-amz-FSIZE=1289718529&x-amz-UFID=525151205243134123#第2集$https://obs-hnj-qysuzhou-home.obs.cn-jssz1.ctyun.cn/be275fe9-f1de-443a-b3eb-c646d2e81f25?x-obs-traffic-limit=409600&X-Amz-Date=20261117T161706Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E02.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1373927305&x-amz-UFID=423191205242196440&X-Amz-Signature=0a38fdb308bd972244d578439c5ac5ce8aa2cce8d8743bb101d99a9be4f71916#第3集$https://obs-hnj-qysuzhou-home.obs.cn-jssz1.ctyun.cn/aa19101f-eb74-4604-a56b-44775e5a4163?x-obs-traffic-limit=409600&X-Amz-Date=20261117T155030Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E03.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1331518696&x-amz-UFID=225281205246710906&X-Amz-Signature=2023210ae7f57f650f64c5ffdde5062bac7aa3037899210ae251f26ef17cad01#第4集$https://media-shpd-fy-corp.sh3oss.ctyunxs.cn/CORPCLOUD/535abb36-1ca4-408c-b050-0354bd579c04.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0Lg7dAq3ZfHvePP8DKEU&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E04.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E04.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=h0J0NXmsPeyroYxxnVRGk3jYmH8%3D&Expires=1794943030&x-amz-FSIZE=1341444822&x-amz-UFID=324181205243194168#第5集$https://qd-gxnnfy-tj-corp.tjtele.com/CORPCLOUD/36f255eb-852a-4844-a05f-bcd307134b60.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T161713Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=la84o0eo8obakkyhggok/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E05.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1394579757&x-amz-UFID=623991205246541856&X-Amz-Signature=ab954660305487a1df0bbeaad32034169798e2437ceba245643920266163f624#第6集$https://qd-gxnnfy-tj-corp.tjtele.com/CORPCLOUD/93be36b1-5b65-4f53-8f68-51f399e9ec40.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T161715Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=la84o0eo8obakkyhggok/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E06.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=1355814734&x-amz-UFID=624401205245755103&X-Amz-Signature=e0810450d430b574bf845077b9204a9fe2657e2d64b1463d91947138d5d57d6e#第7集$https://media-shzh-qyguizhou-home.gz9oss.ctyunxs.cn/9510af43-447f-4ad8-9504-2702a0319984?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E07.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E07.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=AyfdZuKIqVJDJLvafK69SrVvn0M%3D&Expires=1794943038&x-amz-FSIZE=1364150063&x-amz-UFID=123241205243294614#第8集$https://media-hubei-qyguizhou-person.gz9oss.ctyunxs.cn/e8c6b1d0-e698-479b-a506-c5a049d38126.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E08.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E08.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=9E0Tn3V0QOAOjL%2B10SMuMzS%2BLns%3D&Expires=1794943340&x-amz-FSIZE=1451064167&x-amz-UFID=424371205243564068#第9集$https://media-hubei-qyguizhou-person.gz9oss.ctyunxs.cn/3a5ff249-c3b0-4b85-a26e-3859217edac1.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E09.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E09.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=p3j2/h0FP8fmh8TtCB5n80BSbVA%3D&Expires=1794943042&x-amz-FSIZE=1321784474&x-amz-UFID=523991205246542795#第10集$https://media-hubei-qyguizhou-person.gz9oss.ctyunxs.cn/a13a88c4-83ef-41ff-9c0c-a14955aef2fb.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E10.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E10.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=aidmfhsK6Wn3aIH9cUSiLZfy81Y%3D&Expires=1794943044&x-amz-FSIZE=1408952269&x-amz-UFID=324311205246373661#第11集$https://media-hubei-qyguizhou-person.gz9oss.ctyunxs.cn/5dcf3671-5199-470b-bc94-5e293649b991.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E11.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E11.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=U1voMBdSLkETPklcEAQy1OWHCy4%3D&Expires=1794943106&x-amz-FSIZE=1422705365&x-amz-UFID=125301205241868411#第12集$https://media-hubei-qyguizhou-person.gz9oss.ctyunxs.cn/7ad6c98b-e2ae-4a48-8eaf-b86d323a7b04.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E12.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E12.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=bTdd39grsulit2EDBkZCuQtt83M%3D&Expires=1794944189&x-amz-FSIZE=1562551071&x-amz-UFID=623951205247001846#第13集$https://media-hubei-qyguizhou-person.gz9oss.ctyunxs.cn/3d1e624f-6d82-4481-88ae-e2e747043058.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E13.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E13.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=8BnEJXBlb%2BFvvAqDfKmMSm%2B4nq8%3D&Expires=1794943231&x-amz-FSIZE=1435968460&x-amz-UFID=224351205245906345#第14集$https://media-hubei-qyguizhou-person.gz9oss.ctyunxs.cn/e1a79ca2-72ea-496d-ac1a-003d8fe8ed41.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E14.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E14.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=KR0WP3qqNhb74M3q96as9dVcauk%3D&Expires=1794944613&x-amz-FSIZE=1619101016&x-amz-UFID=225551205243983960#第15集$https://media-hubei-qyguizhou-person.gz9oss.ctyunxs.cn/7bf757da-ae70-4e7a-826b-29cf070dad0b.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E15.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E15.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=1ktZZKHoZ1uRyOfo32SsHFlAa0c%3D&Expires=1794942006&x-amz-FSIZE=1461744926&x-amz-UFID=423371205247122143#第16集$https://media-hubei-qyguizhou-person.gz9oss.ctyunxs.cn/2c2a68cd-f721-44bb-b469-1c8b8f96b54b.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001597393971&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BE%B7%E9%B2%81%E7%BA%B3%E9%85%92%E5%BA%97.E16.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BE%25B7%25E9%25B2%2581%25E7%25BA%25B3%25E9%2585%2592%25E5%25BA%2597.E16.mp4&x-amz-OPERID=300001594166328&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=qysfhnMr8WAuAIV1avp02YmC4uE%3D&Expires=1794943524&x-amz-FSIZE=1652799612&x-amz-UFID=825341205246116318",
+      "vod_source": "kvm",
+      "vod_remarks_src": "全16集"
+    },
+    {
+      "vod_id": 10010,
+      "vod_name": "别班 第二季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792203502-300x450.jpg",
+      "vod_remarks": "全14集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/6d2ea21e140bfc413513821dde37caf6.m3u8#第2集$https://oss.douyinbit.com/m3u8/5dea175044e7144e361761caa281ca44.m3u8#第3集$https://oss.douyinbit.com/m3u8/ef75ee4e6b82fe1f3546b0cdcb3a7a28.m3u8#第4集$https://oss.douyinbit.com/m3u8/bb54460660e3527ee3653382afe32eef.m3u8#第5集$https://oss.douyinbit.com/m3u8/2c126cfc8964167b543e19930969eb93.m3u8#第6集$https://oss.douyinbit.com/m3u8/fc172f422d0221c45ae011e9de25e286.m3u8#第7集$https://oss.douyinbit.com/m3u8/14ec1e34b2fe619ed9176379e2dc3ede.m3u8#第8集$https://oss.douyinbit.com/m3u8/26294e6018d3c3dcbff8cca39da2dfc6.m3u8#第9集$https://oss.douyinbit.com/m3u8/7c0fa07bd48fe50a648c9b3ad184a67e.m3u8#第10集$https://oss.douyinbit.com/m3u8/fe9cdc618783ec16a9a1c21f2ed8a791.m3u8#第11集$https://oss.douyinbit.com/m3u8/7832a7ed55235d2ea9e26ad744496786.m3u8#第12集$https://oss.douyinbit.com/m3u8/e854437dadb6474d0827647c061b504c.m3u8#第14集$https://zy1080-02.sskan01.top/api/zy1080_02/ZmUwOVZ5NjhPZUFCME0rWDRxU0hIM28wL3RYV0lVSVpNMFpYWVhGdGdTa1phaUJCN2VJdHU2d3JzLzFjVGpSSjVUWkU5ek5KUFRQdUcrME9CUnNFL1RrOEY4Lys2NXNFZTRPUnlUZy83a1ZVeENsejhlZGJGMEhqdDVQamoxWGVtSDFtQmRzRnpBdlZDY1gwajRib05MaDVMdTREVHBxcENjR2oxYWYvT3l4VDhjRklNaWJaZWk3YmdPS1pTa0MxQ2VhS09oYnRZUEdGWGxaL1BUc1MvZGIycnV3RTZER3hnT1ZnNlpSYjdOakt6WElnMW1XbzVISGg3eVllUmx0UWpvZkJnVXlhbXpORkc2dmVSODQ1R2VtOWp5SVNZbEZJcW1FcG00aXdsdVhIWUhmMTdCbTdjclBQR1pqTjgwQ1hPTGhmVEwwdDJ2M3YrbEFDZWIxMWoraCtjZ1BBUS9vY2dlaE5rZjRMTnBJbkdwR3NWYTZpYzhhb1ZrYlVsY2gwNlBoT0IvRURXeVl5NnRiTWRtWmZPVWJpaE9iUC9jSGxZU2ZBelJtdUpsOWU5NlkxVzJUVzlwRVgvVzQrVlp5NDNBcw.m3u8#第23集$https://oss.douyinbit.com/m3u8/6a6cebcc8ac2e3551723e5f7d5598608.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "全14集"
+    },
+    {
+      "vod_id": 10011,
       "vod_name": "破冰行动",
       "type_id": 11,
       "type_name": "连续剧",
@@ -81,7 +153,7 @@
       "vod_remarks_src": "更新至36集"
     },
     {
-      "vod_id": 10006,
+      "vod_id": 10012,
       "vod_name": "折月亮",
       "type_id": 11,
       "type_name": "连续剧",
@@ -93,7 +165,7 @@
       "vod_remarks_src": "更新至23集"
     },
     {
-      "vod_id": 10007,
+      "vod_id": 10013,
       "vod_name": "伟大的长征",
       "type_id": 11,
       "type_name": "连续剧",
@@ -105,196 +177,124 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10008,
-      "vod_name": "兰香如故",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/09/douban_1789218121-300x450.jpg",
-      "vod_remarks": "更新至40集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第8集$https://oss.douyinbit.com/m3u8/8989cb216dd75a832b69d400da15278f.m3u8#第9集$https://oss.douyinbit.com/m3u8/d32d43007e528f5e4d8d3d36f6295cee.m3u8#第10集$https://oss.douyinbit.com/m3u8/f6dad6889897f6b409a88da6561187c8.m3u8#第11集$https://oss.douyinbit.com/m3u8/d42e0afa6af01ad17b2309e70e8fc925.m3u8#第12集$https://oss.douyinbit.com/m3u8/39ea25a234bf887b65e5493d7e5a48a9.m3u8#第13集$https://oss.douyinbit.com/m3u8/d17188685a6edca6c39104b3ff46dc8d.m3u8#第14集$https://oss.douyinbit.com/m3u8/825319abc2dd409efae6aebc8ba470b9.m3u8#第15集$https://oss.douyinbit.com/m3u8/d9b58d72ba3fef308debb5eeab5abeed.m3u8#第16集$https://oss.douyinbit.com/m3u8/12e27ecd2cebdc108149a378cc1bc065.m3u8#第17集$https://oss.douyinbit.com/m3u8/be6a0052d1dc7c796b28abe4151f9234.m3u8#第18集$https://oss.douyinbit.com/m3u8/93d313c6639e7d8f6c56a06257eb17c0.m3u8#第19集$https://oss.douyinbit.com/m3u8/3979fde02da366828b5fbef52a9ca165.m3u8#第20集$https://oss.douyinbit.com/m3u8/d9376df31077c962c63d74f2add6bff9.m3u8#第21集$https://oss.douyinbit.com/m3u8/86d765634c38a337be550a178b38e363.m3u8#第22集$https://oss.douyinbit.com/m3u8/200662552934234b37ebfe35f25bee73.m3u8#第23集$https://oss.douyinbit.com/m3u8/8b760032821bbbdf5ba4675f530ff611.m3u8#第24集$https://oss.douyinbit.com/m3u8/448d32c2f7564f4784422dec7f461e91.m3u8#第25集$https://oss.douyinbit.com/m3u8/4cb1f424e5ab327e7b9bd7463bee3cfa.m3u8#第26集$https://oss.douyinbit.com/m3u8/1b1a556ef016293ee37dc0cafe6a28f9.m3u8#第27集$https://oss.douyinbit.com/m3u8/e62f5aa81078db57c66a546976f37d5a.m3u8#第28集$https://oss.douyinbit.com/m3u8/eeda16be27124c653503e1b13bd3ff97.m3u8#第29集$https://oss.douyinbit.com/m3u8/986015c6b5fc2f6fec6b66ed2faefc86.m3u8#第30集$https://oss.douyinbit.com/m3u8/183a5e87f05bcd523208c8b88bdc6682.m3u8#第31集$https://oss.douyinbit.com/m3u8/c06254b1d326128faee53c76da0a1890.m3u8#第32集$https://oss.douyinbit.com/m3u8/b8db28d507cb5ddec6ac65c3de549b5c.m3u8#第33集$https://oss.douyinbit.com/m3u8/ce0120e9ed9fc174d86c421c3275117b.m3u8#第34集$https://oss.douyinbit.com/m3u8/7313a389a1e100abb7b5576a76ea0682.m3u8#第35集$https://oss.douyinbit.com/m3u8/17d9c76eeb6588ac834489754e2fba27.m3u8#第36集$https://oss.douyinbit.com/m3u8/37f306bd12c8618951d36ef6e6ea726a.m3u8#第37集$https://oss.douyinbit.com/m3u8/d6bb671f3e4a7515271ecb2e01627c92.m3u8#第38集$https://oss.douyinbit.com/m3u8/407a59642584c0fb604a9535ea98ce55.m3u8#第39集$https://oss.douyinbit.com/m3u8/15be9acb05bfc7d6aee9969bd9185d89.m3u8#第40集$https://oss.douyinbit.com/m3u8/4e9050ceddc36c70a56b023ad21b6125.m3u8#第41集$https://oss.douyinbit.com/m3u8/f6c33d62add74a8f1776b9382f6b6986.m3u8#第42集$https://oss.douyinbit.com/m3u8/8d4014df34d55d12a45ca3d3ea349469.m3u8#第43集$https://oss.douyinbit.com/m3u8/d1056107b8277bfeb86c562db65abae4.m3u8#第44集$https://oss.douyinbit.com/m3u8/d873582bcbc98698e6e1adc35a19daba.m3u8#第45集$https://oss.douyinbit.com/m3u8/e0bbe5f821d9b38aa7630998f2ff2177.m3u8#第46集$https://oss.douyinbit.com/m3u8/43fbe53393b9c23ec735e60946424cff.m3u8#第47集$https://oss.douyinbit.com/m3u8/addd7fcaada84aa5f8ac905ef61dbbe7.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至40集"
-    },
-    {
-      "vod_id": 10009,
-      "vod_name": "知否知否应是绿肥红瘦: 第1季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/dPLRV1s2Em3BA3L9vAKbw8cTqO5-250x333.jpg",
-      "vod_remarks": "更新至40集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第34集$https://oss.douyinbit.com/m3u8/92518113dc86742a2206af9874905794.m3u8#第35集$https://oss.douyinbit.com/m3u8/558b89bce5dd0e034c4c9fc9a57ee8cb.m3u8#第36集$https://oss.douyinbit.com/m3u8/7e0aba33e31248d428a7ed316e117b46.m3u8#第37集$https://oss.douyinbit.com/m3u8/c0039b0c7ceaa04eb44ef4bc5bc82be9.m3u8#第38集$https://oss.douyinbit.com/m3u8/1446969b1772b416c7f51ae66d0c6e71.m3u8#第39集$https://oss.douyinbit.com/m3u8/80cc65cf735c0be72ab3fd95a667c129.m3u8#第40集$https://oss.douyinbit.com/m3u8/d09f3f5bab55f1b57c4739ce02e6c921.m3u8#第41集$https://oss.douyinbit.com/m3u8/f1207b3703b2708e630a4c02307ac581.m3u8#第42集$https://oss.douyinbit.com/m3u8/782db6821088798d361de1d922b00c0b.m3u8#第43集$https://oss.douyinbit.com/m3u8/ba1ba8fdefe90c87eb0a9f52e50de3e4.m3u8#第44集$https://oss.douyinbit.com/m3u8/6de9a11cf6d727e59002c09e1811134c.m3u8#第45集$https://oss.douyinbit.com/m3u8/d0e22e2f14f93f4014f403028ba742ef.m3u8#第46集$https://oss.douyinbit.com/m3u8/2ec7d4038585274c9371791e7ce117c1.m3u8#第47集$https://oss.douyinbit.com/m3u8/9671ab5998df9696454b879c1ec2686c.m3u8#第48集$https://oss.douyinbit.com/m3u8/1b0ff54e2bd8ba095acbf89c31170b57.m3u8#第49集$https://oss.douyinbit.com/m3u8/b8ec54fd96c55d75722bf1b5b34a5bf4.m3u8#第50集$https://oss.douyinbit.com/m3u8/e17e5bf963e269ef9b71a411b72736e4.m3u8#第51集$https://oss.douyinbit.com/m3u8/bffb2f278da84fad5b752ea81b73e014.m3u8#第52集$https://oss.douyinbit.com/m3u8/549b2f00c998c3bdd440380a6b097d4c.m3u8#第53集$https://oss.douyinbit.com/m3u8/09eedd9fc7b23c0276a3fdc3713b98d4.m3u8#第54集$https://oss.douyinbit.com/m3u8/18c1b42ae3b5c1899e5f5079e0e0f447.m3u8#第55集$https://oss.douyinbit.com/m3u8/32cc24d5e4e3019d45d081c334c66c7b.m3u8#第56集$https://oss.douyinbit.com/m3u8/d87782ddcb470f00ca2bf217edc49c4c.m3u8#第57集$https://oss.douyinbit.com/m3u8/8766a277cc31b91ce69d12d58ef7e53c.m3u8#第58集$https://oss.douyinbit.com/m3u8/677db423f78da332dae0b50a28fe730a.m3u8#第59集$https://oss.douyinbit.com/m3u8/8fcb68f34b531b5cbeda73f69cbdcd79.m3u8#第60集$https://oss.douyinbit.com/m3u8/4003ff192ddcbe9b7c79b1ca83e76874.m3u8#第61集$https://oss.douyinbit.com/m3u8/7dae4106af4b02db56a895aa3ca365eb.m3u8#第62集$https://oss.douyinbit.com/m3u8/79dd1df8cfd7adbae92ace87a5b241bb.m3u8#第63集$https://oss.douyinbit.com/m3u8/9f386e28a0d65b284040cce2e32847cb.m3u8#第64集$https://oss.douyinbit.com/m3u8/5ef2434b5db148d82ebacb14a8760a92.m3u8#第65集$https://oss.douyinbit.com/m3u8/e1741544a083d880a41011568f69cb3c.m3u8#第66集$https://oss.douyinbit.com/m3u8/759bc678adc15c53123df641c286e06f.m3u8#第67集$https://oss.douyinbit.com/m3u8/8b66dfbdafaf3a8390af0eb9378b23d1.m3u8#第68集$https://oss.douyinbit.com/m3u8/f3b7bd8f3f62a76ddc54b46b250e7e8c.m3u8#第69集$https://oss.douyinbit.com/m3u8/648790cd5ca3f80aad6a68446fd2ff3f.m3u8#第70集$https://oss.douyinbit.com/m3u8/4bce17ffdb3d79e749a78722b90d5b8f.m3u8#第71集$https://oss.douyinbit.com/m3u8/f1eda8f340742f47bf30942a49d972a4.m3u8#第72集$https://oss.douyinbit.com/m3u8/549918013349564f8328babe8d79edde.m3u8#第73集$https://oss.douyinbit.com/m3u8/ef963f0804ebdccf1210b2f3c38487ea.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至40集"
-    },
-    {
-      "vod_id": 10010,
-      "vod_name": "甄嬛传: 第1季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/03/pL7BEC3ri11AianFRZM1SC8oR68-233x350.jpg",
-      "vod_remarks": "更新至40集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第37集$https://oss.douyinbit.com/m3u8/b301ff4b4aceb9813867748c5fdfe4c5.m3u8#第38集$https://oss.douyinbit.com/m3u8/7d22664f0f26bf8200e0e48d7004f31e.m3u8#第39集$https://oss.douyinbit.com/m3u8/78a4fbf399b98b43ea13f292af2e5916.m3u8#第40集$https://oss.douyinbit.com/m3u8/838d5cd69a5ffd4316ffaab8bed93164.m3u8#第41集$https://oss.douyinbit.com/m3u8/246e0e6c55b2b1530a9a1c15b326ea5e.m3u8#第42集$https://oss.douyinbit.com/m3u8/b19e3cb18df91989fb3c66d039e14556.m3u8#第43集$https://oss.douyinbit.com/m3u8/1c1d84dd5254d3da9ea975154179743c.m3u8#第44集$https://oss.douyinbit.com/m3u8/d6c726b20880420a7e6763616ff441f3.m3u8#第45集$https://oss.douyinbit.com/m3u8/894f00acd766cdc27728d296bcfc88bb.m3u8#第46集$https://oss.douyinbit.com/m3u8/3669e77d008288c17b6bb7161fc3cbcb.m3u8#第47集$https://oss.douyinbit.com/m3u8/daee873002e42f43e5f0d9b8588987b8.m3u8#第48集$https://oss.douyinbit.com/m3u8/64237ed982fb27400c3aa9bace2d985a.m3u8#第49集$https://oss.douyinbit.com/m3u8/390151663527319dc249ed11aa3bab36.m3u8#第50集$https://oss.douyinbit.com/m3u8/42f32c33db2afc85adae8e4a17233faf.m3u8#第51集$https://oss.douyinbit.com/m3u8/090568c66fc72da30b65b305281c7e93.m3u8#第52集$https://oss.douyinbit.com/m3u8/1a969c4216f6ea599790ec1b5589bd39.m3u8#第53集$https://oss.douyinbit.com/m3u8/0f789cea18bd4cfeb2c80d95cd7f7add.m3u8#第54集$https://oss.douyinbit.com/m3u8/19d7f4a8da1048901d9e6d92f8171c11.m3u8#第55集$https://oss.douyinbit.com/m3u8/bac3507abce1e17917e764e459e7e397.m3u8#第56集$https://oss.douyinbit.com/m3u8/274efebc363027923dbc7d1d53c01fec.m3u8#第57集$https://oss.douyinbit.com/m3u8/cea62ea138bc669f1d56c6095c4e77dc.m3u8#第58集$https://oss.douyinbit.com/m3u8/dd004ff85fc09fde46ba7c2aae34db56.m3u8#第59集$https://oss.douyinbit.com/m3u8/4383ee9ef45f1309437ab01f2d4dd2c3.m3u8#第60集$https://oss.douyinbit.com/m3u8/b88f01b5650968fb08af0bc460d6ffcd.m3u8#第61集$https://oss.douyinbit.com/m3u8/08c1ae863fa7fe2c4129c5bc00bd9e11.m3u8#第62集$https://oss.douyinbit.com/m3u8/64c276b17d251dc59f23351b8a9612d1.m3u8#第63集$https://oss.douyinbit.com/m3u8/f1524ebf89b63580996c2abea3ec9071.m3u8#第64集$https://oss.douyinbit.com/m3u8/3d42d22a66776c470693ecf35216ce53.m3u8#第65集$https://oss.douyinbit.com/m3u8/eeb1a6ca3568ac1156e9f1da08d5ef53.m3u8#第66集$https://oss.douyinbit.com/m3u8/dc9ccaa0e850e0cc3e832f432191cfe2.m3u8#第67集$https://oss.douyinbit.com/m3u8/7df6a2dce3db3f192f315fc420cc7825.m3u8#第68集$https://oss.douyinbit.com/m3u8/8bc7bb2eaf135c16f81cdba8b3c763d7.m3u8#第69集$https://oss.douyinbit.com/m3u8/4bbcdb06b23119b46ed759c47084f789.m3u8#第70集$https://oss.douyinbit.com/m3u8/6fa4209a3198e8bc1a9634a8220fda79.m3u8#第71集$https://oss.douyinbit.com/m3u8/7e2d472cffbf7a5a68b0203747dd03de.m3u8#第72集$https://oss.douyinbit.com/m3u8/d39fe2dda1178fa410e6b3f270084500.m3u8#第73集$https://oss.douyinbit.com/m3u8/84b8314cf74e83f1132c8e69cdcd6a94.m3u8#第74集$https://oss.douyinbit.com/m3u8/9227c7d030c606ef3fbe4d309077ca24.m3u8#第75集$https://oss.douyinbit.com/m3u8/8769563ff39c37f62b1234761be5ef3c.m3u8#第76集$https://oss.douyinbit.com/m3u8/1f9214bc33f6d533f127f294480de2aa.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至40集"
-    },
-    {
-      "vod_id": 10011,
-      "vod_name": "庆余年 第一季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2021/01/toNgHVp0vtZ6vMLprV36NPo4qWh-1-233x350.jpg",
-      "vod_remarks": "更新至40集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第7集$https://oss.douyinbit.com/m3u8/84e5787a79647fca130ec7321bc0e852.m3u8#第8集$https://oss.douyinbit.com/m3u8/45d6a264d2dc3881a7446d5959b6a03b.m3u8#第9集$https://oss.douyinbit.com/m3u8/aae39131446b65dde77c47eca051f91b.m3u8#第10集$https://oss.douyinbit.com/m3u8/3dd00de00b56afa103f9792add4f9f9b.m3u8#第11集$https://oss.douyinbit.com/m3u8/0fe6312ef8a3bff3234965cc47e18a94.m3u8#第12集$https://oss.douyinbit.com/m3u8/aacbb8f4b6c55873eebc3fb04baeafbe.m3u8#第13集$https://oss.douyinbit.com/m3u8/255eaf9ca9b3f603e505c641fe1c1816.m3u8#第14集$https://oss.douyinbit.com/m3u8/59e61218a9c0cc783b5677f42896b334.m3u8#第15集$https://oss.douyinbit.com/m3u8/7ec9946ad58b9a43dda5934b45866a14.m3u8#第16集$https://oss.douyinbit.com/m3u8/ad2fdff5bda27030403869dfd1bcdf14.m3u8#第17集$https://oss.douyinbit.com/m3u8/994053b51e7a6683d663e40cee3ea820.m3u8#第18集$https://oss.douyinbit.com/m3u8/b942e46f1083c56b96fa698769b1240e.m3u8#第19集$https://oss.douyinbit.com/m3u8/e2e2f0a1e4e9c3c982b18784d93575b2.m3u8#第20集$https://oss.douyinbit.com/m3u8/31c9f53f8dd9fcba7d631cdefb7729c0.m3u8#第21集$https://oss.douyinbit.com/m3u8/85d2b050b0537acf26bf7084efe7c18a.m3u8#第22集$https://oss.douyinbit.com/m3u8/d08381c5198fabf59c1ba2b613aff0c3.m3u8#第23集$https://oss.douyinbit.com/m3u8/1631b50c41980a3dd99d1de98272f6b7.m3u8#第24集$https://oss.douyinbit.com/m3u8/baca1aecbee118e48b2151034adf8e91.m3u8#第25集$https://oss.douyinbit.com/m3u8/0607a9afe6605ea49a3315706c565a86.m3u8#第26集$https://oss.douyinbit.com/m3u8/c08862d474b32153e8c6895ee968f2e9.m3u8#第27集$https://oss.douyinbit.com/m3u8/52d6f4fa78960f0e341d0acfc548148a.m3u8#第28集$https://oss.douyinbit.com/m3u8/4aa1895ac8028186f9129d6f6a753ea5.m3u8#第29集$https://oss.douyinbit.com/m3u8/9cdd37274fa69f2e612a4f4a416dc8e6.m3u8#第30集$https://oss.douyinbit.com/m3u8/a457c4535e8a55f23ed3fa2b6b57f0e1.m3u8#第31集$https://oss.douyinbit.com/m3u8/9ce39d8497311115515bfba42ae46b53.m3u8#第32集$https://oss.douyinbit.com/m3u8/3446124e339914216e9f612c01c8dc15.m3u8#第33集$https://oss.douyinbit.com/m3u8/435c52b351409f62f712a9c3d37cab3c.m3u8#第34集$https://oss.douyinbit.com/m3u8/2cde981fce32719c7c5ee651c18aecd3.m3u8#第35集$https://oss.douyinbit.com/m3u8/bf47848983484b3ed9cb71971d35bb7e.m3u8#第36集$https://oss.douyinbit.com/m3u8/ad0482d01cce4e1ffc07f45d60ed931d.m3u8#第37集$https://oss.douyinbit.com/m3u8/0bcc10dc0f7a412e9a6c35ec75604a72.m3u8#第38集$https://oss.douyinbit.com/m3u8/91b54a214f6135e632e3bbf101721985.m3u8#第39集$https://oss.douyinbit.com/m3u8/bf6ddea9215340650b9489abcb54a70e.m3u8#第40集$https://oss.douyinbit.com/m3u8/c7c4cbbefb28e1c7c5cb96393b6cf840.m3u8#第41集$https://oss.douyinbit.com/m3u8/907fa53a9d2e97c2d1b5f423609ca975.m3u8#第42集$https://oss.douyinbit.com/m3u8/e132a8ad468260de4a88e9a40855fe87.m3u8#第43集$https://oss.douyinbit.com/m3u8/a5f04794df518753b655df1aa23f7ac7.m3u8#第44集$https://oss.douyinbit.com/m3u8/50423dc99e1002e748c209b20d3926e7.m3u8#第45集$https://oss.douyinbit.com/m3u8/befe3cc76296e8f9037488721f0e4c5f.m3u8#第46集$https://oss.douyinbit.com/m3u8/31f888b9e85428f672984f5d6e570742.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至40集"
-    },
-    {
-      "vod_id": 10012,
-      "vod_name": "延禧攻略: 第1季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2021/01/27BBIdsHQW5ghi2QpziPyOoxe1G-1-233x350.jpg",
-      "vod_remarks": "更新至26集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第31集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/49a63424-f0b1-4af9-b09d-7a0bdd9eaaef.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020155Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E31.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=778656846&x-amz-UFID=923961208675762380&X-Amz-Signature=795e0fdce84f6f9fe02d010f861b48f058c83a94f58946e49431e69727b3f3bd#第32集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/3bfd7ca3-110c-485d-b4a7-3b5348c606e3.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020155Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E32.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=779858731&x-amz-UFID=423751208677325185&X-Amz-Signature=b39e0676a32267cb71405a312e83b2e9924ff53de85ae3685c9943d94979ab63#第33集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/7d1131c7-1464-4107-bc31-b8887979cbda.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020158Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E33.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=724449573&x-amz-UFID=323781208676867352&X-Amz-Signature=e10d0c3092b589e051928062f838d00fb022bd8be95143a5c8f64efe6c331d15#第34集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/6569ea5f-5032-4ef7-88d2-fd7399ba0dd3.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020200Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E34.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=745192837&x-amz-UFID=624591208676737998&X-Amz-Signature=596f0eaee1e2e304c82daa6e815f0584d52e423f49ca06c6eeb21af20711b327#第35集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/1371a895-e755-4abf-b029-99b4220433d5.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E35.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=743415262&x-amz-UFID=424121208677902493&X-Amz-Signature=1738d0816ab1b4a59d445c48663cf62520f3ffd5984e47e1060eadb2dee02b25#第36集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/5b00a203-1052-45ea-873d-69ac54a5de5f.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020204Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E36.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=850948752&x-amz-UFID=523781208676867520&X-Amz-Signature=6c1b218e10f7f047121bcddf53f261cf85f1d4c730a1fda2848737fe93b31307#第37集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/58b00a58-3dd1-4352-bf83-5a66a67da391.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020207Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E37.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=780700632&x-amz-UFID=625011208676847585&X-Amz-Signature=829f904d7014c5e2a7097a2246062aa06979b54a56ceb6687073cedcbf824fd7#第38集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/1c583f85-5f2d-4269-8cf3-4111f61feb55.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020209Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E38.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=713724004&x-amz-UFID=724971208676509593&X-Amz-Signature=a382e2f2d5c1853a84497461e51c533827cce244695aca13fdc186292cc54cfa#第39集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/bcaa4a72-ff63-4a2d-ac31-88f108913746.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020211Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E39.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=740566364&x-amz-UFID=524031208677245913&X-Amz-Signature=d9c7587a1cc37c683da2474ae9730383ca3d46871135be1f5a31383be43d3698#第40集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/36cfa808-0b57-4323-8717-2bad975dacc3.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E40.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E40.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=sCSsaAufOtznEww0W1LNpNohwjA%3D&Expires=1794891733&x-amz-FSIZE=715529425&x-amz-UFID=523481208678181679#第41集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/26b98387-f3d8-4d23-bf63-607a89575b16.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E41.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E41.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=F4Jl27luZJRXsT003NjUQnv5Ajo%3D&Expires=1794891736&x-amz-FSIZE=775157202&x-amz-UFID=823201208677942918#第42集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/202500d6-f4b1-4eff-a36a-bdeee3f3bbcb.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E42.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E42.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=FYxq4du%2BPzs9eVNGowoMrlmCmlI%3D&Expires=1794891738&x-amz-FSIZE=842790377&x-amz-UFID=824591208676738520#第43集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/c1ccec1b-1045-4d22-9359-9a521f80d587.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E43.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E43.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=ucsgBgg4jAMtgoJgpQvACTHQHjk%3D&Expires=1794891153&x-amz-FSIZE=819847952&x-amz-UFID=724341208677962880#第44集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/4772f5a4-655b-4729-9f6c-06e5ef8640ae.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E44.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E44.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=qh5YsGGnBY3%2BpgjK8muOjUSmzLU%3D&Expires=1794891174&x-amz-FSIZE=787295503&x-amz-UFID=723971208678381041#第45集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/5f139db7-1f04-4446-8722-fa6e2d23701a.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E45.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E45.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=6S6%2BXI1uYMsLo5Tb%2BkZY7bDuLlo%3D&Expires=1794891745&x-amz-FSIZE=831714615&x-amz-UFID=824081208678590237#第46集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/b6cfaac1-22e9-4193-9c42-5561c711efbd.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E46.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E46.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=PNKGVR5EgToH%2B94lTsZK%2BVTJ7BM%3D&Expires=1794890136&x-amz-FSIZE=796929148&x-amz-UFID=423751208677326289#第47集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/bce41103-30db-4c92-941c-b423f5dcfbd6.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E47.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E47.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=PcanPbWzTrA78bfCQYVe7LA3FO8%3D&Expires=1794890640&x-amz-FSIZE=800381304&x-amz-UFID=625371208676810343#第48集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/d2e7279d-bb3f-488d-8579-470e32039eb7.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E48.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E48.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=gR/OLJFU%2BVI9QANt3DtTsjuemCQ%3D&Expires=1794891751&x-amz-FSIZE=793168318&x-amz-UFID=223751208677326346#第49集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/1077f078-1919-45c1-9db7-6e89a2b8c0dd.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020234Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E49.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=797569593&x-amz-UFID=523761208677445761&X-Amz-Signature=918c317f0718f56c815d0e2c700500fad062d5cdb8b402beb884120239ac8f0e#第50集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/64d7e1ca-5b3d-4e82-9edb-e807faadd352.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020236Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E50.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=797704410&x-amz-UFID=723971208676888517&X-Amz-Signature=2956ab108bfaef5e6c49de0e669771c62ecae99876f77052b7f93ded1e90634e#第51集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/0136be7e-382e-4151-bd5e-cff3c2687647.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020238Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E51.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=812725121&x-amz-UFID=825341208677047301&X-Amz-Signature=352d69e27cafa9c601fa37c821bd83ff38ea2fa3f92a2edebe5ef22e1bf89410#第52集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/71b12afe-0b51-4c1e-a191-b2e757ad7409.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020240Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E52.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=817783893&x-amz-UFID=124811208674327051&X-Amz-Signature=817ed1e8e540571e85f6dbdc106d9a0b94617d9ce2734b93f790ca89969eb91c#第53集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/52009635-8c7d-4c5d-a9ea-86ef7e8d765c.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020243Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E53.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=869543318&x-amz-UFID=424341208677963528&X-Amz-Signature=a96baa6478bb6507b4b2c8e089cde4584855fbaaec841245a4fc3d034543304c#第54集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/3e20bd4e-2f07-41e8-9af3-8753f48650c4.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T014608Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E54.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=859106540&x-amz-UFID=524341208675274145&X-Amz-Signature=ee1c716073f33739a6c2af0661a6ada424dbb064bc2d201738970e619a229542#第55集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/d6b74da3-568e-4837-ae42-f2f029259852.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020247Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E55.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=840435558&x-amz-UFID=924391208677794580&X-Amz-Signature=072cabc1ef42723a4ea40f169b0e1548285429e7397926e24bba44f4b861dbff#第56集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/4fa3503c-f42c-4ee2-8205-f6970b1715be.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T015137Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E56.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=866936503&x-amz-UFID=623411208677406455&X-Amz-Signature=aefe06988cbd1893c95198b333bc5efa6d2c3498b164350c62edad0b503171d5",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至26集"
-    },
-    {
-      "vod_id": 10013,
-      "vod_name": "人民的名义: 第1季",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/5WgBKlvrlLqH2EeRftauuOnQuLS-233x350.jpg",
-      "vod_remarks": "更新至40集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第16集$https://oss.douyinbit.com/m3u8/c5fbfcd53a78c5608e6cd6d3d7afc67b.m3u8#第17集$https://oss.douyinbit.com/m3u8/a8b76928fb2403ec022dbc6a77c4e13e.m3u8#第18集$https://oss.douyinbit.com/m3u8/6547d7734547591b9b36a1b8d68e1531.m3u8#第19集$https://oss.douyinbit.com/m3u8/c2b2b3b54ec83531aade372745898cfd.m3u8#第20集$https://oss.douyinbit.com/m3u8/7b38cf692a2c93286dd0e25b2443692c.m3u8#第21集$https://oss.douyinbit.com/m3u8/5140304148d35a299ca4a9adbd1681d9.m3u8#第22集$https://oss.douyinbit.com/m3u8/1fa50dd62193cecc65208399bc6359a2.m3u8#第23集$https://oss.douyinbit.com/m3u8/9297b97faa3c09951e3441c84d6518fb.m3u8#第24集$https://oss.douyinbit.com/m3u8/1662dc4d78d5ab6bafb68ae11ba57d1b.m3u8#第25集$https://oss.douyinbit.com/m3u8/ee5296fca7eb0f07040539ca50dab15c.m3u8#第26集$https://oss.douyinbit.com/m3u8/0d23e9186a1728d36417f1a38e32565a.m3u8#第27集$https://oss.douyinbit.com/m3u8/cc57edc58284cf6f97fcba754f745dbb.m3u8#第28集$https://oss.douyinbit.com/m3u8/c842164c496fee234e153bdf85c6fef6.m3u8#第29集$https://oss.douyinbit.com/m3u8/fabeb0ab5c3c1551909f62f4d8b22055.m3u8#第30集$https://oss.douyinbit.com/m3u8/96b64bf77d40f817d00cd266f39fc9d3.m3u8#第31集$https://oss.douyinbit.com/m3u8/4453c34cbc0415f4dfee0e757526caf8.m3u8#第32集$https://oss.douyinbit.com/m3u8/7a1e9786632fee7dc2b2afadca6bfa3d.m3u8#第33集$https://oss.douyinbit.com/m3u8/137693d133ba11b8c698059255c2a1c4.m3u8#第34集$https://oss.douyinbit.com/m3u8/6acaa233dfc012eed9738d514dc9971e.m3u8#第35集$https://oss.douyinbit.com/m3u8/ca2a27d31b7b856a367a7312564dbea5.m3u8#第36集$https://oss.douyinbit.com/m3u8/a85b429d09deec8cdea074434fb80948.m3u8#第37集$https://oss.douyinbit.com/m3u8/8b664f011643890d7ba7a03440405b29.m3u8#第38集$https://oss.douyinbit.com/m3u8/0ce62fb810f65ab704bfaa6661657a29.m3u8#第39集$https://oss.douyinbit.com/m3u8/83b45b8d644e56fc934679af9787ba90.m3u8#第40集$https://oss.douyinbit.com/m3u8/45815e5c29e88debf60d4f8e05253904.m3u8#第41集$https://oss.douyinbit.com/m3u8/6ac9908fd917051b85b54174f24fbe7f.m3u8#第42集$https://oss.douyinbit.com/m3u8/e1d602ab05bd1a63c10fb27e7777bdf0.m3u8#第43集$https://oss.douyinbit.com/m3u8/8f88421175232806d48a8fb225d75b37.m3u8#第44集$https://oss.douyinbit.com/m3u8/7386b9129cdc45da25f82787e8137950.m3u8#第45集$https://oss.douyinbit.com/m3u8/7c7616141067fe19785701e106847958.m3u8#第46集$https://oss.douyinbit.com/m3u8/6f01d5901902b7c6f19fb4f6eb214449.m3u8#第47集$https://oss.douyinbit.com/m3u8/670cdc6231d70c14965d7b67c9f261d8.m3u8#第48集$https://oss.douyinbit.com/m3u8/9ab76ee64623decb6a1f4d23d818d580.m3u8#第49集$https://oss.douyinbit.com/m3u8/17ee795ba828a89a2d0225d70be12ebd.m3u8#第50集$https://oss.douyinbit.com/m3u8/9183773fc68b4676fc1af90c570855fe.m3u8#第51集$https://oss.douyinbit.com/m3u8/0146646784d502df9ef95941d1ba7baa.m3u8#第52集$https://oss.douyinbit.com/m3u8/9926dcd4c775d9aaf788510717c47051.m3u8#第53集$https://oss.douyinbit.com/m3u8/99285501e53a2d5adeff471356a38de9.m3u8#第54集$https://oss.douyinbit.com/m3u8/32aaa3f719c1c12932c70401a705f7e7.m3u8#第55集$https://oss.douyinbit.com/m3u8/e71ae4e728f465d68f219252941492fa.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至40集"
-    },
-    {
       "vod_id": 10014,
+      "vod_name": "007：大战皇家赌场",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794889082-300x450.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/39e8e0809fea3557d1cad358b9690a76.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": ""
+    },
+    {
+      "vod_id": 10015,
       "vod_name": "过春天",
       "type_id": 10,
       "type_name": "电影",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794803775-300x425.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://ppvod01.kqgfbs.com/splitOut/20240707/292730/V2024070706411019692292730/index.m3u8?t=6afbe076&whip=20.83.175.149&sign=b7bffa6d0c9ea62717ca6b251e6526836c6248fe",
+      "vod_play_url": "正片$https://ppvod01.kqgfbs.com/splitOut/20240707/292730/V2024070706411019692292730/index.m3u8?t=6afca974&whip=3.42.157.92&sign=b7d2537e4e248888f9edfa168820be2f85d6613c",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10015,
+      "vod_id": 10016,
       "vod_name": "王牌特工：特工学院",
       "type_id": 10,
       "type_name": "电影",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794669645-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/478df58aca9cf4dec73d86d8c16f1435.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/2acb0bba8070c1cbe5522fdee0d163f5.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10016,
+      "vod_id": 10017,
       "vod_name": "枪王之王",
       "type_id": 10,
       "type_name": "电影",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794584405-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/8f59350a44a6f2a3d551f7df1f8760cc.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/738ce7479fc1290354f5a1121fe4031e.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10017,
+      "vod_id": 10018,
       "vod_name": "心乡迷踪",
       "type_id": 10,
       "type_name": "电影",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794583296-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://zy1080-02.sskan01.top/api/zy1080_02/ZTBiM2dhSkEydS9LbkQ1QVFWbGpwSk1ZZGVRcDJZcU1kNVpINGpsOHdRb3FaVFdmKzBtV2VVbjNYeUxHVDRUQlpLekZ6NXp1VzhDa2RITmRKSGQ5N2N5aHlRTk9aSGFady9JbmhxKzJ6VTFBUUlnYm80YlhzOGVjZ1NUeHVSMTlmQUtNR25nb1NLV1pYZ1diMVJRTFl6RE1JWDNkcXRkOHZ2bUp2Mjk3K3kxekRaUHJnTVB0TVlkTGhZR0pCTGFBc0N4empXK3M2UXdxam9xRnRKMWpSRllUSk5udE50SVdyNGJRQTQ4Wkk3MjNmMklLbGtsVHlhaUkzWTdNZU5va0hWeDVHRGxMeGxXVWs1WHNSaHIvZ2JSWjh1TXp4aFdmYUcyNTJ4WUJlUzFjaHlMT1FCUmdhT28waG1aaTBISDgvRE9QZ1BiVlR6NTNyNVNjYjNUMDNkcndWQlYvZlhwWnV4cVE5UkpoZFdXZGlyRnR6bnY5aTZVSWw4NGN1NTZBYmNFRkE0U0N4Yk5mY0Z6N0c5Y0RNRThuMTI2bExFc2tqTDFNU3lTa2pJQnBGaXlkaENhNUVydWxRaVpiQWN2YTZSSlVsdw.m3u8",
+      "vod_play_url": "正片$https://zy1080-02.sskan01.top/api/zy1080_02/ZGJlNW5tTEg0SVkraE9DajZmV05WZllNejZpanU0OVlNNHVpQ3UvSXpOQ1NWU2w0b3BZWEdhc3grREJtbWhIVkoxUjZwUTFVQ0pRK0dXdnJ6cmUvR1dibmJBdVNYSUlyZE9TN0IzSkM0UXJmQmdWY2pmU281Q2lyRXNlakhUelEwM1p6WlptMkN5Y3dmeXhKN2t5QlpSeTdaOVlhMjl4VGl1UUl3amZQd3p5YzZjWlJMSldqWkdpb3cvUGhwZ0plbStwV3A1bGVKOUQwQ2dQRTVyMnlvNDFNN2xZaWpJSWxXd2U2Y0hxdXZpSFNtS1Bvb01HUEs5eWppKzRSSU9COUlRdldpMFF4S09NNEFNRzZOZUh2U2VuS2lhMjdGelk1L0Z3eDZjQ2ROdUloVzI4ZktFQzZoQ1V6ZmFMNllUNmlwWGloczZBeU5FbnljN1o0VkxPckFtOHgrSjJaSTBETmFLMm55am9ETVZpN0kxNHE4d0dNeFFESUl3VkhRYmRacDJEUlRYT1V2akEzTFQ2MHVRa1RCZ3JHbHEzd1pEYTg0dTc4d29sUXBsbStjSk5iT21YTFdRdjFOWHNRRW5LTEdEc1hWUQ.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10018,
+      "vod_id": 10019,
       "vod_name": "性爱宝典",
       "type_id": 10,
       "type_name": "电影",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794573829-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/0d90c3ea8b25df262cf38a6b205dfde8.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/70892f0062b579e6e0d1560e881f9c3c.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10019,
+      "vod_id": 10020,
       "vod_name": "大红灯笼高高挂",
       "type_id": 10,
       "type_name": "电影",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794541075-300x450.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/4bd92f8a2196008aff85e9976eea2a17.m3u8",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/ddbc30b7a17360dea1ef7acee6cb302c.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10020,
+      "vod_id": 10021,
       "vod_name": "辩护倒数",
       "type_id": 10,
       "type_name": "电影",
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794539953-300x420.jpg",
       "vod_remarks": "",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://zy1080-02.sskan01.top/api/zy1080_02/ODM3ZUU1MzJKaXVOZ0k1SGtKUm1qY1BpNnh6dXdqQ3RveWI1RTFQM2pXQUZIelJGRWppZS9lcXBXMGxqakdzeVEwOUZhMVhpWUJSR2VwTkgvVjhENDJSSkxnYnl0ZTM1ZFlvWUQ4ZnFlZ25XOFlBL1ZiVTVxcThaTGdES0FpRzdQcVROcFJzZnZjNzh0cFErK2lpMkJwT1FXUTFLTHdCUXVWaVRScjZIZjdXTWN6dE54T3MySTdqNmw3LytqeTdSaTV2eUFQQ2tkQWZrR3M4Sk1WVWxmSkpnd3IvVGQ4YVdMbHhtZ3RTSkFvRlpDM3YxM1l6YzZwSU9HeGd6ejF2SnJUbEFsSkdLWU5yTGNtanMwS096eklxdzhna3Y1akY3UVM1VGNnYkozcmdWQ2JObC9HTGxMVmc4YzJzUHd4SFdZQlUvWlVEWU1qd2ZIZUFneW1NaXZzSEhRZFVWQTZmQlNsMkdwZGwwWTRMWEF0dDhZeE9ubHRkaXR2Zzc2TEMxR3VJbjJhdEdESG41Qm9FNW9tQlNESFpWOXdOZlpLcUhkRDV0WmJoNC9pMVVNQ2NIMzlTVUpSNEdyUUJ4MVZoajZBVElUZw.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": ""
-    },
-    {
-      "vod_id": 10021,
-      "vod_name": "弗兰西丝·哈",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794485134-300x450.jpg",
-      "vod_remarks": "",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/99b078236e4669247fde2fa62284e330.m3u8",
+      "vod_play_url": "正片$https://zy1080-02.sskan01.top/api/zy1080_02/YmY0NVJhZVpRYnRtUHl3Uitxc1lkMFA3ckZmOU1RamJoRFR0TU9wRFdFaWZMcUFzczBmaFdEL3VRb1hsckIrSDBYOEhUY3o1cFFHeUFjUDFBL0djaHB2RDZkRlc5cUlReDdOZTlPSHN3dFVkZ1pEOXppU0VKODUwbEk3TExEcXkxQ0RJUFF0VWVGUmZEcTJJMmxXWklHY1FJZytqZWVoL1NVdnEyb3VhYUFYc3lTUG1OcVB6R2dYSHR5SVNnUDd0c3BOQWJJMFV6UGs0b1EvN05EcmxkaDIxQlFFeExQeXZxdTF3N0FYTzZSY3dpZ0ZOdHRJR1BYeXowUm4reW42bVRkQUc5azU4ZmlLSXROLzdSR2paZUtsYk9JNUxmdWFQR1RYQ2ZBdWJ4QmZ4dTM2cGo5djBpMFZMMUxzV2Y1aEJsQ1lRMUxyTVhBaW4wcWFvTEVhYWpCT3NIWVVRRDhKSFVURnRmOUFmaGIyMWNqUXI4Y1hMdklYS3ZSR0VmOTNWb2pXOEx1bzQ2aFlZdmhickRGYUZsbjBjZHVaUVlhaHEvTVpXaTJKaURvMzNCdjA5NHdtV1B2OElNVHJJRk9zZlRCY2EvQQ.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": ""
     },
     {
       "vod_id": 10022,
-      "vod_name": "实习生",
-      "type_id": 10,
-      "type_name": "电影",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794485033-300x450.jpg",
-      "vod_remarks": "",
+      "vod_name": "遮天",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2024/04/j6z65zdwJHQYUNFAZ1joYeAJbjZ-1-233x350.jpg",
+      "vod_remarks": "更新至40集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/718f4ab761184bb170a7d44373275577.m3u8",
+      "vod_play_url": "第150集$https://oss.douyinbit.com/m3u8/6b646ca6ddc4d270e3a31c0d20ecd075.m3u8#第151集$https://oss.douyinbit.com/m3u8/5903478a732cee5085486b597ad880c5.m3u8#第152集$https://oss.douyinbit.com/m3u8/1f4d4b674d795e5e7794583914488974.m3u8#第153集$https://oss.douyinbit.com/m3u8/c08d5bb4634115228a02980edac7ca61.m3u8#第154集$https://oss.douyinbit.com/m3u8/e5299c13d4e46498a7dcaa860286ac8d.m3u8#第155集$https://oss.douyinbit.com/m3u8/f9bb166d430b9316962b2ffb0ebd53f7.m3u8#第156集$https://oss.douyinbit.com/m3u8/c7414a8f0a495de67f3c64cddea67eef.m3u8#第157集$https://oss.douyinbit.com/m3u8/83ee5abd341729b48a2166aeeb0e8a64.m3u8#第158集$https://oss.douyinbit.com/m3u8/1caa116a6907efb6c2b4d63b298509bb.m3u8#第159集$https://oss.douyinbit.com/m3u8/6132a3b3b8dab16c8ac94c955f9a8604.m3u8#第160集$https://oss.douyinbit.com/m3u8/f85a55a6563f0c9a06be90ce1b80b7df.m3u8#第161集$https://oss.douyinbit.com/m3u8/936f108165697c54a3da63675d241a9d.m3u8#第162集$https://oss.douyinbit.com/m3u8/d2d3d8bfae47050bcb2d3c7b93a298b7.m3u8#第163集$https://oss.douyinbit.com/m3u8/5185288d07d1ee26261d7dc0facf8bb8.m3u8#第164集$https://oss.douyinbit.com/m3u8/1cdb31fe4065451453503ee6fea2d5c4.m3u8#第165集$https://oss.douyinbit.com/m3u8/5c6ce2bf4884ba416693707542091c42.m3u8#第166集$https://oss.douyinbit.com/m3u8/bc7173b8e77fff599070e0ee39202e33.m3u8#第167集$https://oss.douyinbit.com/m3u8/c03066b5f8652942937f3545e57e577c.m3u8#第168集$https://oss.douyinbit.com/m3u8/e7d9be6c930a74b8e1ee82b987851b2b.m3u8#第169集$https://oss.douyinbit.com/m3u8/23d9dd4739db220faeacad8dc9d3f760.m3u8#第170集$https://oss.douyinbit.com/m3u8/3a71b49d347447ccb82a19fb7e0973e6.m3u8#第171集$https://oss.douyinbit.com/m3u8/1e6e23cb2a1a98432fa894e7fd96bf7a.m3u8#第172集$https://oss.douyinbit.com/m3u8/a1b542d240e88c0f5266479e3e0bcc75.m3u8#第173集$https://oss.douyinbit.com/m3u8/4d4d3284f06a7b75e0b5d3e9ed4bc5f2.m3u8#第174集$https://oss.douyinbit.com/m3u8/710b3b5622093ef09eaa49dd4634c9dd.m3u8#第175集$https://oss.douyinbit.com/m3u8/3fd845807646e141e912678b2a569149.m3u8#第176集$https://oss.douyinbit.com/m3u8/4f11cc9dde5077db31cddcfa4868e66a.m3u8#第177集$https://oss.douyinbit.com/m3u8/34d6653cae8c05580d2838654adc1969.m3u8#第178集$https://oss.douyinbit.com/m3u8/6ea89b10378510dd3fd7397367aaa8bf.m3u8#第179集$https://oss.douyinbit.com/m3u8/b213f3266f06041c471ef71078380db8.m3u8#第180集$https://oss.douyinbit.com/m3u8/757d109598ce879e8834d3b08cf9c7dc.m3u8#第181集$https://oss.douyinbit.com/m3u8/4e459af30772294bc6092785b3dc993f.m3u8#第182集$https://oss.douyinbit.com/m3u8/6acb0b577743ac1d68e11cc0bda02292.m3u8#第183集$https://oss.douyinbit.com/m3u8/921df86856f92314dd5fb5163bb14081.m3u8#第184集$https://oss.douyinbit.com/m3u8/79a9da98bfba5899bf74a0351198cd66.m3u8#第185集$https://oss.douyinbit.com/m3u8/9cbdc8094daf41932018ae71f0ce78b6.m3u8#第186集$https://oss.douyinbit.com/m3u8/4cd444eb737cf9c352a1ed23c5f6878a.m3u8#第187集$https://oss.douyinbit.com/m3u8/7bf2d2b2aa6f8dd72430f02a889bdbbe.m3u8#第188集$https://oss.douyinbit.com/m3u8/fdf3c46de5d801481b77de741a1f8385.m3u8#第189集$https://oss.douyinbit.com/m3u8/940cdcf75ae9db25e25b30743baa43dd.m3u8",
       "vod_source": "kvm",
-      "vod_remarks_src": ""
+      "vod_remarks_src": "更新至40集"
     },
     {
       "vod_id": 10023,
-      "vod_name": "七龙珠超：比鲁斯",
+      "vod_name": "一斩苍穹",
       "type_id": 13,
       "type_name": "动漫",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792383950-300x450.jpg",
-      "vod_remarks": "更新至6集",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/08/douban_1786085968-300x450.jpg",
+      "vod_remarks": "更新至18集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/8a542888b8f053358b251057118b8225.m3u8#第2集$https://oss.douyinbit.com/m3u8/c40a294eb1340fb3c77482ff6382e476.m3u8#第3集$https://oss.douyinbit.com/m3u8/dbbdcea83a60a7f1c976ef74f5e1b504.m3u8#第4集$https://oss.douyinbit.com/m3u8/f3feb83b44187388697d2afba47e6ecf.m3u8#第5集$https://zy1080-02.sskan01.top/api/zy1080_02/OTExNmlkVXpMMkxhYjVONXppWUwwKzBKMGoyTXlwbnlHSzJHTGFZUmhIdlpQSTNLVFEwUVZGbkYyOFo0TlNNM0ZxRTV0b0VjVURNWVFjQmticEowT1YySE9WRndscmRNVUlPUm9oNXhRbUxSU3FqcU0xY0xzc3FsZHBhRUtGZnR4Vi9QQXI0TjVtRWlLckhnZVRKTXpScVEvd3F5czV0Y0JWWlRhUXVoZTBWZmdpNWxrYll1NWNIOFdZbVZJRXVjRmMwZ3BSd20zMkQ3NGNaM2hDQi8yemdINklLT2Y5TE5vd3k3MnR5a2pmNzVadkJiZllmUkFySUxOam4rM3pTZjlKR0Z4d0Q1ZFZqc1BYOXVVaUpVeHJvYnRPT1gyZFh5dkw0SExQdW1kbGhJYmY2b1JLdFZZYVlDMXJIY3luWHRpdThBVGJWVitmVHJmc0tISnhlZHVubTNhUlZvZS93QzQ4S2FVNTltL1pLS2hzSGFlcHFzZjV3MFYrQ0hHTEVxbDNuTjhMMVlIOEM0MVFoYWxYejVlYTZ2TVhHZDkzZzB4YjJjRDJsMHV4d0xsc1RudmJJS0FkVVFBalo3b3lLQmZ6UQ.m3u8#第6集$https://zy1080-02.sskan01.top/api/zy1080_02/MzE5Yko4RkQ1b2RsOEFnYVlweWtOaFhmVitxOFZQSEF4a2U5b2Myclo0SnhGK2d2QlhWOEIvK25FRmNNaUhqSVF6QThtRm11ZE4waFV4OU9KUmtCeWFuZXU1eFNJdHBKcXBCZDlIbDdQZ0kzUkZpMTlHM2h2TUhid0Q3S1VGYUlQMzNjQU1zR0dvMFRPb1pibWxhOXVnR3JHU3RMSWJNK1dvRUZTRzhjeTN3OGMrYlF3UVQxeXBHQThjK0syd1NJcWJQV0Z2c29GSXdCM2ZDQUpmMVdYa0dmcVNqZnJRRU12RU00a2xpQXpoWjFjRkY5NjBkSWZGYkREMWNiekpNQTBmWVpBMnIzTk9haWluUzZxa3FpdHhxMzVSU1ZZbmM5R2ZZbjBVb3ljM0FwNExJMENnZFBCOTJWYytzNWlWdFluZnk0L0ZIdUV0bWhXNzFzek1qT2p0RTd2Z2xiMVBUbStZSmVHRUZOQTBUSUNFbmhDSURXU1dqbmNPL2hMZ1pNa1k4ZDZaQVE5MXY4NTU0ZkxlbVkrREtDZ0tXOFg1WGs3QWVaMFFTYjVWNGxrbWZQdThNU3ZpVEpQVk00RXl0YnBWSQ.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/c2acd0df0fec74e74f646de73a9f5cfc.m3u8#第2集$https://oss.douyinbit.com/m3u8/c90c235a9d21ce3f09b4c09562f103e4.m3u8#第3集$https://oss.douyinbit.com/m3u8/31655d242757f8f520f4399b7087515e.m3u8#第4集$https://oss.douyinbit.com/m3u8/22bfa79ad94bbcac5c350967284af187.m3u8#第5集$https://oss.douyinbit.com/m3u8/49e5a8324d59d1ac7ccec19e0b9cbca5.m3u8#第6集$https://oss.douyinbit.com/m3u8/34c2db90488d5ef1bad6cd9f1a05c747.m3u8#第7集$https://oss.douyinbit.com/m3u8/04e89c495cbf7405a96460661e55a5f2.m3u8#第8集$https://oss.douyinbit.com/m3u8/80d51435326571e7a3cd196206a78bce.m3u8#第9集$https://oss.douyinbit.com/m3u8/698cbedf775a41b7660f01ba66927e9b.m3u8#第10集$https://oss.douyinbit.com/m3u8/a654c77e91a86e96c83b6d8bbec1c940.m3u8#第11集$https://oss.douyinbit.com/m3u8/2e71b500f92faf63a919bb106f4ba041.m3u8#第12集$https://oss.douyinbit.com/m3u8/ec0d242ced12bed45c859d360e12873c.m3u8#第13集$https://oss.douyinbit.com/m3u8/91549ee79101a711e59b9438c781707d.m3u8#第14集$https://oss.douyinbit.com/m3u8/6067d9f7ff5de4e29627f551ace4a5e0.m3u8#第15集$https://oss.douyinbit.com/m3u8/cb408c201b4fb22bbfd66927e7b761d5.m3u8#第16集$https://oss.douyinbit.com/m3u8/06da347d34116a31dadcffb8ded43a5a.m3u8#第17集$https://v6-default.douyinvod.com/24acb86fa0146798108fe3dade3c3377/6afcd178/video/tos/cn/tos-cn-v-5f73e7/ocZvBaeGEIeyr2V1kbAsv50WlCjOfI4wLzk3IA/?name=viptvmv.mp4#第18集$https://zy1080-02.sskan01.top/api/zy1080_02/OWJjMFRaR1pIUUVoRXUrYlR6MmJVVkZsRGd1MzFXWnJSV0dvOXVRSmoySGkzZ3hJVmVLT1ZicjNqZHhPckZqZitsN2hmU2s0b3h6Q1FGQlF1QkNaS003emVuZ1RoekRyOGNxdDQvaEtqajcrRkhWcURTNTh0TmVlSFdYZFFHMkZqLzFsSWdPRDJCMnBKV2VjRlBrRXFJZGdHMStrQ0wxQW94ZDhUdXF1cE5Jb2hsa3ZzaHVlR2NqSXhwazdUOTZPbkdvY00wNjh4L1VFZytBYTZQc2dwR0U5OCtzYlpxdmdpd04yL25pNVZGOFdjYjZCS2tnUEEyOHEzSENCczl0dTlNQVZPcmo3Ty9FMlJSRWhPT2VxV2hDRUY5dkJDMFhvdDkvVTJDYmpEYjBkZSt1SUFBZHpSbEdyUEtaWVNqQ3BMaHJ4bFo4M01iOWxVQ1kvaVZ6V2RNNUJZU0ZmUURCWWVXQ2NXOW9pWEFGZ2ZTNW9WMUNlNXpPM2o0cmg3ZlhOQ1JuWkJicDA3RjNTT0h2d0FMQjRYN2RnMXF5YlVBRkd4YjlqdHJ6NFhCdkVzUUJibDBwWHNJOW1HR0U.m3u8",
       "vod_source": "kvm",
-      "vod_remarks_src": "更新至6集"
+      "vod_remarks_src": "更新至18集"
     },
     {
       "vod_id": 10024,
@@ -304,7 +304,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792902560-300x450.jpg",
       "vod_remarks": "更新至27集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第60集$https://oss.douyinbit.com/m3u8/a84f2a58d062efebe0a6f46932c6c702.m3u8#第61集$https://oss.douyinbit.com/m3u8/baaf1d2169afe95acc10b19d74ff68cf.m3u8#第62集$https://oss.douyinbit.com/m3u8/f8828c4ef5a08d115689b62418777d03.m3u8#第63集$https://oss.douyinbit.com/m3u8/9a06b1345e849dd344294c094ac8cf8b.m3u8#第64集$https://oss.douyinbit.com/m3u8/5546d5829bcc5c878197c1c998ffe92b.m3u8#第65集$https://oss.douyinbit.com/m3u8/699c7c5cc199db9329fd97010b685056.m3u8#第66集$https://oss.douyinbit.com/m3u8/e21c625f0d8c1b0fdcd220f17f9ec43c.m3u8#第67集$https://oss.douyinbit.com/m3u8/ed9173ff3a1e68e7a7cbc93ca072b079.m3u8#第68集$https://oss.douyinbit.com/m3u8/8a2cc57b7ab95442bde91c470a1d1709.m3u8#第69集$https://oss.douyinbit.com/m3u8/97f5a18b5bc7fc40d2537e0b8c00c46a.m3u8#第70集$https://oss.douyinbit.com/m3u8/36a8129e899e983a463494d60ea742c9.m3u8#第71集$https://oss.douyinbit.com/m3u8/8e1da90c167fbdb69a6cba708b7deb21.m3u8#第72集$https://oss.douyinbit.com/m3u8/3aaaeb53cac9a2351f69eec359f116fc.m3u8#第73集$https://oss.douyinbit.com/m3u8/8b0b6a8326d8fa5e0f81f224f1019ad9.m3u8#第74集$https://oss.douyinbit.com/m3u8/ed29b257625416af0b839e5311d2220d.m3u8#第75集$https://oss.douyinbit.com/m3u8/4d71170125d43c60f95e6649794c29f5.m3u8#第76集$https://oss.douyinbit.com/m3u8/d6ff67f6275b0cab0616f7e84bcde935.m3u8#第77集$https://oss.douyinbit.com/m3u8/668fcf9927190c27d3cd6dc78a109737.m3u8#第78集$https://oss.douyinbit.com/m3u8/45ed164bd555e1f5bed95aeb29052d2d.m3u8#第79集$https://oss.douyinbit.com/m3u8/8018421a0438d03a701cbcf918ffd2a2.m3u8#第80集$https://oss.douyinbit.com/m3u8/cc03b01a2d2bf2a7a74c3ac48d5ec122.m3u8#第81集$https://oss.douyinbit.com/m3u8/fd02e08b29fa39d06e378d9493c780c3.m3u8#第82集$https://oss.douyinbit.com/m3u8/b45b62bc6bdfb26d058821bc646bdf7d.m3u8#第83集$https://oss.douyinbit.com/m3u8/34faf49736b986ccdfa67a7a6c1e0c29.m3u8#第84集$https://oss.douyinbit.com/m3u8/982fb4193f8187a266db2953e7b66807.m3u8#第85集$https://oss.douyinbit.com/m3u8/62cee451898813aa42856ee3aa73683e.m3u8#第86集$https://oss.douyinbit.com/m3u8/7ad47a1cf3b9996fe430574c329cff0f.m3u8",
+      "vod_play_url": "第60集$https://oss.douyinbit.com/m3u8/1f80e88105b2cabde8a6468162e021db.m3u8#第61集$https://oss.douyinbit.com/m3u8/cd3b130988d49c99963f367aa69d3908.m3u8#第62集$https://oss.douyinbit.com/m3u8/7c0ba339457f00b3ae2021e6311e4f50.m3u8#第63集$https://oss.douyinbit.com/m3u8/a293fdabfeadf3c9da7388f076ddcc6b.m3u8#第64集$https://oss.douyinbit.com/m3u8/4c989de1abf68849d9f1462ddca0b4f7.m3u8#第65集$https://oss.douyinbit.com/m3u8/a2219ed87e3cd994d69d8af00ce57e4c.m3u8#第66集$https://oss.douyinbit.com/m3u8/8dc61bffc3e3152c70439f9d21a5e4f1.m3u8#第67集$https://oss.douyinbit.com/m3u8/858bab8bd710de24baf4a6e8d339ef7b.m3u8#第68集$https://oss.douyinbit.com/m3u8/476773849323e1180506267ed2dab792.m3u8#第69集$https://oss.douyinbit.com/m3u8/bb0011cfcc197961a1ed1866f6418619.m3u8#第70集$https://oss.douyinbit.com/m3u8/602d2a38b45056e78bfd5e7ad057cabd.m3u8#第71集$https://oss.douyinbit.com/m3u8/120dad47c85db9a937c5e364538d6c3e.m3u8#第72集$https://oss.douyinbit.com/m3u8/d497e30ff7cf7ab416cd78975d410501.m3u8#第73集$https://oss.douyinbit.com/m3u8/4ca102a25e366abd910aac771e30a059.m3u8#第74集$https://oss.douyinbit.com/m3u8/4c58ba27bddbde82c7a41b690a240553.m3u8#第75集$https://oss.douyinbit.com/m3u8/fff84b291b486a469d0c20dd3803d9de.m3u8#第76集$https://oss.douyinbit.com/m3u8/94ab5947aec51fe555371820225e6e1f.m3u8#第77集$https://oss.douyinbit.com/m3u8/5046df9e7fa3afbce072deca5975ea0f.m3u8#第78集$https://oss.douyinbit.com/m3u8/60f8a8b531afce723e753efeb0f91bbb.m3u8#第79集$https://oss.douyinbit.com/m3u8/4e9606c493918c4c444c6234f70f57b6.m3u8#第80集$https://oss.douyinbit.com/m3u8/ee44aea1afca5a619e849f2da646e25f.m3u8#第81集$https://oss.douyinbit.com/m3u8/c2b055a414ab614ed1d258902b89536b.m3u8#第82集$https://oss.douyinbit.com/m3u8/76798235ba51fc58223a69e1ed52d68d.m3u8#第83集$https://oss.douyinbit.com/m3u8/d1e8962004e9cdcae5e880c54234a699.m3u8#第84集$https://oss.douyinbit.com/m3u8/cf0efeb59e667d0927dc456ee3d6792e.m3u8#第85集$https://oss.douyinbit.com/m3u8/7414a381a8bab3bf3d616c299ed9b80f.m3u8#第86集$https://oss.douyinbit.com/m3u8/52006d34b5471c106d137a2723fc5313.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至27集"
     },
@@ -322,6 +322,126 @@
     },
     {
       "vod_id": 10026,
+      "vod_name": "百日谎言",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1793864273-300x450.jpg",
+      "vod_remarks": "更新至12集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/5eb4a74f4d03f05f9dd063434f7290d1.m3u8#第2集$https://oss.douyinbit.com/m3u8/76e73ee36b68d0f71e0ae2f5507b6603.m3u8#第3集$https://oss.douyinbit.com/m3u8/c8685e5dca2a0f4c757fad462a51f75c.m3u8#第4集$https://oss.douyinbit.com/m3u8/8ff397160cf4cad64308be900da2372f.m3u8#第5集$https://oss.douyinbit.com/m3u8/7086c1595feb13cf12df7d5c51e18398.m3u8#第6集$https://oss.douyinbit.com/m3u8/5366e2d5c4178726e863d420580c285c.m3u8#第7集$https://oss.douyinbit.com/m3u8/7c0dc1a3be38f1b865157c68a75b05f3.m3u8#第8集$https://oss.douyinbit.com/m3u8/059584f0ce713891f334e6b678d937f1.m3u8#第9集$https://oss.douyinbit.com/m3u8/b6c3715e2347c28ddfa2522ca7a42bba.m3u8#第10集$https://oss.douyinbit.com/m3u8/b85152aefc9b8fe508eb00c8706212ed.m3u8#第11集$https://oss.douyinbit.com/m3u8/38b3769c06a6582335e7e6a68df8e179.m3u8#第12集$https://oss.douyinbit.com/m3u8/da96f94f29d5a4ed543fc68586c1de36.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至12集"
+    },
+    {
+      "vod_id": 10027,
+      "vod_name": "兰香如故",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/09/douban_1789218121-300x450.jpg",
+      "vod_remarks": "更新至40集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第8集$https://oss.douyinbit.com/m3u8/8989cb216dd75a832b69d400da15278f.m3u8#第9集$https://oss.douyinbit.com/m3u8/d32d43007e528f5e4d8d3d36f6295cee.m3u8#第10集$https://oss.douyinbit.com/m3u8/f6dad6889897f6b409a88da6561187c8.m3u8#第11集$https://oss.douyinbit.com/m3u8/d42e0afa6af01ad17b2309e70e8fc925.m3u8#第12集$https://oss.douyinbit.com/m3u8/39ea25a234bf887b65e5493d7e5a48a9.m3u8#第13集$https://oss.douyinbit.com/m3u8/d17188685a6edca6c39104b3ff46dc8d.m3u8#第14集$https://oss.douyinbit.com/m3u8/825319abc2dd409efae6aebc8ba470b9.m3u8#第15集$https://oss.douyinbit.com/m3u8/d9b58d72ba3fef308debb5eeab5abeed.m3u8#第16集$https://oss.douyinbit.com/m3u8/12e27ecd2cebdc108149a378cc1bc065.m3u8#第17集$https://oss.douyinbit.com/m3u8/be6a0052d1dc7c796b28abe4151f9234.m3u8#第18集$https://oss.douyinbit.com/m3u8/93d313c6639e7d8f6c56a06257eb17c0.m3u8#第19集$https://oss.douyinbit.com/m3u8/3979fde02da366828b5fbef52a9ca165.m3u8#第20集$https://oss.douyinbit.com/m3u8/d9376df31077c962c63d74f2add6bff9.m3u8#第21集$https://oss.douyinbit.com/m3u8/86d765634c38a337be550a178b38e363.m3u8#第22集$https://oss.douyinbit.com/m3u8/200662552934234b37ebfe35f25bee73.m3u8#第23集$https://oss.douyinbit.com/m3u8/8b760032821bbbdf5ba4675f530ff611.m3u8#第24集$https://oss.douyinbit.com/m3u8/448d32c2f7564f4784422dec7f461e91.m3u8#第25集$https://oss.douyinbit.com/m3u8/4cb1f424e5ab327e7b9bd7463bee3cfa.m3u8#第26集$https://oss.douyinbit.com/m3u8/1b1a556ef016293ee37dc0cafe6a28f9.m3u8#第27集$https://oss.douyinbit.com/m3u8/e62f5aa81078db57c66a546976f37d5a.m3u8#第28集$https://oss.douyinbit.com/m3u8/eeda16be27124c653503e1b13bd3ff97.m3u8#第29集$https://oss.douyinbit.com/m3u8/986015c6b5fc2f6fec6b66ed2faefc86.m3u8#第30集$https://oss.douyinbit.com/m3u8/183a5e87f05bcd523208c8b88bdc6682.m3u8#第31集$https://oss.douyinbit.com/m3u8/c06254b1d326128faee53c76da0a1890.m3u8#第32集$https://oss.douyinbit.com/m3u8/b8db28d507cb5ddec6ac65c3de549b5c.m3u8#第33集$https://oss.douyinbit.com/m3u8/ce0120e9ed9fc174d86c421c3275117b.m3u8#第34集$https://oss.douyinbit.com/m3u8/7313a389a1e100abb7b5576a76ea0682.m3u8#第35集$https://oss.douyinbit.com/m3u8/17d9c76eeb6588ac834489754e2fba27.m3u8#第36集$https://oss.douyinbit.com/m3u8/37f306bd12c8618951d36ef6e6ea726a.m3u8#第37集$https://oss.douyinbit.com/m3u8/d6bb671f3e4a7515271ecb2e01627c92.m3u8#第38集$https://oss.douyinbit.com/m3u8/407a59642584c0fb604a9535ea98ce55.m3u8#第39集$https://oss.douyinbit.com/m3u8/15be9acb05bfc7d6aee9969bd9185d89.m3u8#第40集$https://oss.douyinbit.com/m3u8/4e9050ceddc36c70a56b023ad21b6125.m3u8#第41集$https://oss.douyinbit.com/m3u8/f6c33d62add74a8f1776b9382f6b6986.m3u8#第42集$https://oss.douyinbit.com/m3u8/8d4014df34d55d12a45ca3d3ea349469.m3u8#第43集$https://oss.douyinbit.com/m3u8/d1056107b8277bfeb86c562db65abae4.m3u8#第44集$https://oss.douyinbit.com/m3u8/d873582bcbc98698e6e1adc35a19daba.m3u8#第45集$https://oss.douyinbit.com/m3u8/e0bbe5f821d9b38aa7630998f2ff2177.m3u8#第46集$https://oss.douyinbit.com/m3u8/43fbe53393b9c23ec735e60946424cff.m3u8#第47集$https://oss.douyinbit.com/m3u8/addd7fcaada84aa5f8ac905ef61dbbe7.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至40集"
+    },
+    {
+      "vod_id": 10028,
+      "vod_name": "知否知否应是绿肥红瘦: 第1季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/dPLRV1s2Em3BA3L9vAKbw8cTqO5-250x333.jpg",
+      "vod_remarks": "更新至40集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第34集$https://oss.douyinbit.com/m3u8/92518113dc86742a2206af9874905794.m3u8#第35集$https://oss.douyinbit.com/m3u8/558b89bce5dd0e034c4c9fc9a57ee8cb.m3u8#第36集$https://oss.douyinbit.com/m3u8/7e0aba33e31248d428a7ed316e117b46.m3u8#第37集$https://oss.douyinbit.com/m3u8/c0039b0c7ceaa04eb44ef4bc5bc82be9.m3u8#第38集$https://oss.douyinbit.com/m3u8/1446969b1772b416c7f51ae66d0c6e71.m3u8#第39集$https://oss.douyinbit.com/m3u8/80cc65cf735c0be72ab3fd95a667c129.m3u8#第40集$https://oss.douyinbit.com/m3u8/d09f3f5bab55f1b57c4739ce02e6c921.m3u8#第41集$https://oss.douyinbit.com/m3u8/f1207b3703b2708e630a4c02307ac581.m3u8#第42集$https://oss.douyinbit.com/m3u8/782db6821088798d361de1d922b00c0b.m3u8#第43集$https://oss.douyinbit.com/m3u8/ba1ba8fdefe90c87eb0a9f52e50de3e4.m3u8#第44集$https://oss.douyinbit.com/m3u8/6de9a11cf6d727e59002c09e1811134c.m3u8#第45集$https://oss.douyinbit.com/m3u8/d0e22e2f14f93f4014f403028ba742ef.m3u8#第46集$https://oss.douyinbit.com/m3u8/2ec7d4038585274c9371791e7ce117c1.m3u8#第47集$https://oss.douyinbit.com/m3u8/9671ab5998df9696454b879c1ec2686c.m3u8#第48集$https://oss.douyinbit.com/m3u8/1b0ff54e2bd8ba095acbf89c31170b57.m3u8#第49集$https://oss.douyinbit.com/m3u8/b8ec54fd96c55d75722bf1b5b34a5bf4.m3u8#第50集$https://oss.douyinbit.com/m3u8/e17e5bf963e269ef9b71a411b72736e4.m3u8#第51集$https://oss.douyinbit.com/m3u8/bffb2f278da84fad5b752ea81b73e014.m3u8#第52集$https://oss.douyinbit.com/m3u8/549b2f00c998c3bdd440380a6b097d4c.m3u8#第53集$https://oss.douyinbit.com/m3u8/09eedd9fc7b23c0276a3fdc3713b98d4.m3u8#第54集$https://oss.douyinbit.com/m3u8/18c1b42ae3b5c1899e5f5079e0e0f447.m3u8#第55集$https://oss.douyinbit.com/m3u8/32cc24d5e4e3019d45d081c334c66c7b.m3u8#第56集$https://oss.douyinbit.com/m3u8/d87782ddcb470f00ca2bf217edc49c4c.m3u8#第57集$https://oss.douyinbit.com/m3u8/8766a277cc31b91ce69d12d58ef7e53c.m3u8#第58集$https://oss.douyinbit.com/m3u8/677db423f78da332dae0b50a28fe730a.m3u8#第59集$https://oss.douyinbit.com/m3u8/8fcb68f34b531b5cbeda73f69cbdcd79.m3u8#第60集$https://oss.douyinbit.com/m3u8/4003ff192ddcbe9b7c79b1ca83e76874.m3u8#第61集$https://oss.douyinbit.com/m3u8/7dae4106af4b02db56a895aa3ca365eb.m3u8#第62集$https://oss.douyinbit.com/m3u8/79dd1df8cfd7adbae92ace87a5b241bb.m3u8#第63集$https://oss.douyinbit.com/m3u8/9f386e28a0d65b284040cce2e32847cb.m3u8#第64集$https://oss.douyinbit.com/m3u8/5ef2434b5db148d82ebacb14a8760a92.m3u8#第65集$https://oss.douyinbit.com/m3u8/e1741544a083d880a41011568f69cb3c.m3u8#第66集$https://oss.douyinbit.com/m3u8/759bc678adc15c53123df641c286e06f.m3u8#第67集$https://oss.douyinbit.com/m3u8/8b66dfbdafaf3a8390af0eb9378b23d1.m3u8#第68集$https://oss.douyinbit.com/m3u8/f3b7bd8f3f62a76ddc54b46b250e7e8c.m3u8#第69集$https://oss.douyinbit.com/m3u8/648790cd5ca3f80aad6a68446fd2ff3f.m3u8#第70集$https://oss.douyinbit.com/m3u8/4bce17ffdb3d79e749a78722b90d5b8f.m3u8#第71集$https://oss.douyinbit.com/m3u8/f1eda8f340742f47bf30942a49d972a4.m3u8#第72集$https://oss.douyinbit.com/m3u8/549918013349564f8328babe8d79edde.m3u8#第73集$https://oss.douyinbit.com/m3u8/ef963f0804ebdccf1210b2f3c38487ea.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至40集"
+    },
+    {
+      "vod_id": 10029,
+      "vod_name": "甄嬛传: 第1季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/03/pL7BEC3ri11AianFRZM1SC8oR68-233x350.jpg",
+      "vod_remarks": "更新至40集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第37集$https://oss.douyinbit.com/m3u8/b301ff4b4aceb9813867748c5fdfe4c5.m3u8#第38集$https://oss.douyinbit.com/m3u8/7d22664f0f26bf8200e0e48d7004f31e.m3u8#第39集$https://oss.douyinbit.com/m3u8/78a4fbf399b98b43ea13f292af2e5916.m3u8#第40集$https://oss.douyinbit.com/m3u8/838d5cd69a5ffd4316ffaab8bed93164.m3u8#第41集$https://oss.douyinbit.com/m3u8/246e0e6c55b2b1530a9a1c15b326ea5e.m3u8#第42集$https://oss.douyinbit.com/m3u8/b19e3cb18df91989fb3c66d039e14556.m3u8#第43集$https://oss.douyinbit.com/m3u8/1c1d84dd5254d3da9ea975154179743c.m3u8#第44集$https://oss.douyinbit.com/m3u8/d6c726b20880420a7e6763616ff441f3.m3u8#第45集$https://oss.douyinbit.com/m3u8/894f00acd766cdc27728d296bcfc88bb.m3u8#第46集$https://oss.douyinbit.com/m3u8/3669e77d008288c17b6bb7161fc3cbcb.m3u8#第47集$https://oss.douyinbit.com/m3u8/daee873002e42f43e5f0d9b8588987b8.m3u8#第48集$https://oss.douyinbit.com/m3u8/64237ed982fb27400c3aa9bace2d985a.m3u8#第49集$https://oss.douyinbit.com/m3u8/390151663527319dc249ed11aa3bab36.m3u8#第50集$https://oss.douyinbit.com/m3u8/42f32c33db2afc85adae8e4a17233faf.m3u8#第51集$https://oss.douyinbit.com/m3u8/090568c66fc72da30b65b305281c7e93.m3u8#第52集$https://oss.douyinbit.com/m3u8/1a969c4216f6ea599790ec1b5589bd39.m3u8#第53集$https://oss.douyinbit.com/m3u8/0f789cea18bd4cfeb2c80d95cd7f7add.m3u8#第54集$https://oss.douyinbit.com/m3u8/19d7f4a8da1048901d9e6d92f8171c11.m3u8#第55集$https://oss.douyinbit.com/m3u8/bac3507abce1e17917e764e459e7e397.m3u8#第56集$https://oss.douyinbit.com/m3u8/274efebc363027923dbc7d1d53c01fec.m3u8#第57集$https://oss.douyinbit.com/m3u8/cea62ea138bc669f1d56c6095c4e77dc.m3u8#第58集$https://oss.douyinbit.com/m3u8/dd004ff85fc09fde46ba7c2aae34db56.m3u8#第59集$https://oss.douyinbit.com/m3u8/4383ee9ef45f1309437ab01f2d4dd2c3.m3u8#第60集$https://oss.douyinbit.com/m3u8/b88f01b5650968fb08af0bc460d6ffcd.m3u8#第61集$https://oss.douyinbit.com/m3u8/08c1ae863fa7fe2c4129c5bc00bd9e11.m3u8#第62集$https://oss.douyinbit.com/m3u8/64c276b17d251dc59f23351b8a9612d1.m3u8#第63集$https://oss.douyinbit.com/m3u8/f1524ebf89b63580996c2abea3ec9071.m3u8#第64集$https://oss.douyinbit.com/m3u8/3d42d22a66776c470693ecf35216ce53.m3u8#第65集$https://oss.douyinbit.com/m3u8/eeb1a6ca3568ac1156e9f1da08d5ef53.m3u8#第66集$https://oss.douyinbit.com/m3u8/dc9ccaa0e850e0cc3e832f432191cfe2.m3u8#第67集$https://oss.douyinbit.com/m3u8/7df6a2dce3db3f192f315fc420cc7825.m3u8#第68集$https://oss.douyinbit.com/m3u8/8bc7bb2eaf135c16f81cdba8b3c763d7.m3u8#第69集$https://oss.douyinbit.com/m3u8/4bbcdb06b23119b46ed759c47084f789.m3u8#第70集$https://oss.douyinbit.com/m3u8/6fa4209a3198e8bc1a9634a8220fda79.m3u8#第71集$https://oss.douyinbit.com/m3u8/7e2d472cffbf7a5a68b0203747dd03de.m3u8#第72集$https://oss.douyinbit.com/m3u8/d39fe2dda1178fa410e6b3f270084500.m3u8#第73集$https://oss.douyinbit.com/m3u8/84b8314cf74e83f1132c8e69cdcd6a94.m3u8#第74集$https://oss.douyinbit.com/m3u8/9227c7d030c606ef3fbe4d309077ca24.m3u8#第75集$https://oss.douyinbit.com/m3u8/8769563ff39c37f62b1234761be5ef3c.m3u8#第76集$https://oss.douyinbit.com/m3u8/1f9214bc33f6d533f127f294480de2aa.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至40集"
+    },
+    {
+      "vod_id": 10030,
+      "vod_name": "庆余年 第一季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2021/01/toNgHVp0vtZ6vMLprV36NPo4qWh-1-233x350.jpg",
+      "vod_remarks": "更新至40集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第7集$https://oss.douyinbit.com/m3u8/84e5787a79647fca130ec7321bc0e852.m3u8#第8集$https://oss.douyinbit.com/m3u8/45d6a264d2dc3881a7446d5959b6a03b.m3u8#第9集$https://oss.douyinbit.com/m3u8/aae39131446b65dde77c47eca051f91b.m3u8#第10集$https://oss.douyinbit.com/m3u8/3dd00de00b56afa103f9792add4f9f9b.m3u8#第11集$https://oss.douyinbit.com/m3u8/0fe6312ef8a3bff3234965cc47e18a94.m3u8#第12集$https://oss.douyinbit.com/m3u8/aacbb8f4b6c55873eebc3fb04baeafbe.m3u8#第13集$https://oss.douyinbit.com/m3u8/255eaf9ca9b3f603e505c641fe1c1816.m3u8#第14集$https://oss.douyinbit.com/m3u8/59e61218a9c0cc783b5677f42896b334.m3u8#第15集$https://oss.douyinbit.com/m3u8/7ec9946ad58b9a43dda5934b45866a14.m3u8#第16集$https://oss.douyinbit.com/m3u8/ad2fdff5bda27030403869dfd1bcdf14.m3u8#第17集$https://oss.douyinbit.com/m3u8/994053b51e7a6683d663e40cee3ea820.m3u8#第18集$https://oss.douyinbit.com/m3u8/b942e46f1083c56b96fa698769b1240e.m3u8#第19集$https://oss.douyinbit.com/m3u8/e2e2f0a1e4e9c3c982b18784d93575b2.m3u8#第20集$https://oss.douyinbit.com/m3u8/31c9f53f8dd9fcba7d631cdefb7729c0.m3u8#第21集$https://oss.douyinbit.com/m3u8/85d2b050b0537acf26bf7084efe7c18a.m3u8#第22集$https://oss.douyinbit.com/m3u8/d08381c5198fabf59c1ba2b613aff0c3.m3u8#第23集$https://oss.douyinbit.com/m3u8/1631b50c41980a3dd99d1de98272f6b7.m3u8#第24集$https://oss.douyinbit.com/m3u8/baca1aecbee118e48b2151034adf8e91.m3u8#第25集$https://oss.douyinbit.com/m3u8/0607a9afe6605ea49a3315706c565a86.m3u8#第26集$https://oss.douyinbit.com/m3u8/c08862d474b32153e8c6895ee968f2e9.m3u8#第27集$https://oss.douyinbit.com/m3u8/52d6f4fa78960f0e341d0acfc548148a.m3u8#第28集$https://oss.douyinbit.com/m3u8/4aa1895ac8028186f9129d6f6a753ea5.m3u8#第29集$https://oss.douyinbit.com/m3u8/9cdd37274fa69f2e612a4f4a416dc8e6.m3u8#第30集$https://oss.douyinbit.com/m3u8/a457c4535e8a55f23ed3fa2b6b57f0e1.m3u8#第31集$https://oss.douyinbit.com/m3u8/9ce39d8497311115515bfba42ae46b53.m3u8#第32集$https://oss.douyinbit.com/m3u8/3446124e339914216e9f612c01c8dc15.m3u8#第33集$https://oss.douyinbit.com/m3u8/435c52b351409f62f712a9c3d37cab3c.m3u8#第34集$https://oss.douyinbit.com/m3u8/2cde981fce32719c7c5ee651c18aecd3.m3u8#第35集$https://oss.douyinbit.com/m3u8/bf47848983484b3ed9cb71971d35bb7e.m3u8#第36集$https://oss.douyinbit.com/m3u8/ad0482d01cce4e1ffc07f45d60ed931d.m3u8#第37集$https://oss.douyinbit.com/m3u8/0bcc10dc0f7a412e9a6c35ec75604a72.m3u8#第38集$https://oss.douyinbit.com/m3u8/91b54a214f6135e632e3bbf101721985.m3u8#第39集$https://oss.douyinbit.com/m3u8/bf6ddea9215340650b9489abcb54a70e.m3u8#第40集$https://oss.douyinbit.com/m3u8/c7c4cbbefb28e1c7c5cb96393b6cf840.m3u8#第41集$https://oss.douyinbit.com/m3u8/907fa53a9d2e97c2d1b5f423609ca975.m3u8#第42集$https://oss.douyinbit.com/m3u8/e132a8ad468260de4a88e9a40855fe87.m3u8#第43集$https://oss.douyinbit.com/m3u8/a5f04794df518753b655df1aa23f7ac7.m3u8#第44集$https://oss.douyinbit.com/m3u8/50423dc99e1002e748c209b20d3926e7.m3u8#第45集$https://oss.douyinbit.com/m3u8/befe3cc76296e8f9037488721f0e4c5f.m3u8#第46集$https://oss.douyinbit.com/m3u8/31f888b9e85428f672984f5d6e570742.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至40集"
+    },
+    {
+      "vod_id": 10031,
+      "vod_name": "延禧攻略: 第1季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2021/01/27BBIdsHQW5ghi2QpziPyOoxe1G-1-233x350.jpg",
+      "vod_remarks": "更新至26集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第31集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/49a63424-f0b1-4af9-b09d-7a0bdd9eaaef.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020155Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E31.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=778656846&x-amz-UFID=923961208675762380&X-Amz-Signature=795e0fdce84f6f9fe02d010f861b48f058c83a94f58946e49431e69727b3f3bd#第32集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/3bfd7ca3-110c-485d-b4a7-3b5348c606e3.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020155Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E32.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=779858731&x-amz-UFID=423751208677325185&X-Amz-Signature=b39e0676a32267cb71405a312e83b2e9924ff53de85ae3685c9943d94979ab63#第33集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/7d1131c7-1464-4107-bc31-b8887979cbda.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020158Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E33.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=724449573&x-amz-UFID=323781208676867352&X-Amz-Signature=e10d0c3092b589e051928062f838d00fb022bd8be95143a5c8f64efe6c331d15#第34集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/6569ea5f-5032-4ef7-88d2-fd7399ba0dd3.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020200Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E34.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=745192837&x-amz-UFID=624591208676737998&X-Amz-Signature=596f0eaee1e2e304c82daa6e815f0584d52e423f49ca06c6eeb21af20711b327#第35集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/1371a895-e755-4abf-b029-99b4220433d5.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020202Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E35.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=743415262&x-amz-UFID=424121208677902493&X-Amz-Signature=1738d0816ab1b4a59d445c48663cf62520f3ffd5984e47e1060eadb2dee02b25#第36集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/5b00a203-1052-45ea-873d-69ac54a5de5f.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020204Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E36.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=850948752&x-amz-UFID=523781208676867520&X-Amz-Signature=6c1b218e10f7f047121bcddf53f261cf85f1d4c730a1fda2848737fe93b31307#第37集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/58b00a58-3dd1-4352-bf83-5a66a67da391.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020207Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E37.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=780700632&x-amz-UFID=625011208676847585&X-Amz-Signature=829f904d7014c5e2a7097a2246062aa06979b54a56ceb6687073cedcbf824fd7#第38集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/1c583f85-5f2d-4269-8cf3-4111f61feb55.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020209Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E38.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=713724004&x-amz-UFID=724971208676509593&X-Amz-Signature=a382e2f2d5c1853a84497461e51c533827cce244695aca13fdc186292cc54cfa#第39集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/bcaa4a72-ff63-4a2d-ac31-88f108913746.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020211Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E39.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=740566364&x-amz-UFID=524031208677245913&X-Amz-Signature=d9c7587a1cc37c683da2474ae9730383ca3d46871135be1f5a31383be43d3698#第40集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/36cfa808-0b57-4323-8717-2bad975dacc3.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E40.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E40.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=sCSsaAufOtznEww0W1LNpNohwjA%3D&Expires=1794891733&x-amz-FSIZE=715529425&x-amz-UFID=523481208678181679#第41集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/26b98387-f3d8-4d23-bf63-607a89575b16.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E41.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E41.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=F4Jl27luZJRXsT003NjUQnv5Ajo%3D&Expires=1794891736&x-amz-FSIZE=775157202&x-amz-UFID=823201208677942918#第42集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/202500d6-f4b1-4eff-a36a-bdeee3f3bbcb.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E42.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E42.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=FYxq4du%2BPzs9eVNGowoMrlmCmlI%3D&Expires=1794891738&x-amz-FSIZE=842790377&x-amz-UFID=824591208676738520#第43集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/c1ccec1b-1045-4d22-9359-9a521f80d587.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E43.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E43.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=ucsgBgg4jAMtgoJgpQvACTHQHjk%3D&Expires=1794891153&x-amz-FSIZE=819847952&x-amz-UFID=724341208677962880#第44集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/4772f5a4-655b-4729-9f6c-06e5ef8640ae.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E44.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E44.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=qh5YsGGnBY3%2BpgjK8muOjUSmzLU%3D&Expires=1794891174&x-amz-FSIZE=787295503&x-amz-UFID=723971208678381041#第45集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/5f139db7-1f04-4446-8722-fa6e2d23701a.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E45.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E45.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=6S6%2BXI1uYMsLo5Tb%2BkZY7bDuLlo%3D&Expires=1794891745&x-amz-FSIZE=831714615&x-amz-UFID=824081208678590237#第46集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/b6cfaac1-22e9-4193-9c42-5561c711efbd.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E46.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E46.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=PNKGVR5EgToH%2B94lTsZK%2BVTJ7BM%3D&Expires=1794890136&x-amz-FSIZE=796929148&x-amz-UFID=423751208677326289#第47集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/bce41103-30db-4c92-941c-b423f5dcfbd6.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E47.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E47.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=PcanPbWzTrA78bfCQYVe7LA3FO8%3D&Expires=1794890640&x-amz-FSIZE=800381304&x-amz-UFID=625371208676810343#第48集$https://media-shandong-qyneimeng-person.nm8oss.ctyunxs.cn/PERSONCLOUD/d2e7279d-bb3f-488d-8579-470e32039eb7.mp4?x-amz-CLIENTTYPEIN=PC&AWSAccessKeyId=0MZV8MPhrUO0fMgJf4bG&x-amz-limitrate=51200&response-content-type=video/mp4&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%22%E5%BB%B6%E7%A6%A7%E6%94%BB%E7%95%A5.E48.mp4%22%3Bfilename*%3DUTF-8%27%27%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E48.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&Signature=gR/OLJFU%2BVI9QANt3DtTsjuemCQ%3D&Expires=1794891751&x-amz-FSIZE=793168318&x-amz-UFID=223751208677326346#第49集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/1077f078-1919-45c1-9db7-6e89a2b8c0dd.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020234Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E49.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=797569593&x-amz-UFID=523761208677445761&X-Amz-Signature=918c317f0718f56c815d0e2c700500fad062d5cdb8b402beb884120239ac8f0e#第50集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/64d7e1ca-5b3d-4e82-9edb-e807faadd352.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020236Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E50.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=797704410&x-amz-UFID=723971208676888517&X-Amz-Signature=2956ab108bfaef5e6c49de0e669771c62ecae99876f77052b7f93ded1e90634e#第51集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/0136be7e-382e-4151-bd5e-cff3c2687647.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020238Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E51.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=812725121&x-amz-UFID=825341208677047301&X-Amz-Signature=352d69e27cafa9c601fa37c821bd83ff38ea2fa3f92a2edebe5ef22e1bf89410#第52集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/71b12afe-0b51-4c1e-a191-b2e757ad7409.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020240Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E52.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=817783893&x-amz-UFID=124811208674327051&X-Amz-Signature=817ed1e8e540571e85f6dbdc106d9a0b94617d9ce2734b93f790ca89969eb91c#第53集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/52009635-8c7d-4c5d-a9ea-86ef7e8d765c.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020243Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E53.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=869543318&x-amz-UFID=424341208677963528&X-Amz-Signature=a96baa6478bb6507b4b2c8e089cde4584855fbaaec841245a4fc3d034543304c#第54集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/3e20bd4e-2f07-41e8-9af3-8753f48650c4.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T014608Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E54.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=859106540&x-amz-UFID=524341208675274145&X-Amz-Signature=ee1c716073f33739a6c2af0661a6ada424dbb064bc2d201738970e619a229542#第55集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/d6b74da3-568e-4837-ae42-f2f029259852.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T020247Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E55.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=840435558&x-amz-UFID=924391208677794580&X-Amz-Signature=072cabc1ef42723a4ea40f169b0e1548285429e7397926e24bba44f4b861dbff#第56集$https://obs-liaoning-qysuzhou-person.obs.cn-jssz1.ctyun.cn/PERSONCLOUD/4fa3503c-f42c-4ee2-8205-f6970b1715be.mp4?x-obs-traffic-limit=409600&X-Amz-Date=20261117T015137Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&x-amz-CLIENTTYPEIN=PC&X-Amz-Credential=UTUJNJ3V3OTNDE69APTW/20261117/us-east-1/s3/aws4_request&x-amz-UID=300001614205866&x-amz-APPID=93005&response-content-disposition=attachment%3Bfilename%3D%25E5%25BB%25B6%25E7%25A6%25A7%25E6%2594%25BB%25E7%2595%25A5.E56.mp4&x-amz-OPERID=300001535550435&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=FAMILY&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&x-amz-FSIZE=866936503&x-amz-UFID=623411208677406455&X-Amz-Signature=aefe06988cbd1893c95198b333bc5efa6d2c3498b164350c62edad0b503171d5",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至26集"
+    },
+    {
+      "vod_id": 10032,
+      "vod_name": "人民的名义: 第1季",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2022/04/5WgBKlvrlLqH2EeRftauuOnQuLS-233x350.jpg",
+      "vod_remarks": "更新至40集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第16集$https://oss.douyinbit.com/m3u8/c5fbfcd53a78c5608e6cd6d3d7afc67b.m3u8#第17集$https://oss.douyinbit.com/m3u8/a8b76928fb2403ec022dbc6a77c4e13e.m3u8#第18集$https://oss.douyinbit.com/m3u8/6547d7734547591b9b36a1b8d68e1531.m3u8#第19集$https://oss.douyinbit.com/m3u8/c2b2b3b54ec83531aade372745898cfd.m3u8#第20集$https://oss.douyinbit.com/m3u8/7b38cf692a2c93286dd0e25b2443692c.m3u8#第21集$https://oss.douyinbit.com/m3u8/5140304148d35a299ca4a9adbd1681d9.m3u8#第22集$https://oss.douyinbit.com/m3u8/1fa50dd62193cecc65208399bc6359a2.m3u8#第23集$https://oss.douyinbit.com/m3u8/9297b97faa3c09951e3441c84d6518fb.m3u8#第24集$https://oss.douyinbit.com/m3u8/1662dc4d78d5ab6bafb68ae11ba57d1b.m3u8#第25集$https://oss.douyinbit.com/m3u8/ee5296fca7eb0f07040539ca50dab15c.m3u8#第26集$https://oss.douyinbit.com/m3u8/0d23e9186a1728d36417f1a38e32565a.m3u8#第27集$https://oss.douyinbit.com/m3u8/cc57edc58284cf6f97fcba754f745dbb.m3u8#第28集$https://oss.douyinbit.com/m3u8/c842164c496fee234e153bdf85c6fef6.m3u8#第29集$https://oss.douyinbit.com/m3u8/fabeb0ab5c3c1551909f62f4d8b22055.m3u8#第30集$https://oss.douyinbit.com/m3u8/96b64bf77d40f817d00cd266f39fc9d3.m3u8#第31集$https://oss.douyinbit.com/m3u8/4453c34cbc0415f4dfee0e757526caf8.m3u8#第32集$https://oss.douyinbit.com/m3u8/7a1e9786632fee7dc2b2afadca6bfa3d.m3u8#第33集$https://oss.douyinbit.com/m3u8/137693d133ba11b8c698059255c2a1c4.m3u8#第34集$https://oss.douyinbit.com/m3u8/6acaa233dfc012eed9738d514dc9971e.m3u8#第35集$https://oss.douyinbit.com/m3u8/ca2a27d31b7b856a367a7312564dbea5.m3u8#第36集$https://oss.douyinbit.com/m3u8/a85b429d09deec8cdea074434fb80948.m3u8#第37集$https://oss.douyinbit.com/m3u8/8b664f011643890d7ba7a03440405b29.m3u8#第38集$https://oss.douyinbit.com/m3u8/0ce62fb810f65ab704bfaa6661657a29.m3u8#第39集$https://oss.douyinbit.com/m3u8/83b45b8d644e56fc934679af9787ba90.m3u8#第40集$https://oss.douyinbit.com/m3u8/45815e5c29e88debf60d4f8e05253904.m3u8#第41集$https://oss.douyinbit.com/m3u8/6ac9908fd917051b85b54174f24fbe7f.m3u8#第42集$https://oss.douyinbit.com/m3u8/e1d602ab05bd1a63c10fb27e7777bdf0.m3u8#第43集$https://oss.douyinbit.com/m3u8/8f88421175232806d48a8fb225d75b37.m3u8#第44集$https://oss.douyinbit.com/m3u8/7386b9129cdc45da25f82787e8137950.m3u8#第45集$https://oss.douyinbit.com/m3u8/7c7616141067fe19785701e106847958.m3u8#第46集$https://oss.douyinbit.com/m3u8/6f01d5901902b7c6f19fb4f6eb214449.m3u8#第47集$https://oss.douyinbit.com/m3u8/670cdc6231d70c14965d7b67c9f261d8.m3u8#第48集$https://oss.douyinbit.com/m3u8/9ab76ee64623decb6a1f4d23d818d580.m3u8#第49集$https://oss.douyinbit.com/m3u8/17ee795ba828a89a2d0225d70be12ebd.m3u8#第50集$https://oss.douyinbit.com/m3u8/9183773fc68b4676fc1af90c570855fe.m3u8#第51集$https://oss.douyinbit.com/m3u8/0146646784d502df9ef95941d1ba7baa.m3u8#第52集$https://oss.douyinbit.com/m3u8/9926dcd4c775d9aaf788510717c47051.m3u8#第53集$https://oss.douyinbit.com/m3u8/99285501e53a2d5adeff471356a38de9.m3u8#第54集$https://oss.douyinbit.com/m3u8/32aaa3f719c1c12932c70401a705f7e7.m3u8#第55集$https://oss.douyinbit.com/m3u8/e71ae4e728f465d68f219252941492fa.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至40集"
+    },
+    {
+      "vod_id": 10033,
+      "vod_name": "弗兰西丝·哈",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794485134-300x450.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/99b078236e4669247fde2fa62284e330.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": ""
+    },
+    {
+      "vod_id": 10034,
+      "vod_name": "实习生",
+      "type_id": 10,
+      "type_name": "电影",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794485033-300x450.jpg",
+      "vod_remarks": "",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "正片$https://oss.douyinbit.com/m3u8/718f4ab761184bb170a7d44373275577.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": ""
+    },
+    {
+      "vod_id": 10035,
+      "vod_name": "七龙珠超：比鲁斯",
+      "type_id": 13,
+      "type_name": "动漫",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792383950-300x450.jpg",
+      "vod_remarks": "更新至6集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/8a542888b8f053358b251057118b8225.m3u8#第2集$https://oss.douyinbit.com/m3u8/c40a294eb1340fb3c77482ff6382e476.m3u8#第3集$https://oss.douyinbit.com/m3u8/dbbdcea83a60a7f1c976ef74f5e1b504.m3u8#第4集$https://oss.douyinbit.com/m3u8/f3feb83b44187388697d2afba47e6ecf.m3u8#第5集$https://zy1080-02.sskan01.top/api/zy1080_02/OTExNmlkVXpMMkxhYjVONXppWUwwKzBKMGoyTXlwbnlHSzJHTGFZUmhIdlpQSTNLVFEwUVZGbkYyOFo0TlNNM0ZxRTV0b0VjVURNWVFjQmticEowT1YySE9WRndscmRNVUlPUm9oNXhRbUxSU3FqcU0xY0xzc3FsZHBhRUtGZnR4Vi9QQXI0TjVtRWlLckhnZVRKTXpScVEvd3F5czV0Y0JWWlRhUXVoZTBWZmdpNWxrYll1NWNIOFdZbVZJRXVjRmMwZ3BSd20zMkQ3NGNaM2hDQi8yemdINklLT2Y5TE5vd3k3MnR5a2pmNzVadkJiZllmUkFySUxOam4rM3pTZjlKR0Z4d0Q1ZFZqc1BYOXVVaUpVeHJvYnRPT1gyZFh5dkw0SExQdW1kbGhJYmY2b1JLdFZZYVlDMXJIY3luWHRpdThBVGJWVitmVHJmc0tISnhlZHVubTNhUlZvZS93QzQ4S2FVNTltL1pLS2hzSGFlcHFzZjV3MFYrQ0hHTEVxbDNuTjhMMVlIOEM0MVFoYWxYejVlYTZ2TVhHZDkzZzB4YjJjRDJsMHV4d0xsc1RudmJJS0FkVVFBalo3b3lLQmZ6UQ.m3u8#第6集$https://zy1080-02.sskan01.top/api/zy1080_02/MzE5Yko4RkQ1b2RsOEFnYVlweWtOaFhmVitxOFZQSEF4a2U5b2Myclo0SnhGK2d2QlhWOEIvK25FRmNNaUhqSVF6QThtRm11ZE4waFV4OU9KUmtCeWFuZXU1eFNJdHBKcXBCZDlIbDdQZ0kzUkZpMTlHM2h2TUhid0Q3S1VGYUlQMzNjQU1zR0dvMFRPb1pibWxhOXVnR3JHU3RMSWJNK1dvRUZTRzhjeTN3OGMrYlF3UVQxeXBHQThjK0syd1NJcWJQV0Z2c29GSXdCM2ZDQUpmMVdYa0dmcVNqZnJRRU12RU00a2xpQXpoWjFjRkY5NjBkSWZGYkREMWNiekpNQTBmWVpBMnIzTk9haWluUzZxa3FpdHhxMzVSU1ZZbmM5R2ZZbjBVb3ljM0FwNExJMENnZFBCOTJWYytzNWlWdFluZnk0L0ZIdUV0bWhXNzFzek1qT2p0RTd2Z2xiMVBUbStZSmVHRUZOQTBUSUNFbmhDSURXU1dqbmNPL2hMZ1pNa1k4ZDZaQVE5MXY4NTU0ZkxlbVkrREtDZ0tXOFg1WGs3QWVaMFFTYjVWNGxrbWZQdThNU3ZpVEpQVk00RXl0YnBWSQ.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至6集"
+    },
+    {
+      "vod_id": 10036,
       "vod_name": "仙逆",
       "type_id": 13,
       "type_name": "动漫",
@@ -333,7 +453,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10027,
+      "vod_id": 10037,
       "vod_name": "斗破苍穹 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -345,7 +465,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10028,
+      "vod_id": 10038,
       "vod_name": "牧神记 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -357,31 +477,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10029,
-      "vod_name": "今天是太阳雨",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794214679-300x450.jpg",
-      "vod_remarks": "更新至20集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://v6-default.douyinvod.com/4a1bb65b8b7c184b25b4f02dccd55a46/6afb7b69/video/tos/cn/tos-cn-v-5f73e7/oQYEDFDd1aAhWIUIA1EIdJBHg8Hgk06R9qfijf/?name=viptvmv.mp4#第2集$https://oss.douyinbit.com/m3u8/c8369529e2269f2445c6b0e830e8c757.m3u8#第3集$https://oss.douyinbit.com/m3u8/5011d627b699efe74804b4a9ead79c76.m3u8#第4集$https://oss.douyinbit.com/m3u8/788af4b975f7b7421909a59dbfc18579.m3u8#第5集$https://p3-imcloud-sign.byteimg.com/tos-cn-v-5f73e7/oI3lvQZBtEoOiB52ADjxAAAwjIPAa7UJ2RiFA~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330032&x-signature=s6UnJdOhYKTint6pbxFKOYMNND0%3D&a=7127&ch=1&cr=1&dr=0&er=1&lr=test&cd=0%7C0%7C6%7C7&br=3351&bt=2930&cs=5&ds=16&ft=Dq4OtBSU8Dk1iQqci8z_ojgp0AV4fJTKKv_n8hJAzyNfoiYq7R&mime_type=video_mp4&qs=10&rc=ZC6N9Iit2zVGGIE8XOqCUNmOucFHrGeQfKjMSQAU7sRon68spD8nR64nfRlHH2Fdr7kjP0LPhurLSsMN9bqrWXD8kN==&btag=c9b9fa6c4883d4&dy_q=1794738033&l=202611150382031d48be305da78c2a7bc6&filename=924410.mp4&name=viptj#第6集$https://p3-imcloud-sign.byteimg.com/tos-cn-v-5f73e7/oAFvwI1xaLDgAygKAAaBwDYstrNUiP2EBA5iA~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330076&x-signature=40%2FhLyLmYkKxKXr4PYuQ%2BDpQrgg%3D&a=8272&ch=3&cr=2&dr=6&er=1&lr=pc&cd=9%7C6%7C8%7C4&br=3683&bt=3311&cs=5&ds=10&ft=TtK44MtWV.CFWTJG67ijxrirbAJpYCakmg3NQh9q.R5~icDFH6&mime_type=video_mp4&qs=9&rc=a3OLDQDnGLLnHxgNaJiDVPSxTogYAdPNBkXYH1twD3jqBqrbp302XUmIbcRhU432fuYfStOMsA5OeIkINFDTKIIX9d==&btag=cf2d52bd84279b&dy_q=1794738076&l=20261115db583b407a91f36fdb96710f81&filename=708316.mp4&name=viptj#第7集$https://p9-imcloud-sign.byteimg.com/tos-cn-i-3jr8j4ixpe/77f378ddc9d14e1c8ea4883cf6419623~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330239&x-signature=76Z%2FvQwkIB4P%2Bg6b05GZ%2BSfdxQI%3D&a=1374&ch=21&cr=2&dr=6&er=1&lr=test&cd=8%7C9%7C6%7C8&br=2567&bt=1026&cs=10&ds=19&ft=9ohHOivD9ZJvR.6TVf1nx~Bolt.6UaZuYLB_S4hrnfSpMdcibH&mime_type=video_mp4&qs=1&rc=cj2M3tszlIdfIqGdRzhgJKNX5575aofqU9FtNOyTlep5XVzBp70VosvUR4FT1luzTGTdxZxQTVTB04mZ6nVHM2cJpf==&btag=c87ae6e23930b7&dy_q=1794738239&l=20261115e3d69e7e3f4df8f8369d29d170&filename=19403.mp4&name=viptj#第8集$https://p3-imcloud-sign.byteimg.com/tos-cn-v-5f73e7/owCq1ADK8HBfTAeYgk9TN3mEAMuFIaqCAAgHcI~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330131&x-signature=TEPgY%2B64gTomwJHl39hcEWo0YpE%3D&a=2624&ch=15&cr=1&dr=6&er=2&lr=pc&cd=2%7C0%7C2%7C2&br=2099&bt=2413&cs=2&ds=13&ft=OMrHqivh2_hpLFL37CFkZq72ZjUsrCpPN3tO~V_ximOPzDJcgH&mime_type=video_mp4&qs=20&rc=YaHl3MJiP0q5H5LZ3M4xVYpStN5Bhf6g3ATH9gsB7XlI1nhRovxbCrTyRd3jBRTvgN6kKvgjuITPPQitZieNh2pj9M==&btag=c7327dbb2b0335&dy_q=1794738131&l=20261115c81bc2d89e85e3a564bc92fb13&filename=6781.mp4&name=viptj#第9集$https://p9-imcloud-sign.byteimg.com/tos-cn-v-5f73e7/oU0qif3FAHAyA1AvgIFM82NDMfnbB5WEAaCHiA~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797329939&x-signature=BWwX1jO1gpL4TqdW7%2BGjW%2B%2BsxAc%3D&a=6222&ch=40&cr=0&dr=2&er=2&lr=pc&cd=9%7C8%7C3%7C7&br=2168&bt=1754&cs=19&ds=15&ft=51aVO9DG44ZGpnlnlPrjNDxDx8ehQh_ri2ITuOpPX0EhD9M4YD&mime_type=video_mp4&qs=0&rc=INzmBy8bBn7AgoZO9RHT8M7OFxRtNcaWzBW9iaor1NbxR3Pi9BeqsO2MRg2OyQKDEbAWpYxOl1FPMvvHlJmXhGS1vf==&btag=c8b2adf17dc0eb&dy_q=1794737939&l=202611151344285f977e56c8c078f4a40e&filename=91881.mp4&name=viptj#第10集$https://p9-imcloud-sign.byteimg.com/tos-cn-i-jow9h3l7b2/ogfzoqRD8BAFQigIeIs2wkCFEjEgRq2vDdJyEz~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797330356&x-signature=oUprK%2Bnw6wZeekpIi9835osoKPo%3D&a=2991&ch=39&cr=0&dr=5&er=1&lr=mix&cd=4%7C0%7C8%7C0&br=3180&bt=3161&cs=20&ds=14&ft=d2U2m.3~6z~B9jwi01OFfqrbpUnP3dU3CvK3Kuxrn9Hkj9nP9r&mime_type=video_mp4&qs=13&rc=VPRkUKkvV0AxN4pmWe8xe5X6BCTVoM7NyXueiEPnLgA3mRdKtXebuE0CQxTr654xO57wpbE9sew7vstc8N4RL2H3Sm==&btag=cfea7543c2ec0b&dy_q=1794738356&l=2026111563f40ae642bd0632cbeecbea55&filename=756383.mp4&name=viptj#第11集$https://v6-default.douyinvod.com/b392fac04db7f3bcb56d0568380848a4/6afb7f7e/video/tos/cn/tos-cn-v-5f73e7/owvAjPDlFBq58GzTI1icHBVaceoEEDgfgqxKGE/?name=viptvmv.mp4#第12集$https://oss.douyinbit.com/m3u8/425da60828839672c6147d5686e46a7f.m3u8#第13集$https://oss.douyinbit.com/m3u8/2f6baff1bd8e2218cd461e01319ca231.m3u8#第14集$https://zy1080-02.sskan01.top/api/zy1080_02/YTkxOGdlLzZuZXhwNVdoT21qWjlTeTV5NG5UMVNzQ3JmWVFNKzVXN1kvQnpDbys4ME15V0RDSUR3WEhuQjA4V1EreS9JTnpsWWNwdDNaT1lOeFp4L0hyVFlOSGFZVVhjTlVvc1VuUFRaeGoyNzd6REtkMFlOdnZRWmVBM2w1MVdHVlk2RmxXSlpvY3ZJc1NRRGhlL2d5TXQ1QXdIV3dPMlV5dVRNc0ljaFZZb0lhMi9GR2lHK25MWHZHZlV5OTYvdmdaSXVkOW9UaWtMT2E1SDRYY3RRaHpjRlBydWNHSGpVTS9teFpmNkFERHdIemNXMUZjbVFjQ2JuU2xZN3ZlbEJyUFR0UUtac3V1TXRUZHM1b0ozdXd4YmdMd2hSSmxWdUZpK2VlamZBbE90ME1lTHRNYmowMHhRWW1rUmoyTDd4VW1PV0ZkZHJwVlRmMUU2c3ZDcUcyOUFubzUybUMwYUVuWlpjSEptTnhDUjQva0kxa2FlYkR3MFdPYnpWTFd4NjlNWEI5UzFQUnBuSVU0emJqT0plL1NFNUJ0TnQ3dlg2QVF6TDNobVg4UjFzdlhTVGlXYk1tek1oRXJ4.m3u8#第15集$https://oss.douyinbit.com/m3u8/da1db8d46ff746891edce261f06f29d8.m3u8#第16集$https://yun2.jiexicn.top/api/banyun/e5168219c3d9f9e1.m3u8?OTc5Ymd5WWdWR1NiaTU4VjhaZkZrOWdlZm5xaGNCVnRqRURpNHBqbFJwRFpEOXA2SEk5cWpIY0QvQmM3a3BncXZGNDVwUlJRa05hUkRlQldKMXVBTklmOFluUXFtUDVHeGdFdlRxVVhhK1hNTGpSa0xiMmZIZXlUbnJxL1Uvd2Zzb1NWOEZLTnlibGdyd0x0SUJkRVM4Y1NZTE9aMnYwSDI0R24vZ1dmcklLVFJZYlBBOFY4dTdQdzVR#第17集$https://oss.douyinbit.com/m3u8/1178aa418fc00854023fa3c4d12026c7.m3u8#第18集$https://zy1080-02.sskan01.top/api/zy1080_02/NjFhNGNaVFRsZUdPaHZCdGJ1bDIzRFFWKzE3dGxOakRkZzBLUkNUV3E0MU1zc0xzTE5ydjltclNsd1U1UHN1WlBsUTJqZ3hRQjZjbEpDSi8yTm5pS3JHUy96Q0lhZ1l1eVNueTYySTJQKzdQc0Zadml3QUJMaW1rS0NSbkIvUlFIZW1VTHNvcWR4c2htVDFWYmMzRkxPeCtDaEp6VUw2SENGN0cwQU5CaXRvalc5K3JkZzM1cXUxc1hXZnNZK2I0Z2hpek1ZRGN4WTRRdWFjWmo4VTl3Qm9vZERkVjZIS0kwamtpQ1JNaGJSR2NRTEhYNnNyamdlMllOSGdkWXZjNU9WTlZxOUY1K3pDTTJhS1JuYVFmckpSRCtvSlg0R2lTa3BGbmU4NFQ1OWRrZnYxdm9tM0lJdmFURUpXNXVkZlFpaFFEbEg3V1NJd01IOU1NRi9xYllFRGM4RU9RWTA0aFhwS01MNUdCZXdiUFRxQllpOTVBU3VtRWR5SlFsc1ltclljeHVPUVVQRnU4Q1R5ZUl0WGYyOFBuekloMXV0eWt0NFpnWk9nVk1IekJRSjRLK2ZsT0JLRFJCZXFZcEE.m3u8#第19集$https://zy1080-02.sskan01.top/api/zy1080_02/ZWVhYWFXbHFmeUVxd0dZeVIwcFdZYzltdjMxcjFTcmxEQkkzcHBqNDlSZmdnaHFJTnJYTzM5WUNSWFcwN1lMZlNGYkJORmZDSmpzdFB3b1dPT2k5SGxML1FpZTkySkFTUWN5QlVPNlF5Q0dOcTRVcWIwczRCNzF4Yk9LUUhBeHB1cXZLZzlGMTZveCswSENpSG54THJvZ3JJcTMwbGVNZEExeXV6Y0RXZkkvRW1MNlA2RXFrN1RTdjlSYW1vd1pLbm5BZlIyWEdjaW1BeDk1bUZuNzQ5dVdONkJvZThHYWowNjFpNHN1bWxMWUdxN1M0eUdUVW14bEk2eWNsUVZCZUx1RXF5a2gwQVdkTk5aaHF3QitFUlBjYkZUMGg4djdDVUF5TG9lUE1HaVJmUERRQWVIaFdjK1lOUm1CdW4rVUk4TysvT05xRlNXd0tZRVlyRmhpMGdtczBVQmxMSzd0OWRsbExDazRvZzFqc2lLRGN2UGpiTGx6YkZtS1BCVlFNNTJUTHJpdUN3YVlmRWxDdmtQeXRiSjBnUnFYdFMrakRHTytBaHExeGovT0kweWxmVFhCOWJzd0tjWHVOUnc.m3u8#第20集$https://p9-imcloud-sign.byteimg.com/tos-cn-i-jow9h3l7b2/oAeEcCEo2DDBTrAMNeoaF06BfiEYXVE6gWEsBd~tplv-4q3nkbmfbv-image.image?rk3s=2f6cd0ce&x-expires=1797421931&x-signature=6wj9fRw%2FIwvxH9cNWoI7Wz6ESJk%3D&a=1871&ch=2&cr=1&dr=2&er=2&lr=pc&cd=8%7C4%7C2%7C5&br=2569&bt=2770&cs=20&ds=11&ft=t4Wd0zJLEX6acC8NZ9bk3kZ9HqVpt16VDlZa1g.cCRqzyIlCGQ&mime_type=video_mp4&qs=10&rc=Mj2QPevPqWraFgYzlTlod0ybEDMNpYN2g9Kzld2RMKpwAjuQMCCbg3gHWKrETjwbanJFce0r7evDtYri9BlldflZyU==&btag=ceca43a6a36b2c&dy_q=1794829931&l=2026111681549227cd5e797ebe14d36f2e&filename=151448.mp4&name=viptj",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至20集"
-    },
-    {
-      "vod_id": 10030,
-      "vod_name": "谷雨",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794142208-300x450.jpg",
-      "vod_remarks": "更新至26集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/544b189944d196e5fa8f931311d30f94.m3u8#第2集$https://oss.douyinbit.com/m3u8/9d9a7da469265851240a7e39d2c73ab7.m3u8#第3集$https://oss.douyinbit.com/m3u8/ddb09dd99b152fabc832ade5f3afe96f.m3u8#第4集$https://oss.douyinbit.com/m3u8/1d1ea825ebcf5976c2b11705cf6711f0.m3u8#第5集$https://oss.douyinbit.com/m3u8/23b32841fbc8e9c1237a6ad5a8e6e25e.m3u8#第6集$https://oss.douyinbit.com/m3u8/63e5137e9fe7b2fdb8f12cdfcf014e5c.m3u8#第7集$https://oss.douyinbit.com/m3u8/5741b6f4dc427c88c5ec7a2bd9d4682f.m3u8#第8集$https://oss.douyinbit.com/m3u8/b6847218b089cdda1a8dbafcf5929a66.m3u8#第9集$https://oss.douyinbit.com/m3u8/edf815960c32a7173fc7203061db34a0.m3u8#第10集$https://oss.douyinbit.com/m3u8/8c3620310de2db93110dd0cf036cacbd.m3u8#第11集$https://oss.douyinbit.com/m3u8/0cad6851734777fbeeb5e1ca22f3f2a8.m3u8#第12集$https://oss.douyinbit.com/m3u8/9666619a1e013269d26ae04c9bb8c6d0.m3u8#第13集$https://oss.douyinbit.com/m3u8/9973bebe8a0bd6ce9487df52f9b8a66d.m3u8#第14集$https://oss.douyinbit.com/m3u8/407562b873c2587e7541f6a6e61a7a65.m3u8#第15集$https://oss.douyinbit.com/m3u8/bd53252a23ecee0a3f18eb9b96226b52.m3u8#第16集$https://oss.douyinbit.com/m3u8/23002f5f5f81bfd1237fa9873307e341.m3u8#第17集$https://oss.douyinbit.com/m3u8/b10efd197818a054d24862629496144b.m3u8#第18集$https://oss.douyinbit.com/m3u8/73fe9175cea54ca2177a52e48f674245.m3u8#第19集$https://oss.douyinbit.com/m3u8/5429bf7e9760520008eebbbcdb297d10.m3u8#第20集$https://oss.douyinbit.com/m3u8/01f31d77bf146a098b25d5e0d1aecd00.m3u8#第21集$https://oss.douyinbit.com/m3u8/3853a856ca44fb45f03e2c375fb89193.m3u8#第22集$https://oss.douyinbit.com/m3u8/2f771216447a42f4a93466257e2c3820.m3u8#第23集$https://oss.douyinbit.com/m3u8/a43f5614264ca3abbc539fea548c35f3.m3u8#第24集$https://oss.douyinbit.com/m3u8/8b40ec05daf43e0c4971abf60da775da.m3u8#第25集$https://ppvod01.kqgfbs.com/splitOut/20261116/1433295/V20261116215134426171433295/index.m3u8?t=6afb4c68&whip=3.42.157.94&sign=ba5179c7da3e1ed69cf786283a23c340566ef81b#第26集$https://ppvod01.kqgfbs.com/splitOut/20261116/1433207/V20261116190930290241433207/index.m3u8?t=6afb4c6b&whip=3.42.157.94&sign=44bdfd827696a743bc4edabba760eaf60e56b41a",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至26集"
-    },
-    {
-      "vod_id": 10031,
+      "vod_id": 10039,
       "vod_name": "太平年",
       "type_id": 11,
       "type_name": "连续剧",
@@ -393,7 +489,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10032,
+      "vod_id": 10040,
       "vod_name": "挑情丑闻",
       "type_id": 11,
       "type_name": "连续剧",
@@ -405,7 +501,7 @@
       "vod_remarks_src": "更新至1集"
     },
     {
-      "vod_id": 10033,
+      "vod_id": 10041,
       "vod_name": "爱情怎么翻译？ 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -417,7 +513,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10034,
+      "vod_id": 10042,
       "vod_name": "光阴之外",
       "type_id": 13,
       "type_name": "动漫",
@@ -429,7 +525,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10035,
+      "vod_id": 10043,
       "vod_name": "凡人修仙传",
       "type_id": 13,
       "type_name": "动漫",
@@ -441,7 +537,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10036,
+      "vod_id": 10044,
       "vod_name": "沧元图",
       "type_id": 13,
       "type_name": "动漫",
@@ -453,19 +549,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10037,
-      "vod_name": "遮天",
-      "type_id": 13,
-      "type_name": "动漫",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2024/04/j6z65zdwJHQYUNFAZ1joYeAJbjZ-1-233x350.jpg",
-      "vod_remarks": "更新至40集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第150集$https://oss.douyinbit.com/m3u8/6b646ca6ddc4d270e3a31c0d20ecd075.m3u8#第151集$https://oss.douyinbit.com/m3u8/5903478a732cee5085486b597ad880c5.m3u8#第152集$https://oss.douyinbit.com/m3u8/1f4d4b674d795e5e7794583914488974.m3u8#第153集$https://oss.douyinbit.com/m3u8/c08d5bb4634115228a02980edac7ca61.m3u8#第154集$https://oss.douyinbit.com/m3u8/e5299c13d4e46498a7dcaa860286ac8d.m3u8#第155集$https://oss.douyinbit.com/m3u8/f9bb166d430b9316962b2ffb0ebd53f7.m3u8#第156集$https://oss.douyinbit.com/m3u8/c7414a8f0a495de67f3c64cddea67eef.m3u8#第157集$https://oss.douyinbit.com/m3u8/83ee5abd341729b48a2166aeeb0e8a64.m3u8#第158集$https://oss.douyinbit.com/m3u8/1caa116a6907efb6c2b4d63b298509bb.m3u8#第159集$https://oss.douyinbit.com/m3u8/6132a3b3b8dab16c8ac94c955f9a8604.m3u8#第160集$https://oss.douyinbit.com/m3u8/f85a55a6563f0c9a06be90ce1b80b7df.m3u8#第161集$https://oss.douyinbit.com/m3u8/936f108165697c54a3da63675d241a9d.m3u8#第162集$https://oss.douyinbit.com/m3u8/d2d3d8bfae47050bcb2d3c7b93a298b7.m3u8#第163集$https://oss.douyinbit.com/m3u8/5185288d07d1ee26261d7dc0facf8bb8.m3u8#第164集$https://oss.douyinbit.com/m3u8/1cdb31fe4065451453503ee6fea2d5c4.m3u8#第165集$https://oss.douyinbit.com/m3u8/5c6ce2bf4884ba416693707542091c42.m3u8#第166集$https://oss.douyinbit.com/m3u8/bc7173b8e77fff599070e0ee39202e33.m3u8#第167集$https://oss.douyinbit.com/m3u8/c03066b5f8652942937f3545e57e577c.m3u8#第168集$https://oss.douyinbit.com/m3u8/e7d9be6c930a74b8e1ee82b987851b2b.m3u8#第169集$https://oss.douyinbit.com/m3u8/23d9dd4739db220faeacad8dc9d3f760.m3u8#第170集$https://oss.douyinbit.com/m3u8/3a71b49d347447ccb82a19fb7e0973e6.m3u8#第171集$https://oss.douyinbit.com/m3u8/1e6e23cb2a1a98432fa894e7fd96bf7a.m3u8#第172集$https://oss.douyinbit.com/m3u8/a1b542d240e88c0f5266479e3e0bcc75.m3u8#第173集$https://oss.douyinbit.com/m3u8/4d4d3284f06a7b75e0b5d3e9ed4bc5f2.m3u8#第174集$https://oss.douyinbit.com/m3u8/710b3b5622093ef09eaa49dd4634c9dd.m3u8#第175集$https://oss.douyinbit.com/m3u8/3fd845807646e141e912678b2a569149.m3u8#第176集$https://oss.douyinbit.com/m3u8/4f11cc9dde5077db31cddcfa4868e66a.m3u8#第177集$https://oss.douyinbit.com/m3u8/34d6653cae8c05580d2838654adc1969.m3u8#第178集$https://oss.douyinbit.com/m3u8/6ea89b10378510dd3fd7397367aaa8bf.m3u8#第179集$https://oss.douyinbit.com/m3u8/b213f3266f06041c471ef71078380db8.m3u8#第180集$https://oss.douyinbit.com/m3u8/757d109598ce879e8834d3b08cf9c7dc.m3u8#第181集$https://oss.douyinbit.com/m3u8/4e459af30772294bc6092785b3dc993f.m3u8#第182集$https://oss.douyinbit.com/m3u8/6acb0b577743ac1d68e11cc0bda02292.m3u8#第183集$https://oss.douyinbit.com/m3u8/921df86856f92314dd5fb5163bb14081.m3u8#第184集$https://oss.douyinbit.com/m3u8/79a9da98bfba5899bf74a0351198cd66.m3u8#第185集$https://oss.douyinbit.com/m3u8/9cbdc8094daf41932018ae71f0ce78b6.m3u8#第186集$https://oss.douyinbit.com/m3u8/4cd444eb737cf9c352a1ed23c5f6878a.m3u8#第187集$https://oss.douyinbit.com/m3u8/7bf2d2b2aa6f8dd72430f02a889bdbbe.m3u8#第188集$https://oss.douyinbit.com/m3u8/fdf3c46de5d801481b77de741a1f8385.m3u8#第189集$https://oss.douyinbit.com/m3u8/940cdcf75ae9db25e25b30743baa43dd.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至40集"
-    },
-    {
-      "vod_id": 10038,
+      "vod_id": 10045,
       "vod_name": "唐朝诡事录之长安: 第3季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -477,7 +561,7 @@
       "vod_remarks_src": "全40集"
     },
     {
-      "vod_id": 10039,
+      "vod_id": 10046,
       "vod_name": "爱乐之城",
       "type_id": 10,
       "type_name": "电影",
@@ -489,7 +573,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10040,
+      "vod_id": 10047,
       "vod_name": "完美的日子",
       "type_id": 10,
       "type_name": "电影",
@@ -501,7 +585,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10041,
+      "vod_id": 10048,
       "vod_name": "Doctor X：白色黑手党时代",
       "type_id": 11,
       "type_name": "连续剧",
@@ -513,7 +597,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10042,
+      "vod_id": 10049,
       "vod_name": "现在不是出轨的问题",
       "type_id": 11,
       "type_name": "连续剧",
@@ -525,7 +609,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10043,
+      "vod_id": 10050,
       "vod_name": "孤单又灿烂的神：鬼怪: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -537,7 +621,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10044,
+      "vod_id": 10051,
       "vod_name": "诛仙 全季",
       "type_id": 13,
       "type_name": "动漫",
@@ -549,7 +633,7 @@
       "vod_remarks_src": "更新至34集"
     },
     {
-      "vod_id": 10045,
+      "vod_id": 10052,
       "vod_name": "嗜血法医：杀魔复生 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -561,7 +645,7 @@
       "vod_remarks_src": "更新至3集"
     },
     {
-      "vod_id": 10046,
+      "vod_id": 10053,
       "vod_name": "塔尔萨之王 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -573,7 +657,7 @@
       "vod_remarks_src": "更新至5集"
     },
     {
-      "vod_id": 10047,
+      "vod_id": 10054,
       "vod_name": "九重紫: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -585,7 +669,7 @@
       "vod_remarks_src": "全34集"
     },
     {
-      "vod_id": 10048,
+      "vod_id": 10055,
       "vod_name": "我的荒糖恋爱",
       "type_id": 11,
       "type_name": "连续剧",
@@ -597,7 +681,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10049,
+      "vod_id": 10056,
       "vod_name": "尚公主",
       "type_id": 11,
       "type_name": "连续剧",
@@ -609,7 +693,7 @@
       "vod_remarks_src": "全40集"
     },
     {
-      "vod_id": 10050,
+      "vod_id": 10057,
       "vod_name": "狂飙: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -621,7 +705,7 @@
       "vod_remarks_src": "全39集"
     },
     {
-      "vod_id": 10051,
+      "vod_id": 10058,
       "vod_name": "美国队长",
       "type_id": 10,
       "type_name": "电影",
@@ -633,7 +717,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10052,
+      "vod_id": 10059,
       "vod_name": "JOJO的奇妙冒险 飙马野郎",
       "type_id": 13,
       "type_name": "动漫",
@@ -645,7 +729,7 @@
       "vod_remarks_src": "更新至9集"
     },
     {
-      "vod_id": 10053,
+      "vod_id": 10060,
       "vod_name": "FX战士久留美",
       "type_id": 13,
       "type_name": "动漫",
@@ -657,7 +741,7 @@
       "vod_remarks_src": "更新至7集"
     },
     {
-      "vod_id": 10054,
+      "vod_id": 10061,
       "vod_name": "择日飞升",
       "type_id": 13,
       "type_name": "动漫",
@@ -669,7 +753,7 @@
       "vod_remarks_src": "更新至20集"
     },
     {
-      "vod_id": 10055,
+      "vod_id": 10062,
       "vod_name": "逐玉",
       "type_id": 11,
       "type_name": "连续剧",
@@ -681,7 +765,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10056,
+      "vod_id": 10063,
       "vod_name": "琅琊榜",
       "type_id": 11,
       "type_name": "连续剧",
@@ -693,7 +777,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10057,
+      "vod_id": 10064,
       "vod_name": "尼古喵喵",
       "type_id": 13,
       "type_name": "动漫",
@@ -705,7 +789,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10058,
+      "vod_id": 10065,
       "vod_name": "被追放的转生重骑士用游戏知识开无双",
       "type_id": 13,
       "type_name": "动漫",
@@ -717,7 +801,7 @@
       "vod_remarks_src": "更新至18集"
     },
     {
-      "vod_id": 10059,
+      "vod_id": 10066,
       "vod_name": "致命女人 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -729,7 +813,7 @@
       "vod_remarks_src": "全10集"
     },
     {
-      "vod_id": 10060,
+      "vod_id": 10067,
       "vod_name": "可能的爱",
       "type_id": 10,
       "type_name": "电影",
@@ -741,7 +825,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10061,
+      "vod_id": 10068,
       "vod_name": "政盗鲁邦",
       "type_id": 11,
       "type_name": "连续剧",
@@ -753,7 +837,7 @@
       "vod_remarks_src": "更新至6集"
     },
     {
-      "vod_id": 10062,
+      "vod_id": 10069,
       "vod_name": "斗罗大陆Ⅱ绝世唐门 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -765,7 +849,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10063,
+      "vod_id": 10070,
       "vod_name": "指环王：力量之戒 第三季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -777,7 +861,7 @@
       "vod_remarks_src": "更新至4集"
     },
     {
-      "vod_id": 10064,
+      "vod_id": 10071,
       "vod_name": "午夜规则",
       "type_id": 11,
       "type_name": "连续剧",
@@ -789,7 +873,7 @@
       "vod_remarks_src": "更新至4集"
     },
     {
-      "vod_id": 10065,
+      "vod_id": 10072,
       "vod_name": "闪烁的西瓜",
       "type_id": 11,
       "type_name": "连续剧",
@@ -801,7 +885,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10066,
+      "vod_id": 10073,
       "vod_name": "了不起的盖茨比",
       "type_id": 10,
       "type_name": "电影",
@@ -813,7 +897,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10067,
+      "vod_id": 10074,
       "vod_name": "欲望都市",
       "type_id": 10,
       "type_name": "电影",
@@ -825,7 +909,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10068,
+      "vod_id": 10075,
       "vod_name": "极恶老大 第二季",
       "type_id": 13,
       "type_name": "动漫",
@@ -837,7 +921,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10069,
+      "vod_id": 10076,
       "vod_name": "灵境行者",
       "type_id": 13,
       "type_name": "动漫",
@@ -849,7 +933,7 @@
       "vod_remarks_src": "更新至12集"
     },
     {
-      "vod_id": 10070,
+      "vod_id": 10077,
       "vod_name": "万物生灵 第七季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -861,7 +945,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10071,
+      "vod_id": 10078,
       "vod_name": "校园接送恋曲",
       "type_id": 11,
       "type_name": "连续剧",
@@ -873,7 +957,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10072,
+      "vod_id": 10079,
       "vod_name": "广告狂人 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -885,7 +969,7 @@
       "vod_remarks_src": "全13集"
     },
     {
-      "vod_id": 10073,
+      "vod_id": 10080,
       "vod_name": "野兽之心",
       "type_id": 10,
       "type_name": "电影",
@@ -897,7 +981,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10074,
+      "vod_id": 10081,
       "vod_name": "八仙！",
       "type_id": 10,
       "type_name": "电影",
@@ -909,7 +993,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10075,
+      "vod_id": 10082,
       "vod_name": "蚁人与黄蜂女：量子狂潮",
       "type_id": 10,
       "type_name": "电影",
@@ -921,7 +1005,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10076,
+      "vod_id": 10083,
       "vod_name": "Re：从零开始的异世界生活 第四季",
       "type_id": 13,
       "type_name": "动漫",
@@ -933,7 +1017,7 @@
       "vod_remarks_src": "全19集"
     },
     {
-      "vod_id": 10077,
+      "vod_id": 10084,
       "vod_name": "无间兄弟情",
       "type_id": 11,
       "type_name": "连续剧",
@@ -945,7 +1029,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10078,
+      "vod_id": 10085,
       "vod_name": "璀璨之城",
       "type_id": 11,
       "type_name": "连续剧",
@@ -957,7 +1041,7 @@
       "vod_remarks_src": "更新至18集"
     },
     {
-      "vod_id": 10079,
+      "vod_id": 10086,
       "vod_name": "人生复本 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -969,7 +1053,7 @@
       "vod_remarks_src": "更新至9集"
     },
     {
-      "vod_id": 10080,
+      "vod_id": 10087,
       "vod_name": "蝙蝠侠：黑暗骑士",
       "type_id": 10,
       "type_name": "电影",
@@ -981,19 +1065,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10081,
-      "vod_name": "我的有罪之人",
-      "type_id": 11,
-      "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794239555-300x450.jpg",
-      "vod_remarks": "更新至8集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://lf3-imcloud-video-sign.bytetos.com/tos-cn-v-5f73e7/oQBQTzwt8SB87LIE4ciiPZvaELEyvYuBz2IxA?x-expires=1794665702&x-signature=spYb7GN4qA4SXttDwSNsvjcMAU8%3D&name=viptj#第2集$https://lf3-imcloud-video-sign.bytetos.com/tos-cn-v-5f73e7/oof1QOX3VQMyVPwODYvA8dQfVeRWrayBEgNgAC?x-expires=1794658676&x-signature=5ipzSnsKSv%2FaLzoWVL322HY%2Fiuw%3D&name=viptj#第3集$https://lf3-imcloud-video-sign.bytetos.com/tos-cn-v-5f73e7/ok4EeTMMrEYXFnwWQlZ2xdgZrCPz8seAqWjTef?x-expires=1794665641&x-signature=PT7IDlWiI%2F5kfyQSaWKaxGz%2Fw%2B0%3D&name=viptj#第4集$https://lf3-imcloud-video-sign.bytetos.com/tos-cn-v-5f73e7/oQXLg1CkQPrEu14hteEt8RngVWsf1GEf3tIAOB?x-expires=1794665785&x-signature=aotanuHY%2FuqmeKvLae5gPcsA9zo%3D&name=viptj#第5集$https://lf3-imcloud-video-sign.bytetos.com/tos-cn-v-5f73e7/okApSQoMVBOkg6JPOMCWefW3XVKgGj8ro1rgeA?x-expires=1794665788&x-signature=V3dvGJmHxAzl7G86sxhw0Zls7vI%3D&name=viptj#第6集$https://lf6-imcloud-video-sign.bytetos.com/tos-cn-v-672a0a/okPtPTidHIBFt7VEYTcQfoiI1pEUUTmgmV6P9A?x-expires=1794658521&x-signature=wLGodMWZT1QaUualmuOVmPff71E%3D&name=viptj#第7集$https://lf3-imcloud-video-sign.bytetos.com/tos-cn-v-5f73e7/okIjI2BQrrL4OBDV1FPtf3YSWf01oELAap69Cf?x-expires=1794665723&x-signature=jO184rJjVjOaGdyRZ91%2BfaGn%2Flw%3D&name=viptj#第8集$https://oss.douyinbit.com/m3u8/b02482a6e9c63a3f2a753aa6d77d6fd4.m3u8",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至8集"
-    },
-    {
-      "vod_id": 10082,
+      "vod_id": 10088,
       "vod_name": "幻视任务",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1005,7 +1077,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10083,
+      "vod_id": 10089,
       "vod_name": "黑帮领地 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1017,7 +1089,7 @@
       "vod_remarks_src": "更新至8集"
     },
     {
-      "vod_id": 10084,
+      "vod_id": 10090,
       "vod_name": "恋爱博士",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1029,7 +1101,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10085,
+      "vod_id": 10091,
       "vod_name": "青之箱 第二季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1041,7 +1113,7 @@
       "vod_remarks_src": "更新至6集"
     },
     {
-      "vod_id": 10086,
+      "vod_id": 10092,
       "vod_name": "敦煌英雄",
       "type_id": 10,
       "type_name": "电影",
@@ -1053,7 +1125,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10087,
+      "vod_id": 10093,
       "vod_name": "忘却之岛",
       "type_id": 10,
       "type_name": "电影",
@@ -1065,19 +1137,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10088,
-      "vod_name": "一斩苍穹",
-      "type_id": 13,
-      "type_name": "动漫",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/08/douban_1786085968-300x450.jpg",
-      "vod_remarks": "更新至17集",
-      "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/6b1f9297bf61c6e839ad399d437d36f8.m3u8#第2集$https://oss.douyinbit.com/m3u8/c3716dd533d6c893ec09a81d27a33f57.m3u8#第3集$https://oss.douyinbit.com/m3u8/f5675477b4f6fb005a7f0ee28ec9f2f3.m3u8#第4集$https://oss.douyinbit.com/m3u8/e99d1917cafec26532b8ea11698b31bd.m3u8#第5集$https://oss.douyinbit.com/m3u8/e1941edce128ae5ba0e62e8e2dad124f.m3u8#第6集$https://oss.douyinbit.com/m3u8/186b691be81cc195b6093f57ae1120c1.m3u8#第7集$https://oss.douyinbit.com/m3u8/441cc2dd81d78d8841704c6971a10b2d.m3u8#第8集$https://oss.douyinbit.com/m3u8/9933876decc5b0f742581508af2ec0fa.m3u8#第9集$https://oss.douyinbit.com/m3u8/d04c3b994c0db071b8bbda25d21e324d.m3u8#第10集$https://oss.douyinbit.com/m3u8/25559ff91f1bcc691da38b28529afa89.m3u8#第11集$https://oss.douyinbit.com/m3u8/0768ec717ed192608e9418d9042fd61b.m3u8#第12集$https://oss.douyinbit.com/m3u8/8c49b30a6f53ba7bce73e2e74e5ed682.m3u8#第13集$https://oss.douyinbit.com/m3u8/cfc09848575b05334d96e59fa752e025.m3u8#第14集$https://oss.douyinbit.com/m3u8/2793ab651aefa3f3bca5b50d0ae5456c.m3u8#第15集$https://oss.douyinbit.com/m3u8/eadd08c9edf9fa1a70cf8015e6aa14d9.m3u8#第16集$https://oss.douyinbit.com/m3u8/65c54ba3e0cdb015b2b125a1857418a6.m3u8#第17集$https://v3-default.douyinvod.com/b944e5ce5b341345f42bc233697427c3/6af38915/video/tos/cn/tos-cn-v-5f73e7/ocZvBaeGEIeyr2V1kbAsv50WlCjOfI4wLzk3IA/?name=viptvmv.mp4",
-      "vod_source": "kvm",
-      "vod_remarks_src": "更新至17集"
-    },
-    {
-      "vod_id": 10089,
+      "vod_id": 10094,
       "vod_name": "掌舵少女 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1089,7 +1149,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10090,
+      "vod_id": 10095,
       "vod_name": "卿卿日常: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1101,7 +1161,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10091,
+      "vod_id": 10096,
       "vod_name": "铁拳教育",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1113,7 +1173,7 @@
       "vod_remarks_src": "全10集"
     },
     {
-      "vod_id": 10092,
+      "vod_id": 10097,
       "vod_name": "黄河大侠",
       "type_id": 10,
       "type_name": "电影",
@@ -1125,7 +1185,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10093,
+      "vod_id": 10098,
       "vod_name": "极恶非道3",
       "type_id": 10,
       "type_name": "电影",
@@ -1137,7 +1197,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10094,
+      "vod_id": 10099,
       "vod_name": "极恶非道2",
       "type_id": 10,
       "type_name": "电影",
@@ -1149,7 +1209,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10095,
+      "vod_id": 10100,
       "vod_name": "人世间: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1161,7 +1221,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10096,
+      "vod_id": 10101,
       "vod_name": "行尸走肉: 第4季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1173,7 +1233,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10097,
+      "vod_id": 10102,
       "vod_name": "小城良方",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1185,7 +1245,7 @@
       "vod_remarks_src": "全29集"
     },
     {
-      "vod_id": 10098,
+      "vod_id": 10103,
       "vod_name": "英雄联盟：双城之战: 第2季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1197,7 +1257,7 @@
       "vod_remarks_src": "更新至9集"
     },
     {
-      "vod_id": 10099,
+      "vod_id": 10104,
       "vod_name": "流人 第六季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1209,7 +1269,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10100,
+      "vod_id": 10105,
       "vod_name": "极恶非道",
       "type_id": 10,
       "type_name": "电影",
@@ -1221,7 +1281,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10101,
+      "vod_id": 10106,
       "vod_name": "终极名单 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1233,7 +1293,7 @@
       "vod_remarks_src": "更新至2集"
     },
     {
-      "vod_id": 10102,
+      "vod_id": 10107,
       "vod_name": "抖擞",
       "type_id": 10,
       "type_name": "电影",
@@ -1245,7 +1305,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10103,
+      "vod_id": 10108,
       "vod_name": "请回答1988",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1257,7 +1317,7 @@
       "vod_remarks_src": "全20集"
     },
     {
-      "vod_id": 10104,
+      "vod_id": 10109,
       "vod_name": "末路兼职",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1269,7 +1329,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10105,
+      "vod_id": 10110,
       "vod_name": "爱情公寓3",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1281,7 +1341,7 @@
       "vod_remarks_src": "全24集"
     },
     {
-      "vod_id": 10106,
+      "vod_id": 10111,
       "vod_name": "怪奇物语: 第4季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1293,7 +1353,7 @@
       "vod_remarks_src": "全9集"
     },
     {
-      "vod_id": 10107,
+      "vod_id": 10112,
       "vod_name": "小巷人家: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1305,7 +1365,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10108,
+      "vod_id": 10113,
       "vod_name": "大明王朝1566: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1317,7 +1377,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10109,
+      "vod_id": 10114,
       "vod_name": "狂爱情挑",
       "type_id": 10,
       "type_name": "电影",
@@ -1329,7 +1389,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10110,
+      "vod_id": 10115,
       "vod_name": "死神 千年血战篇 -祸进谭",
       "type_id": 13,
       "type_name": "动漫",
@@ -1341,7 +1401,7 @@
       "vod_remarks_src": "更新至10集"
     },
     {
-      "vod_id": 10111,
+      "vod_id": 10116,
       "vod_name": "爱情公寓: 第5季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1353,7 +1413,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10112,
+      "vod_id": 10117,
       "vod_name": "无耻之徒(美版) 第九季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1365,7 +1425,7 @@
       "vod_remarks_src": "全14集"
     },
     {
-      "vod_id": 10113,
+      "vod_id": 10118,
       "vod_name": "风骚律师: 第6季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1377,7 +1437,7 @@
       "vod_remarks_src": "全13集"
     },
     {
-      "vod_id": 10114,
+      "vod_id": 10119,
       "vod_name": "权力的游戏 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1389,7 +1449,7 @@
       "vod_remarks_src": "全10集"
     },
     {
-      "vod_id": 10115,
+      "vod_id": 10120,
       "vod_name": "药屋少女的呢喃 第二季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1401,7 +1461,7 @@
       "vod_remarks_src": "更新至23集"
     },
     {
-      "vod_id": 10116,
+      "vod_id": 10121,
       "vod_name": "潜伏",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1413,7 +1473,7 @@
       "vod_remarks_src": "全30集"
     },
     {
-      "vod_id": 10117,
+      "vod_id": 10122,
       "vod_name": "余红旧事",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1425,7 +1485,7 @@
       "vod_remarks_src": "全34集"
     },
     {
-      "vod_id": 10118,
+      "vod_id": 10123,
       "vod_name": "美人余",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1437,7 +1497,7 @@
       "vod_remarks_src": "全28集"
     },
     {
-      "vod_id": 10119,
+      "vod_id": 10124,
       "vod_name": "交锋",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1449,7 +1509,7 @@
       "vod_remarks_src": "全40集"
     },
     {
-      "vod_id": 10120,
+      "vod_id": 10125,
       "vod_name": "无耻之徒: 第4季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1461,7 +1521,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10121,
+      "vod_id": 10126,
       "vod_name": "蒸蒸日上",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1473,7 +1533,7 @@
       "vod_remarks_src": "全22集"
     },
     {
-      "vod_id": 10122,
+      "vod_id": 10127,
       "vod_name": "无可替代",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1485,7 +1545,7 @@
       "vod_remarks_src": "全20集"
     },
     {
-      "vod_id": 10123,
+      "vod_id": 10128,
       "vod_name": "九品芝麻官",
       "type_id": 10,
       "type_name": "电影",
@@ -1497,7 +1557,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10124,
+      "vod_id": 10129,
       "vod_name": "绝命毒师: 第5季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1509,7 +1569,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10125,
+      "vod_id": 10130,
       "vod_name": "办公室 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1521,7 +1581,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10126,
+      "vod_id": 10131,
       "vod_name": "新闻编辑室 第三季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1533,7 +1593,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10127,
+      "vod_id": 10132,
       "vod_name": "我不是大师",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1545,7 +1605,7 @@
       "vod_remarks_src": "全24集"
     },
     {
-      "vod_id": 10128,
+      "vod_id": 10133,
       "vod_name": "三太太",
       "type_id": 10,
       "type_name": "电影",
@@ -1557,7 +1617,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10129,
+      "vod_id": 10134,
       "vod_name": "自由坠落",
       "type_id": 10,
       "type_name": "电影",
@@ -1569,7 +1629,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10130,
+      "vod_id": 10135,
       "vod_name": "叶卡捷琳娜大帝 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1581,7 +1641,7 @@
       "vod_remarks_src": "更新至16集"
     },
     {
-      "vod_id": 10131,
+      "vod_id": 10136,
       "vod_name": "攻壳机动队 第一季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1593,7 +1653,7 @@
       "vod_remarks_src": "全26集"
     },
     {
-      "vod_id": 10132,
+      "vod_id": 10137,
       "vod_name": "犬夜叉",
       "type_id": 13,
       "type_name": "动漫",
