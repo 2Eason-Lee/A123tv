@@ -3,8 +3,8 @@
   "msg": "数据成功",
   "page": 1,
   "pagecount": 1,
-  "limit": 159,
-  "total": 159,
+  "limit": 160,
+  "total": 160,
   "class": [
     {
       "type_id": 10,
@@ -28,21 +28,21 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/10/douban_1792226060-300x450.jpg",
       "vod_remarks": "全30集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/AQAPAACZzQGh_oUlrmsCN-2yikBUjb8ghmqIr-DhL-n1.m3u8#第2集$https://oss.douyinbit.com/m3u8/AQAIAACZzgGh_oUqVmsCN-7HF40qywZUbuNUeyQWTkyE.m3u8#第3集$https://oss.douyinbit.com/m3u8/AQAIAACZzwGh_oUwMmsCN-8CAykYLyjk9W48w1IOBRxQ.m3u8#第4集$https://oss.douyinbit.com/m3u8/AQANAACZ0AGh_oU2DmsCN_F2Gv9iGz0SK2mJKhYtPHJH.m3u8#第5集$https://oss.douyinbit.com/m3u8/AQAPAACZVAGh_oU76msCN_IGsMaFTnq_67JmlHzjM9Hu.m3u8#第6集$https://oss.douyinbit.com/m3u8/AQAOAACZVQGh_oVBx2sCN_QI90t_ALT2yhnqDLnql-mq.m3u8#第7集$https://oss.douyinbit.com/m3u8/AQAKAACZcAGh_oVHomsCN_UDLPq8vKR2sHA95ZYZL7rJ.m3u8#第8集$https://oss.douyinbit.com/m3u8/AQAKAACZdwGh_oVNhGsCN_eWrI4iV3yV5ULq7M1XUTcY.m3u8#第9集$https://oss.douyinbit.com/m3u8/AQAJAACZ6QGh_oVTYmsCN_hESIAp8fwAE_9DH3eiU-IE.m3u8#第10集$https://oss.douyinbit.com/m3u8/AQAKAACZ6gGh_oVZN2sCN_pydb858ABOK3t3CdirU3r4.m3u8#第11集$https://oss.douyinbit.com/m3u8/AQAMAACacwGh_oVfEmsCN_salayEdP6JYbwLFJFRHmSv.m3u8#第12集$https://oss.douyinbit.com/m3u8/AQAMAACafwGh_oVk72sCII3iBBipKmEzbWVLtD2L9UNf.m3u8#第13集$https://oss.douyinbit.com/m3u8/AQAIAACa0wGh_oVqy2sCN_4X872NE8QvC1j-FlGTVwfp.m3u8#第14集$https://oss.douyinbit.com/m3u8/AQANAACa1AGh_oVwp2sCOABsGw8YwxCDIxz7cvEKWqIm.m3u8#第15集$https://oss.douyinbit.com/m3u8/AQAOAACa7wGh_oV2g2sCOAHk58BwZDT8ZC_T4zqI9cpF.m3u8#第16集$https://oss.douyinbit.com/m3u8/AQAIAACbHgGh_oV8X2sCOAOGbvRNVrwgsg2-lnInG_Hy.m3u8#第17集$https://oss.douyinbit.com/m3u8/AQAKAACbTQGh_oWCO2sCOAT1kYManCXMcSTT6KGBIku1.m3u8#第18集$https://oss.douyinbit.com/m3u8/AQAOAACcdAGh_oWIGWsCOAb6i18JJqo2RFsyF361UzbR.m3u8#第19集$https://oss.douyinbit.com/m3u8/AQAJAACcfwGh_oWN-2sCOAdZ2ISEWNXDDVNRA8v_NB7Y.m3u8#第20集$https://oss.douyinbit.com/m3u8/AQAJAACdWgGh_oWT0GsCOAl5jjxQBmPuAK-Qv5IfHDWI.m3u8#第21集$https://oss.douyinbit.com/m3u8/AQALAACdjwGh_oWZrGsCIJpf7QI9GDEeMcTzUfnGOEnS.m3u8#第22集$https://oss.douyinbit.com/m3u8/AQAJAACdoAGh_oWfiGsCOAxtfJI3x4F9bCye6Au7bMym.m3u8#第23集$https://oss.douyinbit.com/m3u8/AQAMAACd5QGh_oWlbGsCOA3eI4-7mTbReqDrOJnaYeIi.m3u8#第24集$https://oss.douyinbit.com/m3u8/AQAKAACeeAGh_oWrQGsCOA_ZLfRCeeIgW4b24UD-PzWo.m3u8#第25集$https://oss.douyinbit.com/m3u8/AQANAACekAGh_oWxImsCOBDlIrSXmKoo45q9iN5C_HB5.m3u8#第26集$https://oss.douyinbit.com/m3u8/AQAIAACenQGh_oW2-GsCOBJE44nYRrtWgDIL_dJw-t3z.m3u8#第27集$https://oss.douyinbit.com/m3u8/AQANAACeoQGh_oW81GsCOBMv9idTlmZAj9-4EcRCt_XJ.m3u8#第28集$https://oss.douyinbit.com/m3u8/AQAPAACeqQGh_oXCsWsCOBU9TKIiKMn7MWqQa_vTDhLN.m3u8#第29集$https://oss.douyinbit.com/m3u8/AQAPAACepQGh_oXIk2sCOBYR-VmVZzcpZKHnZLQGHuac.m3u8#第30集$https://oss.douyinbit.com/m3u8/AQAJAACeogGh_oXOaWsCOBiblOxMcpiWj6V9N8xb23vY.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/AQAKAACZzQGiAFHPr2sCrdtOckIsFYqpuyT4J2_Cku8A.m3u8#第2集$https://oss.douyinbit.com/m3u8/AQAMAACZzgGiAFHUbGsCrdwn-up8UDLJ8VhoxcefsF4E.m3u8#第3集$https://oss.douyinbit.com/m3u8/AQAPAACZzwGiAFHaRGsCrd4epy_95TRdyvzD-oCxxDEy.m3u8#第4集$https://oss.douyinbit.com/m3u8/AQAOAACZ0AGiAFHgIGsCrd_bBbPEa_oah3GL_r50dic8.m3u8#第5集$https://oss.douyinbit.com/m3u8/AQAIAACZVAGiAFHl_GsCreH7RXDjKEnH1U5IAtOGSmMX.m3u8#第6集$https://oss.douyinbit.com/m3u8/AQAIAACZVQGiAFHr2GsCreLuf3MUdsJdYMA68WkEOgEq.m3u8#第7集$https://oss.douyinbit.com/m3u8/AQALAACZcAGiAFHxtGsCreQ4YrtoqcQVRoVHk1lY9Icz.m3u8#第8集$https://oss.douyinbit.com/m3u8/AQANAACZdwGiAFH3kGsCreUizdt2gCsR3YwH6-TuO_gy.m3u8#第9集$https://oss.douyinbit.com/m3u8/AQAKAACZ6QGiAFH9cmsCreeLhSyar5CJPjVkcIgoNQzZ.m3u8#第10集$https://oss.douyinbit.com/m3u8/AQAOAACZ6gGiAFIDSGsCrejhuhvNoxd8z35zJu_KK1FV.m3u8#第11集$https://oss.douyinbit.com/m3u8/AQANAACacwGiAFIJLWsCrepSR6aI--qDzC4C2LAuVgFU.m3u8#第12集$https://oss.douyinbit.com/m3u8/AQAKAACafwGiAFIPBmsClnuBILuw5jkWzXT5FfgET9GK.m3u8#第13集$https://oss.douyinbit.com/m3u8/AQAIAACa0wGiAFIU3WsCre2V6S16K31-DmbNsdJBRWtf.m3u8#第14集$https://oss.douyinbit.com/m3u8/AQAIAACa1AGiAFIavWsCre5iVge5r60jF3agzQYmdTWS.m3u8#第15集$https://oss.douyinbit.com/m3u8/AQAOAACa7wGiAFIgm2sCrfDJ9_kfxd_va8a6uSbKdWWu.m3u8#第16集$https://oss.douyinbit.com/m3u8/AQAJAACbHgGiAFImdWsCrfHiJDEmWNOENyIKBs9Ve5Qw.m3u8#第17集$https://oss.douyinbit.com/m3u8/AQAKAACbTQGiAFIsU2sCrfPet2sG7LO3KbxeLtkTqtyr.m3u8#第18集$https://oss.douyinbit.com/m3u8/AQAJAACcdAGiAFIyLWsCrfSJYuSBxCY1fV-mxzup-vLp.m3u8#第19集$https://oss.douyinbit.com/m3u8/AQALAACcfwGiAFI4BWsCrfa_1TNBLEIQHgoCeyxIiImL.m3u8#第20集$https://oss.douyinbit.com/m3u8/AQANAACdWgGiAFI94msCrffu3F6sEPRAn6CECYh7NJ2I.m3u8#第21集$https://oss.douyinbit.com/m3u8/AQAPAACdjwGiAFJDvWsClon0wRhiLpB86NamIfB5ktZX.m3u8#第22集$https://oss.douyinbit.com/m3u8/AQALAACdoAGiAFJJmWsCrfrxo0FEStFTG9pZkCnbScaY.m3u8#第23集$https://oss.douyinbit.com/m3u8/AQANAACd5QGiAFJPe2sCrfwKSlOMpiMaA19kIqPguHjb.m3u8#第24集$https://oss.douyinbit.com/m3u8/AQANAACeeAGiAFJVUmsCrf2Ofw2m6BcgBa0xMk2pKrCL.m3u8#第25集$https://oss.douyinbit.com/m3u8/AQALAACekAGiAFJbLmsCrf-1Hrd9py94-EFffpuiIf-R.m3u8#第26集$https://oss.douyinbit.com/m3u8/AQAOAACenQGiAFJhCmsCrgAb03DkYa5scVyyH82NvGih.m3u8#第27集$https://oss.douyinbit.com/m3u8/AQANAACeoQGiAFJm6msCrgJivCPv_rLhiEmFi9NQEaQV.m3u8#第28集$https://oss.douyinbit.com/m3u8/AQAPAACeqQGiAFJswmsCrgNOXRdgVxqiZqzZaDmkep5g.m3u8#第29集$https://oss.douyinbit.com/m3u8/AQAPAACepQGiAFJypGsCrgWKRG8M0nuVv-pp0Rrf6LNz.m3u8#第30集$https://oss.douyinbit.com/m3u8/AQAMAACeogGiAFJ4f2sCrgaEUkZOZKmpNFfgGYyd07qw.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "全30集"
     },
     {
       "vod_id": 10002,
-      "vod_name": "文武",
+      "vod_name": "镶金理想",
       "type_id": 11,
       "type_name": "连续剧",
-      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1795266890-300x450.jpg",
-      "vod_remarks": "更新至2集",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1795271404-300x450.jpg",
+      "vod_remarks": "全8集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/AQAKAACk2AGh_oXURWsCOBk6JVf_z3Is_QnQdxopG2kG.m3u8#第2集$https://oss.douyinbit.com/m3u8/AQAIAACk2AGh_oXaIWsCOBuM1Yb0KHZkfYdDVzCwITA0.m3u8",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/AQAMAACk2gGiAFJ-XmsCrgjYBSkeKvQk64sqGRXcC3U6.m3u8#第2集$https://oss.douyinbit.com/m3u8/AQANAACk2wGiAFKEN2sCrgk_R6FzagGnffzKshNsMaZh.m3u8#第3集$https://oss.douyinbit.com/m3u8/AQAMAACk3AGiAFKKE2sCrgsp3v8mcQUbJEygJo6C4mj5.m3u8#第4集$https://oss.douyinbit.com/m3u8/AQALAACk3QGiAFKP8GsCrgyVyDiAVJI3qTwkYiwLlgfr.m3u8#第5集$https://oss.douyinbit.com/m3u8/AQAKAACk3gGiAFKVzWsCrg4orkp6aHFxMT4D9-mz1Ph3.m3u8#第6集$https://oss.douyinbit.com/m3u8/AQANAACk3wGiAFKbqGsCrg9XixX2s3XwV_OZHqaSf_Wq.m3u8#第7集$https://oss.douyinbit.com/m3u8/AQAKAACk4AGiAFKhjGsCrhHvBTfrt8Gp1022eNc3lleq.m3u8#第8集$https://oss.douyinbit.com/m3u8/AQANAACk4QGiAFKnYGsCrhK3AvRwBt6T8e94tTr45o0W.m3u8",
       "vod_source": "kvm",
-      "vod_remarks_src": "更新至2集"
+      "vod_remarks_src": "全8集"
     },
     {
       "vod_id": 10003,
@@ -64,7 +64,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1795065025-300x450.jpg",
       "vod_remarks": "更新至8集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第2集$https://ppvod01.kqgfbs.com/splitOut/20261118/1434358/V20261118122733697491434358/index.m3u8?t=6b01d606&whip=20.171.2.197&sign=b09c6abea838dea70fb0ae563f4195f210efe1db#第3集$https://ppvod01.kqgfbs.com/splitOut/20261118/1434357/V20261118122733344601434357/index.m3u8?t=6b01d608&whip=20.171.2.197&sign=44e6b31cad934acacbcbfb51701027e30b4c837f#第4集$https://ppvod01.kqgfbs.com/splitOut/20261118/1434359/V20261118122734039131434359/index.m3u8?t=6b01d60c&whip=20.171.2.197&sign=390d1044830bd3a038fd57e55391982e337db6b2#第5集$https://ppvod01.kqgfbs.com/splitOut/20261119/1434822/V20261119122133813081434822/index.m3u8?t=6b01d60f&whip=20.171.2.197&sign=2772869f71600571cae92b92d013a46c55733d1a#第6集$https://ppvod01.kqgfbs.com/splitOut/20261119/1434823/V20261119122134178211434823/index.m3u8?t=6b01d612&whip=20.171.2.197&sign=88ef5504cda4b9cbb423b313bdf61e055122ba5a#第7集$https://ppvod01.kqgfbs.com/splitOut/20261120/1435667/V20261120123934757471435667/index.m3u8?t=6b01d615&whip=20.171.2.197&sign=99bbeb80a79511eda20ac4f3b7079097e483833c#第8集$https://ppvod01.kqgfbs.com/splitOut/20261120/1435661/V20261120123338772741435661/index.m3u8?t=6b01d618&whip=20.171.2.197&sign=9c88026cfb1c9489fa370819d814baee48289409#第9集$https://yun2.jiexicn.top/api/banyun/51deef36322668ed.m3u8?NTRkY2tROWxuNDl2MXhyUXhzRGlHY0Y4dlhlTFI4dklVMGlEMWE5Qk9ycjltb0dvK0RJdkFrMzN3dEp5eTZyNWVtSU1DZjdxajV1YnA4cEV4OS81ekQxMU9Hb2tvQm0wTFp1M2VsUW5FcTZBMjRIZ3ZFVHFqbWcxVjVNQ3g0ZWJVUWtQcWVGcXp2QTV1cGVISkNGNk1lNXc0ZmZxNmJienJyb2wrSkN1NjBhN0V3S3NKaGFOQWUyV0FB",
+      "vod_play_url": "第2集$https://ppvod01.kqgfbs.com/splitOut/20261118/1434358/V20261118122733697491434358/index.m3u8?t=6b024c01&whip=172.182.225.204&sign=a08baf5e8622b4ba16d95b67ed85f6d93d009003#第3集$https://ppvod01.kqgfbs.com/splitOut/20261118/1434357/V20261118122733344601434357/index.m3u8?t=6b024c03&whip=172.182.225.204&sign=7f3b1ef9f300a303a266625395ac883f756cd440#第4集$https://ppvod01.kqgfbs.com/splitOut/20261118/1434359/V20261118122734039131434359/index.m3u8?t=6b024c05&whip=172.182.225.204&sign=d4a453c1b2159cc7339f0b8607139e68e052dcfc#第5集$https://ppvod01.kqgfbs.com/splitOut/20261119/1434822/V20261119122133813081434822/index.m3u8?t=6b024c08&whip=172.182.225.204&sign=a66824b39b81b12b2dfb0de76b2a1cad11844ca8#第6集$https://ppvod01.kqgfbs.com/splitOut/20261119/1434823/V20261119122134178211434823/index.m3u8?t=6b024c0a&whip=172.182.225.204&sign=885051811f762bf380323482e905289accc0208c#第7集$https://ppvod01.kqgfbs.com/splitOut/20261120/1435667/V20261120123934757471435667/index.m3u8?t=6b024c0c&whip=172.182.225.204&sign=5c28df9a8b39bcc9e9a926dc742103e1e33b958e#第8集$https://ppvod01.kqgfbs.com/splitOut/20261120/1435661/V20261120123338772741435661/index.m3u8?t=6b024c0f&whip=172.182.225.204&sign=5fd318dd696c427dbd04ece5551928d0ca2f2d28#第9集$https://yun2.jiexicn.top/api/banyun/497a76a405915a56.m3u8?ODBhNjlYUHhHaUQwVDdkaGRMcDJLektNSUYyb0Q3YytvNzI5eDFoRXRxcFFmZmtlbVUycmc4NlhJZGlGU0FHWjR3K1lJcWU4QVpOR2pLUWZRSGtqcFdYcWZSazVxdTFXcGtuaFBlYlFDVUZJMmNBSHlLMmp1RWpRWE0yK2dPTDJaUi83S0Y4SXp5VFg0U2pUV2FaSjl4cVkvcS82SnRKamxQazc4OWFCb3RHdlZxYWpld0F5S3NXcXd3",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至8集"
     },
@@ -76,7 +76,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794905283-300x450.jpg",
       "vod_remarks": "更新至15集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第2集$https://ppvod01.kqgfbs.com/splitOut/20261115/1432082/V20261115142150223951432082/index.m3u8?t=6b01d61e&whip=20.171.2.197&sign=0a47a39928de809dabfefe0aaaaf51ba17ddd7fa#第3集$https://ppvod01.kqgfbs.com/splitOut/20261115/1432078/V20261115142148837831432078/index.m3u8?t=6b01d621&whip=20.171.2.197&sign=af055079576a7c37739d99eac2bb6d8b9b4e01a4#第4集$https://ppvod01.kqgfbs.com/splitOut/20261115/1432079/V20261115142149170501432079/index.m3u8?t=6b01d624&whip=20.171.2.197&sign=5f849de4aa59ba3fd7938284cf3f9810553fdaa7#第5集$https://ppvod01.kqgfbs.com/splitOut/20261115/1432080/V20261115142149496681432080/index.m3u8?t=6b01d627&whip=20.171.2.197&sign=e0a8956889281ae8e96b138c4256920feaff734c#第6集$https://ppvod01.kqgfbs.com/splitOut/20261116/1433140/V20261116170335816431433140/index.m3u8?t=6b01d62a&whip=20.171.2.197&sign=4d485f475f35452a394cd664c30cd3048fae1d06#第7集$https://ppvod01.kqgfbs.com/splitOut/20261116/1433202/V20261116184535021581433202/index.m3u8?t=6b01d62e&whip=20.171.2.197&sign=b718def16ad573613012da1ab854816d2a9a0a8d#第8集$https://ppvod01.kqgfbs.com/splitOut/20261117/1433975/V20261117181530127051433975/index.m3u8?t=6b01d630&whip=20.171.2.197&sign=ac323e8679213ac1512fa87433b35c3def999163#第9集$https://ppvod01.kqgfbs.com/splitOut/20261117/1433971/V20261117180937190941433971/index.m3u8?t=6b01d633&whip=20.171.2.197&sign=2c2582565087ae4cdb32a6a126bcaa190b9df069#第11集$https://ppvod01.kqgfbs.com/splitOut/20261118/1434547/V20261118152730361201434547/index.m3u8?t=6b01d638&whip=20.171.2.197&sign=ca40421dff9635aeb90da9b60b5cc99e7098e2a9#第12集$https://ppvod01.kqgfbs.com/splitOut/20261119/1435272/V20261119174552279571435272/index.m3u8?t=6b01d63b&whip=20.171.2.197&sign=5da286808827797745673694316a7e9bb90e25c2#第13集$https://ppvod01.kqgfbs.com/splitOut/20261119/1435277/V20261119175134052121435277/index.m3u8?t=6b01d63e&whip=20.171.2.197&sign=3d0cdbf2e30c21c13a538cb5ccbf75eaa7705355#第14集$https://ppvod01.kqgfbs.com/splitOut/20261120/1435886/V20261120154535017921435886/index.m3u8?t=6b01d640&whip=20.171.2.197&sign=381f26df039f80f3a75b5df11a3bbd3287534881#第15集$https://ppvod01.kqgfbs.com/splitOut/20261120/1435985/V20261120200933430581435985/index.m3u8?t=6b01d642&whip=20.171.2.197&sign=9ee09518cef5bbb7477dadeac23d2bdf582be20c#第16集$https://yun2.jiexicn.top/api/banyun/cacdc2eb3c502676.m3u8?MDk5NUtmblJ3RDAvbHhBMFNaSTZ2ekJZc2wxanM1MjBkc3Nmb1k0Vk5XdmN1cFFkL0U4NFh3bG5tdDdyUXU4c0RrZzJJdW8yaWZuSEtSNURpT3RBRGYrand2U3FTTVJmcFJsNFYyQXpBWEQ1WGhvWVBkblA3dTN3WUwrMERITmR6Y2xVRjNCU2dpbzhrNGZCT0w2M0RFa2UzZ2JKTmtwTkdkZ2VKOTFCZnU0Z0cxdVRLMGJNME1ieFhR#第17集$https://ppvod01.kqgfbs.com/splitOut/20261121/1436308/V20261121171532655281436308/index.m3u8?t=6b01d647&whip=20.171.2.197&sign=d749ffd2ee444c1ba645ce9e241e7edb849be485",
+      "vod_play_url": "第2集$https://ppvod01.kqgfbs.com/splitOut/20261115/1432082/V20261115142150223951432082/index.m3u8?t=6b024c15&whip=172.182.225.204&sign=a74f46f189cf526a06f37afbe5f4b59eff351b99#第3集$https://ppvod01.kqgfbs.com/splitOut/20261115/1432078/V20261115142148837831432078/index.m3u8?t=6b024c18&whip=172.182.225.204&sign=fee4a704fdd771661dc6bc7c131f357a15bafec8#第4集$https://ppvod01.kqgfbs.com/splitOut/20261115/1432079/V20261115142149170501432079/index.m3u8?t=6b024c1a&whip=172.182.225.204&sign=589dae9458736bc83fc0f1b033128d49dbabcb7e#第5集$https://ppvod01.kqgfbs.com/splitOut/20261115/1432080/V20261115142149496681432080/index.m3u8?t=6b024c1c&whip=172.182.225.204&sign=50d6eaf8dcb19d4b04a70995352e360de1c5c402#第6集$https://ppvod01.kqgfbs.com/splitOut/20261116/1433140/V20261116170335816431433140/index.m3u8?t=6b024c1e&whip=172.182.225.204&sign=457566a68bf45a017892fa173d94579e28e9b936#第7集$https://ppvod01.kqgfbs.com/splitOut/20261116/1433202/V20261116184535021581433202/index.m3u8?t=6b024c21&whip=172.182.225.204&sign=a4d1a08513ba2eb713a5db694a190e87880062d9#第8集$https://ppvod01.kqgfbs.com/splitOut/20261117/1433975/V20261117181530127051433975/index.m3u8?t=6b024c23&whip=172.182.225.204&sign=54b4f02b4950d6e259ee95043ecd7ede5e2c2015#第9集$https://ppvod01.kqgfbs.com/splitOut/20261117/1433971/V20261117180937190941433971/index.m3u8?t=6b024c25&whip=172.182.225.204&sign=9c7144eaa2ef24f529469da16416b7765fbf1431#第11集$https://ppvod01.kqgfbs.com/splitOut/20261118/1434547/V20261118152730361201434547/index.m3u8?t=6b024c2a&whip=172.182.225.204&sign=0bafda552a586984b35e7582bb58c9ec1e0a4edf#第12集$https://ppvod01.kqgfbs.com/splitOut/20261119/1435272/V20261119174552279571435272/index.m3u8?t=6b024c2c&whip=172.182.225.204&sign=7eb22da5bcbe39234630e7327085d12230ce9c96#第13集$https://ppvod01.kqgfbs.com/splitOut/20261119/1435277/V20261119175134052121435277/index.m3u8?t=6b024c2e&whip=172.182.225.204&sign=e41d10b8040befbc4b71863108084e40429b10af#第14集$https://ppvod01.kqgfbs.com/splitOut/20261120/1435886/V20261120154535017921435886/index.m3u8?t=6b024c30&whip=172.182.225.204&sign=978a1089ca0ba5fe0640059ee9f5faa79bc10657#第15集$https://ppvod01.kqgfbs.com/splitOut/20261120/1435985/V20261120200933430581435985/index.m3u8?t=6b024c33&whip=172.182.225.204&sign=46bad938b69487d5437016afafde635150292de4#第16集$https://yun2.jiexicn.top/api/banyun/435347f81023817e.m3u8?OTMyYk05M1QrcVBVOVF3UWpJclhia2Z5d01HNllsYXp3azVORnhZb3FVejRybXppYlFLYmlDaitrbE5rcVJYTTlTQzEybE5pSk1jV3FyRVVYTkExRFN3Y3pkQTJzZ2VqY01YSEh5SEpYcVJZL0dwVFhqYTQrcWE0NEdOOEhQYWdpT3Q1V2ZNNnJpQ0NsWC85R0lZMlpXVHg5cnR0Wk9vTHNXc01HN0h3ZzFLUnBuTHZlR1BOcjVmWW53#第17集$https://ppvod01.kqgfbs.com/splitOut/20261121/1436308/V20261121171532655281436308/index.m3u8?t=6b024c37&whip=172.182.225.204&sign=c3f6b52930e626561a28d93965f63915f5be8383",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至15集"
     },
@@ -100,7 +100,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1795071847-300x450.jpg",
       "vod_remarks": "更新至10集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://ppvod01.kqgfbs.com/splitOut/20261010/1409226/V20261010015743667641409226/index.m3u8?t=6b01d65a&whip=20.171.2.197&sign=6d8723e9a379ae6623510d36cf62ec0874868212#第2集$https://ppvod01.kqgfbs.com/splitOut/20261010/1409744/V20261010225730163331409744/index.m3u8?t=6b01d65d&whip=20.171.2.197&sign=38c0b43f8e52c6482352aa49b5482c0702af5019#第3集$https://ppvod01.kqgfbs.com/splitOut/20261016/1413102/V20261016143946217431413102/index.m3u8?t=6b01d660&whip=20.171.2.197&sign=0f46051ffe1e445d628f55ba62cdcacdbedf2198#第4集$https://ppvod01.kqgfbs.com/splitOut/20261017/1414298/V20261017231531134921414298/index.m3u8?t=6b01d664&whip=20.171.2.197&sign=c273851667542c7a7711d6e66a09a93dcac38db5#第5集$https://ppvod01.kqgfbs.com/splitOut/20261023/1417715/V20261023173332530471417715/index.m3u8?t=6b01d667&whip=20.171.2.197&sign=6bb59c1a79c34f9585357a1c07114598abd39f5f#第8集$https://ppvod01.kqgfbs.com/splitOut/20261102/1422768/V20261102010933764601422768/index.m3u8?t=6b01d66e&whip=20.171.2.197&sign=8e7fd1d2dda42ce38d2d1b7cbebe61246461d21d#第9集$https://ppvod01.kqgfbs.com/splitOut/20261106/1425090/V20261106003338359211425090/index.m3u8?t=6b01d671&whip=20.171.2.197&sign=ecd3f8364143ca514d493e40842ef39209847970#第10集$https://ppvod01.kqgfbs.com/splitOut/20261109/1427674/V20261109123335286591427674/index.m3u8?t=6b01d674&whip=20.171.2.197&sign=82d9bbfb3e6a48d22653e1d48e4e102f45f98b41#第11集$https://ppvod01.kqgfbs.com/splitOut/20261114/1431662/V20261114182155015181431662/index.m3u8?t=6b01d677&whip=20.171.2.197&sign=da99400f3e687ba30c72de05198bffffdb9d78cb#第12集$https://yun2.jiexicn.top/api/banyun/f2ac9eb5a2bb210c.m3u8?YmNhODJNOWczZ3RRdm45TlZCemcwRlNvRUtrS0RvQnN4a01nWWdJKzAvaURVRDJubmtXajNJVEVJdDdyRVA4NTBRdUNVb1dYOFduRXRDdFQ5SGI3Sm95dVUxRkc4OEJSWnU5dWYxZUR0eFhnUFJPYitxSVB4SktpWVRrS1IrNit2cDdqVm94OWtBRitGakVNSE1udnNzcS9tOEE5Nmw2QTdXVEp0UXNPSmtoT0tNQWl1eFZkRXg3c3Z3",
+      "vod_play_url": "第1集$https://ppvod01.kqgfbs.com/splitOut/20261010/1409226/V20261010015743667641409226/index.m3u8?t=6b024c4a&whip=172.182.225.204&sign=20a07b410e4998582fb029d01c81a3fb61bcac69#第2集$https://ppvod01.kqgfbs.com/splitOut/20261010/1409744/V20261010225730163331409744/index.m3u8?t=6b024c4c&whip=172.182.225.204&sign=bda59e0ebabf4c06d4c699431f9a6b963b6a1e9b#第3集$https://ppvod01.kqgfbs.com/splitOut/20261016/1413102/V20261016143946217431413102/index.m3u8?t=6b024c4f&whip=172.182.225.204&sign=b63f24aefbeefe22428e59bde100d3b855171535#第4集$https://ppvod01.kqgfbs.com/splitOut/20261017/1414298/V20261017231531134921414298/index.m3u8?t=6b024c51&whip=172.182.225.204&sign=0fe439c6890893f27ae4a790cace5e86e6b95190#第5集$https://ppvod01.kqgfbs.com/splitOut/20261023/1417715/V20261023173332530471417715/index.m3u8?t=6b024c54&whip=172.182.225.204&sign=e4449d5586b8b9931f1235782d3cdc910a312b51#第8集$https://ppvod01.kqgfbs.com/splitOut/20261102/1422768/V20261102010933764601422768/index.m3u8?t=6b024c5a&whip=172.182.225.204&sign=11e464a6f92084d88a3aaed303ab1d96272a98ce#第9集$https://ppvod01.kqgfbs.com/splitOut/20261106/1425090/V20261106003338359211425090/index.m3u8?t=6b024c5e&whip=172.182.225.204&sign=9233740bd8ad7524b528696789f517cf974c46ca#第10集$https://ppvod01.kqgfbs.com/splitOut/20261109/1427674/V20261109123335286591427674/index.m3u8?t=6b024c60&whip=172.182.225.204&sign=504ee64e9dde43d483aa4b70bdb1403597813fce#第11集$https://ppvod01.kqgfbs.com/splitOut/20261114/1431662/V20261114182155015181431662/index.m3u8?t=6b024c62&whip=172.182.225.204&sign=dc3e5db0a8fce61018d4dc2ebb249a5452f4df5e#第12集$https://yun2.jiexicn.top/api/banyun/d7588f333fc8b521.m3u8?YWI2ZTU5L05DSkN1SWFFS3dkaGNQdFQ4SjVwcm1VZE1oY3hOWloxbzNvUTRJYk1LY2sxWENxUE1QQ1Y0Sk5CNFZMZ0IzMCtPUzNyYlZuMkFMQnNWZ1laRTNmTlJCYWd3aTRNcG9Kem5pVEd2cm5abk9iSWR0KzRTcURlR2xPRWl5SmthSkVIbXA3NWRUUjVQT3YyMDN3VXppYTM1L0hNeGNwdTlyaFIzajN1MkxsWkJjOHh0c0g3UEl3",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至10集"
     },
@@ -112,7 +112,7 @@
       "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1794239555-300x450.jpg",
       "vod_remarks": "更新至9集",
       "vod_play_from": "4K影视",
-      "vod_play_url": "第1集$https://ppvod01.kqgfbs.com/splitOut/20261020/1415695/V20261020005732486011415695/index.m3u8?t=6b01d67c&whip=20.171.2.197&sign=a429e6ec06e55337e45c1ceda0244ca9165b419a#第2集$https://ppvod01.kqgfbs.com/splitOut/20261021/1416571/V20261021182132718011416571/index.m3u8?t=6b01d67e&whip=20.171.2.197&sign=fd5625171bb01d0f39503fe088ded9b05c0f77d3#第3集$https://ppvod01.kqgfbs.com/splitOut/20261027/1419508/V20261027003935571071419508/index.m3u8?t=6b01d680&whip=20.171.2.197&sign=6ae9785e3facbc1ebdb2d44b61407765d2f8bf57#第4集$https://ppvod01.kqgfbs.com/splitOut/20261028/1420331/V20261028190932608791420331/index.m3u8?t=6b01d684&whip=20.171.2.197&sign=0d83882e6544674eac2bc70f3e72576a775b8fe3#第5集$https://ppvod01.kqgfbs.com/splitOut/20261103/1423804/V20261103185739665761423804/index.m3u8?t=6b01d686&whip=20.171.2.197&sign=9dc2b26eae21b104dd6369cd0d5d98ff46d476d2#第6集$https://ppvod01.kqgfbs.com/splitOut/20261104/1424009/V20261104013330196301424009/index.m3u8?t=6b01d68a&whip=20.171.2.197&sign=7f1f1a06a0be32a7fbc75c644aeaa60dbc345a3e#第7集$https://yun2.jiexicn.top/api/banyun/cdd2b3615b24ef3b.m3u8?MGE0ZXY2MVQ4a05WbGU5aFI5OGYveTZQR3JacElwa0ZWN08vaVRrL2E0MjlSVGxtOStOeWRXNVhOQmZoY1NCRGQrSDNkUzkvQVBwMWlPUUkrWXVwSkRxYlYrZkVkdUsyejMzT1NUUzBEaTR4Q2hDbTFTTFJKTGl5OE5aKzVDblpaN2RUandGcHV5OEhXQXhFSGpZcmRVa01EYTRUOVAwZDRJRlNLN3VMZHRjUGUrMnFwdTg0NVpGRE5B#第8集$https://oss.douyinbit.com/m3u8/AQAJAAChYAGh_olOEGsCOP2ha6qzaZGi5-vGP9AFYcKa.m3u8#第10集$https://oss.douyinbit.com/m3u8/AQAOAACjggGh_olfpGsCOQJd-9JqS2xAMXEplmQ54H4e.m3u8",
+      "vod_play_url": "第1集$https://ppvod01.kqgfbs.com/splitOut/20261020/1415695/V20261020005732486011415695/index.m3u8?t=6b024c67&whip=172.182.225.204&sign=dd3dcc1b5cbefc3d382dc531551d60117f276071#第2集$https://ppvod01.kqgfbs.com/splitOut/20261021/1416571/V20261021182132718011416571/index.m3u8?t=6b024c69&whip=172.182.225.204&sign=cc4d5803c0a9d8c95cfc5d4429aad00e759aedef#第3集$https://ppvod01.kqgfbs.com/splitOut/20261027/1419508/V20261027003935571071419508/index.m3u8?t=6b024c6b&whip=172.182.225.204&sign=ad3d3248a556bfaaf78afdb583e558308d99cd8b#第4集$https://ppvod01.kqgfbs.com/splitOut/20261028/1420331/V20261028190932608791420331/index.m3u8?t=6b024c6d&whip=172.182.225.204&sign=943b442cfdfe0d136899d712b47b1e729a9ef5b9#第5集$https://ppvod01.kqgfbs.com/splitOut/20261103/1423804/V20261103185739665761423804/index.m3u8?t=6b024c70&whip=172.182.225.204&sign=cd50377d30d6cb4a19f8c5b98b1e864f58550027#第6集$https://ppvod01.kqgfbs.com/splitOut/20261104/1424009/V20261104013330196301424009/index.m3u8?t=6b024c72&whip=172.182.225.204&sign=009cd44dd17c9dfd0e6d9441ebe2e78b40307b56#第7集$https://yun2.jiexicn.top/api/banyun/70e1db2316493add.m3u8?OWVlMFRDSzhQM2wxWHZjWU16Z1B0d3dIVzBpZFFZME85V3ViT1U1a1BTU2wvTkVTRDZZUWwxSThWQXZmbzhtZjBsdDJXcFBUakpXVytSeDBIcTdSZFlhQkQ4aGZNTFNMbm1JcG5weG0rQW5PLytNRGJHVDV0Y2tPZWoxZjZ3aVVGVlRBTkRoODJYczBUeHhEcjRDdDdrQmJHa2FFY3lXUEM2V1ZxTVdCc1JCM0gvMW0xZXJJdGczbXd3#第8集$https://oss.douyinbit.com/m3u8/AQAMAAChYAGiAFXg_msCruXWwl0u9Xd4jIR86DK0NAY3.m3u8#第10集$https://oss.douyinbit.com/m3u8/AQALAACjggGiAFXyjmsCrurBDTCf51mOqjnpFN0cFPxz.m3u8",
       "vod_source": "kvm",
       "vod_remarks_src": "更新至9集"
     },
@@ -178,6 +178,18 @@
     },
     {
       "vod_id": 10014,
+      "vod_name": "文武",
+      "type_id": 11,
+      "type_name": "连续剧",
+      "vod_pic": "https://gimg0.baidu.com/gimg/app=2001&n=0&g=0n&fmt=jpeg&src=4kvm.staticimgjs.org/uploads/2026/11/douban_1795266890-300x450.jpg",
+      "vod_remarks": "更新至2集",
+      "vod_play_from": "4K影视",
+      "vod_play_url": "第1集$https://oss.douyinbit.com/m3u8/AQAKAACk2AGh_oXURWsCOBk6JVf_z3Is_QnQdxopG2kG.m3u8#第2集$https://oss.douyinbit.com/m3u8/AQAIAACk2AGh_oXaIWsCOBuM1Yb0KHZkfYdDVzCwITA0.m3u8",
+      "vod_source": "kvm",
+      "vod_remarks_src": "更新至2集"
+    },
+    {
+      "vod_id": 10015,
       "vod_name": "爱情神话",
       "type_id": 10,
       "type_name": "电影",
@@ -189,7 +201,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10015,
+      "vod_id": 10016,
       "vod_name": "超级无敌掌门狗：企鹅的复仇",
       "type_id": 10,
       "type_name": "电影",
@@ -201,7 +213,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10016,
+      "vod_id": 10017,
       "vod_name": "办公室 第二季",
       "type_id": 10,
       "type_name": "电影",
@@ -213,7 +225,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10017,
+      "vod_id": 10018,
       "vod_name": "阳光小美女",
       "type_id": 10,
       "type_name": "电影",
@@ -225,7 +237,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10018,
+      "vod_id": 10019,
       "vod_name": "突如其来",
       "type_id": 10,
       "type_name": "电影",
@@ -237,7 +249,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10019,
+      "vod_id": 10020,
       "vod_name": "007：幽灵党",
       "type_id": 10,
       "type_name": "电影",
@@ -249,7 +261,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10020,
+      "vod_id": 10021,
       "vod_name": "被嫌弃的松子的一生",
       "type_id": 10,
       "type_name": "电影",
@@ -261,7 +273,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10021,
+      "vod_id": 10022,
       "vod_name": "抗击飓风",
       "type_id": 10,
       "type_name": "电影",
@@ -273,7 +285,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10022,
+      "vod_id": 10023,
       "vod_name": "007：大破天幕杀机",
       "type_id": 10,
       "type_name": "电影",
@@ -285,7 +297,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10023,
+      "vod_id": 10024,
       "vod_name": "美味倒数",
       "type_id": 10,
       "type_name": "电影",
@@ -297,7 +309,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10024,
+      "vod_id": 10025,
       "vod_name": "大王饶命3",
       "type_id": 13,
       "type_name": "动漫",
@@ -309,7 +321,7 @@
       "vod_remarks_src": "更新至9集"
     },
     {
-      "vod_id": 10025,
+      "vod_id": 10026,
       "vod_name": "大王饶命2",
       "type_id": 13,
       "type_name": "动漫",
@@ -321,7 +333,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10026,
+      "vod_id": 10027,
       "vod_name": "大王饶命",
       "type_id": 13,
       "type_name": "动漫",
@@ -333,7 +345,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10027,
+      "vod_id": 10028,
       "vod_name": "JOJO的奇妙冒险 飙马野郎",
       "type_id": 13,
       "type_name": "动漫",
@@ -345,7 +357,7 @@
       "vod_remarks_src": "更新至10集"
     },
     {
-      "vod_id": 10028,
+      "vod_id": 10029,
       "vod_name": "光阴之外",
       "type_id": 13,
       "type_name": "动漫",
@@ -357,7 +369,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10029,
+      "vod_id": 10030,
       "vod_name": "FX战士久留美",
       "type_id": 13,
       "type_name": "动漫",
@@ -369,7 +381,7 @@
       "vod_remarks_src": "更新至8集"
     },
     {
-      "vod_id": 10030,
+      "vod_id": 10031,
       "vod_name": "择日飞升",
       "type_id": 13,
       "type_name": "动漫",
@@ -381,7 +393,7 @@
       "vod_remarks_src": "更新至21集"
     },
     {
-      "vod_id": 10031,
+      "vod_id": 10032,
       "vod_name": "凡人修仙传",
       "type_id": 13,
       "type_name": "动漫",
@@ -393,7 +405,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10032,
+      "vod_id": 10033,
       "vod_name": "庆余年 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -405,7 +417,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10033,
+      "vod_id": 10034,
       "vod_name": "小巷人家: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -417,7 +429,7 @@
       "vod_remarks_src": "全40集"
     },
     {
-      "vod_id": 10034,
+      "vod_id": 10035,
       "vod_name": "沧元图",
       "type_id": 13,
       "type_name": "动漫",
@@ -429,7 +441,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10035,
+      "vod_id": 10036,
       "vod_name": "大主宰 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -441,7 +453,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10036,
+      "vod_id": 10037,
       "vod_name": "诛仙 全季",
       "type_id": 13,
       "type_name": "动漫",
@@ -453,7 +465,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10037,
+      "vod_id": 10038,
       "vod_name": "逆天邪神",
       "type_id": 13,
       "type_name": "动漫",
@@ -465,7 +477,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10038,
+      "vod_id": 10039,
       "vod_name": "斗罗大陆Ⅱ绝世唐门 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -477,7 +489,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10039,
+      "vod_id": 10040,
       "vod_name": "极限逃生",
       "type_id": 10,
       "type_name": "电影",
@@ -489,7 +501,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10040,
+      "vod_id": 10041,
       "vod_name": "007：大破量子危机",
       "type_id": 10,
       "type_name": "电影",
@@ -501,7 +513,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10041,
+      "vod_id": 10042,
       "vod_name": "妙警贼探 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -513,7 +525,7 @@
       "vod_remarks_src": "全14集"
     },
     {
-      "vod_id": 10042,
+      "vod_id": 10043,
       "vod_name": "牧神记 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -525,7 +537,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10043,
+      "vod_id": 10044,
       "vod_name": "遮天",
       "type_id": 13,
       "type_name": "动漫",
@@ -537,7 +549,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10044,
+      "vod_id": 10045,
       "vod_name": "人民的名义: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -549,7 +561,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10045,
+      "vod_id": 10046,
       "vod_name": "延禧攻略: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -561,7 +573,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10046,
+      "vod_id": 10047,
       "vod_name": "骄阳似我 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -573,7 +585,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10047,
+      "vod_id": 10048,
       "vod_name": "007：大战皇家赌场",
       "type_id": 10,
       "type_name": "电影",
@@ -585,7 +597,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10048,
+      "vod_id": 10049,
       "vod_name": "过春天",
       "type_id": 10,
       "type_name": "电影",
@@ -597,7 +609,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10049,
+      "vod_id": 10050,
       "vod_name": "指环王：力量之戒 第三季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -609,7 +621,7 @@
       "vod_remarks_src": "更新至6集"
     },
     {
-      "vod_id": 10050,
+      "vod_id": 10051,
       "vod_name": "午夜规则",
       "type_id": 11,
       "type_name": "连续剧",
@@ -621,7 +633,7 @@
       "vod_remarks_src": "更新至5集"
     },
     {
-      "vod_id": 10051,
+      "vod_id": 10052,
       "vod_name": "爱上草莓的季节",
       "type_id": 11,
       "type_name": "连续剧",
@@ -633,7 +645,7 @@
       "vod_remarks_src": "更新至7集"
     },
     {
-      "vod_id": 10052,
+      "vod_id": 10053,
       "vod_name": "谷雨",
       "type_id": 11,
       "type_name": "连续剧",
@@ -645,7 +657,7 @@
       "vod_remarks_src": "全30集"
     },
     {
-      "vod_id": 10053,
+      "vod_id": 10054,
       "vod_name": "仙逆",
       "type_id": 13,
       "type_name": "动漫",
@@ -657,7 +669,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10054,
+      "vod_id": 10055,
       "vod_name": "吞噬星空",
       "type_id": 13,
       "type_name": "动漫",
@@ -669,7 +681,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10055,
+      "vod_id": 10056,
       "vod_name": "黑帮领地 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -681,7 +693,7 @@
       "vod_remarks_src": "更新至9集"
     },
     {
-      "vod_id": 10056,
+      "vod_id": 10057,
       "vod_name": "破冰行动",
       "type_id": 11,
       "type_name": "连续剧",
@@ -693,7 +705,7 @@
       "vod_remarks_src": "更新至36集"
     },
     {
-      "vod_id": 10057,
+      "vod_id": 10058,
       "vod_name": "折月亮",
       "type_id": 11,
       "type_name": "连续剧",
@@ -705,7 +717,7 @@
       "vod_remarks_src": "更新至23集"
     },
     {
-      "vod_id": 10058,
+      "vod_id": 10059,
       "vod_name": "再婚皇后",
       "type_id": 11,
       "type_name": "连续剧",
@@ -717,7 +729,7 @@
       "vod_remarks_src": "更新至8集"
     },
     {
-      "vod_id": 10059,
+      "vod_id": 10060,
       "vod_name": "王牌特工：特工学院",
       "type_id": 10,
       "type_name": "电影",
@@ -729,7 +741,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10060,
+      "vod_id": 10061,
       "vod_name": "枪王之王",
       "type_id": 10,
       "type_name": "电影",
@@ -741,7 +753,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10061,
+      "vod_id": 10062,
       "vod_name": "灵境行者",
       "type_id": 13,
       "type_name": "动漫",
@@ -753,7 +765,7 @@
       "vod_remarks_src": "更新至13集"
     },
     {
-      "vod_id": 10062,
+      "vod_id": 10063,
       "vod_name": "太平年",
       "type_id": 11,
       "type_name": "连续剧",
@@ -765,7 +777,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10063,
+      "vod_id": 10064,
       "vod_name": "琅琊榜",
       "type_id": 11,
       "type_name": "连续剧",
@@ -777,7 +789,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10064,
+      "vod_id": 10065,
       "vod_name": "心乡迷踪",
       "type_id": 10,
       "type_name": "电影",
@@ -789,7 +801,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10065,
+      "vod_id": 10066,
       "vod_name": "性爱宝典",
       "type_id": 10,
       "type_name": "电影",
@@ -801,7 +813,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10066,
+      "vod_id": 10067,
       "vod_name": "大红灯笼高高挂",
       "type_id": 10,
       "type_name": "电影",
@@ -813,7 +825,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10067,
+      "vod_id": 10068,
       "vod_name": "辩护倒数",
       "type_id": 10,
       "type_name": "电影",
@@ -825,7 +837,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10068,
+      "vod_id": 10069,
       "vod_name": "暑假",
       "type_id": 11,
       "type_name": "连续剧",
@@ -837,7 +849,7 @@
       "vod_remarks_src": "更新至7集"
     },
     {
-      "vod_id": 10069,
+      "vod_id": 10070,
       "vod_name": "今天是太阳雨",
       "type_id": 11,
       "type_name": "连续剧",
@@ -849,7 +861,7 @@
       "vod_remarks_src": "全24集"
     },
     {
-      "vod_id": 10070,
+      "vod_id": 10071,
       "vod_name": "德鲁纳酒店",
       "type_id": 11,
       "type_name": "连续剧",
@@ -861,7 +873,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10071,
+      "vod_id": 10072,
       "vod_name": "别班 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -873,7 +885,7 @@
       "vod_remarks_src": "全14集"
     },
     {
-      "vod_id": 10072,
+      "vod_id": 10073,
       "vod_name": "一斩苍穹",
       "type_id": 13,
       "type_name": "动漫",
@@ -885,7 +897,7 @@
       "vod_remarks_src": "更新至18集"
     },
     {
-      "vod_id": 10073,
+      "vod_id": 10074,
       "vod_name": "百日谎言",
       "type_id": 11,
       "type_name": "连续剧",
@@ -897,7 +909,7 @@
       "vod_remarks_src": "更新至12集"
     },
     {
-      "vod_id": 10074,
+      "vod_id": 10075,
       "vod_name": "弗兰西丝·哈",
       "type_id": 10,
       "type_name": "电影",
@@ -909,7 +921,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10075,
+      "vod_id": 10076,
       "vod_name": "实习生",
       "type_id": 10,
       "type_name": "电影",
@@ -921,7 +933,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10076,
+      "vod_id": 10077,
       "vod_name": "七龙珠超：比鲁斯",
       "type_id": 13,
       "type_name": "动漫",
@@ -933,7 +945,7 @@
       "vod_remarks_src": "更新至6集"
     },
     {
-      "vod_id": 10077,
+      "vod_id": 10078,
       "vod_name": "斗破苍穹 年番",
       "type_id": 13,
       "type_name": "动漫",
@@ -945,7 +957,7 @@
       "vod_remarks_src": "更新至40集"
     },
     {
-      "vod_id": 10078,
+      "vod_id": 10079,
       "vod_name": "挑情丑闻",
       "type_id": 11,
       "type_name": "连续剧",
@@ -957,7 +969,7 @@
       "vod_remarks_src": "更新至1集"
     },
     {
-      "vod_id": 10079,
+      "vod_id": 10080,
       "vod_name": "爱情怎么翻译？ 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -969,7 +981,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10080,
+      "vod_id": 10081,
       "vod_name": "唐朝诡事录之长安: 第3季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -981,7 +993,7 @@
       "vod_remarks_src": "全40集"
     },
     {
-      "vod_id": 10081,
+      "vod_id": 10082,
       "vod_name": "爱乐之城",
       "type_id": 10,
       "type_name": "电影",
@@ -993,7 +1005,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10082,
+      "vod_id": 10083,
       "vod_name": "完美的日子",
       "type_id": 10,
       "type_name": "电影",
@@ -1005,7 +1017,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10083,
+      "vod_id": 10084,
       "vod_name": "Doctor X：白色黑手党时代",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1017,7 +1029,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10084,
+      "vod_id": 10085,
       "vod_name": "现在不是出轨的问题",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1029,7 +1041,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10085,
+      "vod_id": 10086,
       "vod_name": "孤单又灿烂的神：鬼怪: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1041,7 +1053,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10086,
+      "vod_id": 10087,
       "vod_name": "嗜血法医：杀魔复生 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1053,7 +1065,7 @@
       "vod_remarks_src": "更新至3集"
     },
     {
-      "vod_id": 10087,
+      "vod_id": 10088,
       "vod_name": "塔尔萨之王 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1065,7 +1077,7 @@
       "vod_remarks_src": "更新至5集"
     },
     {
-      "vod_id": 10088,
+      "vod_id": 10089,
       "vod_name": "九重紫: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1077,7 +1089,7 @@
       "vod_remarks_src": "全34集"
     },
     {
-      "vod_id": 10089,
+      "vod_id": 10090,
       "vod_name": "我的荒糖恋爱",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1089,7 +1101,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10090,
+      "vod_id": 10091,
       "vod_name": "尚公主",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1101,7 +1113,7 @@
       "vod_remarks_src": "全40集"
     },
     {
-      "vod_id": 10091,
+      "vod_id": 10092,
       "vod_name": "狂飙: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1113,7 +1125,7 @@
       "vod_remarks_src": "全39集"
     },
     {
-      "vod_id": 10092,
+      "vod_id": 10093,
       "vod_name": "美国队长",
       "type_id": 10,
       "type_name": "电影",
@@ -1125,7 +1137,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10093,
+      "vod_id": 10094,
       "vod_name": "逐玉",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1137,7 +1149,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10094,
+      "vod_id": 10095,
       "vod_name": "尼古喵喵",
       "type_id": 13,
       "type_name": "动漫",
@@ -1149,7 +1161,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10095,
+      "vod_id": 10096,
       "vod_name": "被追放的转生重骑士用游戏知识开无双",
       "type_id": 13,
       "type_name": "动漫",
@@ -1161,7 +1173,7 @@
       "vod_remarks_src": "更新至18集"
     },
     {
-      "vod_id": 10096,
+      "vod_id": 10097,
       "vod_name": "致命女人 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1173,7 +1185,7 @@
       "vod_remarks_src": "全10集"
     },
     {
-      "vod_id": 10097,
+      "vod_id": 10098,
       "vod_name": "可能的爱",
       "type_id": 10,
       "type_name": "电影",
@@ -1185,7 +1197,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10098,
+      "vod_id": 10099,
       "vod_name": "闪烁的西瓜",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1197,7 +1209,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10099,
+      "vod_id": 10100,
       "vod_name": "了不起的盖茨比",
       "type_id": 10,
       "type_name": "电影",
@@ -1209,7 +1221,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10100,
+      "vod_id": 10101,
       "vod_name": "欲望都市",
       "type_id": 10,
       "type_name": "电影",
@@ -1221,7 +1233,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10101,
+      "vod_id": 10102,
       "vod_name": "极恶老大 第二季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1233,7 +1245,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10102,
+      "vod_id": 10103,
       "vod_name": "万物生灵 第七季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1245,7 +1257,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10103,
+      "vod_id": 10104,
       "vod_name": "校园接送恋曲",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1257,7 +1269,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10104,
+      "vod_id": 10105,
       "vod_name": "广告狂人 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1269,7 +1281,7 @@
       "vod_remarks_src": "全13集"
     },
     {
-      "vod_id": 10105,
+      "vod_id": 10106,
       "vod_name": "野兽之心",
       "type_id": 10,
       "type_name": "电影",
@@ -1281,7 +1293,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10106,
+      "vod_id": 10107,
       "vod_name": "八仙！",
       "type_id": 10,
       "type_name": "电影",
@@ -1293,7 +1305,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10107,
+      "vod_id": 10108,
       "vod_name": "蚁人与黄蜂女：量子狂潮",
       "type_id": 10,
       "type_name": "电影",
@@ -1305,7 +1317,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10108,
+      "vod_id": 10109,
       "vod_name": "Re：从零开始的异世界生活 第四季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1317,7 +1329,7 @@
       "vod_remarks_src": "全19集"
     },
     {
-      "vod_id": 10109,
+      "vod_id": 10110,
       "vod_name": "无间兄弟情",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1329,7 +1341,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10110,
+      "vod_id": 10111,
       "vod_name": "璀璨之城",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1341,7 +1353,7 @@
       "vod_remarks_src": "更新至18集"
     },
     {
-      "vod_id": 10111,
+      "vod_id": 10112,
       "vod_name": "人生复本 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1353,7 +1365,7 @@
       "vod_remarks_src": "更新至9集"
     },
     {
-      "vod_id": 10112,
+      "vod_id": 10113,
       "vod_name": "蝙蝠侠：黑暗骑士",
       "type_id": 10,
       "type_name": "电影",
@@ -1365,7 +1377,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10113,
+      "vod_id": 10114,
       "vod_name": "幻视任务",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1377,7 +1389,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10114,
+      "vod_id": 10115,
       "vod_name": "恋爱博士",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1389,7 +1401,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10115,
+      "vod_id": 10116,
       "vod_name": "青之箱 第二季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1401,7 +1413,7 @@
       "vod_remarks_src": "更新至6集"
     },
     {
-      "vod_id": 10116,
+      "vod_id": 10117,
       "vod_name": "敦煌英雄",
       "type_id": 10,
       "type_name": "电影",
@@ -1413,7 +1425,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10117,
+      "vod_id": 10118,
       "vod_name": "忘却之岛",
       "type_id": 10,
       "type_name": "电影",
@@ -1425,7 +1437,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10118,
+      "vod_id": 10119,
       "vod_name": "掌舵少女 第一季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1437,7 +1449,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10119,
+      "vod_id": 10120,
       "vod_name": "卿卿日常: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1449,7 +1461,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10120,
+      "vod_id": 10121,
       "vod_name": "铁拳教育",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1461,7 +1473,7 @@
       "vod_remarks_src": "全10集"
     },
     {
-      "vod_id": 10121,
+      "vod_id": 10122,
       "vod_name": "黄河大侠",
       "type_id": 10,
       "type_name": "电影",
@@ -1473,7 +1485,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10122,
+      "vod_id": 10123,
       "vod_name": "极恶非道3",
       "type_id": 10,
       "type_name": "电影",
@@ -1485,7 +1497,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10123,
+      "vod_id": 10124,
       "vod_name": "极恶非道2",
       "type_id": 10,
       "type_name": "电影",
@@ -1497,7 +1509,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10124,
+      "vod_id": 10125,
       "vod_name": "人世间: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1509,7 +1521,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10125,
+      "vod_id": 10126,
       "vod_name": "行尸走肉: 第4季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1521,7 +1533,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10126,
+      "vod_id": 10127,
       "vod_name": "小城良方",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1533,7 +1545,7 @@
       "vod_remarks_src": "全29集"
     },
     {
-      "vod_id": 10127,
+      "vod_id": 10128,
       "vod_name": "英雄联盟：双城之战: 第2季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1545,7 +1557,7 @@
       "vod_remarks_src": "更新至9集"
     },
     {
-      "vod_id": 10128,
+      "vod_id": 10129,
       "vod_name": "流人 第六季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1557,7 +1569,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10129,
+      "vod_id": 10130,
       "vod_name": "极恶非道",
       "type_id": 10,
       "type_name": "电影",
@@ -1569,7 +1581,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10130,
+      "vod_id": 10131,
       "vod_name": "终极名单 第二季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1581,7 +1593,7 @@
       "vod_remarks_src": "更新至2集"
     },
     {
-      "vod_id": 10131,
+      "vod_id": 10132,
       "vod_name": "抖擞",
       "type_id": 10,
       "type_name": "电影",
@@ -1593,7 +1605,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10132,
+      "vod_id": 10133,
       "vod_name": "请回答1988",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1605,7 +1617,7 @@
       "vod_remarks_src": "全20集"
     },
     {
-      "vod_id": 10133,
+      "vod_id": 10134,
       "vod_name": "末路兼职",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1617,7 +1629,7 @@
       "vod_remarks_src": "全8集"
     },
     {
-      "vod_id": 10134,
+      "vod_id": 10135,
       "vod_name": "爱情公寓3",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1629,7 +1641,7 @@
       "vod_remarks_src": "全24集"
     },
     {
-      "vod_id": 10135,
+      "vod_id": 10136,
       "vod_name": "怪奇物语: 第4季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1641,7 +1653,7 @@
       "vod_remarks_src": "全9集"
     },
     {
-      "vod_id": 10136,
+      "vod_id": 10137,
       "vod_name": "大明王朝1566: 第1季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1653,7 +1665,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10137,
+      "vod_id": 10138,
       "vod_name": "狂爱情挑",
       "type_id": 10,
       "type_name": "电影",
@@ -1665,7 +1677,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10138,
+      "vod_id": 10139,
       "vod_name": "死神 千年血战篇 -祸进谭",
       "type_id": 13,
       "type_name": "动漫",
@@ -1677,7 +1689,7 @@
       "vod_remarks_src": "更新至10集"
     },
     {
-      "vod_id": 10139,
+      "vod_id": 10140,
       "vod_name": "爱情公寓: 第5季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1689,7 +1701,7 @@
       "vod_remarks_src": "更新至27集"
     },
     {
-      "vod_id": 10140,
+      "vod_id": 10141,
       "vod_name": "无耻之徒(美版) 第九季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1701,7 +1713,7 @@
       "vod_remarks_src": "全14集"
     },
     {
-      "vod_id": 10141,
+      "vod_id": 10142,
       "vod_name": "风骚律师: 第6季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1713,7 +1725,7 @@
       "vod_remarks_src": "全13集"
     },
     {
-      "vod_id": 10142,
+      "vod_id": 10143,
       "vod_name": "权力的游戏 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1725,7 +1737,7 @@
       "vod_remarks_src": "全10集"
     },
     {
-      "vod_id": 10143,
+      "vod_id": 10144,
       "vod_name": "药屋少女的呢喃 第二季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1737,7 +1749,7 @@
       "vod_remarks_src": "更新至23集"
     },
     {
-      "vod_id": 10144,
+      "vod_id": 10145,
       "vod_name": "潜伏",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1749,7 +1761,7 @@
       "vod_remarks_src": "全30集"
     },
     {
-      "vod_id": 10145,
+      "vod_id": 10146,
       "vod_name": "余红旧事",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1761,7 +1773,7 @@
       "vod_remarks_src": "全34集"
     },
     {
-      "vod_id": 10146,
+      "vod_id": 10147,
       "vod_name": "美人余",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1773,7 +1785,7 @@
       "vod_remarks_src": "全28集"
     },
     {
-      "vod_id": 10147,
+      "vod_id": 10148,
       "vod_name": "交锋",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1785,7 +1797,7 @@
       "vod_remarks_src": "全40集"
     },
     {
-      "vod_id": 10148,
+      "vod_id": 10149,
       "vod_name": "无耻之徒: 第4季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1797,7 +1809,7 @@
       "vod_remarks_src": "全12集"
     },
     {
-      "vod_id": 10149,
+      "vod_id": 10150,
       "vod_name": "蒸蒸日上",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1809,7 +1821,7 @@
       "vod_remarks_src": "全22集"
     },
     {
-      "vod_id": 10150,
+      "vod_id": 10151,
       "vod_name": "无可替代",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1821,7 +1833,7 @@
       "vod_remarks_src": "全20集"
     },
     {
-      "vod_id": 10151,
+      "vod_id": 10152,
       "vod_name": "九品芝麻官",
       "type_id": 10,
       "type_name": "电影",
@@ -1833,7 +1845,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10152,
+      "vod_id": 10153,
       "vod_name": "绝命毒师: 第5季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1845,7 +1857,7 @@
       "vod_remarks_src": "全16集"
     },
     {
-      "vod_id": 10153,
+      "vod_id": 10154,
       "vod_name": "新闻编辑室 第三季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1857,7 +1869,7 @@
       "vod_remarks_src": "全6集"
     },
     {
-      "vod_id": 10154,
+      "vod_id": 10155,
       "vod_name": "我不是大师",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1869,7 +1881,7 @@
       "vod_remarks_src": "全24集"
     },
     {
-      "vod_id": 10155,
+      "vod_id": 10156,
       "vod_name": "三太太",
       "type_id": 10,
       "type_name": "电影",
@@ -1881,7 +1893,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10156,
+      "vod_id": 10157,
       "vod_name": "自由坠落",
       "type_id": 10,
       "type_name": "电影",
@@ -1893,7 +1905,7 @@
       "vod_remarks_src": ""
     },
     {
-      "vod_id": 10157,
+      "vod_id": 10158,
       "vod_name": "叶卡捷琳娜大帝 第四季",
       "type_id": 11,
       "type_name": "连续剧",
@@ -1905,7 +1917,7 @@
       "vod_remarks_src": "更新至16集"
     },
     {
-      "vod_id": 10158,
+      "vod_id": 10159,
       "vod_name": "攻壳机动队 第一季",
       "type_id": 13,
       "type_name": "动漫",
@@ -1917,7 +1929,7 @@
       "vod_remarks_src": "全26集"
     },
     {
-      "vod_id": 10159,
+      "vod_id": 10160,
       "vod_name": "犬夜叉",
       "type_id": 13,
       "type_name": "动漫",
